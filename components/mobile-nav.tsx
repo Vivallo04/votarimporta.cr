@@ -6,13 +6,12 @@ import { usePathname } from "next/navigation"
 import { cn } from "@/lib/utils"
 import { Button } from "@/components/ui/button"
 import { Sheet, SheetContent, SheetTrigger, SheetTitle } from "@/components/ui/sheet"
-import { Menu, X, Users, Swords, HelpCircle, Home } from "lucide-react"
+import { Menu, X, Users, Swords, Home } from "lucide-react"
 
 const navItems = [
   { href: "/", label: "Inicio", icon: Home },
   { href: "/candidatos", label: "Candidatos", icon: Users },
   { href: "/comparar", label: "Comparar", icon: Swords },
-  { href: "/quiz", label: "Quiz", icon: HelpCircle },
 ]
 
 export function MobileNav() {

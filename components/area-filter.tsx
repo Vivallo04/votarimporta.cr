@@ -1,0 +1,110 @@
+"use client"
+
+import type React from "react"
+
+import { useRef, useState, useEffect } from "react"
+import { cn } from "@/lib/utils"
+import { GraduationCap, Shield, TrendingUp, Leaf, Cpu, Palette, PiggyBank, Signal, Plane } from "lucide-react"
+
+const iconMap: Record<string, React.ElementType> = {
+  "graduation-cap": GraduationCap,
+  shield: Shield,
+  "trending-up": TrendingUp,
+  leaf: Leaf,
+  cpu: Cpu,
+  palette: Palette,
+  "piggy-bank": PiggyBank,
+  signal: Signal,
+  plane: Plane,
+}
+
+interface Area {
+  id: string
+  nombre: string
+  icon: string
+}
+
+interface AreaFilterProps {
+  areas: Area[]
+  selectedArea: string | null
+  onSelectArea: (areaId: string | null) => void
+}
+
+export function AreaFilter({ areas, selectedArea, onSelectArea }: AreaFilterProps) {
+  const scrollRef = useRef<HTMLDivElement>(null)
+  const [showLeftFade, setShowLeftFade] = useState(false)
+  const [showRightFade, setShowRightFade] = useState(false)
+
+  useEffect(() => {
+    const el = scrollRef.current
+    if (!el) return
+
+    const checkScroll = () => {
+      setShowLeftFade(el.scrollLeft > 0)
+      setShowRightFade(el.scrollLeft < el.scrollWidth - el.clientWidth - 1)
+    }
+
+    checkScroll()
+    el.addEventListener("scroll", checkScroll)
+    window.addEventListener("resize", checkScroll)
+
+    return () => {
+      el.removeEventListener("scroll", checkScroll)
+      window.removeEventListener("resize", checkScroll)
+    }
+  }, [])
+
+  return (
+    <div className="relative">
+      {/* Left fade indicator */}
+      {showLeftFade && (
+        <div className="pointer-events-none absolute left-0 top-0 z-10 h-full w-8 bg-gradient-to-r from-background to-transparent" />
+      )}
+
+      {/* Right fade indicator */}
+      {showRightFade && (
+        <div className="pointer-events-none absolute right-0 top-0 z-10 h-full w-8 bg-gradient-to-l from-background to-transparent" />
+      )}
+
+      <div
+        ref={scrollRef}
+        className="scrollbar-hide flex gap-2 overflow-x-auto pb-2"
+        style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
+      >
+        {/* "Todas" option first */}
+        <button
+          onClick={() => onSelectArea(null)}
+          className={cn(
+            "flex shrink-0 items-center gap-2 rounded-full border px-4 py-2 text-sm font-medium transition-all",
+            selectedArea === null
+              ? "border-foreground bg-foreground text-background"
+              : "border-border bg-card text-foreground hover:border-foreground/50",
+          )}
+        >
+          Todas
+        </button>
+
+        {areas.map((area) => {
+          const Icon = iconMap[area.icon] || GraduationCap
+          const isSelected = selectedArea === area.id
+
+          return (
+            <button
+              key={area.id}
+              onClick={() => onSelectArea(area.id)}
+              className={cn(
+                "flex shrink-0 items-center gap-2 rounded-full border px-4 py-2 text-sm font-medium transition-all",
+                isSelected
+                  ? "border-foreground bg-foreground text-background"
+                  : "border-border bg-card text-foreground hover:border-foreground/50",
+              )}
+            >
+              <Icon className="h-4 w-4" />
+              {area.nombre}
+            </button>
+          )
+        })}
+      </div>
+    </div>
+  )
+}

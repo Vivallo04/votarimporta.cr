@@ -18,12 +18,21 @@ export interface Candidato {
   partidoSiglas: string
   foto: string
   color: string
+  colores: string[]
   ocupacion: string
   ideologia: string
   posicionPolitica: string
   logros: string[]
   bio: string
   areas: AreaPropuestas[]
+  redesSociales: {
+    twitter?: string
+    instagram?: string
+    facebook?: string
+    tiktok?: string
+    youtube?: string
+    web?: string
+  }
 }
 
 export const candidatos: Candidato[] = [
@@ -34,9 +43,17 @@ export const candidatos: Candidato[] = [
     partidoSiglas: "PPN",
     foto: "/professional-latina-woman-politician-portrait.jpg",
     color: "#2563eb",
+    colores: ["#2563eb", "#1e40af"],
     ocupacion: "Economista, Ex-Ministra de Hacienda",
     ideologia: "Socialdemocracia",
     posicionPolitica: "Centro-Izquierda",
+    redesSociales: {
+      twitter: "https://twitter.com/mariafernandez",
+      instagram: "https://instagram.com/mariafernandez",
+      facebook: "https://facebook.com/mariafernandezCR",
+      tiktok: "https://tiktok.com/@mariafernandez",
+      web: "https://mariafernandez.cr",
+    },
     logros: [
       "Redujo el déficit fiscal en 2.3% durante su gestión",
       "Impulsó la Ley de Empleo Joven 2022",
@@ -60,17 +77,77 @@ export const candidatos: Candidato[] = [
             solucion: "Internet gratuito en todas las escuelas públicas",
             como: "Alianza público-privada con operadores de telecomunicaciones",
           },
+          {
+            id: "e3",
+            problema: "Docentes mal pagados y desmotivados",
+            solucion: "Aumento salarial del 25% a docentes",
+            como: "Reasignación presupuestaria y eliminación de plazas administrativas",
+          },
         ],
       },
       {
-        area: "Seguridad",
-        icon: "shield",
+        area: "Tecnología",
+        icon: "cpu",
         propuestas: [
           {
-            id: "s1",
-            problema: "Aumento del 40% en criminalidad organizada",
-            solucion: "Policía comunitaria en 200 barrios prioritarios",
-            como: "Contratación de 5,000 nuevos oficiales y capacitación especializada",
+            id: "t1",
+            problema: "Costa Rica pierde competitividad en sector tech",
+            solucion: "Hub de innovación en cada provincia",
+            como: "Inversión de $100 millones en infraestructura y capacitación",
+          },
+          {
+            id: "t2",
+            problema: "Fuga de talento tech al extranjero",
+            solucion: "Programa de retención de talento con incentivos fiscales",
+            como: "Exención de impuesto de renta por 3 años para profesionales tech",
+          },
+        ],
+      },
+      {
+        area: "Cultura",
+        icon: "palette",
+        propuestas: [
+          {
+            id: "c1",
+            problema: "Artistas locales sin apoyo institucional",
+            solucion: "Fondo Nacional de las Artes",
+            como: "1% del presupuesto nacional destinado a cultura",
+          },
+        ],
+      },
+      {
+        area: "Pensiones",
+        icon: "piggy-bank",
+        propuestas: [
+          {
+            id: "p1",
+            problema: "Sistema de pensiones insostenible",
+            solucion: "Reforma integral con cuentas individuales mixtas",
+            como: "Transición gradual de 10 años respetando derechos adquiridos",
+          },
+        ],
+      },
+      {
+        area: "Telecomunicación",
+        icon: "signal",
+        propuestas: [
+          {
+            id: "tel1",
+            problema: "Internet lento y caro en zonas rurales",
+            solucion: "5G para todo el territorio nacional",
+            como: "Licitación abierta con obligación de cobertura rural",
+          },
+        ],
+      },
+      {
+        area: "Turismo",
+        icon: "plane",
+        propuestas: [
+          {
+            id: "tu1",
+            problema: "Turismo concentrado en pocas zonas",
+            solucion: "Rutas turísticas alternativas certificadas",
+            como: "Programa de capacitación y marketing para comunidades locales",
           },
         ],
       },
@@ -83,6 +160,36 @@ export const candidatos: Candidato[] = [
             problema: "Desempleo juvenil del 25%",
             solucion: "Programa 'Mi Primer Empleo' con incentivos fiscales",
             como: "Reducción del 50% en cargas sociales para empresas que contraten jóvenes",
+          },
+          {
+            id: "ec2",
+            problema: "PYMES sin acceso a crédito",
+            solucion: "Banco de Desarrollo para PYMES",
+            como: "Capitalización de ₡100,000 millones con fondos de cooperación internacional",
+          },
+          {
+            id: "ec3",
+            problema: "Informalidad laboral del 45%",
+            solucion: "Simplificación tributaria para microempresas",
+            como: "Régimen simplificado con pago único mensual",
+          },
+        ],
+      },
+      {
+        area: "Seguridad",
+        icon: "shield",
+        propuestas: [
+          {
+            id: "s1",
+            problema: "Aumento del 40% en criminalidad organizada",
+            solucion: "Policía comunitaria en 200 barrios prioritarios",
+            como: "Contratación de 5,000 nuevos oficiales y capacitación especializada",
+          },
+          {
+            id: "s2",
+            problema: "Violencia doméstica en aumento",
+            solucion: "Red de casas de acogida en cada cantón",
+            como: "Convenios con municipalidades y ONGs especializadas",
           },
         ],
       },
@@ -107,9 +214,17 @@ export const candidatos: Candidato[] = [
     partidoSiglas: "ML",
     foto: "/professional-latino-man-politician-portrait-suit.jpg",
     color: "#dc2626",
+    colores: ["#ffffff", "#dc2626"],
     ocupacion: "Empresario, Ex-Alcalde de San José",
     ideologia: "Liberalismo económico",
     posicionPolitica: "Centro-Derecha",
+    redesSociales: {
+      twitter: "https://twitter.com/carlosramirez",
+      instagram: "https://instagram.com/carlosramirezcr",
+      facebook: "https://facebook.com/carlosramirezmora",
+      youtube: "https://youtube.com/@carlosramirez",
+      web: "https://carlosramirez.cr",
+    },
     logros: [
       "Transformó San José en ciudad inteligente",
       "Atrajo $200 millones en inversión extranjera",
@@ -127,23 +242,65 @@ export const candidatos: Candidato[] = [
             solucion: "Vouchers educativos para elegir escuelas",
             como: "Transferencia directa a familias de ₡200,000 mensuales por estudiante",
           },
+        ],
+      },
+      {
+        area: "Tecnología",
+        icon: "cpu",
+        propuestas: [
           {
-            id: "e2",
-            problema: "Falta de habilidades técnicas",
-            solucion: "Alianzas con empresas tech para bootcamps",
-            como: "Certificaciones gratuitas en programación y marketing digital",
+            id: "t1",
+            problema: "Gobierno con sistemas obsoletos",
+            solucion: "Digitalización total del Estado",
+            como: "Blockchain para trámites y contratos públicos",
           },
         ],
       },
       {
-        area: "Seguridad",
-        icon: "shield",
+        area: "Cultura",
+        icon: "palette",
         propuestas: [
           {
-            id: "s1",
-            problema: "Sistema penitenciario ineficiente",
-            solucion: "Cárceles productivas con trabajo obligatorio",
-            como: "Convenios con empresas para emplear reos y reducir reincidencia",
+            id: "c1",
+            problema: "Industria cultural poco competitiva",
+            solucion: "Incentivos fiscales para industrias creativas",
+            como: "Exención de impuestos por 5 años a startups culturales",
+          },
+        ],
+      },
+      {
+        area: "Pensiones",
+        icon: "piggy-bank",
+        propuestas: [
+          {
+            id: "p1",
+            problema: "Monopolio estatal de pensiones",
+            solucion: "Libre elección de administradora de pensiones",
+            como: "Apertura del mercado a operadores privados certificados",
+          },
+        ],
+      },
+      {
+        area: "Telecomunicación",
+        icon: "signal",
+        propuestas: [
+          {
+            id: "tel1",
+            problema: "ICE con monopolio de facto",
+            solucion: "Liberalización total del mercado de telecomunicaciones",
+            como: "Eliminación de barreras de entrada y regulación pro-competencia",
+          },
+        ],
+      },
+      {
+        area: "Turismo",
+        icon: "plane",
+        propuestas: [
+          {
+            id: "tu1",
+            problema: "Infraestructura turística deficiente",
+            solucion: "Concesiones privadas para desarrollo turístico",
+            como: "Marco legal para inversión privada en zonas protegidas",
           },
         ],
       },
@@ -157,11 +314,17 @@ export const candidatos: Candidato[] = [
             solucion: "Empresa en 24 horas con trámite 100% digital",
             como: "Plataforma única que integra todas las instituciones",
           },
+        ],
+      },
+      {
+        area: "Seguridad",
+        icon: "shield",
+        propuestas: [
           {
-            id: "ec2",
-            problema: "Impuestos altos desincentivan inversión",
-            solucion: "Reducción del impuesto de renta corporativo al 15%",
-            como: "Gradual en 4 años, compensado con ampliación de base tributaria",
+            id: "s1",
+            problema: "Sistema penitenciario ineficiente",
+            solucion: "Cárceles productivas con trabajo obligatorio",
+            como: "Convenios con empresas para emplear reos y reducir reincidencia",
           },
         ],
       },
@@ -186,9 +349,17 @@ export const candidatos: Candidato[] = [
     partidoSiglas: "CV",
     foto: "/professional-asian-latina-woman-politician-portrai.jpg",
     color: "#16a34a",
+    colores: ["#16a34a", "#facc15"],
     ocupacion: "Bióloga, Activista Ambiental",
     ideologia: "Ecologismo progresista",
     posicionPolitica: "Izquierda",
+    redesSociales: {
+      twitter: "https://twitter.com/analuciavargas",
+      instagram: "https://instagram.com/analuciavargas",
+      tiktok: "https://tiktok.com/@analuciavargas",
+      youtube: "https://youtube.com/@coalicionverde",
+      web: "https://coalicionverde.cr",
+    },
     logros: [
       "Lideró campaña que salvó 10,000 hectáreas de bosque",
       "Premio Goldman de Medio Ambiente 2023",
@@ -209,14 +380,62 @@ export const candidatos: Candidato[] = [
         ],
       },
       {
-        area: "Seguridad",
-        icon: "shield",
+        area: "Tecnología",
+        icon: "cpu",
         propuestas: [
           {
-            id: "s1",
-            problema: "Crimen ligado a desigualdad",
-            solucion: "Prevención social del delito",
-            como: "Inversión en centros comunitarios en zonas vulnerables",
+            id: "t1",
+            problema: "Tecnología con alto impacto ambiental",
+            solucion: "Incentivos para tech verde y economía circular",
+            como: "Certificación 'Tech Verde CR' con beneficios fiscales",
+          },
+        ],
+      },
+      {
+        area: "Cultura",
+        icon: "palette",
+        propuestas: [
+          {
+            id: "c1",
+            problema: "Pérdida de tradiciones indígenas",
+            solucion: "Programa de rescate y difusión de culturas ancestrales",
+            como: "Centros culturales en territorios indígenas con financiamiento estatal",
+          },
+        ],
+      },
+      {
+        area: "Pensiones",
+        icon: "piggy-bank",
+        propuestas: [
+          {
+            id: "p1",
+            problema: "Inversiones de pensiones en industrias contaminantes",
+            solucion: "Portafolio de pensiones 100% sostenible",
+            como: "Desinversión de combustibles fósiles en 5 años",
+          },
+        ],
+      },
+      {
+        area: "Telecomunicación",
+        icon: "signal",
+        propuestas: [
+          {
+            id: "tel1",
+            problema: "Torres de telecomunicaciones afectan paisaje",
+            solucion: "Infraestructura de telecomunicaciones integrada al paisaje",
+            como: "Regulación estética y uso de tecnología de bajo impacto",
+          },
+        ],
+      },
+      {
+        area: "Turismo",
+        icon: "plane",
+        propuestas: [
+          {
+            id: "tu1",
+            problema: "Turismo masivo daña ecosistemas",
+            solucion: "Modelo de turismo regenerativo",
+            como: "Límites de carga turística y certificación obligatoria",
           },
         ],
       },
@@ -233,6 +452,18 @@ export const candidatos: Candidato[] = [
         ],
       },
       {
+        area: "Seguridad",
+        icon: "shield",
+        propuestas: [
+          {
+            id: "s1",
+            problema: "Crimen ligado a desigualdad",
+            solucion: "Prevención social del delito",
+            como: "Inversión en centros comunitarios en zonas vulnerables",
+          },
+        ],
+      },
+      {
         area: "Ambiente",
         icon: "leaf",
         propuestas: [
@@ -241,12 +472,6 @@ export const candidatos: Candidato[] = [
             problema: "Crisis climática amenaza biodiversidad",
             solucion: "Costa Rica carbono negativo para 2030",
             como: "Prohibición de combustibles fósiles y transición a electromovilidad",
-          },
-          {
-            id: "a2",
-            problema: "Agricultura contamina acuíferos",
-            solucion: "100% agricultura orgánica para 2035",
-            como: "Subsidios para transición y capacitación a agricultores",
           },
         ],
       },
@@ -259,9 +484,16 @@ export const candidatos: Candidato[] = [
     partidoSiglas: "UP",
     foto: "/professional-latino-man-politician-portrait-formal.jpg",
     color: "#7c3aed",
+    colores: ["#7c3aed", "#fbbf24"],
     ocupacion: "Abogado, Ex-Diputado",
     ideologia: "Conservadurismo social",
     posicionPolitica: "Derecha",
+    redesSociales: {
+      twitter: "https://twitter.com/robertojimenez",
+      facebook: "https://facebook.com/robertojimenezup",
+      youtube: "https://youtube.com/@unionpatriotica",
+      web: "https://unionpatriotica.cr",
+    },
     logros: [
       "Autor de la Ley de Protección a la Familia",
       "15 años de experiencia legislativa",
@@ -282,20 +514,62 @@ export const candidatos: Candidato[] = [
         ],
       },
       {
-        area: "Seguridad",
-        icon: "shield",
+        area: "Tecnología",
+        icon: "cpu",
         propuestas: [
           {
-            id: "s1",
-            problema: "Impunidad del narcotráfico",
-            solucion: "Mano dura contra el crimen organizado",
-            como: "Duplicar presupuesto policial y penas más severas",
+            id: "t1",
+            problema: "Redes sociales sin control afectan menores",
+            solucion: "Regulación de contenido digital para menores",
+            como: "Ley de protección digital infantil con sanciones",
           },
+        ],
+      },
+      {
+        area: "Cultura",
+        icon: "palette",
+        propuestas: [
           {
-            id: "s2",
-            problema: "Fronteras porosas",
-            solucion: "Control migratorio estricto",
-            como: "Tecnología de vigilancia y más agentes fronterizos",
+            id: "c1",
+            problema: "Pérdida de identidad nacional",
+            solucion: "Programa de rescate de tradiciones costarricenses",
+            como: "Festivales nacionales obligatorios en calendario escolar",
+          },
+        ],
+      },
+      {
+        area: "Pensiones",
+        icon: "piggy-bank",
+        propuestas: [
+          {
+            id: "p1",
+            problema: "Pensiones de lujo para funcionarios",
+            solucion: "Tope máximo de pensiones de lujo",
+            como: "Reforma constitucional para limitar pensiones al doble del salario mínimo",
+          },
+        ],
+      },
+      {
+        area: "Telecomunicación",
+        icon: "signal",
+        propuestas: [
+          {
+            id: "tel1",
+            problema: "Contenido extranjero domina medios",
+            solucion: "Cuota de contenido nacional en medios",
+            como: "Regulación que exige 40% de contenido local",
+          },
+        ],
+      },
+      {
+        area: "Turismo",
+        icon: "plane",
+        propuestas: [
+          {
+            id: "tu1",
+            problema: "Turismo no beneficia a comunidades locales",
+            solucion: "Prioridad a empresas turísticas familiares",
+            como: "Créditos blandos y capacitación para emprendedores locales",
           },
         ],
       },
@@ -308,6 +582,18 @@ export const candidatos: Candidato[] = [
             problema: "Estado ineficiente y costoso",
             solucion: "Reducir aparato estatal en 30%",
             como: "Fusión de instituciones y eliminación de duplicidades",
+          },
+        ],
+      },
+      {
+        area: "Seguridad",
+        icon: "shield",
+        propuestas: [
+          {
+            id: "s1",
+            problema: "Impunidad del narcotráfico",
+            solucion: "Mano dura contra el crimen organizado",
+            como: "Duplicar presupuesto policial y penas más severas",
           },
         ],
       },
@@ -329,7 +615,12 @@ export const candidatos: Candidato[] = [
 
 export const areas = [
   { id: "educacion", nombre: "Educación", icon: "graduation-cap" },
-  { id: "seguridad", nombre: "Seguridad", icon: "shield" },
+  { id: "tecnologia", nombre: "Tecnología", icon: "cpu" },
+  { id: "cultura", nombre: "Cultura", icon: "palette" },
+  { id: "pensiones", nombre: "Pensiones", icon: "piggy-bank" },
+  { id: "telecomunicacion", nombre: "Telecomunicación", icon: "signal" },
+  { id: "turismo", nombre: "Turismo", icon: "plane" },
   { id: "economia", nombre: "Economía", icon: "trending-up" },
+  { id: "seguridad", nombre: "Seguridad", icon: "shield" },
   { id: "ambiente", nombre: "Ambiente", icon: "leaf" },
 ]
