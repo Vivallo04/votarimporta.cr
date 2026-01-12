@@ -2,10 +2,11 @@
 
 import type React from "react"
 
-import { useState, useRef, useEffect } from "react"
+import { useState, useRef, useEffect, useMemo } from "react"
 import { useChat } from '@ai-sdk/react'
 import { useSearchParams } from "next/navigation"
 import Image from "next/image"
+import ReactMarkdown from "react-markdown"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
@@ -15,6 +16,7 @@ import { Send, Bot, User, ChevronDown, Sparkles } from "lucide-react"
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ui/dropdown-menu"
 import { cn } from "@/lib/utils"
 import { Candidato } from "@/lib/data"
+import { DefaultChatTransport } from "ai"
 
 interface Message {
   id: string
@@ -38,8 +40,29 @@ export function ChatContent() {
   )
 
   const [input, setInput] = useState("")
-  const { messages, sendMessage } = useChat();
-  const [isLoading, setIsLoading] = useState(false)
+  
+  // Unique id per candidate to reset chat when changing candidates
+  const chatId = selectedCandidato?.id ?? 'default'
+  
+  // Recreate transport when candidate changes
+  const transport = useMemo(() => {
+    if (!selectedCandidato) return undefined
+    return new DefaultChatTransport({
+      body: { candidatoId: selectedCandidato.id },
+    })
+  }, [selectedCandidato?.id])
+
+  const { messages, sendMessage, setMessages, status } = useChat({
+    id: chatId,
+    transport,
+  })
+  
+  const isLoading = status === 'streaming' || status === 'submitted'
+  
+  // Clear messages when candidate changes
+  useEffect(() => {
+    setMessages([])
+  }, [selectedCandidato?.id, setMessages])
   const messagesEndRef = useRef<HTMLDivElement>(null)
 
   const scrollToBottom = () => {
@@ -50,47 +73,6 @@ export function ChatContent() {
     scrollToBottom()
   }, [messages])
 
-  // const generateResponse = async (question: string, candidato: Candidato): Promise<string> => {
-  //   await new Promise((resolve) => setTimeout(resolve, 1000))
-
-  //   const questionLower = question.toLowerCase()
-
-  //   let relevantArea = candidato.areas[0]
-  //   if (
-  //     questionLower.includes("educación") ||
-  //     questionLower.includes("escuela") ||
-  //     questionLower.includes("universidad")
-  //   ) {
-  //     relevantArea = candidato.areas.find((a) => a.area === "Educación") || relevantArea
-  //   } else if (
-  //     questionLower.includes("seguridad") ||
-  //     questionLower.includes("crimen") ||
-  //     questionLower.includes("policía")
-  //   ) {
-  //     relevantArea = candidato.areas.find((a) => a.area === "Seguridad") || relevantArea
-  //   } else if (
-  //     questionLower.includes("economía") ||
-  //     questionLower.includes("empleo") ||
-  //     questionLower.includes("trabajo") ||
-  //     questionLower.includes("impuesto")
-  //   ) {
-  //     relevantArea = candidato.areas.find((a) => a.area === "Economía") || relevantArea
-  //   } else if (
-  //     questionLower.includes("ambiente") ||
-  //     questionLower.includes("clima") ||
-  //     questionLower.includes("verde") ||
-  //     questionLower.includes("energía")
-  //   ) {
-  //     relevantArea = candidato.areas.find((a) => a.area === "Ambiente") || relevantArea
-  //   }
-
-  //   if (relevantArea && relevantArea.propuestas.length > 0) {
-  //     const propuesta = relevantArea.propuestas[0]
-  //     return `Sobre ${relevantArea.area}, identificamos que ${propuesta.problema}. Mi propuesta es: ${propuesta.solucion}. Para lograrlo, vamos a ${propuesta.como.toLowerCase()}.`
-  //   }
-
-  //   return `Gracias por tu pregunta. Como ${candidato.ocupacion}, mi enfoque es ${candidato.ideologia.toLowerCase()}. Te invito a revisar mi plan de gobierno completo para más detalles sobre este tema.`
-  // }
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
@@ -216,7 +198,21 @@ export function ChatContent() {
                   {message.parts.map((part, i) => {
                     switch (part.type) {
                       case "text":
-                        return <p key={`${message.id}-${i}`}>{part.text}</p>
+                        return (
+                          <div 
+                            key={`${message.id}-${i}`} 
+                            className={cn(
+                              "prose prose-sm max-w-none dark:prose-invert",
+                              "prose-p:my-2 prose-p:leading-relaxed",
+                              "prose-strong:font-bold prose-strong:text-foreground",
+                              "prose-ul:my-2 prose-ul:pl-4 prose-li:my-1",
+                              "prose-headings:font-semibold prose-headings:text-foreground",
+                              message.role === "user" && "prose-p:text-primary-foreground prose-strong:text-primary-foreground"
+                            )}
+                          >
+                            <ReactMarkdown>{part.text}</ReactMarkdown>
+                          </div>
+                        )
                       default:
                         return null
                     }
