@@ -13,51 +13,14 @@ import { areas } from "@/lib/areas"
 import type { Candidato, AreaName } from "@/lib/data"
 import {
   Swords,
-  GraduationCap,
-  Shield,
-  TrendingUp,
-  Leaf,
   ChevronDown,
   X,
-  Cpu,
-  Palette,
-  PiggyBank,
-  Wheat,
-  Signal,
-  Plane,
-  Mouse as House,
-  TrainFront,
-  HeartPulse,
-  Eye,
-  Landmark,
-  Users,
-  Vote,
   Check,
   Lightbulb,
 } from "lucide-react"
+import { iconMap, defaultIcon } from "@/lib/icons"
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ui/dropdown-menu"
 import { cn } from "@/lib/utils"
-
-const iconMap: Record<string, React.ElementType> = {
-  "graduation-cap": GraduationCap,
-  shield: Shield,
-  "trending-up": TrendingUp,
-  leaf: Leaf,
-  "tree-deciduous": Leaf,
-  cpu: Cpu,
-  palette: Palette,
-  "piggy-bank": PiggyBank,
-  wheat: Wheat,
-  signal: Signal,
-  plane: Plane,
-  house: House,
-  "train-front": TrainFront,
-  "heart-pulse": HeartPulse,
-  eye: Eye,
-  landmark: Landmark,
-  users: Users,
-  vote: Vote,
-}
 
 function CandidateSelector({
   selected,
@@ -130,7 +93,7 @@ function AreaSelector({
   onSelect: (area: AreaName) => void
 }) {
   const selectedAreaData = areas.find((a) => a.area === selectedArea)
-  const SelectedIcon = selectedAreaData ? iconMap[selectedAreaData.icon] || GraduationCap : null
+  const SelectedIcon = selectedAreaData ? iconMap[selectedAreaData.icon] || defaultIcon : null
 
   return (
     <div className="space-y-3">
@@ -153,11 +116,11 @@ function AreaSelector({
             </Button>
           </DropdownMenuTrigger>
           <DropdownMenuContent className="w-[calc(100vw-2rem)] max-h-64 overflow-y-auto">
-            {areas.map((area) => {
-              const Icon = iconMap[area.icon] || GraduationCap
-              const isSelected = selectedArea === area.area
-              return (
-                <DropdownMenuItem
+          {areas.map((area) => {
+            const Icon = iconMap[area.icon] || defaultIcon
+            const isSelected = selectedArea === area.area
+            return (
+              <DropdownMenuItem
                   key={area.area}
                   onClick={() => onSelect(area.area)}
                   className="flex items-center gap-3 p-3"
@@ -176,7 +139,7 @@ function AreaSelector({
       <div className="hidden md:block">
         <div className="flex flex-wrap justify-center gap-2">
           {areas.map((area) => {
-            const Icon = iconMap[area.icon] || GraduationCap
+            const Icon = iconMap[area.icon] || defaultIcon
             const isSelected = selectedArea === area.area
             return (
               <Button

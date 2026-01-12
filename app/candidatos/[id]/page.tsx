@@ -14,10 +14,6 @@ import { candidatos } from "@/data/candidatos"
 import { areas } from "@/lib/areas"
 import {
   ArrowLeft,
-  GraduationCap,
-  Shield,
-  TrendingUp,
-  Leaf,
   Briefcase,
   MessageCircle,
   Twitter,
@@ -25,23 +21,11 @@ import {
   Facebook,
   Youtube,
   Globe,
-  Cpu,
-  Palette,
-  PiggyBank,
-  Signal,
-  Plane,
   Trophy,
   FileText,
   Scale,
-  Wheat,
-  Mouse as House,
-  TrainFront,
-  HeartPulse,
-  Eye,
-  Landmark,
-  Users,
-  Vote,
 } from "lucide-react"
+import { iconMap, defaultIcon } from "@/lib/icons"
 
 function TikTokIcon({ className }: { className?: string }) {
   return (
@@ -62,27 +46,6 @@ function isLightColor(color: string): boolean {
   }
   if (color.toLowerCase() === "white" || color === "#ffffff") return true
   return false
-}
-
-const iconMap: Record<string, React.ElementType> = {
-  "graduation-cap": GraduationCap,
-  shield: Shield,
-  "trending-up": TrendingUp,
-  leaf: Leaf,
-  "tree-deciduous": Leaf,
-  cpu: Cpu,
-  palette: Palette,
-  "piggy-bank": PiggyBank,
-  wheat: Wheat,
-  signal: Signal,
-  plane: Plane,
-  house: House,
-  "train-front": TrainFront,
-  "heart-pulse": HeartPulse,
-  eye: Eye,
-  landmark: Landmark,
-  users: Users,
-  vote: Vote,
 }
 
 const socialLinks = [
@@ -195,7 +158,7 @@ export default function CandidatoDetailPage() {
                 </Badge>
                 <h1 className="mb-2 text-3xl font-bold md:text-4xl">{candidato.nombre}</h1>
                 <div className="mb-4 flex flex-wrap gap-2">
-                  <Badge variant="secondary">{candidato.posicionPolitica}</Badge>
+                  {/* <Badge variant="secondary">{candidato.posicionPolitica}</Badge> */}
                   <Badge variant="outline">{candidato.ideologia}</Badge>
                 </div>
                 <div className="mb-4 flex items-center gap-2 text-muted-foreground">
@@ -243,7 +206,7 @@ export default function CandidatoDetailPage() {
             {selectedArea === null ? (
               <div className="space-y-4">
                 {areas.map((area) => {
-                  const Icon = iconMap[area.icon] || GraduationCap
+                  const Icon = iconMap[area.icon] || defaultIcon
                   const areaData = candidato.propuestas.find((propuesta) => propuesta.area === area.area)
                   const isExpanded = expandedAreas.has(area.area)
                   const hasProposals = areaData && areaData.propuestas.length > 0
@@ -326,7 +289,7 @@ export default function CandidatoDetailPage() {
             ) : (
               <div className="space-y-6">
                 {filteredAreas.map((area) => {
-                  const Icon = iconMap[area.area] || GraduationCap
+                  const Icon = iconMap[area.area] || defaultIcon
                   return (
                     <div key={area.area}>
                       <div className="mb-3 flex items-center gap-2">

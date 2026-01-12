@@ -283,30 +283,39 @@ export default function QuizPage() {
             <h3 className="mb-4 text-center font-semibold">Mientras tanto, podés hacer estos quices:</h3>
             <div className="flex flex-col gap-3">
               <a
-                href="https://www.isidewith.com/es-cr/political-quiz"
+                href="https://www.nacion.com/gnfactory/elecciones-2026/candidatos-presidente-costa-rica.html"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-between rounded-lg border border-border bg-background p-4 transition-colors hover:bg-muted/50"
               >
-                <span className="font-medium">iSideWith - Quiz Político</span>
+                <span className="font-medium">La Nación - Candidatos a la Presidencia 2026</span>
                 <ExternalLink className="h-4 w-4 text-muted-foreground" />
               </a>
               <a
-                href="https://www.politicalcompass.org/test/es"
+                href="https://votico.app/Ai/PlanChat"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-between rounded-lg border border-border bg-background p-4 transition-colors hover:bg-muted/50"
               >
-                <span className="font-medium">The Political Compass</span>
+                <span className="font-medium">VoTico - Chateá con candidatos con IA</span>
                 <ExternalLink className="h-4 w-4 text-muted-foreground" />
               </a>
               <a
-                href="https://8values.github.io/"
+                href="https://votometro.votemoscr.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-between rounded-lg border border-border bg-background p-4 transition-colors hover:bg-muted/50"
               >
-                <span className="font-medium">8values</span>
+                <span className="font-medium">Votómetro 2026 - VotemosCR</span>
+                <ExternalLink className="h-4 w-4 text-muted-foreground" />
+              </a>
+              <a
+                href="https://www.nacion.com/politica/elecciones-2026-este-quiz-gratuito-revela-que/GL75RZZWERHVHNH6MMGEUCVNPM/story/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center justify-between rounded-lg border border-border bg-background p-4 transition-colors hover:bg-muted/50"
+              >
+                <span className="font-medium">La Nación - Quiz de Candidatos Presidenciales</span>
                 <ExternalLink className="h-4 w-4 text-muted-foreground" />
               </a>
             </div>
