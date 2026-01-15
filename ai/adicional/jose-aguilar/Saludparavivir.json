@@ -1,0 +1,53 @@
+{
+  "eje": "Salud para vivir",
+  "enfoque": "Componente esencial de la 'turbina social' para garantizar solidaridad y equidad, abordando la crisis de sostenibilidad, listas de espera y gestión ineficiente del sistema de salud costarricense.",
+  "propuestas": [
+    {
+      "componente": "Atención de la Emergencia en Listas de Espera",
+      "problema": "Listas de espera prolongadas (promedio de 14 meses) que afectan a más de 190,000 pacientes, generando una crisis humanitaria en el acceso a servicios de salud.",
+      "solucion": "Declaratoria de Emergencia Nacional y optimización de recursos para reducir significativamente los tiempos de espera en un plazo de dos años.",
+      "implementacion": [
+        "Declaratoria de Emergencia Nacional: Establecer como objetivo reducir las listas de espera a la mitad en dos años.",
+        "Optimización de Recursos: Contratar especialistas jubilados, habilitar jornadas vespertinas y de fines de semana, e implementar un sistema digital unificado para gestionar citas y cirugías.",
+        "Complemento Privado: Compra transparente de servicios a clínicas privadas cuando la CCSS no tenga capacidad inmediata, priorizando la atención al ciudadano."
+      ]
+    },
+    {
+      "componente": "Modernización y Gestión Digital de la CCSS",
+      "problema": "Gasto en salud alto (7% del PIB) con problemas de corrupción, burocracia excesiva e ineficiencia administrativa que comprometen la sostenibilidad del sistema.",
+      "solucion": "Digitalización integral y gestión por resultados para mejorar la eficiencia, transparencia y calidad del gasto en salud.",
+      "implementacion": [
+        "Digitalización Total: Implementar al 100% el expediente clínico digital, la receta electrónica y la teleconsulta para agilizar procesos.",
+        "Gestión por Resultados: Introducir incentivos vinculados al cumplimiento de metas y modernizar la logística de medicamentos con control tecnológico de inventarios para evitar desabastecimiento.",
+        "Turismo Médico: Diversificar ingresos de la CCSS promoviendo a Costa Rica como destino de turismo médico internacional."
+      ]
+    },
+    {
+      "componente": "Fortalecimiento del Talento Humano y los EBAIS",
+      "problema": "Fuga de especialistas y mala distribución territorial del personal de salud, junto con una cobertura insuficiente del primer nivel de atención (EBAIS) en zonas rurales y de rápido crecimiento urbano.",
+      "solucion": "Incentivos para retener y distribuir equitativamente al personal de salud, y expansión de la red de EBAIS para fortalecer la atención primaria.",
+      "implementacion": [
+        "Incentivos Regionales: Crear pluses salariales por zonas de difícil acceso, facilidades de vivienda y becas-contrato que vinculen la formación de especialistas con el servicio en la red pública fuera del GAM.",
+        "Expansión de EBAIS: Fortalecer el primer nivel de atención aumentando el número de EBAIS en zonas rurales y urbanas, utilizando alianzas público-privadas donde sea conveniente para mejorar la calidad del servicio."
+      ]
+    },
+    {
+      "componente": "Salud Preventiva y Salud Mental",
+      "problema": "Aumento de enfermedades crónicas y trastornos mentales post-pandemia, con un enfoque insuficiente en la prevención y la atención temprana.",
+      "solucion": "Girar hacia un modelo de salud preventivo e integral, con énfasis en la salud mental comunitaria y la detección temprana.",
+      "implementacion": [
+        "Red Comunitaria de Salud Mental: Integrar psicólogos y trabajadores sociales en los EBAIS y conectar esta red con centros educativos para detectar problemas como bullying o adicciones de forma temprana.",
+        "Cultura de Prevención: Impulsar campañas permanentes de nutrición y ejercicio, además de ampliar los tamizajes preventivos de cáncer y chequeos anuales para mayores de 40 años."
+      ]
+    },
+    {
+      "componente": "Sostenibilidad Financiera y de Pensiones",
+      "problema": "Riesgo en la sostenibilidad financiera del sistema de salud y de pensiones, con una base de cotizantes limitada y desafíos en el modelo de pensiones.",
+      "solucion": "Implementar reformas responsables para asegurar la sostenibilidad a largo plazo del sistema de salud y de pensiones.",
+      "implementacion": [
+        "Reforma del IVM: Migrar hacia un modelo de tres pilares que fortalezca la capitalización individual y mejore los rendimientos de los fondos mediante estrategias mixtas con el sector privado.",
+        "Ampliación de la Base de Cotizantes: Fomentar la formalización laboral mediante esquemas de cotización flexibles para trabajadores independientes y temporales, eliminando trabas como la Base Mínima Contributiva."
+      ]
+    }
+  ]
+}

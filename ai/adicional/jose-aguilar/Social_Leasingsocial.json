@@ -1,0 +1,35 @@
+{
+  "eje": "Desarrollo Social y Vivienda",
+  "area_especifica": "Leasing Social",
+  "enfoque": "Herramienta innovadora para modernizar la política habitacional, ofreciendo soluciones de techo digno que trascienden el asistencialismo tradicional, integrada estratégicamente en la reducción de la pobreza y el desarrollo económico.",
+  "propuestas": [
+    {
+      "componente": "Instrumento Clave para 'Pobreza Extrema Cero'",
+      "problema": "Familias en condiciones de alta vulnerabilidad, especialmente en tugurios, no tienen acceso a soluciones habitacionales adecuadas y sostenibles que les permitan superar la pobreza extrema.",
+      "solucion": "Utilizar el leasing social como un mecanismo prioritario para ofrecer vivienda digna mediante arrendamiento con opción de compra, vinculado a un acompañamiento socioeconómico integral.",
+      "implementacion": [
+        "Prioridad en zonas críticas: Enfocar la herramienta en la intervención y erradicación de tugurios, adaptando los esquemas de arrendamiento con opción de compra a la realidad económica de las familias.",
+        "Acompañamiento Social Integral: Vincular el acceso a la vivienda con transferencias condicionadas, capacitación laboral y educación, asegurando que el empleo sea la salida definitiva de la pobreza."
+      ]
+    },
+    {
+      "componente": "Integración en una Gobernanza Basada en Datos",
+      "problema": "Fragmentación institucional y falta de criterios objetivos en la asignación de recursos habitacionales, lo que genera ineficiencia y posible inequidad.",
+      "solucion": "Incorporar el leasing social a un modelo de gobernanza unificado y tecnológico que asegure transparencia y eficiencia en la asignación.",
+      "implementacion": [
+        "Uso de Tecnología y Datos: Basar la asignación en datos robustos de las plataformas SINIRUBE y SABER, utilizando el Índice de Pobreza Multidimensional (IPM) para identificar beneficiarios.",
+        "Gestión Eficiente bajo un IMAS Fortalecido: Designar a un IMAS fortalecido como centro de mando para coordinar las alianzas público-privadas necesarias para desarrollar los proyectos de leasing social."
+      ]
+    },
+    {
+      "componente": "El Contexto Amplio: Vivienda como Motor de Desarrollo",
+      "problema": "Subestimación del potencial de la inversión en vivienda social como dinamizador económico y generador de estabilidad social.",
+      "solucion": "Posicionar el leasing social como parte de una visión integral donde la vivienda actúa como un poderoso motor de desarrollo económico y cohesión social.",
+      "implementacion": [
+        "Activación como Motor Económico (Win-Win): Aprovechar que cada proyecto de leasing social genera encadenamientos productivos con más de 50 sectores (construcción, servicios, etc.).",
+        "Generación de Empleo: Crear miles de empleos directos e indirectos a través de estos proyectos, fortaleciendo la economía formal y la recaudación fiscal.",
+        "Fomento de la Estabilidad Social: Contribuir a la paz y estabilidad del país al fortalecer el tejido urbano y comunitario mediante el acceso a un hábitat digno."
+      ]
+    }
+  ]
+}

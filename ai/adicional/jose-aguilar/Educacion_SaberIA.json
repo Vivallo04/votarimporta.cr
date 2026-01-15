@@ -1,0 +1,46 @@
+{
+  "eje": "Educación con propósito",
+  "area_especifica": "Plataforma SABER e Inteligencia Artificial (IA)",
+  "enfoque": "Motores tecnológicos para transformar la gestión del sistema educativo y preparar a las nuevas generaciones para una economía globalizada y tecnificada, con un enfoque ético y de desarrollo humano.",
+  "propuestas": [
+    {
+      "componente": "Plataforma SABER: Gestión Basada en Evidencia",
+      "problema": "Necesidad de una gestión educativa moderna, ágil, transparente y basada en datos reales, que supere la improvisación y la politiquería.",
+      "solucion": "Implementar una plataforma centralizada que utilice IA para el monitoreo integral y la toma de decisiones en tiempo real en todo el sistema educativo.",
+      "implementacion": [
+        "Monitoreo en Tiempo Real: Usar IA para supervisar variables académicas, logísticas, socioeconómicas e infraestructurales de más de 5,000 centros educativos y 100,000 funcionarios.",
+        "Toma de Decisiones Ágil: Permitir intervenciones correctivas oportunas basadas en datos, eliminando la improvisación.",
+        "Articulación Social: Integrar datos de SABER con el sistema SINIRUBE para focalizar apoyos sociales y transferencias condicionadas, vinculando asistencia con permanencia escolar."
+      ]
+    },
+    {
+      "componente": "IA como Eje Pedagógico y Curricular",
+      "problema": "La IA es percibida como una amenaza laboral y no está integrada de forma significativa y ética en el proceso de enseñanza-aprendizaje.",
+      "solucion": "Transformar la IA en una oportunidad de productividad y desarrollo de habilidades, integrándola de manera nativa y crítica desde las primeras etapas educativas.",
+      "implementacion": [
+        "Integración desde la Primera Infancia: Formar la primera generación de niños que integren la IA de manera natural, con enfoque en pensamiento crítico, lógica y ética.",
+        "Currículo Nacional K-12: Implementar un currículo desde preescolar hasta secundaria que incluya ciencia de datos, pensamiento digital y ética de la IA.",
+        "Fortalecimiento Docente: Usar la IA como herramienta de retroalimentación para profesores, permitiendo mejorar su práctica pedagógica mediante el análisis de datos didácticos."
+      ]
+    },
+    {
+      "componente": "IA for Good': Ética y Gobernanza",
+      "problema": "Riesgos asociados al despliegue de IA sin regulación, como sesgos, desinformación, deepfakes y falta de transparencia.",
+      "solucion": "Asegurar un desarrollo y uso responsable, ético y centrado en el ser humano de la Inteligencia Artificial.",
+      "implementacion": [
+        "Ley de Inteligencia Artificial: Impulsar una legislación basada en riesgos para mitigar efectos negativos (sesgos, desinformación, deepfakes).",
+        "Sello 'IA para el Bien Común': Crear un distintivo para sistemas alineados con principios éticos, inclusión y sostenibilidad.",
+        "Transparencia: Exigir evaluaciones de impacto y transparencia total para todas las aplicaciones de IA de alto riesgo utilizadas por el Estado."
+      ]
+    },
+    {
+      "componente": "Reconversión Laboral (Reskilling) con IA",
+      "problema": "Necesidad de adaptar las competencias de la fuerza laboral adulta a la economía digital para evitar el desempleo tecnológico.",
+      "solucion": "Utilizar la IA como herramienta clave para la capacitación masiva y la actualización de habilidades de la población activa.",
+      "implementacion": [
+        "Meta de Capacitación: Reconversión de 250,000 personas en áreas de IA, datos y ciberseguridad mediante alianzas entre el INA y el sector privado.",
+        "Potenciación de la Educación Dual: Usar herramientas digitales y de IA para que los programas de estudio de la formación técnica se ajusten rápidamente a la demanda de las industrias modernas."
+      ]
+    }
+  ]
+}

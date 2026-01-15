@@ -1,0 +1,55 @@
+{
+  "eje": "Salud para vivir",
+  "area_especifica": "Fortalecimiento de la CCSS",
+  "enfoque": "Núcleo operativo del eje 'Salud para Vivir Mejor', orientado a transformar la gestión administrativa ineficiente, resolver la crisis de listas de espera y asegurar la sostenibilidad y calidad del sistema de salud solidario.",
+  "propuestas": [
+    {
+      "componente": "Atención Inmediata a la Crisis de Listas de Espera",
+      "problema": "Listas de espera con un promedio de 14 meses, consideradas una emergencia nacional que pone en riesgo la vida de los pacientes por falta de atención oportuna.",
+      "solucion": "Implementar medidas extraordinarias y complementarias para reducir drásticamente los tiempos de espera, optimizando la capacidad interna y utilizando recursos externos de forma transparente.",
+      "implementacion": [
+        "Capacidad Extraordinaria: Apertura de quirófanos en jornadas vespertinas y fines de semana, contratación de especialistas jubilados y pago de horas extra.",
+        "Complemento Privado Transparente: Compra de servicios a clínicas privadas bajo tarifas reguladas cuando la CCSS no tenga capacidad inmediata, sin afectar la esencia solidaria del seguro.",
+        "Gestión Digital Unificada: Implementar un sistema centralizado de citas y cirugías para optimizar el uso de quirófanos y eliminar tiempos muertos."
+      ]
+    },
+    {
+      "componente": "Modernización Administrativa y Gestión por Resultados",
+      "problema": "Cultura interna ineficiente, falta de transparencia, problemas de corrupción en compras y desabastecimiento de medicamentos.",
+      "solucion": "Transformar la gestión de la CCSS hacia la digitalización total, la transparencia y una cultura de resultados.",
+      "implementacion": [
+        "Digitalización al 100%: Completar el despliegue del expediente clínico digital, la receta electrónica y la teleconsulta en toda la red nacional.",
+        "Control de Corrupción y Logística: Modernizar las compras de medicamentos con control tecnológico de inventarios y licitaciones transparentes para evitar desabastecimiento y sobreprecios.",
+        "Gestión por Desempeño: Introducir incentivos para el personal vinculados al cumplimiento de metas de atención y calidad."
+      ]
+    },
+    {
+      "componente": "Fortalecimiento del Talento Humano y los EBAIS",
+      "problema": "Desigual distribución de especialistas (concentrados en el GAM) y cobertura insuficiente del primer nivel de atención (EBAIS).",
+      "solucion": "Corregir la distribución del personal y expandir la red de EBAIS mediante incentivos territoriales y alianzas estratégicas.",
+      "implementacion": [
+        "Talento Territorializado: Crear becas-contrato e incentivos monetarios (pluses por zona de difícil acceso y facilidades de vivienda) para atraer médicos a hospitales fuera del GAM.",
+        "Expansión de EBAIS: Aumentar la cantidad de EBAIS mediante APP para la gestión no clínica (limpieza, alimentación, mantenimiento), permitiendo al personal médico enfocarse en la atención."
+      ]
+    },
+    {
+      "componente": "Sostenibilidad Financiera y Estructural",
+      "problema": "Retos demográficos (envejecimiento) y estructurales que amenazan la sostenibilidad financiera de la CCSS y su régimen de pensiones (IVM).",
+      "solucion": "Implementar reformas de fondo para ampliar la base de cotizantes, separar administrativamente las funciones y modernizar el sistema de pensiones.",
+      "implementacion": [
+        "Ampliación de la Base de Cotizantes: Facilitar la formalización de trabajadores independientes y temporales eliminando barreras como la 'Base Mínima Contributiva'.",
+        "Reforma de Pensiones (IVM): Migrar a un modelo de tres pilares que fortalezca la capitalización individual y mejore el rendimiento de los fondos con estrategias mixtas público-privadas.",
+        "Separación Institucional: Separar administrativamente el régimen de pensiones (IVM) de la asistencia médica para mejorar la claridad de cuentas y la eficiencia de cada área."
+      ]
+    },
+    {
+      "componente": "Innovación y Salud Preventiva",
+      "problema": "Enfoque predominantemente curativo y falta de integración de tecnología de punta y prevención en el modelo de atención.",
+      "solucion": "Incorporar innovación tecnológica y un giro hacia la salud preventiva para mejorar resultados y eficiencia.",
+      "implementacion": [
+        "IA y Robótica: Invertir en tecnología de punta para imagenología y cirugía robótica, financiada mediante esquemas plurianuales.",
+        "Salud Mental Integrada: Crear una red comunitaria de psicólogos y trabajadores sociales conectada a EBAIS y centros educativos para la detección temprana de problemas."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "resumen_transporte_publico_frente_amplio": {
+    "eje": "Infraestructura y Ambiente",
+    "area": "Transporte Público",
+    "contenido": {
+      "problema": {
+        "descripcion_general": "Costa Rica enfrenta una crisis de movilidad severa, caracterizada por una congestión vial extrema, un sistema de transporte público ineficiente y una alta dependencia del vehículo privado que alimenta el consumo de combustibles fósiles. Esto genera pérdidas económicas, contaminación, desigualdad social y vulnerabilidad ante el cambio climático.",
+        "problemas_especificos": [
+          "Congestión vial crítica: La congestión aumentó un 31% desde 2019, saturando el 46% de la red vial en horas pico.",
+          "Dependencia del petróleo: El transporte terrestre es el principal responsable de que el 78% de toda la energía consumida en el país dependa de derivados del petróleo.",
+          "Transporte público deficiente: Servicio lento, impuntual, incómodo y desconectado, que incentiva el uso del carro. No hay una red integrada y eficiente.",
+          "Desigualdad en la movilidad: Las mujeres dependen más del transporte público y se han visto más afectadas por los recortes de servicio. Los estudiantes de bajos recursos enfrentan barreras de acceso.",
+          "Falta de infraestructura para movilidad activa: Carencia de ciclovías seguras y conexiones peatonales, lo que desincentiva caminar o usar bicicleta.",
+          "Infraestructura no resiliente: Las carreteras y obras de transporte no están diseñadas para resistir los impactos del cambio climático (inundaciones, deslizamientos).",
+          "Gestión fragmentada: El MOPT y sus consejos (CONAVI, CNC) tienen una planificación descoordinada que prioriza concesiones privadas sobre el sistema público integrado."
+        ]
+      },
+      "propuesta": {
+        "enfoque_principal": "Realizar un cambio modal radical: pasar de un sistema centrado en el automóvil privado a uno basado en el transporte público masivo, eléctrico y eficiente, integrado con la movilidad activa (caminar y bicicleta). El transporte se concibe como un derecho y como la columna vertebral de la descarbonización y la justicia social.",
+        "cambios_clave": [
+          "Priorizar la inversión en transporte público masivo (tren, buses) sobre la expansión de carreteras para vehículos privados.",
+          "Integrar física y tarifariamente todos los modos de transporte (tren, bus, bicicleta, peatón).",
+          "Electrificar y descarbonizar completamente el sistema de transporte.",
+          "Diseñar la ciudad para las personas, no para los carros, con infraestructura segura para peatones y ciclistas.",
+          "Incorporar enfoques de género, justicia social y resiliencia climática en la planificación."
+        ]
+      },
+      "solucion": {
+        "medidas_estructurales": [
+          {
+            "nombre": "Modernización del Transporte Masivo y Eficiencia",
+            "acciones": [
+              "Ejecutar el Tren Eléctrico de la GAM con frecuencias máximas de 15 minutos y accesibilidad universal.",
+              "Desarrollar planes para trenes de carga hacia las costas Caribe y Pacífico.",
+              "Completar la sectorización de rutas de buses y crear una red de carriles exclusivos con barreras físicas y monitoreo automatizado para garantizar puntualidad.",
+              "Modernizar la flota de buses hacia vehículos más eficientes y menos contaminantes."
+            ]
+          },
+          {
+            "nombre": "Infraestructura Integrada y Movilidad Activa",
+            "acciones": [
+              "Construir una Red Nacional de Ciclovías, especialmente paralela a la vía del tren, con conexiones a barrios y parqueos seguros en estaciones.",
+              "Implementar el concepto de 'Calle Completa' que priorice a peatones, ciclistas y transporte público en el diseño urbano.",
+              "Promover el Desarrollo Urbano Orientado al Transporte (DUOT): incentivar vivienda y comercio cerca de estaciones para reducir la necesidad de viajes largos."
+            ]
+          },
+          {
+            "nombre": "Sostenibilidad Energética y Descarbonización",
+            "acciones": [
+              "Transformar RECOPE en una empresa de energías químicas limpias, enfocada en hidrógeno verde y biocombustibles para el transporte.",
+              "Establecer prohibiciones progresivas: a la importación de vehículos usados de combustión desde 2026, y de vehículos nuevos de petróleo para 2045.",
+              "Crear mecanismos de 'Financiamiento Verde' (bonos verdes, canon ambiental a combustibles) para subsidiar tarifas accesibles del transporte público."
+            ]
+          },
+          {
+            "nombre": "Justicia Social y Género en la Movilidad",
+            "acciones": [
+              "Incorporar una perspectiva de género en el diseño y operación del sistema, garantizando seguridad, frecuencia y cobertura que atienda las necesidades específicas de las mujeres.",
+              "Implementar un 'Boleto Estudiantil' gratuito y universal para estudiantes de preescolar, primaria y secundaria en condición de vulnerabilidad, extendiendo el beneficio a población universitaria."
+            ]
+          },
+          {
+            "nombre": "Gestión del Riesgo e Infraestructura Resiliente",
+            "acciones": [
+              "Rediseñar la infraestructura vial y portuaria para que sea resiliente a inundaciones, deslizamientos y otros efectos del cambio climático, siguiendo recomendaciones técnicas (LANAMME).",
+              "Reformar la institucionalidad: recuperar la capacidad constructiva del MOPT, eliminando juntas directivas fragmentadas (CONAVI, Consejo de Concesiones) para centralizar una planificación estratégica y pública."
+            ]
+          }
+        ]
+      },
+      "ejecucion": {
+        "pasos_concretos": [
+          "Iniciar la construcción del Tren Eléctrico de la GAM y definir el plan de financiamiento.",
+          "Lanzar proyectos piloto de carriles exclusivos para buses con barreras físicas en corredores críticos.",
+          "Elaborar y poner en marcha el Plan Nacional de Ciclovías, comenzando por los ejes conectados al tren.",
+          "Presentar y aprobar en la Asamblea Legislativa las leyes para: la transformación de RECOPE, las prohibiciones a vehículos de combustión, y la creación del Boleto Estudiantil universal.",
+          "Emitir decretos para reformar el MOPT y eliminar las juntas directivas del CONAVI y del Consejo Nacional de Concesiones.",
+          "Diseñar e implementar el sistema de financiamiento verde (bonos, canon) para subsidios al transporte público.",
+          "Integrar criterios de resiliencia climática obligatorios en todos los nuevos proyectos de infraestructura de transporte."
+        ]
+      },
+      "integracion_con_ejes_anteriores": {
+        "explicacion": "El área de Transporte Público es estratégica y transversal. Es clave para la 'Descarbonización' y la 'Justicia Climática' del eje ambiental. El 'Desarrollo Urbano Orientado al Transporte (DUOT)' es el vínculo directo con la 'Vivienda y Territorio' para construir ciudades compactas. La 'transformación de RECOPE' y los 'empleos verdes' en movilidad eléctrica impulsan la 'Transformación Productiva'. El 'Boleto Estudiantil' y la 'movilidad con género' son políticas de 'Equidad Social' y 'Combate a la Pobreza'. Un sistema de transporte público eficiente es, por tanto, la infraestructura habilitante para lograr los objetivos sociales, económicos y ambientales del plan de gobierno."
+      }
+    }
+  }
+}

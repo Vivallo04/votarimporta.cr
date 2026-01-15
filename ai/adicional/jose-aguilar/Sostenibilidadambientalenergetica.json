@@ -1,0 +1,65 @@
+{
+  "eje": "Sostenibilidad ambiental y energía",
+  "area_especifica": "Política integral de sostenibilidad",
+  "enfoque": "Eje transversal de toda la política pública, transformado de obstáculo a ventaja competitiva para impulsar empleos verdes, innovación y competitividad industrial dentro de la 'turbina económica'.",
+  "propuestas": [
+    {
+      "componente": "Transición Energética: 'Energía Renovable 2.0'",
+      "problema": "La matriz energética total sigue siendo 'sucia', con un 67% de dependencia de combustibles fósiles (principalmente transporte), a pesar de la alta generación eléctrica renovable.",
+      "solucion": "Diversificar las fuentes de energía más allá de la hidroelectricidad, abrir el mercado para bajar costos e integrar instituciones para una política energética unificada.",
+      "implementacion": [
+        "Diversificación de Fuentes: Impulsar eólica marina, hidrógeno verde, energía solar y bioenergía a partir de residuos.",
+        "Eficiencia y Competencia: Abrir el mercado eléctrico para eliminar la discrecionalidad del ICE en la compra de energía, bajando tarifas y mejorando la competitividad industrial.",
+        "Integración Institucional: Avanzar hacia una integración estratégica del ICE y RECOPE."
+      ]
+    },
+    {
+      "componente": "Descarbonización y Movilidad Sostenible",
+      "problema": "Alta dependencia de combustibles fósiles en el transporte, obstaculizando el avance hacia la descarbonización total.",
+      "solucion": "Acelerar la electrificación masiva del transporte y promover la movilidad alternativa limpia.",
+      "implementacion": [
+        "Transporte Limpio: Incentivos para la transición a buses, taxis, transporte de carga y flotillas públicas eléctricas o a gas para 2030.",
+        "Infraestructura de Carga: Crear una red nacional de carga y ofrecer créditos para vehículos eléctricos.",
+        "Movilidad Alternativa: Promover micromovilidad segura (bicicletas, scooters) y proyectos ferroviarios eléctricos."
+      ]
+    },
+    {
+      "componente": "Conservación de Biodiversidad y el Compromiso 30x30",
+      "problema": "Presiones como la tala y minería ilegal que amenazan la biodiversidad, y necesidad de financiamiento para la conservación.",
+      "solucion": "Liderar la meta global de proteger el 30% de tierras y mares para 2030, fortaleciendo la gestión y atrayendo financiamiento internacional.",
+      "implementacion": [
+        "Fortalecimiento del SINAC: Dotar de más tecnología y guardaparques para combatir delitos ambientales.",
+        "Diplomacia Ambiental: Utilizar el prestigio verde para movilizar canjes de deuda por naturaleza, bonos azules y financiamiento climático.",
+        "Protección de Océanos: Vincular el control marítimo con la seguridad nacional para cortar rutas del narcotráfico."
+      ]
+    },
+    {
+      "componente": "Gestión del Agua y Saneamiento",
+      "problema": "Vulnerabilidad hídrica y contaminación de fuentes por falta de infraestructura y manejo integral.",
+      "solucion": "Garantizar la seguridad hídrica mediante infraestructura crítica, una autoridad unificada y la ampliación del saneamiento.",
+      "implementacion": [
+        "Nuevas Fuentes: Construcción de embalses y acueductos estratégicos (Orosi II, Agua para Guanacaste).",
+        "Autoridad Hídrica: Crear una entidad interinstitucional para el manejo integral de cuencas y prohibir urbanizar en zonas de recarga.",
+        "Ampliación del Saneamiento: Ampliar plantas de tratamiento en zonas costeras y la GAM para frenar la contaminación de ríos."
+      ]
+    },
+    {
+      "componente": "Economía Circular: Del Desecho al Recurso",
+      "problema": "Modelo lineal de 'usar y desechar' con baja tasa de reciclaje.",
+      "solucion": "Transitar a una economía circular, alcanzando una tasa de reciclaje municipal del 50% para 2030.",
+      "implementacion": [
+        "Responsabilidad Extendida del Productor: Aplicar leyes que obliguen a los productores a gestionar sus residuos.",
+        "Valorización de Residuos: Instalar plantas de compostaje y apoyar con créditos e incentivos fiscales a industrias que usen materiales reciclados."
+      ]
+    },
+    {
+      "componente": "Bioeconomía y Agricultura Sostenible",
+      "problema": "Prácticas agrícolas que pueden degradar suelos y hacer un uso ineficiente de recursos.",
+      "solucion": "Promover una agricultura sostenible (Agricultura 4.0) y la bioeconomía que valore los servicios ambientales.",
+      "implementacion": [
+        "Agricultura 4.0: Utilizar sensores y drones para optimizar el uso de agua y suelos.",
+        "Certificación y Pagos: Promover la certificación orgánica y el pago por servicios ambientales en tierras agrícolas para incentivar la regeneración de ecosistemas."
+      ]
+    }
+  ]
+}

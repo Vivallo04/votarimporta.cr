@@ -1,0 +1,50 @@
+{
+  "eje": "Salud para vivir",
+  "area_especifica": "Reducción de listas de espera",
+  "enfoque": "Prioridad más urgente dentro del eje de salud, considerada una crisis nacional que pone en riesgo la vida de los ciudadanos debido a tiempos de espera excesivos.",
+  "diagnostico": {
+    "problema": "Listas de espera críticas con un tiempo promedio de 14 meses, afectando a más de 190,000 pacientes (datos 2024).",
+    "consecuencia": "Situación que representa una crisis humanitaria y pone en riesgo la vida de los ciudadanos por falta de atención oportuna."
+  },
+  "propuestas": [
+    {
+      "componente": "Declaratoria de Emergencia y Metas de Choque",
+      "problema": "Falta de un marco de acción urgente y coordinado para atender la crisis de demoras en especialidades y cirugías.",
+      "solucion": "Establecer una Declaratoria de Emergencia Nacional que active medidas extraordinarias y fije metas ambiciosas de reducción de tiempos.",
+      "implementacion": [
+        "Declaratoria de Emergencia Nacional: Activar un estado de excepción para priorizar recursos y acciones en salud.",
+        "Meta a Corto Plazo: Reducir las listas de espera a la mitad en un plazo de dos años.",
+        "Meta a Largo Plazo: Alcanzar estándares internacionales de 3 meses de espera para el año 2030."
+      ]
+    },
+    {
+      "componente": "Optimización de la Capacidad Operativa",
+      "problema": "Subutilización de la infraestructura y recursos existentes (quirófanos, personal) que limita la capacidad de atención.",
+      "solucion": "Maximizar el uso de la capacidad instalada actual mediante extensión de horarios, refuerzo de personal y gestión digital eficiente.",
+      "implementacion": [
+        "Jornadas Extraordinarias: Mantener quirófanos abiertos en horario vespertino y fines de semana.",
+        "Refuerzo de Personal: Contratación temporal de especialistas jubilados, pago de horas extra y convenios con especialistas extranjeros.",
+        "Gestión Digital Unificada: Implementar un sistema único de citas y cirugías para optimizar recursos y eliminar tiempos muertos."
+      ]
+    },
+    {
+      "componente": "Participación Privada y Modelos Mixtos",
+      "problema": "Capacidad limitada del sistema público para atender toda la demanda en tiempo oportuno.",
+      "solucion": "Complementar la capacidad de la CCSS con una participación privada regulada y transparente, sin privatizar el sistema.",
+      "implementacion": [
+        "Compra de Servicios: Recurrir a clínicas privadas para procedimientos específicos (cataratas, ortopedia) cuando la CCSS no tenga capacidad inmediata.",
+        "Gestión No Clínica mediante APP: Impulsar alianzas público-privadas para servicios de apoyo (mantenimiento, limpieza, alimentación), permitiendo a la CCSS concentrarse en lo médico."
+      ]
+    },
+    {
+      "componente": "Contexto Amplio: Prevención e Innovación para la Sostenibilidad",
+      "problema": "Enfoque reactivo (curativo) que satura los hospitales, y falta de medidas estructurales para prevenir la formación de nuevas listas.",
+      "solucion": "Integrar la reducción de listas en una estrategia más amplia de transformación digital, prevención y sostenibilidad financiera.",
+      "implementacion": [
+        "Transformación Digital: Lograr el 100% de expedientes clínicos digitales y recetas electrónicas para mayor trazabilidad y eficiencia.",
+        "Prevención de Raíz: Fortalecer EBAIS y crear una Red Comunitaria de Salud Mental para detección temprana y evitar complicaciones que saturan hospitales.",
+        "Sostenibilidad Financiera: Reformar el IVM y ampliar la base de cotizantes para asegurar fondos suficientes para las futuras generaciones."
+      ]
+    }
+  ]
+}

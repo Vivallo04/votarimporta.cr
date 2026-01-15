@@ -1,0 +1,79 @@
+{
+  "resumen_educacion_cultura_ciencia_frente_amplio": {
+    "eje": "Educación, Cultura y Ciencia",
+    "contenido": {
+      "problema": {
+        "descripcion_general": "Estas áreas sufren de un desfinanciamiento crónico ('recortismo'), centralización geográfica y una visión fragmentada que no las potencia como motores de transformación social. Esto ha generado una crisis profunda que limita el desarrollo y perpetúa la desigualdad.",
+        "problemas_especificos": [
+          "Educación Pública: Inversión reducida del 7.4% al 4.7% del PIB, incumpliendo el mandato constitucional del 8%. Crisis de gobernanza, 'apagón educativo' (deserción), infraestructura deteriorada y precarización docente (interinazgo, salud mental).",
+          "Cultura: Centralización en la Gran Área Metropolitana (GAM), marginando las expresiones rurales, indígenas y afrodescendientes. Falta de protección laboral y seguridad social para artistas y trabajadores culturales independientes.",
+          "Ciencia y Tecnología: Inversión en Investigación y Desarrollo (I+D) de solo el 0.4% del PIB, muy por debajo del promedio de la OCDE (2.5%). Esto causa fuga de cerebros. Brecha digital profunda (el acceso en zonas rurales/costeras es hasta 8 veces menor) y brecha de género en carreras STEM (19 puntos porcentuales menos de participación femenina)."
+        ]
+      },
+      "propuesta": {
+        "enfoque_principal": "Integrar la Educación, la Cultura y la Ciencia como pilares fundamentales para la transformación nacional y la reversión de la desigualdad. Se busca democratizar el conocimiento, lograr la soberanía científica y cultural, y empoderar a la ciudadanía.",
+        "principios_clave": [
+          "La educación, la cultura y la ciencia son derechos humanos y bienes públicos.",
+          "El conocimiento es poder y debe distribuirse de manera equitativa.",
+          "Necesidad de descentralización y participación comunitaria.",
+          "Inversión sostenida y creciente como base para el desarrollo."
+        ]
+      },
+      "solucion": {
+        "medidas_estructurales": [
+          {
+            "nombre": "Educación Pública: Rescate del 8% y Fin del 'Apagón'",
+            "acciones": [
+              "Alcanzar gradualmente la inversión del 8% del PIB en educación, como manda la Constitución.",
+              "Garantizar un financiamiento creciente y estable para las universidades públicas mediante una negociación quinquenal del FEES.",
+              "Universalizar los comedores escolares en secundaria para toda la población en vulnerabilidad, como mecanismo de retención.",
+              "Ampliar y blindar el presupuesto de programas de becas (como Avancemos).",
+              "Declarar emergencia nacional por el estado de la infraestructura educativa.",
+              "Erradicar el interinazgo abusivo, mejorar la salud mental del personal docente y reducir cargas administrativas para priorizar la pedagogía."
+            ]
+          },
+          {
+            "nombre": "Cultura: Descentralización y Participación Democrática",
+            "acciones": [
+              "Crear Comités Cantonales de Cultura con presupuestos propios, financiados con recursos de las patentes de licores, para descentralizar la gestión y promoción cultural.",
+              "Integrar la promoción artística y cultural en los programas de prevención de la delincuencia, reconstruyendo el tejido social en barrios vulnerables.",
+              "Incluir a los artistas en las tablas de salarios mínimos y crear convenios de aseguramiento colectivo ante la CCSS para trabajadores culturales independientes."
+            ]
+          },
+          {
+            "nombre": "Ciencia y Tecnología: Soberanía e Inclusión Digital",
+            "acciones": [
+              "Aumentar la inversión en I+D para acercarla al 2.5% del PIB.",
+              "Crear el Laboratorio Nacional de Inteligencia Artificial (LANIA).",
+              "Digitalizar el 100% de los trámites públicos mediante una plataforma nacional basada en blockchain, garantizando transparencia e incorruptibilidad.",
+              "Declarar el acceso a internet de calidad como un derecho humano y fortalecer FONATEL para eliminar la brecha digital en zonas rurales y costeras.",
+              "Impulsar programas de orientación vocacional (enfoque STEM) para reducir la brecha de género en carreras de ciencia y tecnología."
+            ]
+          },
+          {
+            "nombre": "Visión Integradora: El Conocimiento como Poder",
+            "acciones": [
+              "Rediseñar la educación para fomentar el pensamiento crítico y la alfabetización en inteligencia artificial.",
+              "Orientar la ciencia y la tecnología nacional hacia la resolución de problemas locales y la generación de 'empleos verdes'.",
+              "Utilizar la cultura como escudo contra el autoritarismo y como motor para construir una 'Costa Rica plurinacional e inclusiva'."
+            ]
+          }
+        ]
+      },
+      "ejecucion": {
+        "pasos_concretos": [
+          "Presentación de un plan presupuestario plurianual para aumentar progresivamente la inversión en educación hasta el 8% del PIB y en I+D hasta el 2.5%.",
+          "Negociación y firma de un nuevo acuerdo quinquenal del FEES con las universidades públicas.",
+          "Aprobación de leyes para: la creación de los Comités Cantonales de Cultura, la universalización de comedores escolares en secundaria, la regulación laboral de artistas y la creación del LANIA.",
+          "Lanzamiento de un plan nacional de emergencia para la rehabilitación de la infraestructura educativa.",
+          "Desarrollo e implementación de la plataforma estatal blockchain para la digitalización de trámites.",
+          "Diseño y ejecución de una estrategia nacional con FONATEL para llevar internet de calidad a todas las comunidades, priorizando las más desconectadas.",
+          "Implementación de programas piloto de prevención de la violencia a través del arte en comunidades seleccionadas."
+        ]
+      },
+      "integracion_con_ejes_anteriores": {
+        "explicacion": "Este eje es transversal y fundamental para el éxito de los demás. Una 'Educación pública fuerte' es la base para el 'Combate a la Pobreza' y la movilidad social. La 'Cultura descentralizada' fortalece la 'Inclusión de Poblaciones Históricamente Excluidas'. La 'Ciencia soberana' y la 'inclusión digital' son esenciales para la 'Transformación Productiva' y la 'Innovación' del eje económico. Además, las políticas de 'Ciencia y Género' y 'Dignificación Docente' están directamente vinculadas con la 'Equidad de Género' y los 'Derechos Laborales'."
+      }
+    }
+  }
+}

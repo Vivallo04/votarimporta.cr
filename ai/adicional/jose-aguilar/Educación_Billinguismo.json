@@ -1,0 +1,44 @@
+{
+  "eje": "Educación con propósito",
+  "area_especifica": "Bilingüismo y Educación Dual",
+  "enfoque": "Pilares operativos del eje de Pertinencia con la Economía, diseñados para cerrar la brecha entre el sistema educativo y las demandas de una economía moderna, transformando la educación en una herramienta de movilidad social y competitividad regional.",
+  "propuestas": [
+    {
+      "componente": "Bilingüismo: Formación de Ciudadanos Globales",
+      "problema": "Colapso en la competitividad del capital humano: para el 2024, apenas el 0.4% de los jóvenes dominaba el idioma inglés.",
+      "solucion": "Implementar un sistema de bilingüismo acreditado y verificable para formar ciudadanos capaces de integrarse en la economía global.",
+      "implementacion": [
+        "Estándares Internacionales: Acreditar el sistema bajo el Marco Común Europeo, garantizando resultados verificables y trazables.",
+        "Docentes como Mediadores: El profesorado actuará como facilitador, apoyado intensivamente por herramientas tecnológicas y alianzas público-privadas para acelerar el aprendizaje.",
+        "Programa Nacional 'CR Más': Lanzar una iniciativa bilingüe con el fin último de formar ciudadanos globales competitivos."
+      ]
+    },
+    {
+      "componente": "Formación Dual: El Puente hacia el Empleo Real",
+      "problema": "Más de 150,000 jóvenes no estudian ni trabajan, existiendo una desconexión entre la formación académica y las demandas del sector productivo.",
+      "solucion": "Vincular directamente a los jóvenes con el sector productivo a través de una formación práctica en entornos laborales reales, con pertinencia regional.",
+      "implementacion": [
+        "Pertinencia Regional: Diseñar la formación para responder a las necesidades específicas de cada subregión, potenciando las industrias locales.",
+        "Alianza Estratégica: Coordinación estrecha entre el INA, los Colegios Técnicos Profesionales (CTP) y las cámaras empresariales para facilitar el aprendizaje en entornos laborales reales.",
+        "Escalabilidad: Duplicar la cobertura del INA y de los colegios técnicos, con énfasis en oficios y tecnologías digitales para jóvenes en zonas de alto riesgo."
+      ]
+    }
+  ],
+  "impacto_transversal": {
+    "objetivo": "Estos elementos no solo cumplen fines académicos, sino que actúan como mecanismos de protección nacional y desarrollo económico.",
+    "areas_de_impacto": [
+      {
+        "area": "Prevención de la Delincuencia",
+        "explicacion": "Al ofrecer educación técnica vinculada al empleo y dominio de idiomas, se reducen las opciones para que las bandas criminales recluten jóvenes ante la falta de alternativas legítimas."
+      },
+      {
+        "area": "Reskilling ante la IA",
+        "explicacion": "La formación dual se extiende a la fuerza laboral activa, permitiendo la recuperación de competencias (reskilling) para que la automatización y la Inteligencia Artificial sean una oportunidad de productividad y no una causa de desempleo."
+      },
+      {
+        "area": "Atracción de Inversión",
+        "explicacion": "Un capital humano bilingüe y técnicamente capacitado es esencial para mantener el atractivo de Costa Rica para la Inversión Extranjera Directa (IED) en sectores de alto valor agregado."
+      }
+    ]
+  }
+}

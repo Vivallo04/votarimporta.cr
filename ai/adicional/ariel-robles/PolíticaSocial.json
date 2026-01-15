@@ -1,0 +1,65 @@
+{
+  "resumen_politica_social_frente_amplio": [
+    {
+      "area": "Combate a la Pobreza y Desigualdad",
+      "problema": "Costa Rica pasó de ser un país equitativo a uno de los más desiguales (coeficiente Gini de 0.508). El sistema actual de asistencia es selectivo, trata la ayuda como un favor político y no alcanza a todas las personas en situación de riesgo.",
+      "propuesta": "Cambiar el modelo de 'asistencia selectiva' por un Estado de Bienestar basado en derechos universales. Reemplazar el concepto de 'pobreza' por el de 'vulnerabilidad social' para ampliar la cobertura.",
+      "solucion": [
+        "Establecer transferencias monetarias universales para sectores empobrecidos.",
+        "Crear una pensión universal para mayores de 65 años en vulnerabilidad.",
+        "Crear una pensión para mujeres de 60 a 64 años que realizan trabajo de cuidados no remunerado.",
+        "Declarar la asistencia social como un derecho humano y reformar la Ley del IMAS para garantizarlo."
+      ],
+      "ejecucion": "Reforma legislativa de la Ley Constitutiva del IMAS. Diseño e implementación de programas de transferencias y pensiones universales con presupuesto garantizado."
+    },
+    {
+      "area": "Sistema de Cuidados y Equidad de Género",
+      "problema": "Las mujeres dedican el doble de tiempo (32 horas semanales) al trabajo de cuidados no remunerado que los hombres (15 horas), lo que genera pobreza y desigualdad. Existe brecha salarial y violencia de género.",
+      "propuesta": "Crear un Sistema Nacional de Cuidados con enfoque de derechos y género. Reconocer económicamente el trabajo doméstico y de cuidados. Combatir la violencia machista.",
+      "solucion": [
+        "Universalizar el acceso al cuidado de primera infancia, personas mayores y con discapacidad.",
+        "Crear una 'renta mínima feminizada' para mujeres jefas de hogar en pobreza.",
+        "Cerrar la brecha salarial, aplicar la licencia menstrual.",
+        "Ejecutar con rigor políticas contra la violencia de género y femicidios."
+      ],
+      "ejecucion": "Creación por ley del Sistema Nacional de Cuidados. Diseño del programa de renta mínima. Fortalecimiento de instituciones como el INAMU y el Mecanismo de seguimiento de femicidios."
+    },
+    {
+      "area": "Salud y Seguridad Social",
+      "problema": "Recortes presupuestarios han reducido la inversión social del 10.1% al 8.5% del PIB. La CCSS está debilitada, con listas de espera largas y déficit en salud mental.",
+      "propuesta": "Rescatar y fortalecer la Caja Costarricense de Seguro Social (CCSS), despolitizándola y priorizando la atención primaria y la salud mental.",
+      "solucion": [
+        "Despolitizar la CCSS y pagar la deuda del Estado con la institución.",
+        "Fortalecer la atención primaria (EBAIS).",
+        "Reducir listas de espera con jornadas de producción extraordinarias.",
+        "Elevar la salud mental a prioridad nacional, aumentando su presupuesto para atender ansiedad, depresión y riesgo suicida."
+      ],
+      "ejecucion": "Pago planificado de la deuda del Estado. Incremento presupuestario para la CCSS. Campañas nacionales y ampliación de servicios en salud mental."
+    },
+    {
+      "area": "Inclusión de Poblaciones Históricamente Excluidas",
+      "problema": "La desigualdad afecta con más fuerza a pueblos indígenas, población LGBTIQ+ y personas con discapacidad, que sufren exclusión, falta de derechos y discriminación.",
+      "propuesta": "Aplicar un enfoque interseccional en todas las políticas para garantizar derechos específicos a cada grupo.",
+      "solucion": [
+        "Pueblos Indígenas: Autonomía territorial, recuperación de tierras y reconocimiento de binacionalidad para el pueblo Ngäbe.",
+        "Población LGBTIQ+: Prohibir las 'terapias de reconversión', tipificar crímenes de odio y garantizar derechos a la población trans (salud, empleo).",
+        "Personas con Discapacidad: Desinstitucionalización, apoyo con asistentes personales y que el 5% de plazas públicas sean para esta población."
+      ],
+      "ejecucion": "Reformas legales (prohibición terapias de reconversión, ley de crímenes de odio). Políticas activas de recuperación de tierras indígenas. Programas de apoyo comunitario y cuotas de empleo público."
+    },
+    {
+      "area": "Educación y Vivienda",
+      "problema": "Crisis educativa ('apagón educativo'), falta de recursos, y crisis de vivienda por especulación inmobiliaria y altos costos de alquiler.",
+      "propuesta": "Aumentar masivamente la inversión en educación pública y regular el mercado de vivienda para garantizar acceso.",
+      "solucion": [
+        "Educación: Elevar la inversión al 8% del PIB, universalizar comedores escolares en secundaria y eliminar la brecha digital rural.",
+        "Vivienda: Crear un banco de tierras regional y establecer topes a los alquileres (máximo 33% del ingreso promedio)."
+      ],
+      "ejecucion": "Aprobación de presupuesto para educación. Creación de un banco de tierras por ley. Regulación del mercado de alquileres."
+    },
+    {
+      "concepto_central": "Cambio de Paradigma",
+      "explicacion": "El plan propone un cambio profundo: pasar de un Estado que da ayudas limitadas a un Estado de Bienestar que garantiza derechos universales (salud, cuidados, pensión, vivienda). La igualdad se busca transformando las estructuras de poder y poniendo al Estado al servicio de las mayorías, no de las élites económicas."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "eje": "Seguridad, Inteligencia y Oportunidades",
+  "area_especifica": "Alianzas Internacionales",
+  "enfoque": "Multiplicador de capacidades indispensable para enfrentar al crimen transnacional, optimizando recursos y accediendo a tecnología y cooperación que el país no podría costear por sí solo.",
+  "propuestas": [
+    {
+      "componente": "Seguridad: Escudo contra el Crimen Transnacional",
+      "problema": "El narcotráfico ha penetrado las instituciones y requiere una respuesta que trascienda las fronteras nacionales.",
+      "solucion": "Fortalecer la colaboración con aliados estratégicos para reforzar la capacidad de interdicción y control fronterizo.",
+      "implementacion": [
+        "Refuerzo de Convenios Específicos: Fortalecer colaboración con la DEA (EE.UU.) para lucha contra drogas, con Holanda para control de puertos, con Colombia para tácticas antidrogas y con Israel para ciberseguridad.",
+        "Interdicción Marítima: Participar en operaciones conjuntas en el Caribe y el Pacífico para cortar rutas de movimiento de droga y dinero antes de que lleguen a territorio nacional.",
+        "Blindaje de Puertos y Fronteras: Conectar el uso estratégico de escáneres en puertos como Moín y Caldera a sistemas de inteligencia internacional, asegurando estándares globales de seguridad."
+      ]
+    },
+    {
+      "componente": "Inteligencia: Acceso a Tecnología de Punta",
+      "problema": "Necesidad de tecnología avanzada y unificación de información para inteligencia predictiva y ciberseguridad.",
+      "solucion": "Aprovechar la asistencia técnica y cooperación internacional para alimentar el Centro de Comando C5 y fortalecer las capacidades digitales.",
+      "implementacion": [
+        "Asistencia Técnica de Alto Impacto: Apoyar el financiamiento y desarrollo de las '3C' (Cómputo, Comunicaciones, Contacto Ciudadano) con cooperación técnica de países afectados por el tráfico de drogas.",
+        "Centro Único de Inteligencia: Unificar información dispersa de la DIS, PCD y OIJ con flujos de datos internacionales para análisis predictivos y detección de amenazas de ciberseguridad, mediante alianza con Israel.",
+        "Ciberseguridad: Proteger la infraestructura crítica digital bajo estándares 'Zero Trust' con el conocimiento proveído por alianzas internacionales."
+      ]
+    },
+    {
+      "componente": "Oportunidades: Estabilidad para la Inversión y Prevención",
+      "problema": "La inseguridad y el riesgo país asociado al narcotráfico obstaculizan la inversión y el desarrollo económico.",
+      "solucion": "Utilizar el éxito de las alianzas en seguridad para crear un entorno de paz que atraiga inversión y genere oportunidades.",
+      "implementacion": [
+        "Atracción de Inversión (IED): Reducir el riesgo país asociado al narcotráfico y la violencia para volver a Costa Rica más atractiva para manufactura avanzada y servicios, generando empleo digno.",
+        "Financiamiento sin Impuestos: Plantear la cooperación internacional como mecanismo de financiamiento para proyectos tecnológicos de seguridad, evitando la creación de nuevos impuestos.",
+        "Diplomacia para el Desarrollo: Capacitar al cuerpo diplomático para ser promotor no solo de seguridad, sino también de turismo y exportaciones, vinculando la paz social con la prosperidad local."
+      ]
+    }
+  ],
+  "socios_estrategicos_mencionados": [
+    {
+      "pais": "EE.UU. (DEA)",
+      "area_cooperacion": "Lucha antidrogas"
+    },
+    {
+      "pais": "Holanda",
+      "area_cooperacion": "Control y seguridad portuaria"
+    },
+    {
+      "pais": "Colombia",
+      "area_cooperacion": "Experiencia operativa contra el narco"
+    },
+    {
+      "pais": "Israel",
+      "area_cooperacion": "Ciberseguridad y defensa digital"
+    }
+  ],
+  "nota": "Aunque no se menciona explícitamente a Interpol en las fuentes, se hace referencia constante a 'sistemas de inteligencia internacional' y 'cooperación internacional de alto impacto' donde este tipo de organismos suelen participar."
+}

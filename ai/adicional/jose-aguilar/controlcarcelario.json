@@ -1,0 +1,41 @@
+{
+  "eje": "Seguridad, Inteligencia y Oportunidades",
+  "area_especifica": "Control Carcelario y Financiamiento",
+  "enfoque_general": "Componentes críticos de un ataque directo al 'corazón operativo' del crimen organizado, integrados en el triángulo estratégico para asfixiar su capacidad de mando y poder económico.",
+  "propuestas": [
+    {
+      "componente": "Control Carcelario",
+      "problema": "Las prisiones funcionan como centros de mando desde donde se ordenan asesinatos y se gestionan actividades delictivas, con una 'puerta giratoria' judicial que libera rápidamente a delincuentes.",
+      "solucion": "Recuperación del orden y aislamiento estratégico de los cabecillas para neutralizar su capacidad de operar desde dentro del sistema penitenciario.",
+      "implementacion": [
+        "Aislamiento Estratégico: Traslado inmediato de cabecillas a regímenes de aislamiento y creación de celdas de máxima seguridad exclusivas para jefes narcos y sicarios.",
+        "Bloqueo Tecnológico: Implementación de un bloqueo total de comunicaciones mediante bloqueadores de señal y drones de contravigilancia dentro de las cárceles.",
+        "Coordinación Judicial: Trabajo con el Poder Judicial para corregir la 'puerta giratoria' y asegurar que las medidas de control carcelario sean efectivas y duraderas."
+      ]
+    },
+    {
+      "componente": "Control Financiero",
+      "problema": "El poder económico de las estructuras criminales les permite financiar operaciones, reclutar y mantener influencia en los territorios, facilitado por la corrupción y el lavado de activos.",
+      "solucion": "Asfixia del poder económico mediante el congelamiento de bienes y el rastreo de flujos de dinero para drenar los recursos del crimen organizado.",
+      "implementacion": [
+        "Operativos de Congelamiento: Ejecución de operativos para el congelamiento de bienes y cuentas vinculadas al narcotráfico, en colaboración directa con la Fiscalía Adjunta de Legitimación de Capitales.",
+        "Inteligencia y Transparencia: Uso de tecnología para rastrear flujos de dinero ilícitos y combatir la corrupción institucional que facilita el lavado de activos."
+      ]
+    }
+  ],
+  "integracion_con_otros_ejes": [
+    {
+      "eje": "Inteligencia (Centro de Comando C5)",
+      "contribucion": "El C5 integrará bases de datos y utilizará analítica con IA para identificar patrones de lavado de dinero y conexiones entre reclusos y el exterior, potenciando los controles financieros y carcelarios."
+    },
+    {
+      "eje": "Oportunidades (Prevención)",
+      "contribucion": "Mientras se golpean las finanzas del crimen, se crean incentivos laborales y educación dual para ofrecer a los jóvenes en zonas vulnerables una alternativa legítima de movilidad social, reduciendo el atractivo del dinero del narco."
+    },
+    {
+      "eje": "Liderazgo Estratégico",
+      "contribucion": "Todas estas medidas serán coordinadas y priorizadas desde la Segunda Vicepresidencia, garantizando una articulación política de alto nivel y evitando esfuerzos burocráticos dispersos."
+    }
+  ],
+  "objetivo_final": "Desarticular la capacidad operativa y financiera del crimen organizado desde su núcleo, mientras se construyen alternativas legítimas de prosperidad para la población en riesgo."
+}

@@ -1,0 +1,37 @@
+{
+  "eje": "Economía y Emprendimiento",
+  "area_especifica": "Turismo Regenerativo",
+  "enfoque": "Evolución estratégica del modelo turístico tradicional para convertir la riqueza natural y cultural en un motor de empleo de calidad y emprendimiento dinámico en todas las regiones, generando un impacto positivo y restaurador en las comunidades locales bajo la 'Estrategia Nacional 2030'.",
+  "propuestas": [
+    {
+      "componente": "Generación de Empleo de Calidad y Diversificado",
+      "problema": "Concentración del turismo en el modelo tradicional de 'sol y playa', limitando las oportunidades laborales y dejando rezagadas a muchas regiones, con una oferta poco diversificada.",
+      "solucion": "Expandir y diversificar la oferta turística hacia nuevos nichos de alto valor e impulsar el desarrollo territorial inclusivo para generar empleo digno en diversas zonas del país.",
+      "implementacion": [
+        "Nuevos Nichos de Mercado: Apostar por sectores de alto valor como turismo de bienestar (wellness), aventura, gastronomía, surf y deportes de alto impacto (triatlones, trail running), requiriendo personal especializado.",
+        "Inclusión Territorial: Romper la concentración geográfica impulsando polos de desarrollo en el Caribe Sur, circuitos histórico-culturales y turismo de salud, llevando empleo a zonas rezagadas.",
+        "Turismo Rural Comunitario: Fomentar que campesinos e indígenas lideren sus propios proyectos (posadas, tours, experiencias culturales) para generar ingresos directos en sus comunidades."
+      ]
+    },
+    {
+      "componente": "El Turismo como Plataforma de Emprendimiento",
+      "problema": "Falta de acceso a financiamiento, asistencia técnica y exceso de trámites burocráticos que sofocan el emprendimiento local en el sector turístico.",
+      "solucion": "Facilitar el acceso a recursos y simplificar los procesos administrativos para impulsar emprendimientos turísticos competitivos, sostenibles y con encadenamientos productivos.",
+      "implementacion": [
+        "Apoyo Financiero y Técnico: Facilitar acceso a crédito, asistencia técnica y formalización de PYMEs turísticas para asegurar su competitividad y sostenibilidad.",
+        "Encadenamientos Productivos: Promover encadenamientos agro-turísticos, especialmente en regiones como Guanacaste, mediante iniciativas 'de la finca a la mesa' (from farm to table), conectando productores locales con la industria turística.",
+        "Simplificación Administrativa: Implementar una ventanilla única digital para reducir los trámites engorrosos para emprender en el sector."
+      ]
+    },
+    {
+      "componente": "Contexto Amplio: Tecnología, Cultura e Infraestructura",
+      "problema": "Falta de integración del turismo con la tecnología digital, la cultura y una infraestructura adecuada, limitando su potencial regenerativo y competitivo.",
+      "solucion": "Integrar estratégicamente el turismo con infraestructura digital, promoción cultural y sostenibilidad para potenciar su impacto económico y social.",
+      "implementacion": [
+        "Infraestructura Digital: Desplegar redes 5G en destinos turísticos y mejorar aeropuertos regionales para atraer nómadas digitales y turistas de alto perfil, potenciando el emprendimiento tecnológico en zonas rurales.",
+        "Diplomacia Cultural: Vincular turismo con cultura mediante rutas patrimoniales (afrocaribeña, colonial, folclórica), posicionar a San José como capital cultural y utilizar las embajadas como promotoras de la oferta turística nacional.",
+        "Sostenibilidad como Activo: Transformar el ambiente en el principal activo competitivo, generando 'empleos verdes' e impulsando una innovación que multiplique los recursos en lugar de destruirlos."
+      ]
+    }
+  ]
+}

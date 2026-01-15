@@ -1,0 +1,87 @@
+{
+  "resumen_educacion_publica_frente_amplio": {
+    "eje": "Educación, Cultura y Ciencia",
+    "area": "Educación Pública",
+    "contenido": {
+      "problema": {
+        "descripcion_general": "El sistema educativo público enfrenta una crisis profunda denominada 'apagón educativo', caracterizada por un desfinanciamiento histórico, alta deserción estudiantil (especialmente en secundaria), infraestructura deteriorada y una grave precarización de la labor docente. Esto ha debilitado su rol como motor de equidad social y movilidad ascendente.",
+        "problemas_especificos": [
+          "Desfinanciamiento crítico: La inversión en educación cayó del 7.4% del PIB (2017) a un 4.7% proyectado para 2025, incumpliendo el mandato constitucional del 8%. Las universidades públicas sufrieron un recorte del 12% entre 2020 y 2024.",
+          "Alta deserción y desigualdad: La deserción en secundaria alcanza el 37% en los quintiles más pobres. Existen barreras económicas y sociales que expulsan a los estudiantes más vulnerables del sistema.",
+          "Infraestructura en crisis: Existen centros educativos en estado 'ruinoso' y con órdenes sanitarias. El 45% de la infraestructura tecnológica en colegios públicos es obsoleta. Brecha digital extrema (ej. en Talamanca solo el 10.5% de hogares tiene internet).",
+          "Precarización y salud docente: El 59% del personal docente ha considerado dejar su trabajo por problemas de salud mental, agravados por cargas administrativas excesivas e interinazgo abusivo.",
+          "Falta de inclusión e interculturalidad: La educación no responde adecuadamente a la diversidad cultural (pueblos indígenas) ni garantiza plenamente la inclusión para personas con discapacidad."
+        ]
+      },
+      "propuesta": {
+        "enfoque_principal": "Rescatar la educación pública como el eje motor de la transformación social, la equidad y la identidad cultural. Se propone un plan integral que combine el rescate financiero, políticas de retención estudiantil, inversión en infraestructura y dignificación docente, todo bajo un enfoque de inclusión e interculturalidad.",
+        "cambios_clave": [
+          "Cumplir con el mandato constitucional del 8% del PIB para educación.",
+          "Convertir servicios básicos como alimentación y transporte en derechos estudiantiles para garantizar la permanencia.",
+          "Declarar emergencia nacional para atender la crisis de infraestructura y brecha digital.",
+          "Reconocer y proteger la labor docente, garantizando su estabilidad y salud mental.",
+          "Construir un sistema educativo plurinacional e inclusivo."
+        ]
+      },
+      "solucion": {
+        "medidas_estructurales": [
+          {
+            "nombre": "Rescate Financiero y Gobernanza",
+            "acciones": [
+              "Alcanzar gradualmente la inversión del 8% del PIB en educación, estableciendo sanciones para autoridades que incumplan la asignación presupuestaria.",
+              "Garantizar la autonomía y estabilidad financiera de las universidades públicas mediante una negociación quinquenal del FEES.",
+              "Revertir los recortes en programas de equidad (transporte, becas, comedores)."
+            ]
+          },
+          {
+            "nombre": "Equidad y Retención Estudiantil",
+            "acciones": [
+              "Universalizar el servicio de comedores escolares (PANEA) como un derecho para toda la población de secundaria en condición de vulnerabilidad.",
+              "Implementar un 'Boleto Estudiantil' gratuito para transporte en preescolar, primaria, secundaria y garantizarlo para la población universitaria.",
+              "Crear programas de orientación vocacional desde niveles preuniversitarios para cerrar la brecha de género en carreras STEM (Ciencia, Tecnología, Ingeniería y Matemáticas), donde la participación femenina es 19 puntos porcentuales menor."
+            ]
+          },
+          {
+            "nombre": "Infraestructura y Conectividad",
+            "acciones": [
+              "Declarar emergencia nacional el estado de la infraestructura educativa para agilizar inversiones, reparar escuelas en estado ruinoso y reducir el hacinamiento.",
+              "Fortalecer FONATEL para eliminar la brecha digital, garantizando el acceso a internet de calidad como un derecho en todos los centros educativos y hogares, priorizando cantones con baja cobertura.",
+              "Renovar la infraestructura tecnológica obsoleta en los colegios públicos."
+            ]
+          },
+          {
+            "nombre": "Inclusión e Interculturalidad",
+            "acciones": [
+              "Reformar la educación indígena para que responda a la cosmovisión, lenguas y necesidades de los pueblos originarios, asegurando docentes provenientes de sus propios territorios.",
+              "Transitar de un modelo de segregación a uno de educación inclusiva para personas con discapacidad, garantizando el dominio de la Lengua de Señas Costarricense (LESCO) y la implementación del Diseño Universal para el Aprendizaje (DUA)."
+            ]
+          },
+          {
+            "nombre": "Dignificación de la Labor Docente",
+            "acciones": [
+              "Reducir las cargas administrativas no pedagógicas del personal docente.",
+              "Pagar el tiempo dedicado al planeamiento didáctico, asignando lecciones específicas para esta labor fundamental.",
+              "Combatir el interinazgo abusivo, llenando las plazas docentes en propiedad y respetando las resoluciones de la Sala Constitucional.",
+              "Implementar programas de apoyo y cuidado de la salud mental para el personal educativo."
+            ]
+          }
+        ]
+      },
+      "ejecucion": {
+        "pasos_concretos": [
+          "Presentar un plan presupuestario plurianual ante la Asamblea Legislativa para aumentar progresivamente la inversión educativa hasta el 8% del PIB.",
+          "Iniciar y concluir la negociación de un nuevo acuerdo quinquenal para el FEES con las universidades públicas.",
+          "Presentar y aprobar una ley para la universalización de los comedores escolares en secundaria y la implementación del Boleto Estudiantil gratuito.",
+          "Emitir un decreto ejecutivo declarando la emergencia nacional en infraestructura educativa, acompañado de un plan de inversión urgente.",
+          "Fortalecer a FONATEL con mayores recursos y mandato para ejecutar un plan nacional de conectividad en todas las escuelas y comunidades.",
+          "Crear un programa especial de convocatorias de empleo público para llenar plazas docentes en propiedad y reducir el interinazgo.",
+          "Elaborar y publicar una nueva política curricular de educación intercultural y de educación inclusiva, en consulta con los pueblos indígenas y organizaciones de personas con discapacidad.",
+          "Reformar los reglamentos del MEP para redefinir la carga laboral docente, separando y remunerando específicamente el tiempo de planeamiento didáctico."
+        ]
+      },
+      "integracion_con_ejes_anteriores": {
+        "explicacion": "La Educación Pública es la base transversal para el éxito de todas las demás políticas. Un sistema educativo robusto y equitativo es la herramienta principal para el 'Combate a la Pobreza' y la movilidad social. La 'universalización de comedores' y el 'boleto estudiantil' son políticas de protección social directa. La 'inclusión e interculturalidad' se alinea con el enfoque de derechos del eje social. La 'dignificación docente' es parte fundamental de los 'Derechos Laborales'. La inversión en infraestructura digital y STEM es el semillero para la 'Transformación Productiva' y la 'Soberanía Científica' del país. Sin una educación pública fortalecida, el resto de las transformaciones propuestas carecen de sustento a largo plazo."
+      }
+    }
+  }
+}

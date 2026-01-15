@@ -1,0 +1,45 @@
+{
+  "eje": "Economía y Emprendimiento",
+  "area_especifica": "Plan Nacional de Infraestructura",
+  "enfoque": "Cimiento físico y digital indispensable para activar la 'turbina económica' del país, reduciendo costos logísticos, elevando la productividad y atrayendo inversión, lo que deriva en creación de empleo de calidad y fomento de nuevos negocios.",
+  "propuestas": [
+    {
+      "componente": "Conectividad Física como Motor de Empleo",
+      "problema": "Falta de modernización en redes de transporte que limita la dinamización económica, el comercio regional y la generación de empleo directo e indirecto.",
+      "solucion": "Priorizar la modernización de redes de transporte estratégicas para conectar subregiones con mercados y facilitar el comercio y emprendimiento local.",
+      "implementacion": [
+        "Proyectos Viales Estratégicos: Ampliación total de la Ruta 27, finalización de la Ruta 32, construcción de la trocha norte y mantenimiento de rutas en Guanacaste, Zona Sur y Zona Norte.",
+        "Nodos Logísticos: Modernización del Puerto de Caldera, expansión del Aeropuerto Juan Santamaría y fortalecimiento del aeropuerto de Liberia para sectores como manufactura avanzada y turismo.",
+        "Trenes de Nueva Generación: Impulso al Tren Eléctrico Metropolitano y desarrollo de un tren de carga mediante alianzas internacionales para mejorar movilidad urbana y eficiencia en transporte de mercancías."
+      ]
+    },
+    {
+      "componente": "Infraestructura Digital para el Emprendimiento Dinámico",
+      "problema": "Competitividad limitada por falta de acceso a tecnología de punta, especialmente en zonas rurales, lo que obstaculiza el surgimiento de emprendimientos tecnológicos y la inclusión digital.",
+      "solucion": "Desplegar aceleradamente redes de alta velocidad y garantizar inclusión territorial para que el talento y emprendimiento puedan florecer en cualquier parte del país.",
+      "implementacion": [
+        "Masificación de Redes: Despliegue acelerado de 5G y fibra óptica, con una hoja de ruta hacia el 6G, para soportar startups en áreas de inteligencia artificial, fintech y ciberseguridad.",
+        "Inclusión Territorial: Utilizar FONATEL para llevar internet de alta velocidad a zonas rurales, permitiendo que jóvenes emprendan sin necesidad de emigrar."
+      ]
+    },
+    {
+      "componente": "Modelos de Gestión y Certeza Jurídica",
+      "problema": "Dispersión de recursos, falta de agilidad y seguridad jurídica en la ejecución de proyectos de infraestructura, lo que desincentiva la inversión y retrasa el crecimiento económico.",
+      "solucion": "Reformar los modelos de gestión para dar agilidad, seguridad jurídica y eficiencia en la planificación y ejecución de la infraestructura nacional.",
+      "implementacion": [
+        "Alianzas Público-Privadas (APP): Reformar la Ley de Concesiones para dar agilidad y seguridad jurídica, reactivando proyectos bajo esquemas mixtos como el tramo San José–San Ramón.",
+        "Agencia Nacional de Infraestructura: Crear una entidad integrando al MOPT, CONAVI, CNC y COSEVI para eliminar dispersión de recursos y garantizar ejecución eficiente.",
+        "Vía Rápida de Trámites: Implementar gestión acelerada para expropiaciones y licitaciones en proyectos estratégicos, evitando retrasos burocráticos."
+      ]
+    },
+    {
+      "componente": "Efecto Multiplicador: Vivienda e Innovación",
+      "problema": "Necesidad de impulsar la economía a través de sectores con alto impacto multiplicador en empleo y encadenamientos productivos, como la vivienda y la innovación tecnológica.",
+      "solucion": "Utilizar la construcción de vivienda y el apoyo a sectores de futuro como motores económicos que generen empleo y fomenten la innovación.",
+      "implementacion": [
+        "Construcción de Vivienda: Implementar programas de vivienda para la clase media, actuando como motor económico que genera encadenamientos con más de 50 sectores, creando miles de empleos directos e indirectos.",
+        "Sectores del Futuro: Alinear la infraestructura para apoyar el Agro 4.0 y sectores de ciencias de la vida, facilitando centros de I+D en zonas francas y clústeres regionales."
+      ]
+    }
+  ]
+}

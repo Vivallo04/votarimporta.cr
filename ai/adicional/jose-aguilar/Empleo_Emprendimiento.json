@@ -1,0 +1,53 @@
+{
+  "eje": "Empleo y Emprendimiento",
+  "enfoque": "La creación de oportunidades de empleo digno y emprendimiento como 'turbina económica' para la paz social y el desarrollo humano, y como herramienta estratégica de seguridad que ofrece proyectos de vida legítimos frente al crimen organizado.",
+  "propuestas": [
+    {
+      "componente": "Clima pro-inversión y simplificación radical",
+      "problema": "Exceso de trámites y altas cargas sociales (parafiscales) que sofocan a quienes desean emprender o generar empleo formal.",
+      "solucion": "Crear un clima pro-inversión mediante una simplificación radical de trámites y una reducción de cargas para la formalidad.",
+      "implementacion": [
+        "Ventanilla Única Digital: Sistema unificado para registro de empresas y permisos con plazos máximos por ley, aplicando silencio positivo si la administración no responde a tiempo.",
+        "Rebalanceo de Cargas Sociales: Ajustar cargas parafiscales (FODESAF, INA, IMAS, Banco Popular) trasladándolas paulatinamente al presupuesto nacional, reduciendo el costo de la formalidad sin afectar los recursos de la CCSS.",
+        "Estado Digital: Eliminar al menos 50 trámites presenciales en dos años y llevar el 80% de las gestiones a la virtualidad para el 2027."
+      ]
+    },
+    {
+      "componente": "Emprendimiento dinámico vs. subsistencia",
+      "problema": "Predominio del emprendimiento de subsistencia, en lugar de un emprendimiento dinámico, tecnológico y de alto impacto.",
+      "solucion": "Fomentar la transición hacia un emprendimiento dinámico, basado en innovación y tecnología, con mayor valor agregado.",
+      "implementacion": [
+        "Hub de Innovación Regional: Duplicar la inversión en ciencia y tecnología del 0.5% al 1% del PIB, fomentando incubadoras y fondos de capital de riesgo para startups en áreas como IA, fintech y ciberseguridad.",
+        "Encadenamientos Productivos: Impulsar alianzas para que las empresas locales se integren a las cadenas de valor de las zonas francas, multiplicando el impacto del modelo exportador.",
+        "Apoyo al Agro 4.0: Crear un 'Hub Nacional de Innovación Agritech' para capacitar a 10,000 productores en agricultura de precisión y nuevas tecnologías."
+      ]
+    },
+    {
+      "componente": "Talento y reconversión laboral (Reskilling)",
+      "problema": "El sistema educativo no forma el capital humano necesario para la economía de servicios y tecnología, dejando una brecha de habilidades y una población vulnerable al desempleo.",
+      "solucion": "Capacitación masiva y reconversión laboral para alinear las habilidades de la población con las demandas del mercado laboral moderno.",
+      "implementacion": [
+        "Reconversión Masiva: Capacitar a 250,000 personas en habilidades digitales, IA y datos, con énfasis especial en jóvenes y adultos mayores de 45 años.",
+        "Educación Dual: Duplicar la cobertura del INA y de los colegios técnicos, vinculando directamente el aprendizaje con las necesidades del sector productivo en cada subregión.",
+        "Incentivos para Jóvenes: Ofrecer incentivos a las empresas que contraten jóvenes de zonas vulnerables, apoyados por redes de mentoría para evitar que sean captados por bandas criminales."
+      ]
+    },
+    {
+      "componente": "Sectores estratégicos de crecimiento",
+      "problema": "Necesidad de generar empleo digno en sectores con alto potencial de exportación y sostenibilidad para dinamizar la economía.",
+      "solucion": "Impulsar sectores estratégicos que sean motores de generación de empleo de calidad y desarrollo económico sostenible.",
+      "implementacion": [
+        "Turismo con Propósito: Diversificar la oferta hacia el turismo rural comunitario, de salud y bienestar, mejorando la conectividad 5G en los destinos.",
+        "Industria Sostenible: Incentivar el uso de materiales reciclados y tecnologías limpias, además de fortalecer clústeres de dispositivos médicos y biotecnología.",
+        "Infraestructura Competitiva: Utilizar la modernización de puertos, rutas (27 y 32) y el Tren Eléctrico Metropolitano como motores de generación de empleo directo e indirecto."
+      ]
+    }
+  ],
+  "enfoque_social": {
+    "problema": "Modelos asistencialistas que no fomentan la autonomía y pueden perpetuar la dependencia.",
+    "solucion": "Promover la dignidad a través del esfuerzo y el talento, eliminando trabas estatales para que cada persona pueda salir adelante por sus propios medios.",
+    "implementacion": [
+      "Vinculación entre empleo y política social: Usar los sistemas de datos (SINIRUBE y SABER) para asegurar que la asistencia económica esté condicionada a la capacitación laboral y la educación, fomentando la transición hacia la autonomía."
+    ]
+  }
+}

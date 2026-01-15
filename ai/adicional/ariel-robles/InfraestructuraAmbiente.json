@@ -1,0 +1,90 @@
+{
+  "resumen_infraestructura_ambiente_frente_amplio": {
+    "eje": "Infraestructura y Ambiente",
+    "problema": {
+      "descripcion_general": "El modelo actual prioriza las concesiones privadas y el corto plazo, generando una crisis ambiental, de movilidad y de gestión pública. Hay un deterioro ecológico acelerado, infraestructura ineficiente y una gran dependencia de combustibles fósiles, lo que aumenta la desigualdad y la vulnerabilidad ante el cambio climático.",
+      "problemas_especificos": [
+        "Deterioro ambiental: Aumento del 20.2% en especies amenazadas. Instituciones ambientales (SINAC, MINAE) débiles por recortes presupuestarios.",
+        "Agua mal gestionada: La Ley de Aguas es de 1942 y no reconoce el derecho humano al agua. Muchas comunidades, especialmente rurales, no tienen acceso seguro.",
+        "Infraestructura vial caótica: El sistema se basa en concesiones privadas con peajes caros. El Estado (MOPT) ha perdido capacidad para construir y mantener carreteras.",
+        "Crisis de transporte: Congestión vial muy alta (+31% desde 2019). Falta un transporte público masivo, eficiente y accesible para la mayoría.",
+        "Dependencia del petróleo: Aunque la electricidad es limpia, el 78% de toda la energía que usa el país viene del petróleo, sobre todo por los vehículos.",
+        "Costas en peligro: Las comunidades costeras históricas y los pescadores artesanales enfrentan pobreza, desalojos y gentrificación (aumento de precios por turismo o desarrollos)."
+      ]
+    },
+    "propuesta": {
+      "enfoque_principal": "Integrar la infraestructura y el ambiente. La obra pública y el transporte deben servir para proteger la naturaleza, combatir el cambio climático y garantizar bienestar para todos, no solo ganancias para empresas privadas.",
+      "cambios_clave": [
+        "Poner la protección del ambiente y la justicia climática en el centro de todas las decisiones de infraestructura.",
+        "Fortalecer al Estado para que planifique y ejecute obras importantes, reduciendo la dependencia de concesiones privadas.",
+        "Transformar el sistema de transporte: menos carros, más trenes, buses y opciones para caminar y usar bicicleta.",
+        "Dejar atrás el petróleo y avanzar hacia energías 100% limpias.",
+        "Proteger a las comunidades costeras y sus derechos sobre el territorio."
+      ]
+    },
+    "solucion": {
+      "medidas_principales": [
+        {
+          "area": "Protección Ambiental",
+          "acciones": [
+            "Reconocer por ley los derechos de la naturaleza.",
+            "Fortalecer los parques nacionales (SINAC) con más presupuesto y autonomía.",
+            "Mantener la prohibición de la minería a cielo abierto.",
+            "Implementar 'Basura Cero': promover compostaje y reciclaje, y prohibir quemar basura."
+          ]
+        },
+        {
+          "area": "Agua para Todos",
+          "acciones": [
+            "Crear una nueva Ley de Aguas que garantice el agua como derecho humano.",
+            "Mejorar el sistema de cañerías y tratamiento para que toda la población tenga agua potable.",
+            "Apoyar a las ASADAS (acueductos comunales) en zonas rurales."
+          ]
+        },
+        {
+          "area": "Carreteras y Puertos Públicos",
+          "acciones": [
+            "Que el MOPT vuelva a construir y mantener carreteras importantes.",
+            "Detener nuevas concesiones privadas y renegociar las existentes (como la Ruta 27) para bajar peajes.",
+            "Unificar la gestión de los puertos (JAPDEVA e INCOP) bajo una sola Autoridad Portuaria Nacional."
+          ]
+        },
+        {
+          "area": "Transporte Público y Movilidad",
+          "acciones": [
+            "Construir el Tren Eléctrico en el Gran Área Metropolitana (GAM).",
+            "Crear carriles exclusivos y protegidos para buses para que sean rápidos y puntuales.",
+            "Hacer 'calles completas': ampliar y mejorar aceras y ciclovías, conectándolas con el tren y los buses."
+          ]
+        },
+        {
+          "area": "Energía Limpia",
+          "acciones": [
+            "Transformar RECOPE (la empresa de petróleo) en una empresa de energías limpias (biocombustibles, hidrógeno verde).",
+            "Prohibir poco a poco la importación de vehículos que usan gasolina: usados desde 2026, nuevos desde 2045.",
+            "Prohibir por ley la exploración y explotación de petróleo y gas en el país."
+          ]
+        },
+        {
+          "area": "Protección Costera",
+          "acciones": [
+            "Crear un Viceministerio del Mar para proteger la biodiversidad y apoyar a los pescadores artesanales.",
+            "Aprobar la Ley TECOCOS para dar seguridad legal a las comunidades costeras y evitar que las saquen de sus tierras."
+          ]
+        }
+      ]
+    },
+    "ejecucion": {
+      "pasos_concretos": [
+        "Aprobar nuevas leyes en la Asamblea Legislativa: Ley de Derechos de la Naturaleza, nueva Ley de Aguas, Ley Basura Cero, Ley TECOCOS.",
+        "Emitir decretos para fortalecer el SINAC y detener nuevas concesiones de carreteras.",
+        "Iniciar las obras del Tren Eléctrico y de la red de carriles exclusivos para buses.",
+        "Comenzar el plan para transformar RECOPE y lanzar el plan de prohibición gradual de vehículos de combustión.",
+        "Crear la Autoridad Portuaria Nacional y el Viceministerio del Mar."
+      ]
+    },
+    "integracion_con_el_plan_completo": {
+      "explicacion_sencilla": "Estas propuestas están conectadas con todo el plan. Un transporte público bueno ayuda a combatir la pobreza al reducir gastos en transporte. Proteger el agua y el ambiente es cuidar la salud de todos. La energía limpia y la 'Basura Cero' pueden crear nuevos empleos verdes. Defender a las comunidades costeras es parte de la lucha contra la desigualdad. En resumen, es construir un país donde el desarrollo no dañe el planeta ni excluya a las personas."
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "plan_de_gobierno_frente_amplio": {
+    "resumen_general": "El plan propone un cambio de paradigma desde un modelo neoliberal hacia un Estado de Bienestar basado en derechos universales, justicia social y democratización económica. Se estructura en dos ejes principales: Política Social (combate a la pobreza, cuidados, salud, inclusión) y Economía y Trabajo (transformación productiva, dignificación laboral, justicia fiscal).",
+    "ejes": [
+      {
+        "nombre_eje": "Política Social y Combate a la Pobreza",
+        "objetivo_principal": "Transitar de un modelo de asistencia selectiva a un Estado de Bienestar con derechos sociales universales, garantizando una vida digna para todos.",
+        "areas": [
+          {
+            "nombre_area": "Combate a la Pobreza y Desigualdad",
+            "contenido": {
+              "problema": "Costa Rica es uno de los países más desiguales (coeficiente Gini 0.508). El sistema actual es asistencialista, trata la ayuda como favor político y usa criterios restrictivos que dejan fuera a personas en riesgo.",
+              "propuesta": "Cambiar el concepto de 'pobreza' por 'vulnerabilidad social' para ampliar la protección. Declarar la asistencia social como un derecho humano.",
+              "solucion": [
+                "Reformar la Ley del IMAS para garantizar la ayuda como derecho.",
+                "Establecer transferencias monetarias universales para sectores empobrecidos.",
+                "Crear una Pensión Universal para mayores de 65 años en pobreza.",
+                "Crear una pensión para mujeres de 60-64 años dedicadas al cuidado no remunerado.",
+                "Universalizar comedores escolares en secundaria."
+              ],
+              "ejecucion": [
+                "Reforma legislativa del IMAS y creación de leyes para pensiones universales.",
+                "Diseño de programas de transferencias con presupuesto garantizado.",
+                "Revisión y transformación del sistema de registro SINIRUBE."
+              ]
+            }
+          },
+          {
+            "nombre_area": "Sistema de Cuidados y Equidad de Género",
+            "contenido": {
+              "problema": "Las mujeres destinan 32 horas semanales al trabajo de cuidado no remunerado (vs. 15 horas los hombres), lo que genera pobreza femenina. Existe brecha salarial y violencia de género.",
+              "propuesta": "Crear un Sistema Nacional de Cuidados con enfoque de derechos y género. Reconocer económicamente el trabajo doméstico.",
+              "solucion": [
+                "Universalizar acceso al cuidado de niños, ancianos y personas con discapacidad.",
+                "Establecer una 'Renta Mínima Feminizada' para mujeres jefas de hogar en pobreza.",
+                "Aplicar licencia menstrual y cerrar brecha salarial.",
+                "Fortalecer políticas contra la violencia de género y femicidios."
+              ],
+              "ejecucion": [
+                "Creación por ley del Sistema Nacional de Cuidados.",
+                "Diseño e implementación del programa de renta mínima feminizada.",
+                "Fortalecimiento del INAMU y mecanismos de protección."
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "nombre_eje": "Economía y Trabajo",
+        "objetivo_principal": "Subordinar la economía al bienestar social, democratizando la producción, garantizando trabajo digno y financiando el Estado de Bienestar con una fiscalidad justa.",
+        "areas": [
+          {
+            "nombre_area": "Transformación Productiva y Apoyo a PYMES",
+            "contenido": {
+              "problema": "Modelo económico basado en 'enclaves' exportadores que no fortalecen el mercado interno. Las PYMES tienen poco acceso a crédito, incentivos y contratación pública.",
+              "propuesta": "Democratizar la producción orientando el apoyo estatal prioritariamente a cooperativas, asociaciones de trabajadores y MIPYMES locales.",
+              "solucion": [
+                "Orientar créditos, incentivos y contratación pública hacia PYMES y cooperativas.",
+                "Transformar el CNP en una corporación de apoyo industrial y comercial para pequeñas empresas.",
+                "Transitar a un modelo agroecológico y aumentar aranceles a importaciones agrícolas sensibles.",
+                "Aumentar el 'peaje bancario' para financiar inclusión financiera de MIPYMES."
+              ],
+              "ejecucion": [
+                "Reforma legal del CNP y leyes de fomento productivo.",
+                "Ajuste progresivo de aranceles agrícolas.",
+                "Implementación de programas de crédito preferencial."
+              ]
+            }
+          },
+          {
+            "nombre_area": "Dignificación del Trabajo y Nuevos Derechos Laborales",
+            "contenido": {
+              "problema": "Alta informalidad laboral (40%). Salarios mínimos que no cubren necesidades básicas. Explotación en agricultura y plataformas digitales.",
+              "propuesta": "Establecer un nuevo pacto laboral con jornada reducida y salario digno. Fortalecer la inspección laboral con tecnología.",
+              "solucion": [
+                "Reducir progresivamente la jornada laboral a 40 horas semanales sin reducir salario.",
+                "Crear una Ley de Salario Mínimo Vital vinculado al costo real de la canasta básica familiar.",
+                "Fortalecer la inspección laboral con inteligencia artificial y geolocalización."
+              ],
+              "ejecucion": [
+                "Aprobación de la Ley de Reducción de Jornada y Ley de Salario Mínimo Vital.",
+                "Modernización de la Dirección Nacional de Inspección de Trabajo.",
+                "Capacitación de inspectores en nuevas tecnologías."
+              ]
+            }
+          },
+          {
+            "nombre_area": "Finanzas y Fiscalidad",
+            "contenido": {
+              "problema": "Modelo de 'austeridad punitiva' que recorta la inversión social (bajó al 8.5% del PIB). Sistema tributario injusto que permite evasión en paraísos fiscales. La regla fiscal estrangula el gasto social.",
+              "propuesta": "Transitar a un modelo de justicia tributaria donde quienes más tienen paguen proporcionalmente más. Reformar la regla fiscal para proteger la inversión social.",
+              "solucion": [
+                "Establecer impuesto a la 'Renta Mundial y Global' para combatir paraísos fiscales.",
+                "Crear impuesto a grandes herencias y a capital especulativo.",
+                "Implementar devolución del IVA a hogares de menores ingresos (IVA Personalizado).",
+                "Reformar la regla fiscal para excluir gasto social y de capital.",
+                "Fortalecer la lucha contra la evasión con levantamiento ágil del secreto bancario.",
+                "Recortar salarios de altos mandos (Presidente, ministros) en 25%."
+              ],
+              "ejecucion": [
+                "Presentación y aprobación de paquete de reforma fiscal progresiva.",
+                "Diseño del mecanismo de devolución del IVA personalizado.",
+                "Reforma legal para facilitar el levantamiento del secreto bancario.",
+                "Proyecto de ley para reformar la regla fiscal.",
+                "Decreto ejecutivo para recortes salariales en altos cargos."
+              ]
+            }
+          },
+          {
+            "nombre_area": "Soberanía Alimentaria y Agropecuario",
+            "contenido": {
+              "problema": "Alta dependencia de importaciones (ej. 75% de los frijoles). Modelo agroexportador extractivista que pone en riesgo la seguridad alimentaria.",
+              "propuesta": "Transitar hacia un sistema agroecológico autónomo y resiliente, protegiendo al productor nacional.",
+              "solucion": [
+                "Aumentar progresivamente aranceles a importaciones agrícolas sensibles.",
+                "Crear un Seguro Alimentario Nacional para distribuir riesgos climáticos.",
+                "Fomentar la producción nacional de granos básicos con apoyo estatal."
+              ],
+              "ejecucion": [
+                "Ajuste de política arancelaria.",
+                "Creación del Seguro Alimentario por ley.",
+                "Programas de apoyo a la transición agroecológica."
+              ]
+            }
+          },
+          {
+            "nombre_area": "Turismo Inclusivo",
+            "contenido": {
+              "problema": "Modelo turístico de 'lujo' que genera gentrificación, fugas de capital y no beneficia a las comunidades locales.",
+              "propuesta": "Fomentar un turismo comunitario, rural y de proximidad que beneficie a emprendimientos locales.",
+              "solucion": [
+                "Estrategia agresiva de fomento al turismo interno y comunitario.",
+                "Ley de Encadenamientos Turísticos para obligar a grandes empresas a comprar localmente.",
+                "Favorecer a hoteles pequeños y medianos en políticas de promoción."
+              ],
+              "ejecucion": [
+                "Diseño de política nacional de turismo comunitario.",
+                "Aprobación de la Ley de Encadenamientos Turísticos.",
+                "Programas de capacitación y financiamiento para microempresarios turísticos."
+              ]
+            }
+          },
+          {
+            "nombre_area": "Tecnología e Innovación",
+            "contenido": {
+              "problema": "Baja inversión en Investigación y Desarrollo (I+D). Sistemas estatales ineficientes y susceptibles a corrupción.",
+              "propuesta": "Usar la tecnología para modernizar el Estado y fomentar innovación con sentido social.",
+              "solucion": [
+                "Aumentar la inversión en I+D al 2% del PIB.",
+                "Digitalizar el 100% de trámites estatales usando tecnología blockchain para transparencia.",
+                "Crear el Laboratorio Nacional de Inteligencia Artificial (LANIA)."
+              ],
+              "ejecucion": [
+                "Aumento progresivo del presupuesto en I+D.",
+                "Desarrollo de plataforma estatal blockchain.",
+                "Creación del LANIA por decreto ejecutivo."
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "integracion_conceptual": "El plan es un sistema integral: la 'Justicia Fiscal' (área de Finanzas) financia el 'Estado de Bienestar' (eje de Política Social). La 'Democratización Productiva' y la 'Dignificación Laboral' (eje de Economía) generan empleo digno y redistribuyen riqueza. El 'Sistema de Cuidados' libera tiempo de las mujeres para incorporarse al mercado laboral. Todas las políticas se refuerzan mutuamente para crear un círculo virtuoso de desarrollo centrado en el bienestar humano."
+  }
+}

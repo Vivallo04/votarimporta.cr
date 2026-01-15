@@ -1,0 +1,83 @@
+{
+  "resumen_derechos_laborales_frente_amplio": {
+    "eje": "Economía y Trabajo",
+    "area": "Derechos Laborales",
+    "contenido": {
+      "problema": {
+        "descripcion_general": "El mercado laboral costarricense presenta altos niveles de precariedad, con un 40% de informalidad. Existe una desconexión entre la calificación de los trabajadores y la demanda del empleo formal, y los derechos laborales son violados sistemáticamente en sectores clave, perpetuando la desigualdad y la injusticia social.",
+        "problemas_especificos": [
+          "Condiciones laborales indignas: Jornadas extensas y salarios mínimos que no garantizan una vida digna, dejando como 'letra muerta' el artículo 57 de la Constitución.",
+          "Fiscalización estatal débil: Inspección laboral ineficaz, sin capacidad para sancionar rápidamente a empleadores que violan derechos, especialmente en sectores de alta explotación como el agrícola y las plataformas digitales.",
+          "Desigualdad de género en el trabajo: Brecha salarial, falta de corresponsabilidad en los cuidados que recaen sobre las mujeres, y licencias de paternidad insuficientes.",
+          "Vacío legal en nuevas modalidades: El teletrabajo y el trabajo en plataformas digitales carecen de una regulación que proteja derechos básicos como la desconexión, el pago de riesgos laborales o el reconocimiento de la relación laboral.",
+          "Vulneración de derechos en sectores específicos: Trabajadores agrícolas sin garantía de descanso semanal y expuestos a agroquímicos peligrosos, personas migrantes con derechos sindicales recortados, y personas con discapacidad con baja inclusión laboral."
+        ]
+      },
+      "propuesta": {
+        "enfoque_principal": "Transformar los derechos laborales en el eje central de una economía al servicio de la gente. Se busca dignificar el trabajo, garantizar salarios justos, fortalecer la capacidad fiscalizadora del Estado y adaptar las protecciones a las nuevas realidades del siglo XXI, con un enfoque de igualdad de género e inclusión.",
+        "principios_clave": [
+          "El crecimiento económico debe estar ligado a la justicia social y la redistribución de la riqueza.",
+          "Los derechos solo son efectivos con un Estado fiscalizador fuerte y moderno.",
+          "La autonomía económica de las mujeres requiere políticas de corresponsabilidad y reconocimiento del cuidado.",
+          "Las nuevas formas de trabajo requieren nuevos derechos garantizados."
+        ]
+      },
+      "solucion": {
+        "medidas_estructurales": [
+          {
+            "nombre": "Dignificación de la Jornada y el Salario",
+            "acciones": [
+              "Reducir progresivamente la jornada laboral ordinaria a 40 horas semanales sin reducción salarial.",
+              "Crear una Ley de Salario Mínimo Vital que lo fije multiplicando la línea de pobreza por el promedio de integrantes del hogar.",
+              "Ratificar convenios de la OIT para establecer vacaciones anuales no inferiores a tres semanas."
+            ]
+          },
+          {
+            "nombre": "Fortalecimiento de la Inspección y Cumplimiento",
+            "acciones": [
+              "Modernizar la Dirección Nacional de Inspección del Trabajo con Inteligencia Artificial y geolocalización para detectar explotación (especialmente en agricultura y plataformas digitales).",
+              "Dotar a los inspectores de potestad para dictar órdenes correctivas y multas administrativas directas.",
+              "Enfocar la vigilancia en sectores de alta precariedad: plataformas digitales (ej. repartidores) y sector agrícola."
+            ]
+          },
+          {
+            "nombre": "Igualdad de Género y Economía del Cuidado",
+            "acciones": [
+              "Ampliar la licencia por maternidad a seis meses y universalizar las licencias por paternidad con financiamiento solidario.",
+              "Reformar la legislación para sancionar la brecha salarial por género.",
+              "Profesionalizar el trabajo de cuidado, creando certificaciones para personas cuidadoras y una red nacional de cuido subsidiada (vinculado al Sistema Nacional de Cuidados)."
+            ]
+          },
+          {
+            "nombre": "Protección ante Nuevas Tecnologías y Modalidades",
+            "acciones": [
+              "Regular el teletrabajo para garantizar el derecho a la desconexión digital, la intimidad y la compensación de gastos de conectividad.",
+              "Reconocer la relación laboral subyacente en las plataformas digitales de mensajería y transporte para garantizar cobertura de riesgos del trabajo.",
+              "Impulsar una 'Ley Silla' que garantice el derecho al descanso físico durante la jornada."
+            ]
+          },
+          {
+            "nombre": "Derechos de Poblaciones en Situación de Vulnerabilidad",
+            "acciones": [
+              "Garantizar el pago del día semanal de descanso a trabajadores agrícolas y prohibir agroquímicos altamente peligrosos.",
+              "Eliminar la prohibición constitucional que impide a personas extranjeras participar en directivas sindicales.",
+              "Exigir el cumplimiento estricto del 5% de reserva de plazas para personas con discapacidad en el sector público y crear incentivos para el sector privado."
+            ]
+          }
+        ]
+      },
+      "ejecucion": {
+        "pasos_concretos": [
+          "Presentación y aprobación en la Asamblea Legislativa de: Ley de Reducción de Jornada Laboral, Ley de Salario Mínimo Vital, Ley de Fortalecimiento de la Inspección Laboral, Ley de Regulación del Teletrabajo y Plataformas Digitales, y reformas al Código de Trabajo y la Constitución Política (para derechos de migrantes en sindicatos).",
+          "Ratificación de convenios internacionales de la OIT sobre vacaciones y otros derechos.",
+          "Modernización tecnológica de la Dirección Nacional de Inspección del Trabajo (adquisición de software, capacitación, contratación de personal).",
+          "Diseño e implementación de programas de certificación para personas cuidadoras, en coordinación con el Sistema Nacional de Cuidados.",
+          "Campañas de sensibilización y fiscalización específicas en sectores agrícolas y de plataformas digitales."
+        ]
+      },
+      "integracion_con_ejes_anteriores": {
+        "explicacion": "Los Derechos Laborales son la contraparte práctica en el mundo del trabajo de las políticas sociales propuestas. El 'Salario Mínimo Vital' es esencial para el 'Combate a la Pobreza'. La 'reducción de jornada' y las 'licencias de paternidad' son clave para la 'Economía del Cuidado' y la igualdad de género. El 'fortalecimiento de la inspección' protege a los trabajadores informales que se busca incluir. Finalmente, estas medidas requieren de la 'Justicia Fiscal' (área de Finanzas) para financiar la ampliación de licencias y el fortalecimiento institucional del Ministerio de Trabajo."
+      }
+    }
+  }
+}

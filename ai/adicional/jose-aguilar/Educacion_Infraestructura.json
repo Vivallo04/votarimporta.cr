@@ -1,0 +1,46 @@
+{
+  "eje": "Educación con propósito",
+  "area_especifica": "Infraestructura y Conectividad",
+  "enfoque": "Soporte físico y digital indispensable para hacer realidad la 'Educación con Propósito', superando brechas de desigualdad y potenciando la competitividad del país.",
+  "propuestas": [
+    {
+      "componente": "Infraestructura Física: Escuelas Dignas y Centros de Resiliencia",
+      "problema": "Más de 1,000 centros educativos enfrentan cierres sanitarios, lo que impide un entorno de aprendizaje seguro y digno, profundizando la desigualdad.",
+      "solucion": "Transformar la infraestructura educativa mediante alianzas ágiles y multifuncionales, convirtiéndola en un eje comunitario y de prevención.",
+      "implementacion": [
+        "Alianzas Público-Privadas (APP): Formalizar convenios con gobiernos locales y cámaras empresariales para resolver de inmediato los problemas de infraestructura, superando la lentitud burocrática.",
+        "Centros de Resiliencia Comunitaria: Transformar la infraestructura escolar en espacios donde confluyan servicios de educación, salud mental, deporte y cultura, especialmente en barrios críticos, como herramienta de prevención contra la delincuencia.",
+        "Jornada Ampliada: Acondicionar los centros educativos para ofrecer arte, ciencia y tecnología en horarios extraescolares, manteniendo a los jóvenes en entornos protegidos y productivos."
+      ]
+    },
+    {
+      "componente": "Conectividad Universal: El Internet como Derecho al Aprendizaje",
+      "problema": "La mala coordinación institucional ha impedido cerrar la brecha digital, limitando el acceso a herramientas educativas modernas y de alto desempeño.",
+      "solucion": "Garantizar conectividad universal y de vanguardia para todos los centros educativos, con equipamiento tecnológico adecuado.",
+      "implementacion": [
+        "Coordinación con FONATEL: Asegurar la conectividad universal mediante una ejecución ágil entre el MICITT y SUTEL, con métricas públicas de avance por cantón.",
+        "Tecnologías de Vanguardia: Masificar la fibra óptica y acelerar el despliegue de redes 5G, con una hoja de ruta hacia el 6G, para permitir el acceso a herramientas de Inteligencia Artificial (IA) y computación de alto desempeño.",
+        "Equipamiento Tecnológico: Garantizar la dotación efectiva de dispositivos adecuados a estudiantes y centros, corrigiendo fallas logísticas de administraciones pasadas."
+      ]
+    },
+    {
+      "componente": "Gestión Inteligente: La Plataforma SABER",
+      "problema": "Falta de un sistema de monitoreo en tiempo real que permita gestionar y mantener de forma preventiva la vasta infraestructura educativa nacional.",
+      "solucion": "Utilizar la Inteligencia Artificial (IA) a través de la Plataforma SABER para la gestión inteligente y predictiva de la infraestructura y el proceso educativo.",
+      "implementacion": [
+        "Monitoreo Infraestructural: Usar la Plataforma SABER para supervisar en tiempo real las variables de infraestructura de más de 5,000 centros educativos, facilitando decisiones preventivas y correctivas sobre aulas, comedores y otros espacios.",
+        "Educación Digital Nativa: Aprovechar la conectividad robusta para integrar la IA de manera natural en el currículo desde la primera infancia, fomentando el pensamiento crítico y la ética digital desde los primeros años."
+      ]
+    },
+    {
+      "componente": "Infraestructura para la Formación Dual y el Empleo",
+      "problema": "La infraestructura educativa técnica no está suficientemente equipada ni vinculada a las necesidades productivas de las regiones, limitando la pertinencia de la formación.",
+      "solucion": "Vincular la infraestructura de centros técnicos y de formación dual con los clústeres productivos locales para asegurar empleabilidad.",
+      "implementacion": [
+        "Educación Dual Regional: Impulsar la educación dual en todas las subregiones del país, adaptando la oferta formativa a las necesidades locales.",
+        "Centros Técnicos Bien Equipados: Dotar y modernizar la infraestructura del INA y los colegios técnicos para que estén alineados con sectores de vanguardia como semiconductores, agroindustria 4.0 o salud digital.",
+        "Vinculación con Clústeres Productivos: Conectar directamente los centros educativos técnicos con los actores de los clústeres productivos locales para garantizar una formación pertinente y oportunidades de empleo real."
+      ]
+    }
+  ]
+}

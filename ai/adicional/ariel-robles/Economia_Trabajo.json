@@ -1,0 +1,91 @@
+{
+  "resumen_economia_trabajo_frente_amplio": {
+    "problema": {
+      "descripcion_general": "El Frente Amplio diagnostica que el modelo económico actual, calificado como 'neoliberal', está agotado y ha generado graves problemas: prioriza la acumulación de capital sobre el bienestar social, tiene un mercado laboral precario y no logra reducir la desigualdad.",
+      "problemas_especificos": [
+        "Modelo productivo desequilibrado: Basado en 'enclaves' exportadores que no fortalecen el mercado interno ni democratizan la riqueza.",
+        "Crisis laboral: 40% de informalidad, salarios que no aseguran una vida digna, y desajuste entre la formación de los trabajadores y la demanda del mercado formal.",
+        "Carga de cuidados: El trabajo doméstico no remunerado, que recae principalmente en las mujeres, es una barrera para su autonomía económica.",
+        "Injusticia fiscal: Un sistema tributario que no logra combatir la evasión de grandes capitales y paraísos fiscales, mientras recae sobre las clases medias y bajas.",
+        "Alto costo de vida: Encarecimiento de bienes básicos, medicamentos, alquileres y tarifas eléctricas que afectan el poder adquisitivo.",
+        "Baja inversión en innovación: Insuficiente apoyo a la tecnología y la investigación con beneficio social."
+      ]
+    },
+    "propuesta": {
+      "enfoque_principal": "Subordinar la economía a las necesidades sociales. Se propone una transformación hacia un modelo de justicia social, con un Estado activo que democratice la producción, dignifique el trabajo y garantice derechos mediante una reforma fiscal progresiva.",
+      "cambios_clave": [
+        "Pasar de una economía de 'enclave' a una basada en el fortalecimiento del mercado interno y las PYMES.",
+        "Instaurar un nuevo pacto laboral que reduzca la jornada y garantice un salario mínimo vital.",
+        "Reconocer económicamente el trabajo de cuidados y convertirlo en fuente de empleo digno.",
+        "Financiar el Estado de Bienestar con una reforma fiscal que grave la riqueza y combata la evasión.",
+        "Intervenir para controlar el costo de la vida de los sectores populares.",
+        "Invertir en tecnología e innovación con sentido social."
+      ]
+    },
+    "solucion": {
+      "medidas_estructurales": [
+        {
+          "nombre": "Transformación Productiva y Apoyo a PYMES",
+          "acciones": [
+            "Orientar incentivos, crédito y contratación pública preferentemente a cooperativas, empresas locales y PYMES.",
+            "Transformar el Consejo Nacional de Producción (CNP) en una corporación de apoyo directo a la capacidad industrial y comercial de las PYMES.",
+            "Transitar hacia la soberanía alimentaria con un modelo agroecológico, apoyando la producción nacional de granos básicos y aumentando progresivamente aranceles a importaciones."
+          ]
+        },
+        {
+          "nombre": "Dignificación del Trabajo",
+          "acciones": [
+            "Reducir progresivamente la jornada laboral ordinaria a 40 horas semanales, sin afectar salario ni derechos.",
+            "Crear una Ley de Salario Mínimo Vital, que se determine multiplicando la línea de pobreza por el promedio de integrantes del hogar.",
+            "Fortalecer la inspección laboral con inteligencia artificial y geolocalización para detectar explotación, especialmente en agricultura y plataformas digitales."
+          ]
+        },
+        {
+          "nombre": "Economía del Cuidado e Igualdad (Integración con Política Social)",
+          "acciones": [
+            "Implementar la 'Renta Mínima Feminizada' para mujeres jefas de hogar en vulnerabilidad, reconociendo el trabajo doméstico no remunerado.",
+            "Profesionalizar el cuidado, creando certificaciones para personas cuidadoras y financiando centros comunitarios, vinculado al Sistema Nacional de Cuidados."
+          ]
+        },
+        {
+          "nombre": "Justicia Fiscal y Finanzas Públicas (Integración con Combate a la Pobreza)",
+          "acciones": [
+            "Establecer un impuesto a la 'Renta Mundial y Global' (que los residentes tributen por todas sus rentas, nacionales o externas) para combatir paraísos fiscales.",
+            "Implementar un mecanismo de devolución del IVA a los hogares de los dos quintiles de menores ingresos (IVA Personalizado).",
+            "Levantar ágilmente el secreto bancario para investigaciones tributarias y endurecer sanciones penales para grandes evasores.",
+            "Usar estos recursos para financiar las políticas sociales universales (pensiones, rentas, salud, educación)."
+          ]
+        },
+        {
+          "nombre": "Control del Costo de la Vida",
+          "acciones": [
+            "Control estricto de precios de medicamentos y fiscalización de topes a tasas de interés para combatir la usura.",
+            "Limitar aumentos de alquileres para que no superen la inflación (vinculado a la propuesta de tope del 33% del ingreso).",
+            "Renegociar contratos del ICE para bajar las tarifas eléctricas residenciales."
+          ]
+        },
+        {
+          "nombre": "Tecnología e Innovación con Sentido Social",
+          "acciones": [
+            "Aumentar la inversión en Investigación y Desarrollo (I+D) hasta alcanzar el 2% del PIB.",
+            "Crear el Laboratorio Nacional de Inteligencia Artificial (LANIA).",
+            "Digitalizar el 100% de los servicios públicos usando una plataforma estatal basada en blockchain para garantizar transparencia."
+          ]
+        }
+      ]
+    },
+    "ejecucion": {
+      "pasos_concretos": [
+        "Reformas legales: Ley de Reducción de Jornada Laboral, Ley de Salario Mínimo Vital, Ley de Fortalecimiento del CNP, Ley de Regulación de Alquileres, Ley de Innovación y Tecnología.",
+        "Transformación institucional: Reconversión del CNP, creación del LANIA, fortalecimiento de la Dirección Nacional de Inspección de Trabajo con tecnología.",
+        "Implementación de programas: Diseño y puesta en marcha del mecanismo de devolución del IVA, programa de renta mínima feminizada, sistema de control de precios de medicamentos.",
+        "Política tributaria: Presentación y aprobación en la Asamblea Legislativa del paquete de reforma fiscal progresiva (renta mundial, impuesto a grandes herencias).",
+        "Política comercial y productiva: Revisión y ajuste de aranceles para proteger la producción nacional, reorientación de la contratación pública hacia PYMES.",
+        "Inversión pública: Aumento progresivo del presupuesto en I+D, inversión en infraestructura digital estatal (blockchain)."
+      ]
+    },
+    "integracion_con_ejes_anteriores": {
+      "explicacion": "La política económica es el soporte financiero y productivo de la política social. La 'reforma fiscal progresiva' es el motor para financiar las pensiones universales, el Sistema de Cuidados y la salud. La 'dignificación del trabajo' y la 'economía del cuidado' son la contraparte económica directa del combate a la pobreza y la desigualdad de género. El 'control del costo de la vida' protege el poder adquisitivo de las familias vulnerables. En conjunto, buscan crear un círculo virtuoso: una economía más justa genera los recursos para un Estado de Bienestar fuerte, que a su vez reduce desigualdades y dinamiza el mercado interno."
+    }
+  }
+}

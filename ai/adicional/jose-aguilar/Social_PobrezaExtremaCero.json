@@ -1,0 +1,47 @@
+{
+  "eje": "Desarrollo Social y Vivienda",
+  "area_especifica": "Pobreza Extrema Cero",
+  "enfoque": "Meta nacional central para erradicar la pobreza extrema antes de 2030, integrada en la 'Turbina Social' como un motor de movilidad económica basado en soluciones sostenibles y no asistencialistas.",
+  "propuestas": [
+    {
+      "componente": "Nueva Gobernanza y Eficiencia Basada en Datos",
+      "problema": "Fragmentación y duplicidad en la administración social que genera desperdicio de recursos y asignación ineficiente de ayudas.",
+      "solucion": "Establecer una gobernanza unificada y científica que utilice datos integrados para una planificación y ejecución efectiva de la política social.",
+      "implementacion": [
+        "Gobernanza Unificada: Integrar plataformas como SINIRUBE y SABER para crear registros administrativos robustos y unificar la rectoría del sector social.",
+        "Criterios Científicos: Utilizar el Índice de Pobreza Multidimensional (IPM) junto con la pobreza monetaria para identificar hogares beneficiarios, planificando mediante una Mesa Nacional de Pobreza con datos en tiempo real.",
+        "Condicionalidad Estratégica: Vincular estrictamente las transferencias económicas a la educación y la inserción laboral, priorizando el empleo como salida definitiva de la pobreza."
+      ]
+    },
+    {
+      "componente": "Componentes de la Estrategia: Acompañamiento e Inclusión",
+      "problema": "Falta de un acompañamiento integral y de vínculos efectivos con el mercado laboral que permitan a las familias superar la condición de pobreza extrema de forma permanente.",
+      "solucion": "Implementar una estrategia integral liderada por un IMAS fortalecido, combinando protección social con promoción de autonomía económica.",
+      "implementacion": [
+        "Acompañamiento Integral: Realizar censos actualizados, otorgar bonos de alimentos o vivienda, y establecer un sistema de acompañamiento social para familias vulnerables.",
+        "Inclusión Laboral: Vincular la ayuda social con capacitación rápida del INA, incentivos para que empresas contraten población vulnerable y programas de microcréditos adaptados.",
+        "Fortalecimiento de Redes de Apoyo: Ampliar la cobertura de CEN-CINAI, comedores escolares y pensiones no contributivas para liberar la carga de cuidado y facilitar la integración laboral, especialmente de jefas de hogar."
+      ]
+    },
+    {
+      "componente": "Vivienda: Enfoque Dual para Vulnerabilidad y Clase Media",
+      "problema": "Déficit habitacional que afecta tanto a población en pobreza extrema (tugurios) como a la clase media olvidada, sin aprovechar el potencial de la construcción como motor económico.",
+      "solucion": "Adoptar una política habitacional dual que atienda la emergencia social y reactive la economía mediante el acceso a vivienda.",
+      "implementacion": [
+        "Atención a la Vulnerabilidad: Priorizar la intervención y erradicación de tugurios, implementando modalidades innovadoras como el leasing social para garantizar un techo digno.",
+        "Primer Hogar para Clase Media: Impulsar programas con condiciones de financiamiento especiales (créditos blandos, avales) a través de la banca pública para facilitar la primera vivienda a este sector.",
+        "Maximizar el Impacto Económico: Aprovechar que la construcción de vivienda genera encadenamientos con más de 50 sectores, creando empleo masivo y fortaleciendo la recaudación fiscal."
+      ]
+    },
+    {
+      "componente": "Visión Integral: Superar la Dependencia",
+      "problema": "Riesgo de perpetuar la dependencia de la asistencia estatal sin generar autonomía y movilidad social real.",
+      "solucion": "Fomentar la dignidad y la autosuficiencia mediante un modelo que alinee la política social con la creación de capacidades y oportunidades.",
+      "implementacion": [
+        "Alineación Estratégica: Articular la asistencia social con el acceso a educación de calidad y oportunidades concretas de empleo digno.",
+        "Cierre de Brechas: Enfocar esfuerzos en reducir las brechas territoriales y educativas que alimentan la desigualdad y la pobreza.",
+        "Meta Final: Lograr que cada persona pueda recuperar su dignidad y salir de la pobreza a través de su propio esfuerzo y talento, con el Estado como facilitador."
+      ]
+    }
+  ]
+}

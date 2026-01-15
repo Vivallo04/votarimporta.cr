@@ -1,0 +1,43 @@
+{
+  "eje": "Seguridad, Inteligencia y Oportunidades",
+  "enfoque": "Triángulo estratégico donde cada vértice refuerza al otro para recuperar la paz y la prosperidad",
+  "propuestas": [
+    {
+      "area": "Seguridad con Autoridad",
+      "problema": "El crimen organizado ha penetrado instituciones y territorios debido a la ausencia de un liderazgo claro y control estatal.",
+      "solucion": "Restablecer el control del Estado mediante autoridad firme, coordinación de alto nivel y presencia territorial.",
+      "implementacion": [
+        "Liderazgo desde Casa Presidencial: La seguridad nacional como prioridad máxima, coordinada directamente por la Segunda Vicepresidencia.",
+        "Control Territorial Inmediato: Retomar los 20 distritos más violentos en los primeros 100 días mediante presencia masiva y permanente de fuerzas policiales y unidades especiales.",
+        "Golpes al Corazón Operativo: Traslado de cabecillas a regímenes de aislamiento, bloqueo total de comunicaciones en cárceles y congelamiento de bienes vinculados al narcotráfico.",
+        "Blindaje de Fronteras y Puertos: Instalación estratégica de escáneres en puertos como Moín y Caldera, y creación de unidades élite de control portuario bajo supervisión externa."
+      ]
+    },
+    {
+      "area": "Inteligencia",
+      "problema": "La inteligencia está fragmentada entre diversas instituciones, lo que limita la capacidad de respuesta y prevención.",
+      "solucion": "Consolidar un Centro de Comando C5 (Control, Cómputo, Comunicaciones y Contacto Ciudadano) para integrar información en tiempo real.",
+      "implementacion": [
+        "Integración de Datos en Tiempo Real: Unificación de información de cámaras de vigilancia, sensores, drones, llamadas al 911 y bases de datos policiales en una sala de control central.",
+        "Analítica con Inteligencia Artificial: Uso de IA para detección automática de incidentes y análisis predictivo de delitos, permitiendo acciones preventivas y respuestas precisas.",
+        "Cooperación Internacional: Alianzas con países como Israel para ciberseguridad, Holanda para control de puertos, y convenios con la DEA."
+      ]
+    },
+    {
+      "area": "Oportunidades",
+      "problema": "La falta de oportunidades económicas y educativas, especialmente para jóvenes, aumenta la vulnerabilidad al reclutamiento por parte del crimen organizado.",
+      "solucion": "Enfoque preventivo y social que combata las causas raíces de la inseguridad mediante educación, empleo y recuperación del espacio público.",
+      "implementacion": [
+        "Rescate Educativo: Programas de jornada ampliada en zonas vulnerables y fomento de la educación dual vinculada al empleo real.",
+        "Incentivos al Empleo Juvenil: Beneficios para empresas que contraten a jóvenes de zonas de alto riesgo, apoyados por redes de mentoría para prevenir la captación por bandas.",
+        "Recuperación del Espacio Público: Aplicación de 'urbanismo táctico' para devolver iluminación, parques y centros culturales a las comunidades, arrebatándoselos al crimen organizado.",
+        "Emprendimiento como Dignidad: Remoción de trabas burocráticas para facilitar que las personas puedan salir adelante por su propio esfuerzo y talento, rechazando el asistencialismo."
+      ]
+    }
+  ],
+  "elementos_transversales": [
+    "Tecnología e innovación como ejes conectores entre los pilares.",
+    "Uso de la Plataforma SABER en educación para identificar jóvenes en riesgo de exclusión.",
+    "Estado Digital para eliminar la corrupción y el 'vivazo' que facilitan la impunidad."
+  ]
+}

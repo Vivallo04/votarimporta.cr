@@ -1,0 +1,70 @@
+{
+  "resumen_combate_pobreza_frente_amplio": {
+    "problema": {
+      "descripcion_general": "Costa Rica enfrenta una crisis de desigualdad extrema (coeficiente Gini de 0.508). El sistema actual de combate a la pobreza es inefectivo y problemático porque:",
+      "problemas_especificos": [
+        "Usa un concepto muy restrictivo de 'pobreza' que deja fuera a personas en riesgo inminente de caer en ella.",
+        "Trata la ayuda social como una 'dádiva' o favor político, no como un derecho, lo que permite su uso como botín electoral.",
+        "Los sistemas de registro (como el SINIRUBE) son criticados por ser secretos y excluyentes.",
+        "Los recortes presupuestarios redujeron la inversión social del 10.1% al 8.5% del PIB, debilitando las políticas públicas.",
+        "La carga desproporcionada del trabajo de cuidados no remunerado sobre las mujeres (32 horas semanales vs. 15 de los hombres) es un motor clave de la pobreza femenina.",
+        "Factores como la falta de acceso a internet y la segregación territorial profundizan la desigualdad."
+      ]
+    },
+    "propuesta": {
+      "enfoque_principal": "Cambiar completamente el paradigma: pasar de un modelo de 'asistencia selectiva' a un Estado de Bienestar que garantice derechos universales. Se propone combatir la pobreza atacando sus causas estructurales.",
+      "cambios_clave": [
+        "Sustituir el concepto de 'pobreza' por el de 'vulnerabilidad social' para ampliar la protección.",
+        "Declarar la asistencia social como un derecho humano fundamental.",
+        "Financiar estas políticas con una reforma fiscal justa y progresiva."
+      ]
+    },
+    "solucion": {
+      "medias_estructurales": [
+        {
+          "nombre": "Derecho y Universalización",
+          "acciones": [
+            "Reformar la Ley Constitutiva del IMAS para que la ayuda sea un derecho, no un favor.",
+            "Universalizar los comedores escolares en secundaria para toda la población en vulnerabilidad, para evitar deserción y trabajo infantil.",
+            "Crear una Pensión Universal para mayores de 65 años en pobreza.",
+            "Crear una pensión específica para mujeres de 60 a 64 años que se dedicaron al trabajo de cuidado no remunerado."
+          ]
+        },
+        {
+          "nombre": "Sistema Nacional de Cuidados e Igualdad",
+          "acciones": [
+            "Crear un Sistema Nacional de Cuidados con enfoque de derechos y género para universalizar el acceso al cuidado (niños, ancianos, personas con discapacidad).",
+            "Establecer una 'Renta Mínima Feminizada' para mujeres jefas de hogar en vulnerabilidad, financiada por contribuciones solidarias de bancos o grandes empresas."
+          ]
+        },
+        {
+          "nombre": "Inclusión Digital y Territorial",
+          "acciones": [
+            "Declarar el acceso a internet de calidad como derecho humano y fortalecer FONATEL para cerrar la brecha digital.",
+            "Priorizar regiones fuera del Gran Área Metropolitana con menor desarrollo.",
+            "Crear un banco de tierras regional y promover vivienda que integre diferentes clases sociales para evitar guetos."
+          ]
+        },
+        {
+          "nombre": "Sostenibilidad Financiera",
+          "acciones": [
+            "Realizar una reforma fiscal progresiva que incluya: renta mundial para ciudadanos en el extranjero, impuesto a grandes herencias, y combate a la evasión y paraísos fiscales.",
+            "Fortalecer el financiamiento de la Caja Costarricense de Seguro Social (CCSS) para que la enfermedad no cause pobreza extrema.",
+            "Blindar el presupuesto de programas sociales (como Avancemos) contra recortes por la regla fiscal."
+          ]
+        }
+      ]
+    },
+    "ejecucion": {
+      "pasos_concretos": [
+        "Modificación legislativa de la Ley del IMAS y creación de nuevas leyes (Sistema de Cuidados, reforma fiscal).",
+        "Revisión y transformación pública del sistema de registro SINIRUBE para hacerlo transparente e inclusivo.",
+        "Diseño e implementación de programas de transferencias universales (pensiones, renta feminizada) con asignación presupuestaria garantizada.",
+        "Políticas activas de inversión en infraestructura digital (a través de FONATEL) y de vivienda (creación del banco de tierras).",
+        "Negociación y aprobación en la Asamblea Legislativa de la reforma fiscal para generar los recursos necesarios.",
+        "Fortalecimiento institucional de la CCSS, incluyendo el pago de la deuda del Estado y despolitización de su junta directiva."
+      ]
+    },
+    "conclusion": "El plan no propone solo 'dar ayudas', sino construir un sistema donde los derechos a la alimentación, el cuidado, la vivienda, la salud y una vejez digna estén garantizados por el Estado para todas las personas en situación de vulnerabilidad, rompiendo el ciclo de la pobreza con políticas universales y financiamiento justo."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "eje": "Seguridad, Inteligencia y Oportunidades",
+  "area_especifica": "Centro de Comando C5 (Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano)",
+  "enfoque": "Columna vertebral tecnológica y núcleo de gestión de datos en tiempo real para unificar la respuesta estatal fragmentada.",
+  "propuestas": [
+    {
+      "componente": "Cerebro de la Inteligencia Nacional",
+      "problema": "Organismos como OIJ, DIS, PCD y Fuerza Pública trabajan con plataformas distintas o inexistentes, generando desconexión y dispersión de esfuerzos.",
+      "solucion": "Crear un Centro Único de Inteligencia que integre toda la información y utilice analítica avanzada para unificar y potenciar la respuesta del Estado.",
+      "implementacion": [
+        "Integración Total de Datos: Unificar en una sala de control la información de cámaras de vigilancia, sensores, drones, bases de datos policiales y el sistema 911.",
+        "Analítica con Inteligencia Artificial: Usar IA para detección automática de incidentes y análisis predictivo de delitos, permitiendo acciones preventivas.",
+        "Consolidación Institucional: Establecer un Centro Único de Inteligencia contra el Crimen Organizado bajo esta estructura."
+      ]
+    },
+    {
+      "componente": "Seguridad Operativa y Control Territorial",
+      "problema": "Falta de una herramienta técnica centralizada para ejecutar medidas de choque con respuesta rápida y coordinada, y vigilar puntos críticos de violencia.",
+      "solucion": "Usar el C5 como plataforma tecnológica que soporte operaciones de seguridad en tiempo real, conectando todos los actores y dispositivos de vigilancia.",
+      "implementacion": [
+        "Respuesta Rápida y Coordinada: Conectar simultáneamente a policía, bomberos, ambulancias y protección civil en un solo sistema de gestión de emergencias.",
+        "Vigilancia de 'Puntos Calientes': Procesar información de drones y cámaras térmicas para apoyar operativos masivos en los 20 distritos más violentos (primeros 100 días).",
+        "Blindaje Logístico: Conectar escáneres en puertos y fronteras al sistema para cortar rutas de tráfico de drogas y dinero, integrando inteligencia internacional."
+      ]
+    },
+    {
+      "componente": "Contribución a Oportunidades y Modernización",
+      "problema": "Falta de transparencia, corrupción ('vivazo') e inseguridad obstaculizan la creación de un entorno propicio para inversión, empleo y emprendimiento.",
+      "solucion": "Aprovechar el C5 como herramienta de transparencia y modernización para crear un clima de paz y confianza que favorezca el desarrollo social y económico.",
+      "implementacion": [
+        "Transparencia y Lucha contra la Corrupción: Centralizar y digitalizar datos para reducir discrecionalidad y garantizar gestión pública transparente y medible.",
+        "Entorno Seguro para la Inversión: Contribuir a recuperar control territorial y reducir impunidad, creando clima de paz necesario para empleo digno y emprendimiento.",
+        "Tecnología como Palanca Social: Desarrollar capacidades de 'Cómputo, Comunicaciones y Contacto Ciudadano' para modernizar tecnológicamente al país, atrayendo cooperación técnica en ciberseguridad."
+      ]
+    },
+    {
+      "componente": "Financiamiento y Liderazgo",
+      "problema": "Necesidad de asegurar recursos y dirección política de alto nivel para implementar y mantener un sistema tecnológico de esta envergadura.",
+      "solucion": "Financiamiento específico y liderazgo político centralizado para garantizar que el C5 sea prioridad operativa y estratégica.",
+      "implementacion": [
+        "Financiamiento: Recursos del presupuesto del Ministerio de Seguridad Pública y de cooperación internacional de alto impacto.",
+        "Articulación Política: Operar bajo la dirección del Consejo de Seguridad ampliado, liderado desde la Casa Presidencial, asegurando prioridad política de primer orden."
+      ]
+    }
+  ]
+}

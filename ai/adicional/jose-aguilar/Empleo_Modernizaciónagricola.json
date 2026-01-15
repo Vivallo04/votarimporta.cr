@@ -1,0 +1,39 @@
+{
+  "eje": "Economía y Emprendimiento",
+  "area_especifica": "Modernización Agrícola e Industria",
+  "enfoque": "Motor fundamental para transitar hacia una economía del conocimiento, donde la innovación sea la base para generar empleo digno y fomentar el emprendimiento dinámico, elevando la productividad y reduciendo desigualdades mediante tecnología y capacitación.",
+  "propuestas": [
+    {
+      "componente": "Modernización Agrícola: Hacia el Agro 4.0",
+      "problema": "Necesidad de que el campo costarricense compita globalmente con sostenibilidad y valor agregado, superando modelos tradicionales de baja productividad.",
+      "solucion": "Transformación integral del sector agrícola mediante innovación tecnológica, financiamiento accesible y creación de encadenamientos de valor.",
+      "implementacion": [
+        "Innovación Tecnológica: Impulsar la agricultura de precisión con sensores, drones y análisis de mercados. Crear el Hub Nacional de Innovación Agritech para brindar datos agroclimáticos y capacitar a 10,000 productores.",
+        "Financiamiento y Resiliencia: Promover créditos blandos, microcréditos para jóvenes y mujeres, y seguros climáticos paramétricos. Invertir en infraestructura rural estratégica (riego, electrificación, centros de acopio).",
+        "Encadenamientos de Valor: Fomentar el modelo 'de la finca a la mesa' (from farm to table), vinculando el agro con el sector turístico, especialmente en zonas como Guanacaste."
+      ]
+    },
+    {
+      "componente": "Sector Industrial: Innovación y Sostenibilidad",
+      "problema": "Necesidad de desarrollar un sector industrial de alto valor agregado, integrado a cadenas globales, y que sea sostenible y competitivo en costos energéticos.",
+      "solucion": "Fomentar la innovación, diversificación estratégica, competitividad energética y economía circular en el sector industrial.",
+      "implementacion": [
+        "Incentivos a la I+D: Impulsar créditos fiscales, fondos de capital de riesgo y crear clústeres entre empresas, universidades y centros de investigación.",
+        "Diversificación Estratégica: Apostar por nichos avanzados como biotecnología, nanotecnología y sector aeroespacial, consolidando nodos logísticos y regionales.",
+        "Competitividad Energética: Reducir el costo de la energía mediante apertura eléctrica, incentivos a fuentes renovables y eliminar la discrecionalidad del ICE en la compra de energía.",
+        "Economía Circular: Incentivar el uso de materiales reciclados y tecnologías limpias, apoyando la transferencia tecnológica hacia las MIPYMEs."
+      ]
+    },
+    {
+      "componente": "Empleo y Emprendimiento como Ejes Transversales",
+      "problema": "Brecha de habilidades frente a la automatización y la IA, y obstáculos burocráticos que limitan la creación y crecimiento de empresas.",
+      "solucion": "Vinculación directa entre la modernización productiva y la generación de oportunidades mediante capacitación, educación técnica y simplificación administrativa.",
+      "implementacion": [
+        "Reconversión Laboral (Reskilling): Capacitar a 250,000 personas en habilidades digitales y técnicas para que la tecnología aumente la productividad sin sustituir empleos.",
+        "Educación Dual: Duplicar la cobertura del INA y de los colegios técnicos, vinculando la formación de jóvenes con la demanda real de la industria y el agro en sus regiones.",
+        "Integración de Regímenes: Facilitar encadenamientos entre zonas francas y el régimen definitivo, permitiendo que las pequeñas empresas locales sean proveedoras de multinacionales.",
+        "Simplificación de Trámites: Implementar una ventanilla única digital y el 'silencio positivo' para que la creación de empresas y obtención de permisos no excedan los plazos legales."
+      ]
+    }
+  ]
+}

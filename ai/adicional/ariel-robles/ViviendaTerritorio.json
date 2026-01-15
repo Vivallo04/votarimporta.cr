@@ -1,0 +1,85 @@
+{
+  "resumen_vivienda_territorio_frente_amplio": {
+    "eje": "Infraestructura y Ambiente",
+    "area": "Vivienda y Territorio",
+    "contenido": {
+      "problema": {
+        "descripcion_general": "Costa Rica tiene un crecimiento urbano desordenado, sin planificación estratégica, que ha generado ciudades ineficientes, segregación social, altos costos de vivienda y una movilidad colapsada. Esto profundiza la desigualdad y la vulnerabilidad ambiental.",
+        "problemas_especificos": [
+          "Crecimiento urbano caótico: Modelo de 'ciudad difusa' que consume suelo, aumenta distancias y colapsa la movilidad. El 50% de los cantones carece de planificación urbana actualizada.",
+          "Especulación inmobiliaria y alquileres altos: Los precios de alquiler y vivienda no tienen relación con los ingresos reales de las familias, forzando a gastar más del 30-33% del ingreso en vivienda.",
+          "Precariedad y hacinamiento: Aumento del 43% en viviendas en condición de precario (2023-2024). Problemas graves en cuarterías con condiciones indignas.",
+          "Vulnerabilidad territorial: Asentamientos en zonas de riesgo (inundaciones, deslizamientos) por falta de planificación. Gentrificación en costas que desplaza a comunidades históricas.",
+          "Falta de integración vivienda-transporte: La vivienda se construye lejos de empleos y transporte público, forzando el uso del carro y aumentando la congestión.",
+          "Institucionalidad fragmentada: El INVU y el MIVAH actúan de forma separada, generando vacíos y lentitud en la gestión de vivienda y ordenamiento territorial."
+        ]
+      },
+      "propuesta": {
+        "enfoque_principal": "Integrar la vivienda, la planificación territorial y la movilidad bajo principios de justicia social, sostenibilidad ambiental y eficiencia urbana. Transitar hacia ciudades compactas, humanas y resilientes, donde la vivienda sea un derecho y no una mercancía.",
+        "cambios_clave": [
+          "Planificar el territorio de forma regional y vinculada a la protección ambiental.",
+          "Vincular la ubicación de la vivienda con el transporte público masivo y la movilidad activa (caminar, bicicleta).",
+          "Regular el mercado para frenar la especulación y garantizar alquileres accesibles.",
+          "Fortalecer y unificar al Estado para que sea un actor fuerte en planificación y provisión de vivienda pública.",
+          "Proteger a las comunidades frente a desalojos y gentrificación, especialmente en costas."
+        ]
+      },
+      "solucion": {
+        "medidas_estructurales": [
+          {
+            "nombre": "Ordenamiento Territorial Sostenible y Resiliente",
+            "acciones": [
+              "Crear Planes Reguladores Regionales para coordinar cantones, proteger zonas frágiles y gestionar riesgos climáticos.",
+              "Reubicar, con garantías, a poblaciones en zonas de alto riesgo (inundaciones, deslizamientos) cerca de fuentes de trabajo y estudio.",
+              "Integrar áreas verdes y espacio público como elementos centrales del diseño urbano."
+            ]
+          },
+          {
+            "nombre": "Infraestructura Integrada: Vivienda Conectada al Transporte",
+            "acciones": [
+              "Promover el Desarrollo Orientado al Transporte (DUOT): Incentivar vivienda y comercio cerca de estaciones de tren y buses principales.",
+              "Implementar el concepto de 'Calle Completa' en mejoramientos barriales: aceras anchas, ciclovías, prioridad peatonal.",
+              "Crear Bancos de Tierras Regionales con terrenos estatales y municipales para destinar a vivienda social bien ubicada."
+            ]
+          },
+          {
+            "nombre": "Reforma Institucional para una Gestión Eficaz",
+            "acciones": [
+              "Fusionar el INVU y el MIVAH en un solo Ministerio de Vivienda y Ordenamiento Territorial fuerte y rector.",
+              "Crear Secretarías Regionales descentralizadas para gestionar fondos y trabajar con municipios y comunidades."
+            ]
+          },
+          {
+            "nombre": "Justicia Social y Control del Mercado Inmobiliario",
+            "acciones": [
+              "Establecer topes a los alquileres para estratos bajos y medios (máximo 30-33% del ingreso familiar promedio).",
+              "Impulsar la Ley de Territorios Costeros Comunitarios (TECOCOS) para proteger a comunidades históricas de la gentrificación.",
+              "Promover la vivienda pública en alquiler y modelos de propiedad colectiva con apoyo estatal."
+            ]
+          },
+          {
+            "nombre": "Atención a la Vulnerabilidad Habitacional Extrema",
+            "acciones": [
+              "Intervención urgente en mejoramiento barrial para atacar el crecimiento del 43% en precarios.",
+              "Priorizar en subsidios de vivienda a mujeres víctimas de violencia de género que necesiten reubicarse.",
+              "Intervenir en las cuarterías para controlar hacinamiento, especulación y garantizar condiciones dignas."
+            ]
+          }
+        ]
+      },
+      "ejecucion": {
+        "pasos_concretos": [
+          "Presentar y aprobar en la Asamblea Legislativa: Ley de Creación del Ministerio de Vivienda y Ordenamiento Territorial, Ley de Regulación de Alquileres, Ley TECOCOS, y reformas para crear los Bancos de Tierras.",
+          "Elaborar e implementar los primeros Planes Reguladores Regionales piloto, comenzando por zonas metropolitanas y costeras críticas.",
+          "Iniciar programas de mejoramiento barrial integral en asentamientos precarios prioritarios.",
+          "Diseñar e implementar los primeros proyectos piloto de Desarrollo Orientado al Transporte (DUOT) alrededor de estaciones planificadas del Tren Eléctrico.",
+          "Crear las Secretarías Regionales de Vivienda y comenzar el catastro de tierras estatales para los bancos de tierras.",
+          "Establecer un programa especial de subsidios y asesoría legal para mujeres víctimas de violencia que requieran vivienda."
+        ]
+      },
+      "integracion_con_ejes_anteriores": {
+        "explicacion": "Esta área es el puente físico entre la 'Política Social' y la 'Infraestructura'. Una 'vivienda digna y bien ubicada' es fundamental para el 'Combate a la Pobreza'. La 'regulación de alquileres' protege el ingreso familiar. La 'integración vivienda-transporte' es clave para el éxito del 'Transporte Público' y la 'Movilidad Sostenible'. La 'protección contra la gentrificación' en costas se vincula con la 'Inclusión de Poblaciones Excluidas'. La 'planificación territorial resiliente' es una herramienta esencial de 'Justicia Ambiental' y adaptación al cambio climático. Sin una política de vivienda y territorio integrada, las demás políticas (sociales, ambientales, de transporte) pierden eficacia."
+      }
+    }
+  }
+}

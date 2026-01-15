@@ -1,0 +1,35 @@
+{
+  "eje": "Desarrollo Social y Vivienda",
+  "area_especifica": "Primer Hogar para la clase media",
+  "enfoque": "Pieza fundamental de la 'Turbina Social' para corregir un desequilibrio histórico, donde el Estado actúa como facilitador para que la clase media acceda a vivienda propia, integrando este objetivo en una política social sostenible y de reactivación económica.",
+  "propuestas": [
+    {
+      "componente": "Cambio de Paradigma en la Política Social",
+      "problema": "La política social y habitacional se ha centrado casi exclusivamente en sectores de muy bajos recursos, dejando a la clase media con barreras crecientes para acceder a un techo propio y sin opciones de apoyo estatal.",
+      "solucion": "Evolucionar la política social más allá del asistencialismo puro, posicionando al Estado como un facilitador que ofrece soluciones sostenibles y acceso a financiamiento para la clase media.",
+      "implementacion": [
+        "Readecuación de la banca pública: Orientar el músculo financiero de los entes públicos para ofrecer condiciones especiales como créditos blandos y avales para la primera vivienda.",
+        "Gobernanza unificada con datos: Alinear la política habitacional con una gestión que utilice sistemas integrados (SINIRUBE y SABER) para asignar recursos de manera eficiente y transparente."
+      ]
+    },
+    {
+      "componente": "La Vivienda como Motor Económico ('Win-Win')",
+      "problema": "Falta de aprovechamiento del sector vivienda como un dinamizador económico integral, limitando su potencial para generar empleo, encadenamientos productivos y crecimiento fiscal.",
+      "solucion": "Transformar la construcción de vivienda para la clase media en una estrategia clave de reactivación económica con un efecto multiplicador en toda la economía.",
+      "implementacion": [
+        "Activación de encadenamientos productivos: Promover proyectos habitacionales que activen más de 50 sectores económicos (materiales, transporte, servicios, comercio).",
+        "Generación de empleo: Crear miles de empleos directos e indirectos, estimulando la economía formal.",
+        "Fortalecimiento fiscal: Aumentar la recaudación tributaria a través de la dinamización económica generada por el sector."
+      ]
+    },
+    {
+      "componente": "Complementariedad con la Reducción de la Pobreza",
+      "problema": "Riesgo de que la clase media, al no tener acceso a activos como la vivienda propia, caiga en situaciones de vulnerabilidad económica y social.",
+      "solucion": "Integrar el programa de clase media dentro de una estrategia habitacional y social integral que atienda a todos los estratos, previniendo el descenso social y complementando la lucha contra la pobreza extrema.",
+      "implementacion": [
+        "Estrategia dual de vivienda: Mientras se prioriza la erradicación de tugurios y el leasing social para los más vulnerables, se ejecuta el programa de primer hogar para la clase media.",
+        "Sistema habitacional inclusivo: Asegurar que la política de vivienda sea inclusiva para todos los estratos sociales, fortaleciendo la estabilidad y el tejido social en su conjunto."
+      ]
+    }
+  ]
+}

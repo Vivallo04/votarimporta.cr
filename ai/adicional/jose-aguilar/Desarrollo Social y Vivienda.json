@@ -1,0 +1,45 @@
+{
+  "eje": "Desarrollo Social y Vivienda",
+  "enfoque": "Componentes críticos de la 'Turbina Social' para garantizar paz, solidaridad y justicia social, rechazando el asistencialismo puro y promoviendo un modelo de soluciones sostenibles donde el Estado facilita oportunidades para la dignidad mediante el esfuerzo propio.",
+  "propuestas": [
+    {
+      "componente": "Gobernanza Unificada y Eficiencia del Gasto",
+      "problema": "Fragmentación institucional y duplicidad de programas que diluyen el impacto de la inversión social, con asignación discrecional y poco científica de recursos.",
+      "solucion": "Integrar tecnológicamente los datos sociales y utilizar criterios multidimensionales para una asignación eficiente y basada en evidencia de los recursos.",
+      "implementacion": [
+        "Integración Tecnológica de Datos: Usar las plataformas SINIRUBE y SABER para crear un registro administrativo robusto que permita una asignación científica de recursos.",
+        "Uso del Índice de Pobreza Multidimensional (IPM): El FODESAF y MIDEPLAN utilizarán el IPM (no solo el ingreso) como criterio principal para identificar hogares vulnerables y asignar ayudas.",
+        "Mesa Nacional de Pobreza: Crear una instancia de planificación basada en datos en tiempo real para eliminar la discrecionalidad política en la entrega de beneficios."
+      ]
+    },
+    {
+      "componente": "Estrategia 'Pobreza Extrema Cero'",
+      "problema": "Persistencia de la pobreza extrema, con modelos asistenciales que no promueven la autonomía económica y la salida definitiva de la condición de vulnerabilidad.",
+      "solucion": "Erradicar la pobreza extrema antes de 2030 mediante un IMAS fortalecido que vincule la asistencia económica con la educación e inserción laboral.",
+      "implementacion": [
+        "Transferencias Condicionadas: Vincular estrictamente la asistencia económica a la educación y la inserción laboral, definiendo el empleo como la salida real de la pobreza.",
+        "Acompañamiento e Inclusión: Vincular la ayuda social con capacitación rápida del INA, programas de microcréditos adaptados y subsidios para que empresas contraten población vulnerable.",
+        "Refuerzo de Redes de Cuido: Ampliar los CEN-CINAI y comedores escolares para permitir que jefes de hogar se integren al mercado laboral."
+      ]
+    },
+    {
+      "componente": "Vivienda: Motor Económico y Rescate de la Clase Media",
+      "problema": "La clase media ha sido históricamente olvidada por las políticas estatales de vivienda, y el sector no se aprovecha como motor económico.",
+      "solucion": "Cambiar el paradigma de la política habitacional para enfocarse en la clase media, utilizando la construcción de vivienda como un potente motor de reactivación económica y generación de empleo.",
+      "implementacion": [
+        "Primer Hogar para Clase Media: Readecuar el fin de la banca pública para ofrecer condiciones de financiamiento especiales (créditos blandos y avales) para la adquisición de la primera casa.",
+        "Construcción como 'Win-Win': Promover la construcción de vivienda para la clase media, generando encadenamientos productivos con más de 50 sectores y empleo formal.",
+        "Innovación en Modelos de Vivienda: Implementar leasing social para facilitar acceso a techo digno y priorizar la erradicación de tugurios mediante modalidades habitacionales modernas."
+      ]
+    },
+    {
+      "componente": "Vínculo con el Contexto Amplio (Seguridad y Educación)",
+      "problema": "El desarrollo social aislado no aborda problemas conexos como la inseguridad y la falta de movilidad social, que requieren un enfoque integral.",
+      "solucion": "Integrar el desarrollo social con seguridad y educación para crear una base sólida de prevención del crimen y promoción de la movilidad social.",
+      "implementacion": [
+        "Prevención del Crimen: Utilizar el acceso a vivienda, cultura y deporte en zonas vulnerables como herramienta directa para evitar que jóvenes sean captados por el crimen organizado.",
+        "Movilidad Social: Blindar la educación pública de calidad y los apoyos socioeconómicos (becas Avancemos, transporte estudiantil) para garantizar que el sistema educativo siga siendo el motor de ascenso social."
+      ]
+    }
+  ]
+}

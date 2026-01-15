@@ -1,0 +1,84 @@
+{
+  "resumen_cultura_educacion_publica_frente_amplio": {
+    "eje": "Educación, Cultura y Ciencia",
+    "area": "Cultura (Vinculación con Educación Pública)",
+    "contenido": {
+      "problema": {
+        "descripcion_general": "El proyecto cultural estatal ha decaído debido a políticas neoliberales y recortes presupuestarios, amenazando la memoria histórica y el patrimonio. Está centralizado en la Gran Área Metropolitana (GAM), marginando las expresiones rurales, indígenas y afrodescendientes. Existe una desconexión entre cultura y educación formal, y una precariedad laboral extrema para los trabajadores del sector.",
+        "problemas_especificos": [
+          "Centralización y elitismo: La gestión y los recursos culturales se concentran en la GAM, ignorando y marginando las expresiones culturales de las comunidades fuera del centro.",
+          "Falta de vínculo con la educación: La cultura no está integrada de manera sustantiva en el sistema educativo formal como herramienta pedagógica y de desarrollo integral.",
+          "Precariedad laboral en el sector: Los artistas y trabajadores culturales carecen de protección laboral (salarios mínimos, seguridad social) y enfrentan una carga tributaria injusta (IVA del 13%).",
+          "Falta de datos para políticas públicas: No se mide el impacto económico del sector cultural desde 2018 (Cuenta Satélite de Cultura), lo que impide diseñar políticas basadas en evidencia.",
+          "Pérdida de identidad plurinacional: El patrimonio y las expresiones culturales de los pueblos indígenas y afrodescendientes no están suficientemente protegidos ni integrados en la identidad nacional."
+        ]
+      },
+      "propuesta": {
+        "enfoque_principal": "Definir la cultura como un derecho humano fundamental y un pilar esencial del desarrollo democrático. Se busca democratizar y descentralizar la gestión cultural, integrarla profundamente con la educación pública, garantizar derechos laborales a sus trabajadores y utilizar datos científicos para su promoción, todo con un enfoque plurinacional.",
+        "cambios_clave": [
+          "Transferir el poder y los recursos culturales a las comunidades mediante la descentralización.",
+          "Convertir la cultura en un eje transversal del proceso educativo, desde talleres hasta colegios especializados.",
+          "Reconocer y proteger el trabajo artístico con derechos laborales y seguridad social.",
+          "Usar la ciencia y los datos para medir y potenciar el impacto de la cultura.",
+          "Proteger y promover la diversidad cultural como base de una Costa Rica plurinacional."
+        ]
+      },
+      "solucion": {
+        "medidas_estructurales": [
+          {
+            "nombre": "Descentralización y Democratización Cultural",
+            "acciones": [
+              "Crear Comités Cantonales de Cultura con presupuestos propios, financiados con un aumento del 1% en las patentes de licores.",
+              "Fortalecer la formación de gestores culturales comunitarios con un programa de becas con enfoque de inclusión.",
+              "Recuperar edificaciones históricas y espacios públicos para la difusión artística y la reconstrucción del tejido social."
+            ]
+          },
+          {
+            "nombre": "Vinculación Estratégica con la Educación Pública",
+            "acciones": [
+              "Incluir talleres de formación artística (teatro, danza, poesía, artes visuales) en escuelas y colegios, usando metodologías innovadoras como el cómic y los videojuegos.",
+              "Impulsar la creación de Colegios Académico-Artísticos (modelo Conservatorio Castella) en cada cabecera cantonal, priorizando zonas costeras y rurales.",
+              "Integrar y certificar los procesos de educación popular desarrollados por organizaciones sociales, en coordinación con el MEP."
+            ]
+          },
+          {
+            "nombre": "Derechos Laborales y Seguridad Social para el Sector",
+            "acciones": [
+              "Incluir a los artistas en las tablas de salarios mínimos del MTSS.",
+              "Firmar convenios de aseguramiento colectivo ante la CCSS para trabajadores culturales independientes.",
+              "Reducir el IVA para trabajadores independientes del sector cultural del 13% al 4%."
+            ]
+          },
+          {
+            "nombre": "Cultura, Ciencia y Gestión de Datos",
+            "acciones": [
+              "Retomar urgentemente la medición del impacto económico del sector mediante la Cuenta Satélite de Cultura.",
+              "Modernizar el Sistema de Información Cultural (SICultura) para registrar artistas y facilitar su contratación y acceso a seguridad social."
+            ]
+          },
+          {
+            "nombre": "Identidad Plurinacional y Patrimonio",
+            "acciones": [
+              "Reformar integralmente la Ley 6703 de Patrimonio Arqueológico para permitir la conservación 'in situ' y el manejo compartido de sitios con comunidades locales.",
+              "Promover una reforma constitucional para asegurar un trato preferencial a la producción cultural nacional y proteger la diversidad de los pueblos indígenas y afrodescendientes."
+            ]
+          }
+        ]
+      },
+      "ejecucion": {
+        "pasos_concretos": [
+          "Presentar una reforma al Código Municipal para la creación legal de los Comités Cantonales de Cultura y su financiamiento.",
+          "Diseñar e implementar, en coordinación MEP-MCJ, el programa nacional de talleres artísticos en centros educativos públicos.",
+          "Elaborar un plan maestro para la creación progresiva de Colegios Académico-Artísticos, comenzando por las regiones periféricas.",
+          "Presentar y aprobar en la Asamblea Legislativa las reformas legales para incluir a los artistas en el régimen de salarios mínimos y para modificar la Ley del IVA (reducción al 4%).",
+          "Firmar un convenio interinstitucional (CCSS, MCJ, MTSS) para el aseguramiento colectivo de trabajadores culturales independientes.",
+          "Asignar presupuesto y personal al INEC para reactivar la Cuenta Satélite de Cultura y modernizar el SICultura.",
+          "Conformar una comisión con representantes de pueblos indígenas, afrodescendientes y expertos para redactar la reforma a la Ley de Patrimonio Arqueológico."
+        ]
+      },
+      "integracion_con_ejes_anteriores": {
+        "explicacion": "La política cultural propuesta es fundamental para los ejes de 'Educación Pública' y 'Combate a la Desigualdad'. Los 'Comités Cantonales' y los 'Colegios Artísticos' descentralizan oportunidades y combaten la exclusión territorial. La 'protección laboral de artistas' es una extensión directa de los 'Derechos Laborales'. El enfoque en 'patrimonio e identidad plurinacional' es el corazón de la 'Inclusión de Poblaciones Históricamente Excluidas'. Al integrar cultura en las escuelas, se fortalece la 'Educación Pública' con un enfoque crítico y creativo, esencial para formar ciudadanía. Finalmente, la 'Cuenta Satélite' y el uso de datos vinculan este eje con la 'Ciencia y Tecnología' para una gestión pública eficaz."
+      }
+    }
+  }
+}

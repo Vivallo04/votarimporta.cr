@@ -1,0 +1,92 @@
+{
+  "resumen_ambiente_clima_frente_amplio": {
+    "eje": "Infraestructura y Ambiente",
+    "area": "Ambiente y Clima",
+    "contenido": {
+      "problema": {
+        "descripcion_general": "Existe una crisis ambiental y climática profunda impulsada por un modelo extractivista que trata la protección ambiental como un 'obstáculo' para el progreso. Esto ha generado una alta dependencia de combustibles fósiles, pérdida acelerada de biodiversidad, gestión fragmentada de recursos y vulnerabilidad social ante el cambio climático, especialmente en zonas costeras.",
+        "problemas_especificos": [
+          "Emergencia climática: La infraestructura y el territorio no están preparados para los impactos del cambio climático (inundaciones, deslizamientos, aumento del nivel del mar).",
+          "Dependencia energética sucia: Aunque el 98% de la electricidad es renovable, el 78% de toda la energía consumida en el país depende del petróleo, principalmente por el transporte.",
+          "Pérdida de biodiversidad: Aumento del 20.2% en especies amenazadas entre 2022 y 2023. Debilitamiento institucional del SINAC por recortes presupuestarios.",
+          "Gestión hídrica obsoleta: La Ley de Aguas data de 1942 y no garantiza el derecho humano al agua ni una gestión integrada por cuencas.",
+          "Crisis de residuos: Falta de un sistema integral que priorice la reducción, reutilización y reciclaje ('Basura Cero').",
+          "Injusticia territorial costera: Las comunidades costeras históricas y pescadores artesanales enfrentan altos índices de pobreza, desalojos y gentrificación, a pesar de que el 30.3% del mar está bajo protección."
+        ]
+      },
+      "propuesta": {
+        "enfoque_principal": "Convertir al Ambiente y al Clima en el eje rector que subordine y guíe toda la planificación de infraestructura, desarrollo territorial y políticas económicas. Se busca transitar hacia un nuevo contrato social con la naturaleza, basado en la justicia ambiental, los derechos de la naturaleza y una transición energética justa.",
+        "principios_clave": [
+          "Reconocer la emergencia climática y la resiliencia como variables centrales en todas las políticas públicas.",
+          "Subordinar el desarrollo de infraestructura a la protección y restauración de los ecosistemas.",
+          "Garantizar los derechos de la naturaleza y la justicia ambiental para las comunidades más vulnerables.",
+          "Lograr la soberanía energética mediante una transición justa y rápida fuera de los combustibles fósiles.",
+          "Implementar una gestión integral y democrática de los recursos naturales (agua, residuos, biodiversidad)."
+        ]
+      },
+      "solucion": {
+        "medidas_estructurales": [
+          {
+            "nombre": "Emergencia Climática y Resiliencia de la Infraestructura",
+            "acciones": [
+              "Reconocer formalmente la emergencia climática e integrarla en todas las políticas de planificación.",
+              "Rediseñar la infraestructura pública (vial, portuaria) para que sea resiliente a fenómenos climáticos extremos.",
+              "Reubicar, con garantías, a poblaciones en zonas de alto riesgo climático, manteniendo su acceso a trabajo y servicios.",
+              "Crear un Foro Climático Popular con participación comunitaria y científica para asesorar al Estado en adaptación."
+            ]
+          },
+          {
+            "nombre": "Transición Energética y Descarbonización del Transporte",
+            "acciones": [
+              "Priorizar el cambio modal hacia el transporte público masivo (tren eléctrico, buses) y la movilidad activa (caminar, bicicleta).",
+              "Transformar RECOPE en una empresa de energías químicas limpias, enfocada en hidrógeno verde y biocombustibles.",
+              "Establecer prohibiciones progresivas: vehículos usados de combustión desde 2026, y nuevos de petróleo para 2045.",
+              "Declarar a Costa Rica libre de exploración y explotación de petróleo y gas."
+            ]
+          },
+          {
+            "nombre": "Justicia Ambiental y Derechos de la Naturaleza",
+            "acciones": [
+              "Reconocer a la Madre Tierra (Naturaleza) como sujeto de derechos.",
+              "Dotar al SINAC de autonomía técnica y financiera, excluyéndolo de la regla fiscal.",
+              "Mantener la prohibición absoluta de la minería metálica a cielo abierto.",
+              "Ratificar el Acuerdo de Escazú para proteger a defensores ambientales.",
+              "Fortalecer los corredores biológicos (32% del territorio) con incentivos a propietarios y limitaciones al cambio de uso de suelo."
+            ]
+          },
+          {
+            "nombre": "Gestión Integral de Recursos: Agua y Residuos",
+            "acciones": [
+              "Reformar integralmente la Ley de Aguas para gestionar por cuencas, garantizar el caudal ecológico y el derecho humano al agua.",
+              "Implementar el programa 'Basura Cero': priorizar separación, compostaje y revalorización; prohibir por ley la incineración.",
+              "Reglamentar el manejo de residuos farmacéuticos para prevenir la contaminación de acuíferos y la resistencia antimicrobiana."
+            ]
+          },
+          {
+            "nombre": "Territorio Marino-Costero y Justicia Social",
+            "acciones": [
+              "Consolidar un Viceministerio (con miras a Ministerio) del Mar para articular conservación y desarrollo de la pesca artesanal.",
+              "Proteger los recursos del Domo Térmico.",
+              "Impulsar la Ley de Territorios Costeros Comunitarios (TECOCOS) para evitar desalojos y frenar la gentrificación en costas."
+            ]
+          }
+        ]
+      },
+      "ejecucion": {
+        "pasos_concretos": [
+          "Declarar oficialmente el Estado de Emergencia Climática Nacional mediante decreto ejecutivo.",
+          "Presentar y aprobar en la Asamblea Legislativa: Ley de Derechos de la Naturaleza, nueva Ley de Aguas, Ley 'Basura Cero' (con prohibición de incineración), Ley de Soberanía Energética (prohibición de petróleo y gas), Ley TECOCOS, y ratificación del Acuerdo de Escazú.",
+          "Emitir decretos para otorgar autonomía al SINAC y excluirlo de la regla fiscal.",
+          "Lanzar un plan nacional de infraestructura resiliente con estándares climáticos obligatorios.",
+          "Iniciar el proceso de transformación legal y operativa de RECOPE en una empresa de energías limpias.",
+          "Establecer por decreto el calendario de prohibiciones a la importación de vehículos de combustión.",
+          "Crear el Foro Climático Popular y el Viceministerio del Mar.",
+          "Diseñar e implementar un programa nacional de incentivos para corredores biológicos y propietarios de bosques."
+        ]
+      },
+      "integracion_con_ejes_anteriores": {
+        "explicacion": "El área de 'Ambiente y Clima' es la columna vertebral transversal del plan. La 'transición energética' es el soporte para una 'Economía descarbonizada' y la 'Transformación Productiva' verde. La 'gestión integral del agua' y 'Basura Cero' son fundamentales para la 'Salud Pública' y el 'Bienestar Social'. Los 'derechos de la naturaleza' y la 'justicia territorial costera' son la base de la 'Inclusión de Poblaciones Excluidas' y la 'Justicia Social'. La 'infraestructura resiliente' y la 'planificación territorial climática' son requisitos para que las políticas de 'Vivienda' y 'Transporte' sean sostenibles y seguras a largo plazo. En resumen, sin éxito en esta área, el resto de las políticas son inviables en un contexto de crisis climática."
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "eje": "Educación con propósito",
+  "enfoque": "Transformar el sistema educativo en el principal motor de movilidad social, seguridad y competitividad económica, basado en innovación, valores y pertinencia con el mercado laboral.",
+  "diagnostico_y_estado": {
+    "problema": "Deterioro sostenido del sistema educativo agravado por huelgas y la pandemia, con una alta deserción (solo 388 de cada 1,000 niños que inician primaria se gradúan del colegio). El sistema no forma el capital humano que requiere la economía moderna, dejando a los jóvenes vulnerables al desempleo y al reclutamiento por el crimen organizado.",
+    "solucion": "Declaratoria de Emergencia Nacional para convocar un acuerdo multisectorial que estabilice el sistema educativo.",
+    "implementacion": "Convocar a todos los sectores (gobierno, sociedad civil, sector privado, comunidades) para un pacto nacional que priorice la educación como asunto de Estado urgente."
+  },
+  "ejes_rectores": [
+    {
+      "eje": "Valores y Ciudadanía",
+      "problema": "Formación insuficiente en ética, pensamiento crítico y proyectos de vida autónomos.",
+      "solucion": "Fortalecer la educación en valores para formar ciudadanos con sentido de plenitud y responsabilidad.",
+      "implementacion": "Integrar en el currículo la enseñanza de ética, pensamiento crítico y desarrollo de proyectos de vida desde etapas tempranas."
+    },
+    {
+      "eje": "Innovación y Tecnología",
+      "problema": "Falta de integración profunda de la tecnología y la inteligencia artificial en el proceso educativo.",
+      "solucion": "Adoptar la innovación y la tecnología de forma nativa, no solo como digitalización de aulas.",
+      "implementacion": [
+        "Integrar la Inteligencia Artificial (IA) desde la primera infancia.",
+        "Utilizar la Plataforma SABER para gestionar datos académicos y logísticos en tiempo real mediante IA."
+      ]
+    },
+    {
+      "eje": "Pertinencia con la Economía",
+      "problema": "Desconexión entre la formación académica y las necesidades del sector productivo.",
+      "solucion": "Vincular directamente la educación con el mercado laboral y el desarrollo regional.",
+      "implementacion": [
+        "Impulsar con fuerza la educación dual (formación en aulas y empresas).",
+        "Fomentar la capacitación técnica vinculada a empleos reales en cada región del país."
+      ]
+    }
+  ],
+  "educacion_como_herramienta_de_seguridad": {
+    "problema": "La deserción educativa y la falta de oportunidades en zonas vulnerables aumentan el riesgo de que los jóvenes sean reclutados por el crimen organizado.",
+    "solucion": "Utilizar la educación como la principal medida preventiva contra la inseguridad, ofreciendo alternativas y espacios seguros.",
+    "implementacion": [
+      "Jornada Ampliada: Implementar horarios extendidos en zonas vulnerables con acceso a ciencia, artes y deportes para mantener a los jóvenes fuera de las calles.",
+      "Programa de 'Segunda Oportunidad': Fomentar la reinserción de desertores del sistema mediante becas y tutorías comunitarias.",
+      "Centros de Resiliencia: Crear espacios en barrios críticos donde confluyan educación, salud mental y mentoría juvenil."
+    ]
+  },
+  "modernizacion_y_gestion_eficiente": {
+    "problema": "Necesidad de asegurar que la alta inversión educativa (cercana al 8% del PIB) genere resultados tangibles y medibles.",
+    "solucion": "Implementar un sistema de gestión basado en evidencia, evaluación continua y alianzas estratégicas.",
+    "implementacion": [
+      "Evaluación Continua: Crear un sistema nacional de evaluación del logro educativo para la toma de decisiones basada en evidencia.",
+      "Fortalecimiento Docente: Ejecutar un plan de formación continua apoyado por IA para mejorar la práctica pedagógica en áreas clave (lectoescritura, bilingüismo bajo el Marco Común Europeo).",
+      "Infraestructura mediante APPs: Resolver problemas de infraestructura (como cierres sanitarios) mediante alianzas público-privadas con gobiernos locales y cámaras empresariales."
+    ]
+  },
+  "vision_de_futuro": {
+    "meta": "Formar al Ciudadano Global y recuperar el liderazgo regional en educación.",
+    "estrategias": [
+      "Reconversión Laboral (Reskilling): Preparar incluso a adultos mayores de 45 años para la economía digital.",
+      "Cooperación Internacional: Buscar acompañamiento de países líderes como Finlandia, Estonia y Corea del Sur para adaptar mejores prácticas globales a la realidad costarricense."
+    ]
+  }
+}

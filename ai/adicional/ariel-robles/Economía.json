@@ -1,0 +1,89 @@
+{
+  "resumen_eje_economico_frente_amplio": {
+    "area": "Economía y Trabajo - Eje Económico",
+    "problema": {
+      "descripcion_general": "El modelo económico actual prioriza la acumulación de capital sobre el bienestar social, generando un sistema desigual e injusto que no distribuye la riqueza. Se basa en 'enclaves' exportadores que no fortalecen la producción nacional ni el mercado interno.",
+      "problemas_especificos": [
+        "Modelo productivo desequilibrado: No democratiza la producción ni la riqueza. Las PYMES y cooperativas tienen poco acceso a crédito e incentivos.",
+        "Crisis laboral precaria: 40% de informalidad y salarios mínimos que no cubren las necesidades básicas reales de los hogares.",
+        "Injusticia fiscal: Un sistema que permite la evasión en paraísos fiscales y, mediante la 'regla fiscal', recorta la inversión social (reducida al 8.5% del PIB).",
+        "Pérdida de soberanía alimentaria: Dependencia de importaciones (ej. 75% de los frijoles), poniendo en riesgo la seguridad nacional.",
+        "Turismo excluyente: Modelo de 'lujo' que genera gentrificación y fugas de capital, sin beneficiar a las comunidades locales.",
+        "Falta de innovación soberana: Baja inversión en I+D y sistemas estatales ineficientes y susceptibles a corrupción."
+      ]
+    },
+    "propuesta": {
+      "enfoque_principal": "Transitar hacia una economía al servicio de las personas, no del capital. Se busca democratizar la producción, garantizar un trabajo digno, recuperar la soberanía productiva y financiar el Estado de Bienestar con una fiscalidad justa.",
+      "cambios_clave": [
+        "Fortalecer el mercado interno y la producción nacional mediante apoyo prioritario a PYMES, cooperativas y el sector agroecológico.",
+        "Instaurar un nuevo pacto laboral con jornada reducida y un Salario Mínimo Vital.",
+        "Implementar una reforma fiscal progresiva que grave la riqueza y evite recortes sociales.",
+        "Recuperar la soberanía alimentaria y promover un turismo inclusivo que beneficie a las comunidades.",
+        "Usar la tecnología para modernizar el Estado y reconocer económicamente el trabajo de cuidados."
+      ]
+    },
+    "solucion": {
+      "medidas_estructurales": [
+        {
+          "nombre": "Democratización Productiva y Apoyo a PYMES",
+          "acciones": [
+            "Orientar créditos, incentivos y contratación pública hacia cooperativas, asociaciones de trabajadores y MIPYMES locales.",
+            "Transformar el Consejo Nacional de Producción (CNP) en una corporación de apoyo industrial y comercial para pequeñas empresas.",
+            "Aumentar el 'peaje bancario' a entidades privadas para financiar la inclusión financiera de las MIPYMES y fomentar encadenamientos productivos."
+          ]
+        },
+        {
+          "nombre": "Dignificación Laboral y Nuevos Derechos",
+          "acciones": [
+            "Reducir progresivamente la jornada laboral ordinaria a 40 horas semanales sin reducir salarios.",
+            "Crear una Ley de Salario Mínimo Vital, vinculado al costo real de la canasta básica familiar.",
+            "Fortalecer la inspección de trabajo con inteligencia de datos y geolocalización para combatir la explotación laboral."
+          ]
+        },
+        {
+          "nombre": "Justicia Fiscal y Finanzas Públicas",
+          "acciones": [
+            "Establecer el impuesto a la 'Renta Global y Mundial' para que los residentes tributen por todas sus rentas y combatir paraísos fiscales.",
+            "Implementar un mecanismo de devolución del IVA a los hogares de menores ingresos (IVA Personalizado).",
+            "Reformar la Regla Fiscal para que no restrinja la inversión social ni el gasto de capital necesario."
+          ]
+        },
+        {
+          "nombre": "Soberanía Alimentaria y Agroecología",
+          "acciones": [
+            "Transitar del agronegocio extractivista a un modelo agroecológico, resiliente y autónomo.",
+            "Aumentar progresivamente aranceles a importaciones de productos agrícolas sensibles para proteger al productor nacional.",
+            "Crear un Seguro Alimentario Nacional para distribuir riesgos climáticos entre los productores."
+          ]
+        },
+        {
+          "nombre": "Turismo Inclusivo vs. Gentrificación",
+          "acciones": [
+            "Fomentar agresivamente el turismo interno, de proximidad y rural comunitario, favoreciendo a hoteles pequeños y medianos.",
+            "Crear una Ley de Encadenamientos Turísticos para obligar a grandes empresas a comprar bienes y servicios locales."
+          ]
+        },
+        {
+          "nombre": "Tecnología y Reconocimiento del Cuidado",
+          "acciones": [
+            "Aumentar la inversión en Investigación y Desarrollo (I+D) hasta el 2% del PIB.",
+            "Digitalizar el 100% de los trámites estatales usando tecnología blockchain para eliminar corrupción e ineficiencia.",
+            "Establecer una Renta Mínima Feminizada para mujeres jefas de hogar en pobreza, reconociendo el valor económico del trabajo doméstico no remunerado (vinculado al Sistema Nacional de Cuidados)."
+          ]
+        }
+      ]
+    },
+    "ejecucion": {
+      "pasos_concretos": [
+        "Reformas Legales: Ley de Reducción de Jornada, Ley de Salario Mínimo Vital, Ley de Reforma al CNP, Ley de Encadenamientos Turísticos, Ley de Fomento Agroecológico, Reforma a la Regla Fiscal y paquete de Reforma Fiscal Progresiva.",
+        "Transformación Institucional: Reconversión del CNP en una corporación de desarrollo productivo, fortalecimiento de la inspección laboral con tecnología, creación del Seguro Alimentario Nacional.",
+        "Políticas Comerciales y Arancelarias: Revisión y ajuste progresivo de aranceles para proteger la producción nacional de granos básicos y otros productos sensibles.",
+        "Programas de Implementación: Diseño y puesta en marcha del mecanismo de devolución del IVA personalizado, programa de renta mínima feminizada, estrategia nacional de turismo comunitario.",
+        "Inversión en Tecnología: Desarrollo de la plataforma estatal basada en blockchain, aumento progresivo del presupuesto nacional en I+D, creación de laboratorios de innovación tecnológica."
+      ]
+    },
+    "integracion_con_ejes_anteriores": {
+      "explicacion": "Este 'Eje Económico' es el sustento material de toda la política social. La 'Justicia Fiscal' financia las pensiones universales, la salud y la educación. La 'Dignificación Laboral' y la 'Renta Feminizada' son la contraparte económica directa del combate a la pobreza. La 'Soberanía Alimentaria' y el control de precios protegen el costo de vida. El 'Apoyo a PYMES' y el 'Turismo Inclusivo' buscan generar empleo digno y democratizar la riqueza. En conjunto, el eje económico busca crear las condiciones materiales para hacer realidad el Estado de Bienestar propuesto en los otros ejes programáticos."
+    }
+  }
+}

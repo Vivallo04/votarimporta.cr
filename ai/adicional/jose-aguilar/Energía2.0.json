@@ -1,0 +1,45 @@
+{
+  "eje": "Sostenibilidad y Energía",
+  "area_especifica": "Energía Renovable 2.0",
+  "enfoque": "Evolución estratégica del modelo energético para superar las limitaciones actuales, diversificar la matriz, reducir costos y potenciar la competitividad nacional, abordando la dependencia de combustibles fósiles en la matriz energética total.",
+  "propuestas": [
+    {
+      "componente": "Diversificación de la Matriz Energética",
+      "problema": "Dependencia tradicional de la hidroelectricidad y una matriz energética total que sigue siendo 'sucia' (67% basada en combustibles fósiles, principalmente por el transporte), lo que limita la resiliencia y el potencial renovable.",
+      "solucion": "Ir más allá de la hidroelectricidad para aprovechar una gama más amplia de fuentes limpias, incorporando nuevas tecnologías y promoviendo la eficiencia energética y la generación distribuida.",
+      "implementacion": [
+        "Nuevas Tecnologías: Impulso a techos solares, eólica marina, hidrógeno verde y bioenergía a partir de residuos agrícolas y urbanos.",
+        "Eficiencia Energética: Implementar un marco regulatorio para alumbrado LED, electrodomésticos eficientes y estándares de construcción sostenible.",
+        "Microrredes: Apertura del mercado a microrredes para democratizar la generación y distribución de energía."
+      ]
+    },
+    {
+      "componente": "Integración Institucional y Competitividad",
+      "problema": "Falta de una gobernanza energética unificada y costos de energía que afectan la competitividad industrial, sin maximizar los beneficios económicos de la transición verde.",
+      "solucion": "Reformar la gobernanza energética para unificar políticas, reducir costos y generar nuevos ingresos a partir de la sostenibilidad.",
+      "implementacion": [
+        "Unificación ICE–RECOPE: Avanzar en la integración de ambas instituciones bajo una política energética unificada.",
+        "Reducción de Costos: Diversificar y modernizar la matriz para bajar los costos de la energía y mejorar la competitividad industrial.",
+        "Mercados de Carbono: Generar ingresos mediante la venta de bonos de carbono en mercados internacionales."
+      ]
+    },
+    {
+      "componente": "Descarbonización del Transporte",
+      "problema": "El éxito de la electricidad limpia no se ha trasladado al sector transporte, que es el principal consumidor de combustibles fósiles y obstáculo para la descarbonización total.",
+      "solucion": "Acelerar la electrificación masiva del transporte y la creación de la infraestructura de soporte necesaria.",
+      "implementacion": [
+        "Electrificación Masiva: Convertir el Plan de Descarbonización 2050 en acciones inmediatas para la transición a buses, taxis, transporte de carga y flotillas públicas y privadas eléctricas.",
+        "Infraestructura de Carga: Crear tarifas competitivas de carga eléctrica e incentivos fiscales para acelerar la adopción de vehículos de cero emisiones."
+      ]
+    },
+    {
+      "componente": "Vinculación con Sostenibilidad Hídrica y Resiliencia",
+      "problema": "Vulnerabilidad del recurso hídrico frente al cambio climático, que amenaza tanto el suministro para la población como para la generación de energía renovable (especialmente hidroeléctrica).",
+      "solucion": "Vincular la política energética con una gestión sostenible y resiliente del agua, protegiendo las fuentes y desarrollando infraestructura crítica.",
+      "implementacion": [
+        "Nuevas Fuentes de Agua: Desarrollar proyectos estratégicos como Orosi II y el Proyecto Pacífico para asegurar el suministro hídrico.",
+        "Protección de Cuencas: Prohibir la urbanización en zonas de recarga hídrica para proteger la base de la matriz renovable actual."
+      ]
+    }
+  ]
+}
