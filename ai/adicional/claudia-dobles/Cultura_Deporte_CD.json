@@ -1,0 +1,55 @@
+{
+  "eje": "Cultura y Deporte",
+  "propuestas": [
+    {
+      "propuesta": "Garantizar acceso universal y descentralizado a la cultura",
+      "solucion": "Descentralizar la oferta cultural para llegar a poblaciones vulnerables y territorios fuera del Gran Área Metropolitana",
+      "ejecucion": "Implementar programas culturales itinerantes y fortalecer infraestructuras culturales en regiones periféricas"
+    },
+    {
+      "propuesta": "Valorar el trabajo artístico como trabajo digno",
+      "solucion": "Reconocer la cultura como trabajo digno y capacitar a artistas sobre sus derechos y deberes",
+      "ejecucion": "Crear programas de capacitación en derechos laborales para artistas y fortalecer el estatus del trabajador cultural independiente"
+    },
+    {
+      "propuesta": "Proteger y promover la diversidad cultural nacional",
+      "solucion": "Implementar el 'Programa Nacional de Diversidad Cultural' para visibilizar y proteger expresiones de comunidades diversas",
+      "ejecucion": "Desarrollar políticas y proyectos específicos para comunidades indígenas, afrodescendientes, migrantes y rurales"
+    },
+    {
+      "propuesta": "Utilizar la cultura para prevención de violencia en jóvenes",
+      "solucion": "Crear el 'Programa Nacional de Cultura y Juventud para la Prevención de la Violencia'",
+      "ejecucion": "Establecer talleres artísticos y emprendimientos creativos en zonas vulnerables como alternativa para jóvenes"
+    },
+    {
+      "propuesta": "Garantizar acceso universal al deporte como inversión social",
+      "solucion": "Asegurar espacios seguros para práctica deportiva en todas las regiones y para todas las edades",
+      "ejecucion": "Fortalecer infraestructura deportiva regional y Centros de Tecnificación; promover ligas atléticas de la Fuerza Pública"
+    },
+    {
+      "propuesta": "Promover deporte para bienestar intergeneracional y envejecimiento activo",
+      "solucion": "Vincular actividad física con prevención de enfermedades y mejora de calidad de vida en personas adultas mayores",
+      "ejecucion": "Desarrollar programas deportivos adaptados para personas mayores y campañas de hábitos saludables"
+    },
+    {
+      "propuesta": "Integrar cultura y deporte en la educación pública",
+      "solucion": "Incorporar enseñanza artística y deportiva como parte fundamental del currículo educativo",
+      "ejecucion": "Diseñar e implementar programas de arte y deporte desde primaria hasta universidad"
+    },
+    {
+      "propuesta": "Convertir infraestructura educativa en centros comunitarios",
+      "solucion": "Promover uso comunitario de escuelas y colegios para actividades culturales y deportivas fuera del horario lectivo",
+      "ejecucion": "Abrir instalaciones educativas en horarios no escolares para actividades vecinales organizadas"
+    },
+    {
+      "propuesta": "Fomentar turismo cultural y deportivo para desarrollo económico",
+      "solucion": "Conectar artistas y deportistas locales con la industria turística para generar desarrollo territorial",
+      "ejecucion": "Crear circuitos turísticos culturales y rutas deportivas que promuevan emprendimientos locales"
+    },
+    {
+      "propuesta": "Integrar cultura en salud mental y bienestar emocional",
+      "solucion": "Utilizar expresiones artísticas como herramientas terapéuticas dentro del sistema de salud",
+      "ejecucion": "Implementar programas de arteterapia y teatro comunitario en centros de salud y comunidades"
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "iniciativa": "Intervención Estratégica para la Continuidad del Agua en el AyA",
+  "marco_estrategico": "Eje 2: Reforma Institucional - Transformación de Servicios Públicos Esenciales",
+  "objetivo_principal": "Garantizar el acceso universal, continuo y de calidad al agua potable mediante la transformación radical del AyA en una institución eficiente, transparente y orientada al servicio, resolviendo la crisis hídrica nacional.",
+  "diagnostico_crisis_sistemica": {
+    "fallas_institucionales": {
+      "infraestructura": {
+        "antiguedad_red": "40% tiene más de 30 años",
+        "perdidas_tecnicas_comerciales": "50% (vs. 15% promedio OCDE)",
+        "capacidad_almacenamiento": "Insuficiente para períodos secos"
+      },
+      "operativas": {
+        "monitoreo": "Sistemas obsoletos o inexistentes",
+        "mantenimiento": "Reactivo en lugar de preventivo",
+        "telemetria": "Falta de gestión en tiempo real"
+      },
+      "financieras": {
+        "tarifas": "No cubren costos reales",
+        "morosidad": "25% de la cartera",
+        "dependencia": "Transferencias estatales para inversión"
+      }
+    },
+    "impactos": {
+      "salud_publica": "500,000+ personas con suministro intermitente o de calidad dudosa",
+      "impacto_economico": {
+        "perdidas_anuales": "$500 millones en sector productivo",
+        "limitacion_turismo": "Freno al desarrollo turístico",
+        "costo_hogares": "Compra de agua embotellada como gasto adicional"
+      },
+      "conflictos_sociales": "Protestas y tensión comunitaria en zonas con desabastecimiento crónico"
+    }
+  },
+  "estrategia_intervencion_ejecutiva": {
+    "modelo_intervencion": {
+      "declaratoria": "Emergencia Hídrica Nacional con protocolos especiales",
+      "alcance": "Intervención técnica, operativa y financiera integral",
+      "duracion": "24 meses con posibilidad de extensión según resultados"
+    },
+    "reestructuracion_gobierno_corporativo": {
+      "liderazgo_por_merito": {
+        "presidencia_ejecutiva": {
+          "seleccion": "Proceso internacional competitivo",
+          "requisitos": "10+ años en gestión de sistemas de agua de escala similar",
+          "evaluacion": "Panel de expertos internacionales",
+          "contrato": "4 años con evaluación semestral"
+        },
+        "junta_directiva": {
+          "composicion": "70% miembros independientes (agua, finanzas, gestión pública)",
+          "designacion": "Términos escalonados de 4 años",
+          "evaluacion": "Trimestral basada en indicadores clave",
+          "remuneracion": "Vinculada a resultados institucionales"
+        }
+      }
+    },
+    "grupo_ejecutor_alto_nivel": {
+      "composicion": [
+        "Jefe de Gabinete Presidencial (Coordinador)",
+        "Ministro de Hacienda",
+        "Ministro de Salud",
+        "Ministro de Ambiente y Energía",
+        "Presidente Ejecutivo del AyA",
+        "Dos expertos internacionales en gestión de recursos hídricos"
+      ],
+      "atribuciones_especiales": [
+        "Aprobar contrataciones y desembolsos de emergencia",
+        "Intervenir operativamente en sistemas críticos",
+        "Reasignar recursos entre proyectos según prioridad",
+        "Suspender procesos que obstaculicen la emergencia"
+      ],
+      "seguimiento_riguroso": {
+        "reuniones": "Semanales obligatorias",
+        "tablero_control": "20+ indicadores en tiempo real",
+        "reportes": "Públicos quincenales de avances",
+        "rendicion_cuentas": "Mensual ante comisión legislativa especial"
+      }
+    },
+    "transparencia_radical": {
+      "portal_transparencia_hidrica": {
+        "mapa_interactivo": "Estado de suministro por comunidad",
+        "reporte_diario": "Niveles de embalses y pozos",
+        "seguimiento_tiempo_real": "Reparaciones y proyectos",
+        "datos_calidad": "Por punto de muestreo en formatos abiertos"
+      },
+      "audiencias_publicas": "Mensuales en comunidades más afectadas",
+      "sistema_quejas": {
+        "plazo_respuesta": "Máximo 72 horas",
+        "seguimiento": "Número de caso con actualizaciones en línea",
+        "escalamiento": "Automatizado a supervisores si no se resuelve en plazo"
+      }
+    }
+  },
+  "plan_accion_operativa_emergencia": {
+    "programa_nacional_reduccion_perdidas": {
+      "meta": "Reducir pérdidas del 50% al 30% en 24 meses",
+      "componentes": [
+        {
+          "componente": "Detección Masiva de Fugas",
+          "acciones": [
+            "Brigadas especializadas por región (20 equipos)",
+            "Tecnología de correlación acústica y geofónicos",
+            "Aplicación móvil para reporte ciudadano",
+            "Drones con sensores térmicos para fugas subterráneas"
+          ],
+          "meta": "Identificar 10,000 fugas mayores en primeros 6 meses"
+        },
+        {
+          "componente": "Reparación Acelerada",
+          "acciones": [
+            "Contratación de 100 cuadrillas adicionales",
+            "Stock estratégico en 5 centros regionales",
+            "Protocolos de reparación en <24 horas para fugas críticas",
+            "Sistema de turnos 24/7 para emergencias"
+          ],
+          "meta": "Reparar 15,000 fugas en primeros 12 meses"
+        },
+        {
+          "componente": "Sectorización y Micromedición",
+          "acciones": [
+            "División en 500 sectores manejables (DMA)",
+            "Instalación de 500,000 medidores con telemetría",
+            "Sistema de detección temprana de anomalías",
+            "Facturación por consumo real (eliminar estimados)"
+          ],
+          "meta": "100% de micromedición en zonas urbanas en 36 meses"
+        }
+      ]
+    },
+    "fortalecimiento_resiliencia_hidrica": {
+      "ampliacion_almacenamiento": {
+        "tanques_estrategicos": "50 en 18 meses (capacidad total: 100,000 m³)",
+        "pozos_respaldo": "Reactivar 100 pozos con sistemas de tratamiento",
+        "captacion_lluvia": "Sistemas en 500 edificios públicos prioritarios"
+      },
+      "interconexion_sistemas": {
+        "interconexiones_estrategicas": "15 entre sistemas adyacentes",
+        "anillos_distribucion": "Diseño para redundancia en 10 ciudades principales",
+        "bombeo_solar": "50 sistemas autónomos para situaciones de emergencia"
+      }
+    },
+    "modernizacion_operacion_mantenimiento": {
+      "centro_control_operativo": {
+        "caracteristicas": "SCADA nacional integrado, operación 24/7",
+        "capacidades": [
+          "Monitoreo tiempo real de presiones, caudales y calidad",
+          "Alertas tempranas para fallas inminentes",
+          "Modelización hidráulica para optimización operativa",
+          "Coordinación con sistemas de emergencia nacional"
+        ],
+        "inversion": "$20 millones en equipamiento y software"
+      },
+      "mantenimiento_predictivo": {
+        "programas": "Basados en condición con sensores IoT",
+        "tecnologia": [
+          "Drones para inspección de tuberías y reservorios",
+          "Robots para inspección interna de tuberías grandes",
+          "Análisis predictivo con machine learning"
+        ],
+        "meta": "Reducir fallas críticas en 40% en 24 meses"
+      }
+    }
+  },
+  "proyectos_estrategicos_nacionales": {
+    "proyecto_agua_guanacaste": {
+      "estado": "Fase de implementación acelerada",
+      "componentes_criticos": [
+        "Planta de tratamiento de 1.3 m³/s en Liberia",
+        "120 km de tubería de transmisión principal",
+        "15 estaciones de bombeo con energía solar",
+        "Sistema de cloración y control de calidad automatizado"
+      ],
+      "modelo_gestion": "Asociación Público-Privada para operación",
+      "cronograma": "24 meses para operación inicial",
+      "inversion": "$300 millones",
+      "beneficiarios": "400,000 personas + sector turístico y agrícola",
+      "impacto": "Cobertura del 95% con continuidad 24/7 en la región"
+    },
+    "proyecto_orosi_ii": {
+      "objetivo": "Seguridad hídrica para el GAM por 25 años",
+      "ampliacion_capacidad": "5 m³/s adicionales",
+      "componentes": [
+        "Tuberías de polietileno de alta densidad para reducir fugas",
+        "Sistema de tratamiento terciario para reúso",
+        "Interconexión con sistemas de Heredia, Alajuela y Cartago",
+        "Centro de control regional automatizado"
+      ],
+      "inversion_total": "$800 millones en 4 años",
+      "financiamiento": "Combinación de préstamos multilaterales, bonos y APP",
+      "beneficiarios": "3 millones de personas",
+      "metas_adicionales": [
+        "Reducción de pérdidas al 20%",
+        "Calidad de agua en cumplimiento 100% con normas internacionales",
+        "Resiliencia ante sequías de 6 meses"
+      ]
+    },
+    "programa_fortalecimiento_asadas": {
+      "diagnostico_nacional": "Evaluación de las 1.500 ASADAS existentes",
+      "clasificacion_riesgo": "Priorización de intervenciones (alto, medio, bajo riesgo)",
+      "paquete_integral_apoyo": {
+        "asistencia_tecnica": "200 ingenieros y técnicos dedicados",
+        "fondos_concursables": "$50 millones anuales para mejoras",
+        "capacitacion": "Gestión operativa, financiera y de calidad",
+        "sistemas_simplificados": "Cloración, control de calidad, facturación"
+      },
+      "modelos_asociacion": {
+        "cooperativas_regionales": "Agrupación para economías de escala",
+        "contratos_gestion": "Con AyA o operadores privados para ASADAS críticas",
+        "esquemas_tarifarios": "Unificados por región con subsidios cruzados"
+      },
+      "meta": "100% de ASADAS con agua segura y gestión sostenible en 5 años"
+    }
+  },
+  "marco_habilitador_transformacion_sistemica": {
+    "reforma_legal_urgente": {
+      "ley_modernizacion_sector_agua": {
+        "separacion_funciones": "Regulatorias, operativas y de planificación",
+        "superintendencia_nacional": "Entidad autónoma de regulación",
+        "estandares_minimos": "Calidad, continuidad, presión, respuesta a emergencias"
+      },
+      "actualizacion_marco_tarifario": {
+        "estructura_tarifaria": "Por bloques que reflejen costo real",
+        "subsidios": "Focalizados en poblaciones vulnerables (20% inferior)",
+        "ajuste_automatico": "Por índices de costo trimestrales",
+        "incentivos_eficiencia": "Descuentos por reducción de consumo responsable"
+      }
+    },
+    "participacion_privada_estrategica": {
+      "modelos_app": [
+        {
+          "tipo": "APP para Nuevas Infraestructuras",
+          "alcance": "Diseño, construcción, financiamiento, operación y mantenimiento",
+          "duracion": "20-30 años",
+          "ejemplos": "Plantas de tratamiento, sistemas de transmisión"
+        },
+        {
+          "tipo": "Contratos de Gestión",
+          "alcance": "Operación y mantenimiento con metas de desempeño",
+          "duracion": "5-10 años",
+          "ejemplos": "Sistemas específicos de distribución, reducción de pérdidas"
+        },
+        {
+          "tipo": "Alianzas para Eficiencia",
+          "alcance": "ESCOs para reducción de consumo energético y agua",
+          "modelo": "Pago por resultados comprobados",
+          "ejemplos": "Optimización de bombas, sistemas de recirculación"
+        }
+      ],
+      "garantias_interes_publico": [
+        "Propiedad pública permanente de activos",
+        "Regulación estricta de tarifas y calidad por Superintendencia",
+        "Mecanismos de reversión en caso de incumplimiento",
+        "Participación ciudadana en monitoreo y evaluación"
+      ]
+    },
+    "innovacion_sostenibilidad": {
+      "programa_nacional_reuso_aguas": {
+        "normativa": "Estándares para reúso de aguas grises y tratadas",
+        "incentivos": [
+          "Créditos fiscales para sistemas industriales de recirculación",
+          "Tarifas preferenciales para agua de reúso",
+          "Subsidios para agricultura que utilice agua tratada"
+        ],
+        "proyectos_demostrativos": "10 proyectos en sectores industrial, turístico y agrícola"
+      },
+      "captacion_agua_lluvia_obligatoria": {
+        "reglamento": "Para nuevos desarrollos urbanos (>500 m² construcción)",
+        "estandares_minimos": "Capacidad para 30 días de consumo no potable",
+        "creditos_fiscales": "30% del costo para sistemas residenciales",
+        "almacenamiento_comunitario": "En zonas de alta vulnerabilidad hídrica"
+      },
+      "tecnologia_digitalizacion": {
+        "sistema_nacional_informacion_hidrica": "Plataforma integrada de datos",
+        "aplicaciones_ciudadanas": [
+          "Gestión del consumo doméstico",
+          "Reporte de fugas y problemas",
+          "Información sobre calidad del agua por zona"
+        ],
+        "sensores_iot": "Red nacional de monitoreo de calidad en tiempo real",
+        "modelos_predictivos": "Para gestión de sequías y eventos extremos"
+      }
+    }
+  },
+  "gobernanza_y_metricas_exito": {
+    "estructura_gobierno": {
+      "consejo_nacional_agua": "Máximo órgano rector, presidido por Presidente de la República",
+      "comite_implementacion": "Nivel técnico-operativo intersectorial",
+      "unidad_gestion_proyecto": "Dedicada exclusivamente a la intervención del AyA",
+      "observatorio_ciudadano": "Organizaciones sociales monitoreando avances"
+    },
+    "metricas_exito_principales": [
+      {
+        "indicador": "Continuidad del servicio (horas/día)",
+        "linea_base": "Promedio nacional: 18 horas/día",
+        "meta_ano_1": "21 horas/día",
+        "meta_ano_3": "24 horas/día en 90% del territorio"
+      },
+      {
+        "indicador": "Pérdidas de agua (técnicas + comerciales)",
+        "linea_base": "50%",
+        "meta_ano_1": "40%",
+        "meta_ano_3": "30%"
+      },
+      {
+        "indicador": "Cobertura de agua potable segura",
+        "linea_base": "92% (calidad variable)",
+        "meta_ano_1": "95% con calidad garantizada",
+        "meta_ano_3": "98% con calidad garantizada"
+      },
+      {
+        "indicador": "Tiempo promedio de respuesta a fugas críticas",
+        "linea_base": "72+ horas",
+        "meta_ano_1": "24 horas",
+        "meta_ano_3": "12 horas"
+      },
+      {
+        "indicador": "Satisfacción de usuarios",
+        "linea_base": "35% (encuestas recientes)",
+        "meta_ano_1": "50%",
+        "meta_ano_3": "75%"
+      }
+    ],
+    "evaluacion_independiente": {
+      "auditorias": "Trimestrales por firma internacional especializada",
+      "estudios_impacto": "Anuales sobre salud pública y desarrollo económico",
+      "benchmarking": "Comparación con mejores prácticas internacionales",
+      "revision_pares": "Por expertos de países con sistemas exitosos (Holanda, Singapur)"
+    }
+  }
+}

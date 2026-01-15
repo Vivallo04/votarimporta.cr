@@ -1,0 +1,26 @@
+{
+  "eje": "Política Económica",
+  "area": "Sostenibilidad Fiscal",
+  "resumen": {
+    "problema": "Costa Rica está en un 'hoyo negro de insolvencia financiera' con una deuda pública elevada (~62% del PIB). Esto crea un círculo vicioso: de cada 100 colones del presupuesto, 39 se financian con más deuda y 46 se usan solo para pagar la deuda existente (principal e intereses). Esto deja al Estado sin capacidad para invertir en salud, educación e infraestructura, ya que el servicio de la deuda consume aproximadamente el 33% de los ingresos fiscales.",
+    "propuesta": "Romper el ciclo de endeudamiento y alcanzar la salud financiera mediante la creación de un fondo soberano (Fodenal) que genere nuevos ingresos sin aumentar impuestos, combinado con una estricta consolidación del gasto y una modernización de la recaudación. El objetivo es pasar de un 'círculo vicioso' a uno 'virtuoso', liberando el presupuesto para el desarrollo.",
+    "solucion": [
+      "Crear el Fondo de Desarrollo Nacional (Fodenal): Un fondo soberano financiado con recursos naturales y utilidades de megaobras para generar ingresos destinados principalmente a reducir la deuda pública.",
+      "Consolidación Fiscal y Gestión del Gasto: Implementar recortes presupuestarios, vender activos estatales ociosos y renegociar la deuda para reducir su carga y generar ahorros.",
+      "Modernización Tributaria y Lucha contra la Evasión: Implementar un sistema de 'Hacienda Digital' para simplificar los impuestos y combatir eficazmente el contrabando y la evasión, que cuestan más del 2.6% del PIB anual.",
+      "Medida Transitoria de Alivio: Usar temporalmente una parte del margen de intermediación cambiaria del Banco Central para ayudar con el pago de intereses de la deuda interna, prohibiendo su uso para gasto corriente."
+    ],
+    "ejecucion": [
+      "Explotar responsablemente recursos naturales (oro, cobre, gas, petróleo) mediante alianzas público-privadas para capitalizar el Fodenal.",
+      "Destinar el 50% de los recursos del Fodenal directamente a la reducción de la deuda pública, con el objetivo de que su servicio no supere el 25% del presupuesto.",
+      "Aprobar la ley constitucional para la creación y gestión blindada del Fodenal.",
+      "Ejecutar un recorte del 12% en el Presupuesto Nacional eliminando gasto superfluo.",
+      "Vender propiedades y bienes del Estado que no generen valor, estimando una recaudación superior a 28,000 millones de colones para pagar deuda.",
+      "Renegociar la deuda interna y externa con plazos más largos y tasas más bajas, buscando un ahorro de $350 millones.",
+      "Implementar un sistema de 'Hacienda Digital' automatizado e inteligente, inspirado en modelos como el de Estonia, para reducir la evasión.",
+      "Presentar una ley para eliminar impuestos ineficientes que cuestan más recaudar de lo que generan.",
+      "Fortalecer la fiscalización digital para combatir el contrabando y la subfacturación.",
+      "Autorizar temporalmente (por 4 años) el uso del 25% del margen de intermediación cambiaria del BCCR únicamente para pagar intereses de la deuda interna."
+    ]
+  }
+}

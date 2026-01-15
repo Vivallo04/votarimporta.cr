@@ -1,0 +1,76 @@
+{
+  "contexto": {
+    "eje": "Infraestructura y Ambiente",
+    "area": "Transporte y Movilidad",
+    "descripcion_general": "Se analizan como pilares críticos de la competitividad y la calidad de vida, cuya modernización es inseparable de una infraestructura resiliente y un compromiso con la sostenibilidad ambiental. Se propone un modelo intermodal, digitalizado y de bajas emisiones, rompiendo con décadas de planificación fragmentada."
+  },
+  "resumen": {
+    "problema": "El sistema de transporte y movilidad del país sufre un rezago estructural caracterizado por una dependencia excesiva del vehículo privado, un sistema de transporte público ineficiente y fragmentado, congestión vial severa, alta siniestralidad y una significativa contribución a las emisiones de gases de efecto invernadero (42% del total nacional). Existe una falta de integración intermodal, gestión inteligente del tráfico y una infraestructura ferroviaria subutilizada. La institucionalidad está fragmentada y burocrática, impidiendo una planificación y ejecución ágil.",
+    "propuesta": "Transformar radicalmente el sistema de transporte y movilidad hacia un modelo intermodal, inteligente, sostenible y eficiente. Esto se logrará mediante la integración de todos los modos de transporte (público, ferroviario, activo), la digitalización de la gestión del tráfico, el desarrollo de infraestructura ferroviaria masiva, la promoción de la movilidad de bajas emisiones y una profunda reforma institucional que facilite la competencia y la planificación unificada.",
+    "solucion": {
+      "plan_integral_de_transporte_publico_intermodal": {
+        "autoridad_unica": "Creación de la Autoridad Nacional de Transporte Intermodal dentro del MOPT para liderar la integración de buses, trenes, taxis y movilidad activa.",
+        "pago_electronico_universal": "Implementación obligatoria del sistema SINPE-TP en el 100% de las rutas de buses, permitiendo trazabilidad de datos y transparencia financiera.",
+        "tarifa_integrada": "Promoción de un esquema de tarifa única para trayectos que incluyan transbordos entre diferentes modalidades de transporte.",
+        "sectorizacion_y_troncalizacion": "Rediseño de rutas de buses para eliminar cuellos de botella en el centro de San José, utilizando unidades de mayor capacidad y terminales intermodales en la periferia de la GAM."
+      },
+      "gestion_inteligente_del_trafico_y_tecnologia": {
+        "sistema_nacional_git": "Creación del Sistema Nacional de Gestión Inteligente del Tráfico (SNGIT) con semáforos automatizados, sensores de flujo y algoritmos predictivos.",
+        "centro_nacional_de_control": "Establecimiento de un Centro Nacional de Control de Tráfico Inteligente para procesar datos en tiempo real y coordinar respuestas ante emergencias viales.",
+        "vigilancia_y_seguridad": "Instalación de cámaras de videovigilancia y dispositivos de fotomultas en puntos críticos para reducir la siniestralidad y mejorar el cumplimiento de normas."
+      },
+      "infraestructura_ferroviaria_y_logistica": {
+        "tren_rapido_de_pasajeros": "Impulso al Tren Rápido de Pasajeros en la GAM, con doble vía y conexión al Aeropuerto Juan Santamaría, ejecutado mediante Alianzas Público-Privadas (APP).",
+        "tren_electrico_de_carga": "Implementación del Tren Eléctrico de Carga (TELCA) hacia Moín para reducir la dependencia del transporte de carga por carretera y bajar costos logísticos.",
+        "estaciones_intermodales": "Diseño de estaciones ferroviarias como puntos de integración con buses, taxis y ciclovías."
+      },
+      "movilidad_sostenible_y_resiliencia_ambiental": {
+        "flotas_ecologicas": "Política de incentivos para migrar la flota de buses hacia vehículos eléctricos o de cero emisiones, incorporando estos estándares en las concesiones.",
+        "movilidad_activa": "Desarrollo del Programa Nacional de Infraestructura Ciclopeatonal para construir corredores seguros y segregados para ciclistas y peatones, conectados a centros de empleo.",
+        "infraestructura_verde_urbana": "Integración de jardines de lluvia, techos verdes y corredores biológicos en la obra vial para mitigar el efecto 'isla de calor' y mejorar el drenaje pluvial.",
+        "construccion_resiliente": "Exigencia de que toda obra pública nueva de transporte incorpore análisis de vulnerabilidad climática para garantizar resistencia a eventos meteorológicos extremos."
+      },
+      "reforma_institucional_y_competencia": {
+        "modernizacion_del_mopt": "Absorción del Consejo de Transporte Público (CTP) y otros órganos desconcentrados en el MOPT para fortalecer la rectoría técnica y eliminar burocracia.",
+        "libre_competencia": "Facilitación del transporte privado colaborativo (plataformas como Uber o DiDi) mediante un marco legal que elimine limitaciones al número de concesiones y establezca un registro único de operadores."
+      }
+    },
+    "ejecucion": {
+      "fase_1_reforma_institucional_y_planificacion": {
+        "descripcion": "Crear el marco institucional y legal, y completar la planificación detallada de los sistemas integrados.",
+        "acciones_clave": [
+          "Presentación y aprobación de la ley para crear la Autoridad Nacional de Transporte Intermodal y absorber el CTP en el MOPT.",
+          "Diseño técnico completo del Sistema Nacional de Gestión Inteligente del Tráfico (SNGIT) y del esquema de tarifa integrada.",
+          "Lanzamiento de la licitación para el diseño y construcción del Tren Rápido de Pasajeros y el TELCA bajo modelo APP."
+        ]
+      },
+      "fase_2_implementacion_inicial_y_digitalizacion": {
+        "descripcion": "Desplegar sistemas tecnológicos clave y comenzar las primeras obras de integración.",
+        "acciones_clave": [
+          "Implementación obligatoria del pago electrónico SINPE-TP en todas las rutas de buses.",
+          "Instalación piloto del SNGIT y del Centro Nacional de Control en la GAM.",
+          "Inicio de la construcción de los primeros corredores ciclopeatonales del programa nacional.",
+          "Firma de los primeros contratos de APP para la renovación de flotas de buses con criterios ecológicos."
+        ]
+      },
+      "fase_3_expansion_infraestructura_y_integracion": {
+        "descripcion": "Escalar las obras ferroviarias y de movilidad activa, e integrar plenamente los modos de transporte.",
+        "acciones_clave": [
+          "Inicio de la construcción del Tren Rápido de Pasajeros y del Tren Eléctrico de Carga.",
+          "Expansión nacional del SNGIT y de la red de cámaras de vigilancia vial.",
+          "Implementación completa del rediseño de rutas (sectorización/troncalización) y de la tarifa integrada en la GAM.",
+          "Despliegue masivo de infraestructura verde en proyectos viales nuevos y existentes."
+        ]
+      },
+      "fase_4_consolidacion_y_evaluacion_continua": {
+        "descripcion": "Monitorear el desempeño del sistema integrado, evaluar impactos ambientales y ajustar políticas.",
+        "acciones_clave": [
+          "Evaluación anual de indicadores clave: reducción de tiempos de viaje, aumento del uso de transporte público, disminución de emisiones del sector, reducción de siniestralidad vial.",
+          "Auditoría de la eficiencia de las APP ferroviarias y del sistema de gestión de tráfico.",
+          "Revisión y ajuste de los incentivos para flotas ecológicas y programas de movilidad activa basados en resultados.",
+          "Monitoreo continuo de la resiliencia de la infraestructura frente a eventos climáticos."
+        ]
+      }
+    }
+  }
+}

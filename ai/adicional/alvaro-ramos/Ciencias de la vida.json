@@ -1,0 +1,44 @@
+[
+  {
+    "area": "Visión Estratégica y Posicionamiento",
+    "propuesta": "Posicionar a Costa Rica como un referente global en Investigación y Desarrollo (I+D) y un hub de innovación en Ciencias de la Vida, trascendiendo la manufactura tradicional para enfocarse en el bienestar, la salud y el desarrollo de alto valor agregado, con el fin de escalar en la cadena de valor global y generar empleo de alta calidad.",
+    "solucion": "Fortalecer la inversión en I+D y diversificar el sector hacia áreas de mayor sofisticación tecnológica y valor, integrando componentes de manufactura avanzada, salud digital, biotecnología e inteligencia artificial, dentro de una estrategia nacional clara y coordinada.",
+    "ejecución": "Definir una hoja de ruta nacional para I+D en Ciencias de la Vida; establecer metas de inversión pública y privada en investigación; y promover al país en foros internacionales como un destino para inversión en innovación en salud y biotecnología."
+  },
+  {
+    "area": "Componentes y Diversificación del Sector",
+    "propuesta": "Ampliar y profundizar la cartera de industrias dentro del motor de Ciencias de la Vida, pasando de una fuerte dependencia en la manufactura de dispositivos médicos a un ecosistema diversificado que incluya salud digital, software clínico, biotecnología y farmacia.",
+    "solucion": "Desarrollar y apoyar de manera integral todas las sub-áreas del sector, fomentando sinergias entre ellas y creando un ecosistema innovador que atraiga inversión y talento especializado.",
+    "ejecución": "Crear programas de fomento específicos para startups y empresas en software clínico, biotecnología y farmacia; facilitar espacios de co-creación entre empresas, universidades y centros de investigación; y ofrecer incentivos para la diversificación productiva dentro del sector."
+  },
+  {
+    "area": "Integración con la Cuarta Revolución Industrial (4.0)",
+    "propuesta": "Vincular íntimamente el desarrollo del motor de Ciencias de la Vida con las tecnologías de la Revolución Industrial 4.0 para aumentar la productividad, la innovación y la competitividad global del sector.",
+    "solucion": "Adoptar y promover el uso transversal de tecnologías como Internet de las Cosas (IoT), Inteligencia Artificial (IA), Ciencia de Datos y robótica colaborativa en todos los procesos del sector, desde la investigación hasta la producción.",
+    "ejecución": "Crear el Centro Nacional de IA Ética y Productiva; fomentar programas de formación en programación y ciencia de datos con universidades; e impulsar proyectos piloto de manufactura aditiva y automatización inteligente en empresas del sector."
+  },
+  {
+    "area": "Gobernanza y Alianzas Estratégicas",
+    "propuesta": "Establecer una gobernanza robusta y alianzas público-privadas-académicas efectivas para coordinar y dirigir el desarrollo del motor de Ciencias de la Vida a nivel nacional.",
+    "solucion": "Restablecer y fortalecer los mecanismos de coordinación entre instituciones clave y crear nuevos espacios de decisión estratégica que involucren a todos los actores relevantes.",
+    "ejecución": "Restablecer la tríada de coordinación COMEX-PROCOMER-CINDE; crear un Gabinete de Transformación Productiva e I+D; y establecer mesas de trabajo sectoriales permanentes con representantes del gobierno, la empresa privada, la academia y los gobiernos locales."
+  },
+  {
+    "area": "Desarrollo de Talento Humano (Talento 4.0)",
+    "propuesta": "Desarrollar el capital humano especializado necesario para impulsar el motor de Ciencias de la Vida, con un enfoque en competencias digitales, técnicas y científicas de alto nivel, asegurando la inclusión y la equidad territorial.",
+    "solucion": "Diseñar e implementar una estrategia nacional de formación y capacitación alineada con las necesidades actuales y futuras del sector, aplicando estándares internacionales y fomentando la formación dual.",
+    "ejecución": "Crear programas de 'Talento 4.0' con enfoque territorial; fortalecer la formación técnica y científica en institutos y universidades; y promover alianzas para pasantías y capacitación en empresas líderes del sector."
+  },
+  {
+    "area": "Incentivos, Financiamiento y Simplificación",
+    "propuesta": "Movilizar inversión pública y privada hacia el sector de Ciencias de la Vida a través de incentivos financieros y fiscales, y simplificar los trámites administrativos para fomentar la innovación y el emprendimiento.",
+    "solucion": "Crear instrumentos de financiamiento competitivos y condicionar beneficios existentes a la generación de mayores impactos en I+D, transferencia tecnológica y descentralización, al tiempo que se agiliza la burocracia para la investigación.",
+    "ejecución": "Crear un Fondo Competitivo Regional de I+D para startups; condicionar beneficios de zonas francas a metas de transferencia tecnológica y creación de empleo fuera del GAM; implementar una Ventanilla Única de I+D; y activar el modelo de Compra Pública para la Innovación (CPI) en salud digital."
+  },
+  {
+    "area": "Equidad Territorial y Descentralización Productiva",
+    "propuesta": "Descentralizar el desarrollo del motor de Ciencias de la Vida para llevar la alta tecnología, la innovación y el empleo de calidad a las regiones periféricas del país, reduciendo la concentración en el Gran Área Metropolitana.",
+    "solucion": "Promover la creación de clústeres regionales inteligentes y 'zonas francas satélites' en ciudades emergentes, y conectar a las MIPYMES rurales con las cadenas globales de valor del sector.",
+    "ejecución": "Establecer incentivos específicos para la instalación de empresas de Ciencias de la Vida en regiones periféricas; desarrollar infraestructura de conectividad de alta velocidad en estas zonas; y crear programas de vinculación para que MIPYMES locales provean a las grandes empresas del sector."
+  }
+]

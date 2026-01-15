@@ -1,0 +1,85 @@
+[
+  {
+    "iniciativa": "Economía Circular y Reciclaje",
+    "marco_estrategico": "Eje 3: Agenda Social y Desarrollo Sostenible - Pilar de Desarrollo Sostenible y Ambiente",
+    "vision": "Transformar la gestión de residuos de Costa Rica de un problema ambiental y de salud pública en una oportunidad estratégica para generar prosperidad económica, empleo digno y liderazgo regional en economía circular, mientras se resuelve la crisis inminente de saturación de rellenos sanitarios.",
+    "diagnostico_problema": {
+      "crisis_residuos": {
+        "saturacion_rellenos": "Más del 94% de los desechos terminan en rellenos sanitarios saturados",
+        "riesgos": "Grave riesgo para la salud pública y el entorno natural",
+        "oportunidad_perdida": "Desaprovechamiento del valor económico de los residuos"
+      }
+    },
+    "paradigma_estrategico": {
+      "transicion": "De la economía lineal (extraer-producir-desechar) a la economía circular como modelo de desarrollo estratégico que integra sostenibilidad ambiental, inclusión social y prosperidad económica.",
+      "principios_rectores": ["Valorización de residuos", "Inclusión social", "Innovación tecnológica", "Integración intersectorial", "Educación ambiental"]
+    },
+    "componentes_estrategia": [
+      {
+        "componente": "Gestión de Residuos como Prioridad Inmediata",
+        "propuesta": "Resolver la crisis del manejo de residuos como una de las diez acciones prioritarias para los primeros 100 días, implementando soluciones tecnológicas y sistemas tarifarios sostenibles.",
+        "solucion": {
+          "valorizacion_energetica": "Instalar plantas procesadoras que transformen los residuos no valorizables en energía eléctrica",
+          "sistemas_tarifarios_sostenibles": "Mecanismos que incentiven la recolección y valorización de residuos",
+          "reduccion_carga_vertederos": "Desviar desechos de rellenos mediante tecnología limpia y selección de materiales más eficiente"
+        },
+        "ejecucion": [
+          "Identificación y desarrollo de proyectos de valorización energética en zonas de mayor saturación",
+          "Diseño e implementación de sistemas tarifarios diferenciados para residuos",
+          "Adquisición de tecnología para mejoramiento de procesos de selección y clasificación"
+        ]
+      },
+      {
+        "componente": "Dignificación y Formalización del Reciclaje",
+        "propuesta": "Integrar la economía circular con la agenda social mediante el Plan Nacional de Recicladores, transformando el reciclaje en una actividad económica formal e inclusiva.",
+        "solucion": {
+          "plan_nacional_recicladores": {
+            "regularizacion": "Simplificar trámites para formalizar a los recicladores y mejorar sus condiciones laborales",
+            "valor_anadido": "Brindar acceso a tecnología para que los materiales recuperados incorporen valor dentro de las cadenas productivas",
+            "infraestructura_comunitaria": "Implementar una red urbana de centros de acopio en la Gran Área Metropolitana (GAM)"
+          },
+          "meta_accesibilidad": "En 10 años, ninguna vivienda carecerá de acceso a un centro de reciclaje en su comunidad"
+        },
+        "ejecucion": [
+          "Elaboración y aprobación del Plan Nacional de Recicladores en los primeros 6 meses",
+          "Simplificación regulatoria para formalización de recicladores",
+          "Construcción de red de centros de acopio comunitarios, comenzando por la GAM"
+        ]
+      },
+      {
+        "componente": "La Economía Circular como Eje Transversal",
+        "propuesta": "Establecer la economía circular como principio rector transversal que articula innovación, educación, finanzas y desarrollo territorial.",
+        "solucion": {
+          "innovacion_emprendimiento": {
+            "esquemas_innovacion_abierta": "Grandes empresas colaboran con startups en proyectos de economía circular y energía verde",
+            "bioeconomia_cluster_prioritario": "Establecimiento de la bioeconomía como clúster prioritario para la competitividad territorial"
+          },
+          "educacion_ambiental": "Incorporación de sostenibilidad ecológica y economía circular en todos los niveles educativos",
+          "finanzas_sostenibles": "Establecimiento de un sistema nacional de finanzas que movilice capital público y privado hacia proyectos de economía circular y transición energética"
+        },
+        "ejecucion": [
+          "Creación de programa de innovación abierta en economía circular con participación empresarial",
+          "Revisión curricular del MEP para incorporar principios de economía circular y sostenibilidad",
+          "Diseño e implementación del Sistema Nacional de Finanzas Sostenibles"
+        ]
+      },
+      {
+        "componente": "Sinergia con la Descarbonización",
+        "propuesta": "Integrar la gestión de residuos como componente esencial de la acción climática del país, articulándola con los compromisos de descarbonización.",
+        "solucion": {
+          "integracion_accion_climatica": "La gestión de residuos como parte integral de la estrategia nacional de cambio climático",
+          "namas_segunda_generacion": "Utilización de Acciones de Mitigación Nacionalmente Apropiadas de segunda generación para financiar procesos de innovación",
+          "beneficios_multiples": {
+            "reduccion_gases_efecto_invernadero": "Disminución de emisiones mediante valorización de residuos",
+            "aumento_resiliencia": "Especialmente en zonas rurales vulnerables"
+          }
+        },
+        "ejecucion": [
+          "Articulación de proyectos de economía circular con la Estrategia Nacional de Descarbonización",
+          "Desarrollo de NAMAs específicas para el sector residuos y economía circular",
+          "Focalización de inversiones en zonas rurales para aumentar resiliencia climática"
+        ]
+      }
+    ]
+  }
+]

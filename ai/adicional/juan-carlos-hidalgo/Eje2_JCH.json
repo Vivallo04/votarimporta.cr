@@ -1,0 +1,37 @@
+{
+  "eje": "2: Reforma Institucional",
+  "premisa": "Transformar el Estado de un 'Estado paternalista' a un 'Estado facilitador', eficaz, transparente y regido por el principio de subsidiariedad, para que sea una herramienta al servicio de las personas.",
+  "diagnostico": "El Estado es percibido como lento e ineficiente, con instituciones que han dejado de servir a la ciudadanía. Un ejemplo es el Poder Judicial, al que se destina un 6% del PIB pero cuya justicia se ve como lejana. La excesiva tutela y controles previos (como los de la CGR) entorpecen la acción estatal.",
+  "propuestas": [
+    {
+      "nombre": "Transformación del Sistema de Justicia",
+      "propuesta": "Hacer el sistema de justicia más eficiente y cercano al ciudadano, liberándolo de cargas administrativas y reduciendo la mora.",
+      "solucion": "1) Unificar el Ministerio Público con la Procuraduría General bajo la Asamblea Legislativa. 2) Crear un 'Ejecutivo Judicial' para la gestión administrativa. 3) Trasladar funciones no esenciales (ej. cobro judicial) a notarios. 4) Establecer plazos taxativos para investigaciones y juicios.",
+      "ejecucion": "Reformas constitucionales y legales para reestructurar organismos, cambios administrativos dentro del Poder Judicial y modificación de regulaciones. Meta: Reducir la mora judicial en un 40% en cuatro años."
+    },
+    {
+      "nombre": "Reforma de la Contraloría General de la República (CGR)",
+      "propuesta": "Reequilibrar el sistema de control para que fiscalice sin paralizar la ejecución de obra pública y la iniciativa estatal.",
+      "solucion": "Transitar de un control ex-ante (previo) a un control posterior fuerte, utilizando tecnología forense e inteligencia artificial, y limitando las facultades cuasi-judiciales que frenan a los funcionarios.",
+      "ejecucion": "Reforma legal para modificar las competencias y procesos de control de la CGR, e inversión en tecnologías de fiscalización y análisis de datos (forense, IA)."
+    },
+    {
+      "nombre": "Intervención y Eficiencia del Poder Ejecutivo",
+      "propuesta": "Sanear y optimizar instituciones clave para la prestación de servicios básicos y la infraestructura.",
+      "solucion": "1) Intervenir el ICE y el AyA con nuevos liderazgos técnicos para sanear finanzas y garantizar servicios. 2) Dividir el MOPT en dos: Ministerio de Infraestructura y Ministerio de Movilidad y Gestión Urbana. 3) Transformar el CNC en una Agencia Nacional de Infraestructura profesional.",
+      "ejecucion": "Nombramiento de equipos técnicos en ICE y AyA, presentación de proyectos de ley para dividir el MOPT y para convertir el CNC en una agencia que facilite alianzas público-privadas."
+    },
+    {
+      "nombre": "Fortalecimiento Municipal y Descentralización",
+      "propuesta": "Acercar la toma de decisiones al ciudadano y modernizar la gestión de los gobiernos locales.",
+      "solucion": "1) Aplicar el principio de subsidiariedad. 2) Crear una Ventanilla Única de Inversión (VUI) digital integrando a las 84 municipalidades. 3) Coordinar un plan nacional para manejo de residuos con plantas que los transformen en energía.",
+      "ejecucion": "Desarrollo e implementación de una plataforma digital unificada (VUI), coordinación para estandarizar trámites municipales, y promoción de proyectos de inversión en plantas procesadoras de residuos."
+    },
+    {
+      "nombre": "Contexto Transversal: 'Emparejar la Cancha'",
+      "propuesta": "Establecer la reforma institucional como el soporte necesario para el éxito de la agenda social y económica.",
+      "solucion": "Reemplazar la desconfianza institucional con reformas estructurales que restauren la credibilidad del Estado a través de resultados tangibles y rendición de cuentas.",
+      "ejecucion": "Implementación coordinada de todas las reformas de este eje, con medición y comunicación constante de sus impactos en la eficiencia estatal y la calidad de vida."
+    }
+  ]
+}

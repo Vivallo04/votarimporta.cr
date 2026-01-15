@@ -1,0 +1,56 @@
+{
+  "iniciativa": "Turismo Regenerativo y Sostenible",
+  "eje": "Economía al servicio de la vida",
+  "propuestas": [
+    {
+      "propuesta": "Implementar el paradigma de turismo regenerativo de impacto positivo",
+      "solucion": "Promover un modelo de turismo que devuelva al entorno y a las comunidades más de lo que toma, mediante economía circular, descarbonización y fortalecimiento de la identidad cultural y social de cada territorio",
+      "ejecucion": "Desarrollar el Programa Nacional de Turismo Regenerativo, crear estándares y certificaciones específicas, establecer incentivos fiscales para proyectos regenerativos y lanzar campañas de posicionamiento internacional del modelo costarricense"
+    },
+    {
+      "propuesta": "Desarrollar aeropuertos regionales con identidad cultural (Aeropuerto-Museo)",
+      "solucion": "Transformar la infraestructura aeroportuaria regional en espacios que visibilicen y valoricen el patrimonio arqueológico y cultural local, integrando museos y centros de interpretación en las terminales",
+      "ejecucion": "Diseñar e implementar el proyecto de Aeropuerto-Museo en Limón y la zona Sur, integrar exposiciones permanentes sobre patrimonio local, capacitar a personal aeroportuario como guías culturales y crear alianzas con museos nacionales"
+    },
+    {
+      "propuesta": "Fomentar transporte público interconectado para zonas turísticas",
+      "solucion": "Conectar mediante transporte público accesible y eficiente las zonas turísticas con los centros de población donde residen los trabajadores, mejorando su calidad de vida y reduciendo la dependencia de servicios privados",
+      "ejecucion": "Crear rutas de transporte público especializadas para corredores turísticos, integrar sistemas de pago electrónico unificado, implementar frecuencias adecuadas a horarios laborales y desarrollar paradas seguras e informativas"
+    },
+    {
+      "propuesta": "Crear plataformas digitales para turismo rural y cultural comunitario",
+      "solucion": "Desarrollar herramientas digitales que conecten directamente a turistas con emprendimientos locales, promoviendo el turismo rural, cultural y de naturaleza gestionado por comunidades",
+      "ejecucion": "Implementar la plataforma digital 'Turismo Local CR', capacitar a 5,000 emprendedores en marketing digital, crear circuitos turísticos virtuales y establecer sistemas de reservas y pagos integrados"
+    },
+    {
+      "propuesta": "Impulsar turismo indígena autogestionado con protección cultural y ambiental",
+      "solucion": "Apoyar el desarrollo de proyectos turísticos en comunidades indígenas que respeten su autodeterminación, protejan sus recursos naturales y conocimientos tradicionales, y generen beneficios directos",
+      "ejecucion": "Crear el Programa de Turismo Indígena Autogestionado, desarrollar 50 proyectos pilotos con comunidades, establecer protocolos de consentimiento libre e informado, y capacitar a 1,000 guías comunitarios"
+    },
+    {
+      "propuesta": "Facilitar financiamiento competitivo para cooperativas y pequeños empresarios turísticos",
+      "solucion": "Ofrecer acceso a crédito preferencial, capital semilla y garantías para que cooperativas y pequeños empresarios locales puedan desarrollar negocios turísticos sostenibles y competitivos",
+      "ejecucion": "Crear el Fondo de Financiamiento Turístico Comunitario, establecer líneas de crédito con tasas preferenciales en banca estatal, implementar programas de capital semilla para 500 proyectos y ofrecer asesoría técnica financiera especializada"
+    },
+    {
+      "propuesta": "Ampliar modelos de gobernanza mixta en Áreas Silvestres Protegidas",
+      "solucion": "Fortalecer la gestión compartida de áreas protegidas mediante la participación activa del Estado, ONGs, sector privado y comunidades locales en la toma de decisiones y beneficios",
+      "ejecucion": "Establecer 20 nuevos comités de cogestión en áreas protegidas prioritarias, crear mecanismos de reparto justo de ingresos por visitación, desarrollar planes de manejo participativos y capacitar a actores locales en gestión turística sostenible"
+    },
+    {
+      "propuesta": "Implementar planes piloto de gestión integral de residuos en zonas turísticas",
+      "solucion": "Desarrollar sistemas cooperativos de manejo de residuos en destinos turísticos que promuevan la economía circular, reduzcan la contaminación y generen empleo local",
+      "ejecucion": "Establecer 10 planes piloto en destinos turísticos prioritarios, crear centros de acopio y valorización de residuos, implementar sistemas de separación en origen y desarrollar campañas de educación ambiental para turistas y comunidades"
+    },
+    {
+      "propuesta": "Establecer financiamiento verde con impuestos a pasajes aéreos",
+      "solucion": "Destinar $1 por cada pasaje aéreo internacional (de impuestos existentes) para financiar proyectos forestales, ambientales y de planificación territorial que mitiguen el impacto del turismo",
+      "ejecucion": "Crear el Fondo Verde Turístico, legislar la asignación específica de recursos, establecer comité técnico de asignación de fondos y desarrollar sistema transparente de rendición de cuentas sobre proyectos financiados"
+    },
+    {
+      "propuesta": "Fomentar educación técnica adaptada y cultura de pertenencia en jóvenes rurales",
+      "solucion": "Desarrollar programas de formación técnica especializada en turismo sostenible adaptados a las necesidades de cada región, fortaleciendo el sentido de pertenencia y capacidad de gestión local en jóvenes",
+      "ejecucion": "Crear el Programa de Formación Técnica en Turismo Regenerativo Regional, establecer 20 centros de capacitación en zonas rurales, implementar becas para 2,000 jóvenes anualmente y desarrollar pasantías en proyectos turísticos comunitarios"
+    }
+  ]
+}

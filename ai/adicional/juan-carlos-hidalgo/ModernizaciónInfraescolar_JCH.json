@@ -1,0 +1,78 @@
+[
+  {
+    "iniciativa": "Modernización de la Infraestructura Escolar",
+    "marco_estrategico": "Eje 3: Agenda Social y Desarrollo Sostenible - Componente de Educación para la Equidad Territorial",
+    "vision": "Modernizar 500 centros educativos para garantizar espacios dignos, seguros, accesibles y pedagógicamente adecuados que eliminen la exclusión y cierren brechas sociales y territoriales en el sistema educativo costarricense.",
+    "diagnostico_problema": {
+      "crisis_educativa": {
+        "descripcion": "La infraestructura escolar indigna es componente crítico de la 'crisis más seria de la historia' de la educación costarricense.",
+        "manifestacion": "Muchas escuelas permanecen cerradas o en condiciones indignas, generando un 'apagón' educativo."
+      },
+      "desigualdad_territorial": {
+        "zonas_afectadas": ["rurales", "costeras", "indígenas", "urbanas vulnerables"],
+        "impacto": "Estas carencias impiden que miles de estudiantes aprendan con dignidad y se convierten en factor de exclusión."
+      }
+    },
+    "paradigma_estrategico": {
+      "transicion": "De la infraestructura como gasto de construcción a componente estratégico para la equidad educativa y el desarrollo humano.",
+      "principios_rectores": ["Equidad territorial", "Inversión prioritaria diferenciada", "Gestión eficiente", "Sinergia programática"]
+    },
+    "componentes_estrategia": [
+      {
+        "componente": "Inversión Prioritaria y Diferenciada con Meta Clara",
+        "propuesta": "Modernizar 500 centros educativos durante el período constitucional con enfoque en zonas de mayor rezago social y territorial.",
+        "solucion": {
+          "meta_cuantificada": "500 centros educativos modernizados",
+          "tres_pilares": [
+            "Seguridad: Espacios protegidos para la integridad física del estudiante",
+            "Accesibilidad Universal: Implementación de estándares que aseguren la participación de personas con discapacidad",
+            "Adecuación Pedagógica: Espacios diseñados para metodologías activas y el uso de tecnologías digitales"
+          ],
+          "enfoque_territorial": "Inversión prioritaria y diferenciada en zonas rurales, costeras, indígenas y urbanas vulnerables"
+        },
+        "ejecucion": [
+          "Establecimiento de criterios técnicos y sociales para priorización de centros educativos",
+          "Asignación diferenciada de recursos según índice de desarrollo territorial"
+        ]
+      },
+      {
+        "componente": "Financiamiento Innovador y Gestión Eficiente",
+        "propuesta": "Movilizar recursos creativos para superar la restricción fiscal y acelerar la construcción y reparación de escuelas.",
+        "solucion": {
+          "mecanismos_financieros": [
+            "Fondos de Pensiones: Reforma legal para que puedan invertir en construcción de obras educativas",
+            "Titularización: De la infraestructura educativa para resolver la crisis actual",
+            "Alianzas Público-Privadas: Esquemas de colaboración con el sector privado para acelerar obras"
+          ],
+          "accion_inmediata": "Titularización identificada como una de las diez acciones para los primeros 100 días",
+          "gobernanza_local": "Fortalecimiento del rol de las Direcciones Regionales del MEP para identificar y determinar prioridades de infraestructura en sus territorios"
+        },
+        "ejecucion": [
+          "Impulso a reforma legal para inversión de fondos de pensiones en infraestructura educativa",
+          "Implementación de titularización de activos educativos en primeros 100 días de gobierno",
+          "Establecimiento de convenios de APP para proyectos estratégicos",
+          "Capacitación y empoderamiento de las Direcciones Regionales del MEP en gestión de infraestructura"
+        ]
+      },
+      {
+        "componente": "Articulación con Programas Sociales del Eje 3",
+        "propuesta": "Integrar la mejora de la infraestructura escolar con otros proyectos sociales para maximizar impacto y crear sinergias.",
+        "solucion": {
+          "triangulo_solidaridad_2_0": {
+            "mecanismo": "Mejora de centros educativos mediante inversión tripartita entre Estado, municipalidades y comunidades",
+            "enfoque": "Priorización de cantones con rezago social"
+          },
+          "base_programas_especificos": {
+            "escuelas_que_cuidan": "La infraestructura digna como base física necesaria para programas que integran salud mental y bienestar estudiantil",
+            "ebais_escolares": "Posibilidad de integración con servicios de salud en entornos educativos"
+          }
+        },
+        "ejecucion": [
+          "Coordinación interinstitucional para ejecutar proyectos de infraestructura mediante el esquema del Triángulo de Solidaridad 2.0",
+          "Diseño de infraestructura que permita implementación de programas como 'Escuelas que Cuidan'",
+          "Planificación conjunta entre MEP, Ministerio de Salud y gobiernos locales para proyectos integrales"
+        ]
+      }
+    ]
+  }
+]

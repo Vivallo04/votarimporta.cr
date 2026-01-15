@@ -1,0 +1,41 @@
+{
+  "eje": "Política Social",
+  "area": "Seguridad y Justicia",
+  "analisis": {
+    "problema": [
+      "Violencia Homicida: En 2024, Costa Rica registró 880 homicidios, la segunda cifra más alta de su historia, con una tasa de 16,6 por cada 100,000 habitantes. El 70% de estos casos se vincula a ajustes de cuentas del narcotráfico.",
+      "Cibercrimen: Las denuncias por delitos informáticos aumentaron un 300% entre 2018 y 2024, destacando la estafa informática y la suplantación de identidad.",
+      "Inseguridad Empresarial: 7 de cada 10 empresarios califican al país como inseguro, lo que impacta la competitividad y la estabilidad del sector productivo.",
+      "Hacinamiento Carcelario: El hacinamiento carcelario alcanza un 27,04%, lo que representa un límite crítico para el sistema de justicia criminal."
+    ],
+    "propuesta": [
+      "Implementar la estrategia 'Paz y Seguridad para Todos', que combina una 'mano dura' contra la delincuencia con un modelo de gestión basado en la prevención integral y el control de fenómenos delictuales."
+    ],
+    "solucion": [
+      "Unificación Policial: Unificar bajo el mando del Ministerio de Seguridad Pública a todos los cuerpos policiales (Fuerza Pública, Guardacostas, Vigilancia Aérea, Fronteras, Tránsito, Control Fiscal, Policía Penitenciaria) para mejorar la eficiencia operativa.",
+      "Fortalecimiento del Recurso Humano: Aumentar el pie de fuerza en 1,000 policías por año, profesionalizar la carrera exigiendo bachillerato completo para el ingreso y establecer regímenes de pensión anticipada e incentivos salariales similares a los de salud y educación.",
+      "Tecnología e Inteligencia: Crear una Dirección de Inteligencia Policial e implementar el uso de Inteligencia Artificial y reconocimiento facial enlazado con las bases de datos de Migración y el Tribunal Supremo de Elecciones (TSE).",
+      "Construcción de una Mega Cárcel: Construir una mega cárcel de alta seguridad para centralizar recursos y mejorar el control de los delincuentes, sustituyendo instalaciones obsoletas.",
+      "Trabajo Obligatorio en Cárceles: Impulsar el expediente 24.614 para que el trabajo en las cárceles sea parte de la pena, obligando a los reclusos a generar recursos para su sostenimiento, el pago a las víctimas y las pensiones alimentarias.",
+      "Bloqueo de Comunicaciones en Cárceles: Cortar definitivamente las comunicaciones de los privados de libertad con el exterior para frenar las estafas y extorsiones.",
+      "Prevención Social (Vínculo con Política Social): Combatir la pobreza como política de seguridad preventiva, proporcionando formación y empleo a jóvenes en riesgo para evitar su reclutamiento por el narcotráfico.",
+      "Soberanía y Fronteras (Vínculo con Política Exterior): Ejercer liderazgo regional contra el narcotráfico y el blanqueo de capitales, proponiendo un 'Acuerdo marco regional de combate a la corrupción' y una política migratoria eficaz para contener el acceso ilegal al territorio.",
+      "Protección de la Niñez (Vínculo con Vida y Familia): Reformar urgentemente para sancionar con rigor el contenido nocivo en internet y combatir la explotación sexual infantil, especialmente en zonas turísticas y rurales."
+    ],
+    "ejecucion": [
+      "Unificar por ley todos los cuerpos policiales bajo el mando del Ministerio de Seguridad Pública.",
+      "Aumentar el pie de fuerza en 1,000 policías por año.",
+      "Establecer el bachillerato completo como requisito mínimo de ingreso a la carrera policial.",
+      "Crear regímenes de pensión anticipada e incentivos salariales equivalentes a los de salud y educación para el personal policial.",
+      "Crear la Dirección de Inteligencia Policial.",
+      "Implementar sistemas de Inteligencia Artificial y reconocimiento facial integrados con bases de datos de Migración y el TSE.",
+      "Iniciar la construcción de una mega cárcel de alta seguridad.",
+      "Aprobar el expediente 24.614 para hacer obligatorio el trabajo penitenciario.",
+      "Instalar tecnología de bloqueo total de comunicaciones en todos los centros penitenciarios.",
+      "Diseñar e implementar programas de formación y empleo para jóvenes en comunidades de alto riesgo.",
+      "Promover y firmar un 'Acuerdo marco regional de combate a la corrupción' con países de la región.",
+      "Fortalecer los controles migratorios y de fronteras para impedir el acceso ilegal.",
+      "Presentar y aprobar una reforma legal para sancionar severamente la difusión de contenido nocivo en internet y la explotación sexual infantil."
+    ]
+  }
+}

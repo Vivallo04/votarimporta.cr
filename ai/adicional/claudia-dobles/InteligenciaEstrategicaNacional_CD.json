@@ -1,0 +1,41 @@
+{
+  "iniciativa": "Inteligencia Estratégica Nacional",
+  "eje": "Seguridad con Justicia",
+  "propuestas": [
+    {
+      "propuesta": "Reforma estructural de la DIS para convertirla en una agencia de inteligencia estratégica democrática",
+      "solucion": "Transformar la Dirección de Inteligencia y Seguridad (DIS) en una institución técnica de inteligencia estratégica, eliminando funciones policiales y de vigilancia política, y estableciendo controles democráticos estrictos para garantizar transparencia y respeto a los derechos fundamentales",
+      "ejecucion": "Presentar proyecto de ley para excluir a la DIS de la Ley General de Policía, crear un nuevo marco normativo específico para inteligencia estratégica, establecer una Comisión Bicameral de Fiscalización en la Asamblea Legislativa, y designar una unidad especializada en la Defensoría de los Habitantes para supervisión permanente"
+    },
+    {
+      "propuesta": "Crear el Sistema Nacional de Inteligencia para superar la fragmentación institucional",
+      "solucion": "Establecer un sistema integrado que coordine todas las agencias de inteligencia del país, garantizando flujo constante de información y colaboración interinstitucional para enfrentar amenazas de manera coordinada y eficiente",
+      "ejecucion": "Diseñar e implementar el Sistema Nacional de Inteligencia con protocolos estandarizados de intercambio de información, crear una plataforma tecnológica segura para compartir inteligencia, establecer el Consejo Nacional de Inteligencia con representantes de todas las agencias, y liderar acuerdos regionales de intercambio de inteligencia"
+    },
+    {
+      "propuesta": "Implementar un modelo de policía basado en inteligencia para combatir el crimen organizado",
+      "solucion": "Desarrollar capacidades de inteligencia criminal avanzada que permitan anticipar y desarticular redes delictivas mediante coordinación permanente entre el OIJ y el Ministerio de Seguridad Pública, priorizando delitos como el sicariato y el narcotráfico",
+      "ejecucion": "Establecer células de inteligencia conjunta OIJ-MSP en cada región, implementar software de análisis predictivo del delito, realizar operaciones basadas en inteligencia previa validada, y crear un centro de análisis criminal estratégico con profesionales especializados"
+    },
+    {
+      "propuesta": "Fortalecer la inteligencia financiera para atacar los activos del crimen organizado",
+      "solucion": "Robustecer las capacidades de rastreo, análisis y judicialización de capitales ilícitos mediante la modernización de la Unidad de Inteligencia Financiera y la implementación de tecnologías avanzadas de análisis de datos financieros",
+      "ejecucion": "Aprobar la Ley de Capitales Emergentes, dotar a la Unidad de Inteligencia Financiera del ICD con 100 analistas especializados, implementar sistemas de inteligencia artificial para detección de operaciones sospechosas, y establecer acuerdos automáticos de intercambio de información financiera con 30 jurisdicciones"
+    },
+    {
+      "propuesta": "Modernizar las capacidades tecnológicas de inteligencia con herramientas de vanguardia",
+      "solucion": "Incorporar tecnologías avanzadas como inteligencia artificial, drones, sistemas de georreferenciación y análisis de big data para optimizar la recolección, procesamiento y análisis de información de inteligencia",
+      "ejecucion": "Crear el Centro de Tecnología de Inteligencia, adquirir 100 drones especializados para vigilancia, implementar sistemas de análisis de datos con IA, desarrollar plataformas de georreferenciación criminal en tiempo real, y capacitar a 500 analistas en técnicas de inteligencia digital"
+    },
+    {
+      "propuesta": "Desarrollar capacidades nacionales en ciberseguridad e inteligencia contra ciberamenazas",
+      "solucion": "Proteger la infraestructura crítica nacional y prevenir ataques cibernéticos mediante el fortalecimiento de capacidades de inteligencia y respuesta frente a ciberterrorismo y amenazas digitales emergentes",
+      "ejecucion": "Establecer el Comando Conjunto de Ciberseguridad, crear el Laboratorio Nacional de Inteligencia Cibernética, implementar sistemas de detección temprana de ciberataques, capacitar a 300 especialistas en inteligencia cibernética, y desarrollar protocolos de respuesta a incidentes críticos"
+    },
+    {
+      "propuesta": "Garantizar que las actividades de inteligencia respeten derechos humanos y privacidad",
+      "solucion": "Establecer un marco ético y normativo robusto que asegure que todas las operaciones de inteligencia se realicen con pleno respeto a la privacidad, libertad de expresión y demás derechos fundamentales de la ciudadanía",
+      "ejecucion": "Actualizar la Ley de Protección de Datos Personales, implementar programas de formación en democracia digital para todo el personal de inteligencia, crear mecanismos de autorización judicial para actividades de vigilancia, y establecer auditorías independientes periódicas de las actividades de inteligencia"
+    }
+  ]
+}

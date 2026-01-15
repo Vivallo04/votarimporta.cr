@@ -1,0 +1,75 @@
+{
+  "contexto": {
+    "eje": "Educación y Salud",
+    "area": "Sistema de Salud",
+    "descripcion_general": "Se analiza como un pilar en crisis estructural, cuya reforma es inseparable del desarrollo del talento humano y el bienestar social. La propuesta plantea una transformación profunda de la Caja Costarricense de Seguro Social (CCSS) para pasar de un modelo burocrático y colapsado a uno sostenible, eficiente y centrado en el paciente."
+  },
+  "resumen": {
+    "problema": "El sistema de salud, administrado por la CCSS, sufre una crisis estructural caracterizada por una excesiva centralización y rigidez institucional, listas de espera exorbitantes (ej. 424 días promedio para cirugía), colapso en los servicios, un modelo de financiamiento insostenible ante una alta informalidad laboral (40.6%), falta de transparencia en costos, y una deuda estatal pendiente. Además, el sistema no está preparado para los desafíos demográficos (envejecimiento poblacional) y de salud pública (salud mental, enfermedades crónicas). La infraestructura sanitaria está saturada y los proyectos de construcción enfrentan grandes retrasos.",
+    "propuesta": "Realizar una transformación profunda del sistema de salud para convertirlo en un modelo sostenible, eficiente y centrado en el paciente. Esto se logrará mediante una reforma constitucional e institucional de la CCSS, la incorporación de alianzas público-privadas para agilizar servicios, la aplicación de medidas para garantizar la sostenibilidad financiera, y la integración de la tecnología como eje transversal. La salud se vincula estratégicamente con la educación como política de prevención y bienestar integral.",
+    "solucion": {
+      "reforma_institucional_y_gobernanza_de_la_ccss": {
+        "reforma_constitucional": "Reformar el artículo 73 de la Constitución Política para modernizar el gobierno de la CCSS, permitiendo cambios en su financiamiento y administración sin eliminar su autonomía.",
+        "separacion_de_funciones": "Dividir la CCSS en tres líneas de negocio independientes: aseguradora, prestadora de servicios de salud y operadora de pensiones, para mejorar transparencia y especialización.",
+        "representatividad": "Incluir a los trabajadores independientes en la Junta Directiva y aplicar mejores prácticas de gobierno corporativo para despolitizar las decisiones."
+      },
+      "soluciones_a_la_crisis_de_servicios_y_listas_de_espera": {
+        "alianzas_publico_privadas_app": "Tercerizar la gestión del primer nivel de atención (Ebais) y conceder progresivamente servicios en hospitales regionales (segundo nivel). Usar de inmediato la capacidad del sector privado para reducir listas de espera.",
+        "gestion_de_especialistas": "Declarar inopia nacional para contratar médicos especialistas extranjeros y ampliar significativamente los cupos de residencia médica en la CCSS.",
+        "infraestructura_sanitaria": "Ejecutar nuevos proyectos hospitalarios (como el de Cartago o el de Cáncer) mediante fideicomisos y Alianzas Público-Privadas (APP) para evitar retrasos burocráticos."
+      },
+      "sostenibilidad_financiera": {
+        "sistema_de_costos": "Consolidar un sistema robusto de costos para conocer con precisión el gasto de cada servicio y aplicar medidas correctivas de eficiencia.",
+        "deuda_del_estado": "Realizar una auditoría independiente para determinar el monto real de la deuda del Estado con la CCSS e integrar su pago a una política fiscal de largo plazo.",
+        "eliminacion_del_enganche_medico": "Reformar la ley para suprimir el aumento salarial automático de los profesionales en ciencias médicas ligado a los aumentos generales del sector público."
+      },
+      "sinergia_entre_educacion_y_salud": {
+        "salud_mental_como_prioridad": "Elevar la salud mental a política de Estado, integrando módulos de habilidades socioemocionales en el currículo escolar y creando líneas de crisis 24/7.",
+        "alfabetizacion_fisica": "Vincular el deporte y la educación física (desde preescolar) como inversión en salud pública para prevenir enfermedades no transmisibles.",
+        "envejecimiento_saludable": "Crear Centros de Autonomía Funcional y servicios de geriatría en todos los hospitales nacionales, requiriendo formación de personal en gerontología."
+      },
+      "tecnologia_e_innovacion": {
+        "expediente_unico": "Consolidar una historia clínica digital única e interoperable entre los sectores público y privado de salud.",
+        "evaluacion_tecnologica": "Crear una unidad de Evaluación de Tecnologías Sanitarias (ETS) para basar la adopción de nuevos equipos y medicamentos en evidencia de costo-efectividad.",
+        "telemedicina": "Expandir el uso de consultas virtuales para llegar a zonas remotas y mejorar el seguimiento de pacientes crónicos."
+      }
+    },
+    "ejecucion": {
+      "fase_1_preparacion_y_marco_legal": {
+        "descripcion": "Sentar las bases legales e institucionales para la reforma estructural.",
+        "acciones_clave": [
+          "Presentación del proyecto de ley para reformar el artículo 73 de la Constitución y modificar la ley orgánica de la CCSS.",
+          "Conformación de una comisión para la auditoría independiente de la deuda del Estado con la CCSS.",
+          "Diseño del plan de implementación del sistema único de historia clínica digital."
+        ]
+      },
+      "fase_2_intervenciones_de_urgencia_y_pilotos": {
+        "descripcion": "Implementar medidas inmediatas para aliviar la crisis y lanzar proyectos piloto de nuevos modelos.",
+        "acciones_clave": [
+          "Declaratoria de inopia y inicio de contratación de especialistas extranjeros.",
+          "Firma de los primeros convenios de APP para usar capacidad privada y reducir listas de espera quirúrgicas.",
+          "Lanzamiento de las líneas de crisis 24/7 para salud mental.",
+          "Puesta en marcha de proyectos piloto de tercerización de Ebais en regiones específicas."
+        ]
+      },
+      "fase_3_reformas_estructurales_y_expansion": {
+        "descripcion": "Desplegar las reformas profundas y escalar los modelos exitosos.",
+        "acciones_clave": [
+          "Aprobación e implementación inicial de la separación de funciones dentro de la CCSS (aseguradora, prestadora, pensiones).",
+          "Expansión nacional del modelo de APP para gestión de hospitales regionales.",
+          "Activación plena del sistema de costos y de la unidad de Evaluación de Tecnologías Sanitarias (ETS).",
+          "Inicio de la construcción de nuevos hospitales bajo el modelo de fideicomisos/APP."
+        ]
+      },
+      "fase_4_consolidacion_y_evaluacion_continua": {
+        "descripcion": "Monitorear el impacto, ajustar políticas y asegurar la sostenibilidad a largo plazo.",
+        "acciones_clave": [
+          "Evaluación trimestral de indicadores clave: tiempos de espera, satisfacción usuaria, sostenibilidad financiera de la CCSS.",
+          "Análisis del impacto de las APP y la telemedicina en la eficiencia y cobertura.",
+          "Revisión y ajuste de los programas de salud mental y envejecimiento basados en evidencia.",
+          "Monitoreo continuo de la interoperabilidad y seguridad del expediente clínico digital único."
+        ]
+      }
+    }
+  }
+}

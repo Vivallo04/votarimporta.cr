@@ -1,0 +1,76 @@
+{
+  "contexto": {
+    "eje": "Sector Financiero",
+    "descripcion_general": "Se analiza como un habilitador crítico para la prosperidad económica ('tercera gran victoria'), proponiendo una modernización disruptiva orientada a reducir costos, fomentar la competencia y garantizar la libertad individual."
+  },
+  "resumen": {
+    "problema": "El sistema financiero actual es fragmentado, costoso y poco inclusivo. Presenta altos costos de supervisión debido a la duplicidad de entes reguladores, lo que encarece el crédito (alto margen de intermediación). Existe una baja bancarización y educación financiera (80% de la población sin formación), barreras al emprendimiento por falta de crédito y capital de riesgo, y un marco regulatorio obsoleto que no abraza la innovación (fintech, criptoactivos). Además, el Estado es dueño de instituciones financieras (BCR, BICSA) que podrían venderse para reducir la deuda pública y aumentar la competencia.",
+    "propuesta": "Transformar el sector financiero en un motor de prosperidad mediante una reforma integral que garantice estabilidad macroeconómica, eficiencia supervisora, inclusión digital, innovación tecnológica y un acceso masivo al crédito para productores y emprendedores. El objetivo es crear un sistema más barato, competitivo, moderno y accesible para todos los ciudadanos.",
+    "solucion": {
+      "estabilidad_institucional_y_gestion_de_la_deuda": {
+        "independencia_del_banco_central": "Reafirmar el respeto irrestricto a la autonomía del Banco Central de Costa Rica (BCCR) para garantizar la estabilidad de precios y el poder adquisitivo.",
+        "venta_de_activos_estatales": "Vender el Banco de Costa Rica (BCR) y BICSA a entidades internacionales de primer orden que no operen en el país. Los ingresos (estimados en un 3% del PIB) se destinarán exclusivamente al pago de la deuda pública."
+      },
+      "eficiencia_y_supervision_unificada": {
+        "superintendencia_financiera_unica": "Fusionar las superintendencias (SUGEF, SUGESE, SUPEN, SUGEVAL) en un solo ente para eliminar duplicidades, reducir costos de supervisión y mejorar la detección de riesgos sistémicos.",
+        "reduccion_del_margen_de_intermediacion": "Bajar las tasas de interés mediante la eliminación de cargas parafiscales ineficientes y la digitalización de trámites bancarios para mejorar la evaluación de riesgo."
+      },
+      "inclusion_bancarizacion_y_educacion": {
+        "meta_de_bancarizacion": "Lograr que el 95% de la población adulta utilice activamente una cuenta o medio de pago digital para el 2030.",
+        "programa_nacional_de_educacion_financiera": "Incorporar módulos de finanzas en el currículo escolar desde primaria para fomentar el ahorro y prevenir el sobreendeudamiento.",
+        "proteccion_del_sinpe_movil": "Impulsar una ley para prohibir cualquier retención del IVA sobre las transferencias realizadas a través de SINPE Móvil."
+      },
+      "innovacion_tecnologica_y_libertad_monetaria": {
+        "ecosistema_fintech": "Crear un marco normativo proporcional para empresas tecnológicas financieras, incluyendo sandbox regulatorios para probar nuevos modelos de negocio sin la rigidez de la banca tradicional.",
+        "criptoactivos": "Reconocimiento jurídico de las transacciones con monedas virtuales en contratos privados y regulación basada en riesgos para las plataformas de intercambio (exchanges), respetando la libertad de uso individual."
+      },
+      "financiamiento_para_la_produccion_pymes": {
+        "programa_de_financiamiento_inclusivo": "Crear líneas de crédito diferenciadas por riesgo, sector y género, fortaleciendo el Sistema de Banca para el Desarrollo.",
+        "capital_de_riesgo": "Impulsar una ley para fomentar el capital semilla y permitir que inversionistas institucionales (como operadoras de pensiones) inviertan en startups y proyectos innovadores.",
+        "segunda_oportunidad": "Reformar la ley concursal para establecer un proceso de quiebra simplificado y digital para emprendedores, limitando a dos años la permanencia de registros negativos en el historial crediticio."
+      }
+    },
+    "ejecucion": {
+      "fase_1_preparacion_legal_y_estructural": {
+        "descripcion": "Preparar el marco legal e iniciar las reestructuraciones institucionales clave.",
+        "acciones_clave": [
+          "Presentación a la Asamblea Legislativa del proyecto de ley para crear la Superintendencia Financiera Única y la ley de protección al SINPE Móvil.",
+          "Inicio del proceso de due diligence y valoración para la venta del BCR y BICSA.",
+          "Diseño del nuevo marco regulatorio proporcional para fintech y criptoactivos."
+        ]
+      },
+      "fase_2_implementacion_inicial_y_fusion": {
+        "descripcion": "Ejecutar las fusiones regulatorias y lanzar programas de inclusión y educación.",
+        "acciones_clave": [
+          "Fusión operativa de las superintendencias en la nueva entidad única.",
+          "Lanzamiento del Programa Nacional de Educación Financiera en el sistema educativo público.",
+          "Activación de las primeras líneas de crédito diferenciadas del Programa de Financiamiento Inclusivo."
+        ]
+      },
+      "fase_3_modernizacion_tecnologica_y_venta_de_activos": {
+        "descripcion": "Profundizar en la innovación y concretar la desincorporación de activos estatales.",
+        "acciones_clave": [
+          "Puesta en marcha del sandbox regulatorio para empresas fintech.",
+          "Concreción de la venta del BCR y BICSA, y aplicación de los fondos a la reducción de deuda.",
+          "Implementación del proceso de quiebra digital simplificado para emprendedores."
+        ]
+      },
+      "fase_4_expansion_y_consolidacion": {
+        "descripcion": "Expandir el acceso y consolidar el nuevo ecosistema financiero.",
+        "acciones_clave": [
+          "Evaluación y ajuste de la estrategia para alcanzar la meta del 95% de bancarización.",
+          "Promoción activa y operatividad plena del mercado de capital de riesgo para startups.",
+          "Regulación plena y operación de exchanges de criptoactivos bajo el nuevo marco."
+        ]
+      },
+      "fase_5_monitoreo_y_evaluacion_continua": {
+        "descripcion": "Seguimiento del impacto del sistema financiero renovado en la economía real.",
+        "acciones_clave": [
+          "Monitoreo trimestral de indicadores clave: tasas de interés promedio, porcentaje de población bancarizada, volumen de crédito a PYMES, crecimiento del sector fintech.",
+          "Evaluación de la eficacia de la educación financiera y los programas de segunda oportunidad.",
+          "Revisión periódica de la estabilidad y competitividad del sector por parte de la Superintendencia Única y el Banco Central."
+        ]
+      }
+    }
+  }
+}

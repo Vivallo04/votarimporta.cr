@@ -1,0 +1,68 @@
+{
+  "contexto": {
+    "eje": "Sector Financiero",
+    "area": "Innovación y Pymes",
+    "descripcion_general": "Se establece como el motor fundamental para alcanzar la prosperidad económica ('tercera gran victoria'), con el objetivo de fortalecer la clase media mediante la generación de empleo de calidad y el aumento de la productividad nacional."
+  },
+  "resumen": {
+    "problema": "Las Micro, Pequeñas y Medianas Empresas (Mipymes), que representan el 97% del parque empresarial, enfrentan múltiples barreras: un marco regulatorio fragmentado y lento que tarda semanas en formalizar una empresa; un acceso limitado al crédito y al capital de riesgo; una inversión en Investigación y Desarrollo (I+D) extremadamente baja (0.34% del PIB, el más bajo de la OCDE); una desconexión entre la inversión extranjera y el ecosistema local; y un sistema educativo que no fomenta suficientemente el emprendimiento innovador ni las habilidades necesarias para la economía del futuro.",
+    "propuesta": "Transformar a las Pymes y la innovación en el eje central del desarrollo económico, mediante una estrategia que combina una simplificación radical de trámites, un acceso democratizado al financiamiento, un impulso agresivo a la innovación productiva y una alineación del sistema educativo con las necesidades del mercado. El objetivo es crear un entorno donde emprender sea rápido, financiarse sea posible, innovar sea rentable y fallar no sea una condena perpetua.",
+    "solucion": {
+      "simplificacion_radical_y_libertad_para_emprender": {
+        "meta_de_un_solo_dia": "Automatización de la Ventanilla Única de Inversión (VUI) para que la constitución y registro de una empresa tome solo un día hábil.",
+        "licencias_provisionales": "Implementación del registro 'de oficio' con licencias automáticas por un año, permitiendo operar y facturar de inmediato mientras se completan inspecciones no críticas.",
+        "silencio_positivo": "Reforma legal para que, ante la falta de respuesta de una institución dentro de los plazos establecidos, la solicitud del emprendedor se considere automáticamente aprobada."
+      },
+      "financiamiento_inclusivo_y_gestion_del_fracaso": {
+        "programa_nacional_de_financiamiento_inclusivo": "Creación de líneas de crédito con condiciones diferenciadas por perfil de riesgo, sector económico y género del emprendedor.",
+        "capital_de_riesgo": "Impulso de una Ley de Capital de Riesgo para permitir que inversionistas institucionales (como operadoras de pensiones) financien startups y proyectos de innovación de alto potencial.",
+        "segunda_oportunidad": "Reforma del sistema concursal para establecer una quiebra simplificada y digital, limitando a solo dos años la permanencia de registros negativos en el historial crediticio del emprendedor."
+      },
+      "fomento_a_la_innovacion_y_cierre_de_brechas_de_productividad": {
+        "sandbox_regulatorios": "Creación de entornos controlados (sandboxes) donde empresas emergentes puedan probar soluciones tecnológicas innovadoras sin someterse inicialmente a toda la regulación tradicional.",
+        "vinculacion_con_la_ied": "Reforma de los incentivos a la Inversión Extranjera Directa (IED) para incluir metas obligatorias de desarrollo de proveedores locales (encadenamientos) y transferencia tecnológica hacia las Pymes nacionales.",
+        "puentes_de_innovacion": "Desarrollo de programas liderados por PROCOMER para conectar sistemáticamente el dinamismo y la demanda de las multinacionales con el ecosistema de emprendimiento e innovación local."
+      },
+      "educacion_y_talento_para_la_economia_del_futuro": {
+        "empresas_universitarias_spin_off": "Vincular parte del financiamiento del FEES (Fondo Especial para la Educación Superior) a la creación, incubación y escalamiento de empresas derivadas (spin-offs) de la investigación universitaria.",
+        "hackatones_y_vocaciones_stem": "Implementación de programas nacionales de retos tecnológicos (hackatones) y formación masiva en ciencia, tecnología, ingeniería y matemáticas (STEM), con enfoque en jóvenes y mujeres.",
+        "centros_de_alfabetizacion_digital": "Creación de 10 centros en zonas vulnerables para brindar capacitación accesible en inglés, habilidades digitales básicas/avanzadas y fundamentos de emprendimiento."
+      }
+    },
+    "ejecucion": {
+      "fase_1_habilitacion_legal_y_digital": {
+        "descripcion": "Preparar el marco normativo y la infraestructura digital para la simplificación radical y la segunda oportunidad.",
+        "acciones_clave": [
+          "Presentación y aprobación de la ley de silencio positivo y reforma para licencias provisionales automáticas.",
+          "Puesta en marcha de la Ventanilla Única de Inversión (VUI) completamente automatizada.",
+          "Desarrollo de la plataforma digital para el proceso de quiebra simplificada ('Segunda Oportunidad')."
+        ]
+      },
+      "fase_2_lanzamiento_de_programas_financieros_y_de_innovacion": {
+        "descripcion": "Activar los mecanismos de financiamiento y los programas de vinculación tecnológica.",
+        "acciones_clave": [
+          "Lanzamiento operativo del Programa Nacional de Financiamiento Inclusivo con sus primeras líneas de crédito.",
+          "Aprobación e implementación inicial de la Ley de Capital de Riesgo.",
+          "Establecimiento del primer sandbox regulatorio y reforma de los incentivos a la IED con cláusulas de encadenamiento productivo.",
+          "Inicio de los programas 'Puentes de Innovación' de PROCOMER."
+        ]
+      },
+      "fase_3_impulso_al_talento_y_expansion_territorial": {
+        "descripcion": "Escalar la formación de capital humano y la infraestructura de apoyo en todo el territorio.",
+        "acciones_clave": [
+          "Inicio de la vinculación del FEES con la creación de spin-offs universitarias.",
+          "Realización de los primeros hackatones nacionales y programas masivos de formación STEM.",
+          "Apertura y puesta en funcionamiento de los primeros Centros de Alfabetización Digital en zonas vulnerables."
+        ]
+      },
+      "fase_4_consolidacion_y_evaluacion_de_impacto": {
+        "descripcion": "Medir resultados, ajustar políticas y consolidar el ecosistema emprendedor e innovador.",
+        "acciones_clave": [
+          "Evaluación trimestral de indicadores clave: tiempo promedio de apertura de empresas, monto de crédito desembolsado a PYMES, número de startups creadas, inversión en I+D como porcentaje del PIB.",
+          "Análisis de la efectividad de los sandboxes y los programas de encadenamiento con la IED.",
+          "Revisión y ajuste de los programas de formación basados en la inserción laboral de los graduados."
+        ]
+      }
+    }
+  }
+}

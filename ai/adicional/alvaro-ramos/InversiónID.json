@@ -1,0 +1,26 @@
+[
+  {
+    "area": "Incentivos y Facilidades para la Inversión en I+D",
+    "propuesta": "Crear un entorno regulatorio y fiscal excepcionalmente atractivo para que las empresas multinacionales y de capital nacional no solo mantengan sus operaciones de manufactura en Costa Rica, sino que trasladen y desarrollen actividades de Investigación y Desarrollo (I+D) de alto valor en el país, superando la actual baja inversión en este campo.",
+    "solucion": "Diseñar un paquete integral de incentivos fiscales específicos y condicionados, combinado con una simplificación administrativa radical, para premiar la inversión en I+D y vincularla a objetivos estratégicos de transferencia tecnológica y desarrollo territorial descentralizado.",
+    "ejecucion": "Establecer beneficios tributarios específicos para empresas que inviertan en I+D; condicionar los beneficios de las Zonas Francas Satélites al cumplimiento de metas de transferencia tecnológica, encadenamientos productivos locales y generación de empleo cualificado fuera del GAM; y simplificar los trámites aduaneros y de permisos para la importación de insumos científicos y biológicos necesarios para la investigación."
+  },
+  {
+    "area": "Infraestructura Institucional: Ventanilla Única de I+D",
+    "propuesta": "Eliminar las barreras burocráticas y la fragmentación institucional que frenan la velocidad y eficiencia de los procesos de innovación en el sector de Ciencias de la Vida, particularmente en áreas reguladas como los dispositivos médicos y la salud digital.",
+    "solucion": "Crear una instancia de coordinación interinstitucional única y especializada (Ventanilla Única de I+D) que centralice y agilice todos los trámites críticos para la investigación y el desarrollo, proporcionando predictibilidad y soporte a los inversionistas e innovadores.",
+    "ejecucion": "Crear e implementar la Ventanilla Única de I+D, coordinada por COMEX, MICITT, el Ministerio de Salud, el MEIC y MIDEPLAN, para agilizar de manera integrada la gestión de permisos y ensayos clínicos, la importación de insumos especializados y la protección de la propiedad intelectual."
+  },
+  {
+    "area": "Centros Regionales y Ecosistema de Innovación",
+    "propuesta": "Construir una infraestructura de innovación física y financiera de clase mundial, distribuida territorialmente, para servir como base que atraiga y retenga inversión en I+D, fomentando la colaboración y la generación de nuevas empresas de base tecnológica (startups, spin-offs).",
+    "solucion": "Establecer una red de centros de investigación aplicada con financiamiento mixto y talento interdisciplinario, respaldada por un fondo de capital semilla y un marco de gobernanza fortalecido que alinee todos los actores del ecosistema de innovación.",
+    "ejecucion": "Establecer Centros Regionales de Investigación Aplicada con financiamiento del Estado, sector privado y organismos multilaterales; crear un Fondo Competitivo Regional de I+D para el financiamiento de startups y spin-offs tecnológicas; restablecer la tríada COMEX-PROCOMER-CINDE; y crear un Gabinete de Transformación Productiva e I+D adscrito a la Presidencia de la República."
+  },
+  {
+    "area": "Compra Pública e Integración con la Industria 4.0",
+    "propuesta": "Utilizar el poder de compra del Estado y la adopción de tecnologías de vanguardia para catalizar la demanda de innovación local, cerrando el ciclo entre la investigación, el desarrollo y la comercialización de soluciones avanzadas en el sector salud, al tiempo que se moderniza la base productiva.",
+    "solucion": "Implementar el mecanismo de Compra Pública para la Innovación (CPI) para generar demanda temprana de soluciones tecnológicas locales, e impulsar la adopción transversal de tecnologías de la Cuarta Revolución Industrial (IA, robótica, manufactura aditiva) en la salud pública y la industria privada.",
+    "ejecucion": "Activar el modelo de Compra Pública para la Innovación (CPI), lanzando desafíos anuales del Estado en áreas como salud digital para atraer y desarrollar soluciones locales; e integrar de forma transversal tecnologías 4.0 (Inteligencia Artificial, robótica colaborativa, Internet de las Cosas, manufactura aditiva) en los procesos del sector salud y en la fabricación de dispositivos médicos."
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "iniciativa": "Comercio Exterior e Inversión",
+  "eje": "Economía al servicio de la vida",
+  "propuestas": [
+    {
+      "propuesta": "Atraer Inversión Extranjera Directa (IED) con impacto territorial y generación de empleo de calidad fuera del GAM",
+      "solucion": "Redistribuir estratégicamente la inversión extranjera para romper la concentración de riqueza en el Gran Área Metropolitana, vinculando los beneficios fiscales de las Zonas Francas a resultados medibles en encadenamientos productivos y desarrollo de talento local",
+      "ejecucion": "Relanzar la propuesta de valor de Costa Rica para atraer IED regionalizada, intensificar la búsqueda de socios en Europa y Latinoamérica, ejecutar programas de capacitación rápida (bootcamps) en alianza con empresas de sectores dinámicos y establecer incentivos fiscales condicionados a contratación local y transferencia tecnológica"
+    },
+    {
+      "propuesta": "Diversificar los orígenes de inversión para fortalecer la resiliencia económica nacional",
+      "solucion": "Reducir la dependencia de mercados tradicionales mediante la atracción de inversión de nuevas regiones geográficas, asegurando una cartera diversificada de socios comerciales y de inversión",
+      "ejecucion": "Implementar una estrategia agresiva de promoción en Europa y Latinoamérica, abrir 10 nuevas oficinas de PROCOMER en mercados emergentes, organizar 20 misiones comerciales anuales y crear un fondo de garantías para inversiones de nuevos mercados"
+    },
+    {
+      "propuesta": "Implementar el programa 'Exporta en 48 horas' para facilitar la internacionalización de PYMES",
+      "solucion": "Agilizar los procesos de exportación para pequeñas y medianas empresas mediante controles inteligentes y perfiles de riesgo, reduciendo barreras de entrada al comercio exterior",
+      "ejecucion": "Desarrollar e implementar el proyecto piloto 'Exporta en 48 horas', crear la ventanilla única digital para exportadores, establecer perfiles de riesgo para agilizar trámites aduaneros y capacitar a 5,000 PYMES en procesos de exportación acelerada"
+    },
+    {
+      "propuesta": "Establecer centros de distribución en el extranjero para facilitar el comercio electrónico internacional de PYMES",
+      "solucion": "Reducir costos logísticos y barreras de entrada para pequeñas empresas mediante la gestión de infraestructura compartida en mercados estratégicos",
+      "ejecucion": "PROCOMER gestionará 5 centros logísticos en mercados prioritarios (EE.UU., Europa, Asia), implementar sistemas de cumplimiento normativo compartido, ofrecer servicios de desalmacenaje y distribución última milla, y crear plataformas de e-commerce integradas"
+    },
+    {
+      "propuesta": "Crear laboratorios compartidos y salas limpias para PYMES proveedoras",
+      "solucion": "Facilitar que las pequeñas y medianas empresas cumplan con los estándares de calidad requeridos por las grandes empresas exportadoras, mediante infraestructura especializada compartida",
+      "ejecucion": "Establecer 10 laboratorios de metrología y 5 salas limpias compartidas en zonas industriales, ofrecer acceso subsidiado a PYMES, implementar programas de certificación acelerada y crear alianzas con grandes empresas para validación de proveedores"
+    },
+    {
+      "propuesta": "Implementar sistemas de trazabilidad ambiental en el comercio exterior",
+      "solucion": "Integrar la medición de huella ambiental en los procesos de exportación, alineando la política comercial con los compromisos climáticos del país y agregando valor diferenciado a los productos nacionales",
+      "ejecucion": "Desarrollar e implementar el sistema de trazabilidad de huella de carbono y agua en la Ventanilla de Inversión, crear sellos de origen para productos sostenibles (cacao, pesca responsable, frutas), y establecer incentivos para exportadores con bajas emisiones"
+    },
+    {
+      "propuesta": "Digitalizar integralmente los procesos de comercio exterior",
+      "solucion": "Implementar un esquema de 'papel cero' en el comercio internacional mediante la adopción de tecnologías digitales que agilicen trámites y reduzcan costos operativos",
+      "ejecucion": "Impulsar la identidad y firma digital transfronteriza, implementar documentos de transporte electrónicos obligatorios, crear la plataforma nacional de comercio digital y capacitar a 10,000 empresarios en herramientas de comercio electrónico internacional"
+    },
+    {
+      "propuesta": "Promover la economía circular en parques industriales y zonas francas",
+      "solucion": "Transformar los complejos industriales y zonas de exportación en modelos de economía circular mediante la reutilización de recursos y recuperación de materiales",
+      "ejecucion": "Establecer estándares de circularidad para parques industriales, implementar sistemas de reutilización de agua en 50 empresas líderes, crear centros de recuperación de materiales y ofrecer incentivos fiscales para proyectos circulares"
+    },
+    {
+      "propuesta": "Crear el Consejo Interministerial de Comercio e Inversión",
+      "solucion": "Coordinar de manera efectiva las políticas de comercio exterior e inversión con la planificación nacional y el desarrollo territorial, asegurando alineación presupuestaria y ejecución coherente",
+      "ejecucion": "Establecer el Consejo Interministerial con representación de Hacienda, Mideplan, Trabajo, MOPT, COMEX y PROCOMER, crear mesas técnicas por región, desarrollar planes de inversión territorial integrados y establecer sistema de monitoreo de impactos regionales"
+    },
+    {
+      "propuesta": "Implementar la Ley de Logística Competitiva Territorial",
+      "solucion": "Financiar y desarrollar infraestructura logística crítica fuera del GAM que facilite la conexión de las regiones con los mercados internacionales",
+      "ejecucion": "Presentar y aprobar la Ley de Logística Competitiva Territorial, crear el Fondo Nacional de Logística Regional, construir 10 nodos de cadena de frío en zonas productoras, y mejorar conexiones puerto-ciudad en Limón y Caldera"
+    },
+    {
+      "propuesta": "Modernizar la política de comercio exterior mediante reforma legislativa integral",
+      "solucion": "Actualizar el marco institucional del comercio exterior para integrar efectivamente las dimensiones educativa, laboral y de infraestructura en la estrategia de inserción internacional",
+      "ejecucion": "Presentar la Ley de Modernización de la Política de Comercio Exterior, integrar a COMEX y PROCOMER con el MEP y MOPT, crear el Sistema Nacional de Formación para la Exportación, y establecer mecanismos de evaluación de impacto social de los acuerdos comerciales"
+    }
+  ]
+}

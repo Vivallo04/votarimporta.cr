@@ -1,0 +1,210 @@
+{
+  "iniciativa": "Fortalecimiento Estratégico de los EBAIS como Núcleo del Sistema de Salud Preventivo",
+  "marco_estrategico": "Eje 3: Agenda Social y Desarrollo Sostenible - Transformación del Modelo de Salud hacia la Atención Primaria Robusta",
+  "vision": "Convertir los EBAIS en Centros de Salud Comunitarios de alta resolución que gestionen activamente la salud del 85% de la población, previniendo enfermedades, resolviendo problemas en la comunidad y descongestionando definitivamente el sistema hospitalario, mediante un modelo preventivo, digital y centrado en las personas.",
+  "diagnostico_estructural": {
+    "cobertura_efectiva": {
+      "nominal": "93% población con EBAIS asignado",
+      "real": "Solo 65% recibe atención oportuna y completa",
+      "brecha": "28 puntos porcentuales de brecha de calidad"
+    },
+    "deficit_infraestructura": {
+      "espacios_inadecuados": "45% de módulos en condiciones precarias",
+      "accesibilidad": "Menos del 40% con accesibilidad universal",
+      "equipamiento": "Solo 40% con equipos diagnósticos básicos funcionales"
+    },
+    "crisis_recursos_humanos": {
+      "medicos_familia": "Déficit de 1,500 profesionales",
+      "enfermeria": "Déficit de 3,000 profesionales",
+      "rotacion_rural": ">30% anual en zonas de difícil cobertura"
+    },
+    "impacto_saturacion": {
+      "consultas_inapropiadas_urgencias": "58% son de baja complejidad",
+      "costo_comparativo": "12-15 veces más caro en emergencia vs EBAIS",
+      "gasto_evitable": "₡200,000 millones anuales",
+      "ocupacion_promedio": "118% en emergencias hospitalarias"
+    }
+  },
+  "nuevo_paradigma_ebais": {
+    "concepto": "Centro de Salud Comunitario (CSC) - Evolución del modelo EBAIS",
+    "atributos_esenciales": [
+      "Alta capacidad resolutiva (80-85% problemas sin referencia)",
+      "Gestión proactiva de poblaciones con enfoque epidemiológico",
+      "Coordinación de cuidados a lo largo del sistema de salud",
+      "Integración intersectorial con servicios sociales y desarrollo comunitario"
+    ],
+    "principios_fundamentales": ["Longitudinalidad", "Integralidad", "Accesibilidad", "Participación comunitaria"]
+  },
+  "componentes_estrategia_transformadora": [
+    {
+      "componente": "Descongestión Hospitalaria mediante Rediseño de Flujos",
+      "propuesta": "Rediseñar modelo de atención para que EBAIS resuelvan efectivamente baja/mediana complejidad, liberando capacidad hospitalaria.",
+      "solucion": {
+        "ampliacion_alcance_clinico": [
+          "Procedimientos menores avanzados (suturas complejas, drenaje abscesos)",
+          "Diagnóstico expandido (puntos de cuidado para HbA1c, perfil lipídico, función renal)",
+          "Manejo de condiciones crónicas estables (diabetes tipo 2 no complicada, hipertensión grado 1-2)"
+        ],
+        "sistema_referencia_inteligente": "Plataforma digital integrada al EDUS con validación algorítmica y priorización clínica automática",
+        "hospitalizacion_domicilio": "Modelo para post-quirúrgicos no complicados y exacerbaciones de crónicos, con equipos multidisciplinarios y monitoreo remoto"
+      },
+      "ejecucion": [
+        "Revisión completa del Catálogo de Servicios del Primer Nivel (6 meses)",
+        "Certificación de Competencias Clínicas Ampliadas para 5,000 profesionales",
+        "Indicadores de desempeño vinculados a incentivos: reducción 25% referencias innecesarias en 18 meses"
+      ]
+    },
+    {
+      "componente": "Fortalecimiento Operativo Integral",
+      "propuesta": "Superar limitaciones históricas mediante inversión estratégica, nuevos modelos de contratación y tecnología.",
+      "solucion": {
+        "dotacion_optima_equipos": {
+          "nucleo_ampliado": "Médico familia, 2 enfermeras (1 especialista), ATAP, técnico farmacia, trabajador social, psicólogo (compartido)",
+          "especialistas_integrados": "Médicos familiares con subespecialización rotando en zonas de alta necesidad"
+        },
+        "red_unidades_moviles": "120 unidades de alta tecnología con consultorio, laboratorio básico, rayos X digital y telemedicina satelital",
+        "modelos_innovadores_gestion": [
+          "Contratos de Gestión por Resultados para zonas de difícil acceso",
+          "Alianzas Académico-Asistenciales: EBAIS como centros de enseñanza"
+        ],
+        "atencion_domiciliaria_nacional": "Brigadas especializadas y tecnología de monitoreo remoto para cuidado de crónicos complejos"
+      },
+      "ejecucion": [
+        "Plan Nacional Infraestructura EBAIS 2026-2030: ₡400,000 millones para 250 módulos nuevos y 500 remodelados",
+        "Ley de Carrera Sanitaria Rural con incentivos económicos, vivienda y desarrollo profesional",
+        "Fondo de Innovación en Atención Primaria: ₡50,000 millones anuales para modelos piloto"
+      ]
+    },
+    {
+      "componente": "Atención Diferenciada a Poblaciones en Mayor Riesgo",
+      "propuesta": "Diseñar abordajes específicos para grupos vulnerables, evitando que acudan a hospitales por problemas manejables en comunidad.",
+      "solucion": {
+        "atencion_geriatrica_integral": {
+          "valoracion_anual_obligatoria": "Para todos mayores de 70 años",
+          "clinicas_fragilidad": "Con fisioterapia y terapia ocupacional en EBAIS",
+          "evaluacion_ambiental_domiciliaria": "Para adaptación de viviendas",
+          "telemonitoreo": "Dispositivos wearables para signos vitales y detección de caídas"
+        },
+        "salud_mental_integrada": {
+          "modelo_colaboracion_asistida": "Psiquiatra y psicólogo de enlace por EBAIS",
+          "deteccion_temprana_universal": "Instrumentos validados (PHQ-9, GAD-7, AUDIT)",
+          "intervenciones_psicosociales": "Grupos de apoyo, terapia breve facilitada por EBAIS",
+          "farmacoterapia_primera_linea": "Manejada por médicos familiares con apoyo especializado"
+        },
+        "adicciones_primer_nivel": {
+          "deteccion_sistematica": "ASSIST en población juvenil y adultos",
+          "intervencion_breve_motivacional": "Estándar para consumo de riesgo",
+          "unidades_desintoxicacion_ambulatoria": "Vinculadas a EBAIS para casos leves-moderados",
+          "coordinacion_reforzada_iafa": "Referencia ágil a programas especializados"
+        }
+      },
+      "ejecucion": [
+        "Currículo de competencias en geriatría, salud mental y adicciones para todo personal EBAIS",
+        "Sistema de pago por desempeño diferenciado con bonificaciones por indicadores de calidad en poblaciones vulnerables"
+      ]
+    },
+    {
+      "componente": "Transformación Digital del Primer Nivel",
+      "propuesta": "Digitalizar completamente procesos de EBAIS, conectándolos con sistema de salud y comunidad.",
+      "solucion": {
+        "ebais_como_nodos_edus": {
+          "historia_clinica_offline": "Tablets para trabajo de campo con sincronización automática",
+          "panel_control_poblacion": "Herramienta analítica que identifica pacientes con necesidades de seguimiento",
+          "referencia_electronica_inteligente": "Sugiere alternativas y muestra disponibilidad real de especialistas"
+        },
+        "telemedicina_servicio_basico": {
+          "cabinas_teleconsulta": "En cada EBAIS para videoconferencia de alta calidad",
+          "teleinterconsulta_tiempo_real": "Médico EBAIS consulta con especialista durante atención",
+          "telemonitoreo_signos_vitales": "Para pacientes crónicos con alertas automáticas"
+        },
+        "plataforma_comunitaria_salud_digital": {
+          "app_mi_ebais": "Agendamiento, recordatorios, resultados, educación personalizada",
+          "portal_comunitario": "Información local sobre determinantes de salud, foros de discusión"
+        }
+      },
+      "ejecucion": [
+        "Acuerdo 'Conectividad Universal para la Salud' con FONATEL para banda ancha fibra/5G en todos los EBAIS",
+        "Programa de Alfabetización Digital para Equipos de Salud: capacitación intensiva en herramientas digitales"
+      ]
+    },
+    {
+      "componente": "Sinergia Comunitaria y Territorial",
+      "propuesta": "Integrar EBAIS a vida comunitaria como catalizadores de entornos saludables y desarrollo territorial.",
+      "solucion": {
+        "triangulo_solidaridad_salud": {
+          "fondo_concursable": "'EBAIS de mi Comunidad' con co-financiamiento tripartito (50%-30%-20%)",
+          "corredores_saludables": "EBAIS lideran creación de entornos promotores de salud"
+        },
+        "extension_modelo_ebais": {
+          "ebais_agricolas": "Unidades móviles especializadas para productores rurales con asistencia técnica, evaluación riesgos laborales y atención básica",
+          "ebais_escolares": "Equipos trabajando dentro de escuelas con programas de alimentación saludable, educación sexual y detección temprana de problemas"
+        },
+        "redes_comunitarias_apoyo": {
+          "promotores_salud_comunitaria": "Ciudadanos capacitados por EBAIS para promoción, detección temprana y acompañamiento",
+          "sistema_alertas_tempranas": "Para brotes, desastres o problemas sociales que afecten salud"
+        }
+      },
+      "ejecucion": [
+        "Manual de Participación Comunitaria en Salud: guía operativa para colaboración EBAIS-comunidades",
+        "Sistema de Acreditación de 'Municipios Saludables': reconocimiento y beneficios por mejoras medibles en indicadores de salud"
+      ]
+    }
+  ],
+  "metricas_exito_principales": [
+    {
+      "indicador": "Proporción de problemas de salud resueltos en primer nivel (sin referencia hospitalaria)",
+      "linea_base": "65%",
+      "meta_ano_2": "75%",
+      "meta_ano_5": "85%"
+    },
+    {
+      "indicador": "Reducción de consultas de baja complejidad en emergencias hospitalarias",
+      "linea_base": "58%",
+      "meta_ano_2": "40%",
+      "meta_ano_5": "25%"
+    },
+    {
+      "indicador": "Tiempo promedio para obtención de cita en EBAIS",
+      "linea_base": "15 días",
+      "meta_ano_2": "7 días",
+      "meta_ano_5": "48 horas o menos"
+    },
+    {
+      "indicador": "Cobertura de valoración geriátrica integral en mayores de 70 años",
+      "linea_base": "<20%",
+      "meta_ano_2": "60%",
+      "meta_ano_5": "90%"
+    },
+    {
+      "indicador": "Satisfacción de usuarios con atención en EBAIS",
+      "linea_base": "68%",
+      "meta_ano_2": "78%",
+      "meta_ano_5": "85%"
+    },
+    {
+      "indicador": "Reducción de hospitalizaciones evitables por condiciones sensibles a atención primaria",
+      "linea_base": "12.5 por 10,000 hab",
+      "meta_ano_2": "9.0 por 10,000 hab",
+      "meta_ano_5": "6.0 por 10,000 hab"
+    }
+  ],
+  "gobernanza_e_implementacion": {
+    "estructura_gobierno": {
+      "consejo_nacional_atencion_primaria": "Máximo órgano rector, presidido por Ministro de Salud, con representación de CCSS, colegios profesionales, academia, organizaciones comunitarias y municipalidades.",
+      "unidad_ejecutora_transformacion_ebais": "Equipo de alto desempeño con autonomía presupuestaria y técnica, reportando directamente al Consejo Nacional.",
+      "comites_locales_salud": "En cada área de salud, espacio de cogestión entre equipos EBAIS, gobiernos locales y comunidad para priorización de intervenciones."
+    },
+    "fuentes_financiamiento": [
+      "Presupuesto ordinario del Ministerio de Salud y CCSS (incremento progresivo a 35% del gasto total en salud destinado a atención primaria)",
+      "Préstamos de organismos multilaterales (BID, Banco Mundial) para infraestructura y tecnología",
+      "Fondo de Solidaridad para la Salud (impuestos específicos a tabaco, bebidas azucaradas y alimentos ultraprocesados)",
+      "Alianzas Público-Privadas para modelos innovadores de gestión"
+    ],
+    "evaluacion_rendicion_cuentas": {
+      "sistema_monitoreo_continuo": "Tablero de control público con indicadores desagregados por EBAIS, área de salud y región.",
+      "evaluaciones_impacto_independientes": "Anuales por organismos internacionales (OPS/OMS) para medir efectividad en resultados de salud y eficiencia.",
+      "auditorias_sociales_participativas": "Realizadas por organizaciones de ciudadanos y usuarios para evaluar calidad percibida, accesibilidad y respeto a derechos.",
+      "revisiones_periodicas_ajuste": "Trimestrales del Consejo Nacional para ajustar estrategias basadas en evidencia."
+    }
+  }
+}

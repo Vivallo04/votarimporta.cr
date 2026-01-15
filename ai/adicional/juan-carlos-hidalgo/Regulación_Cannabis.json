@@ -1,0 +1,181 @@
+{
+  "propuesta": "Legalización Regulada del Cannabis Recreativo",
+  "ubicacion_estrategica": "Eje 1: Orden y Seguridad - Estrategia de Desfinanciamiento del Crimen Organizado",
+  "objetivo_principal": "Desarticular económicamente a las organizaciones criminales eliminando una de sus principales fuentes de ingresos, mientras se generan recursos específicos para financiar la seguridad pública.",
+  "diagnostico_detallado": {
+    "problema": "La prohibición ha creado un mercado negro altamente rentable para el crimen organizado.",
+    "datos_relevantes": {
+      "mercado_ilegal_estimado": "$100-300 millones anuales (estimaciones conservadoras)",
+      "participacion_cannabis_en_finanzas_criminales": "30-40% del flujo inicial de capital criminal",
+      "margen_ganancia_ilegal": "300-1000% sobre costo de producción",
+      "reduccion_esperada_mercado_ilegal": "30-60% tras 2-3 años de implementación (basado en experiencias comparadas)"
+    }
+  },
+  "componentes_regulatorios": {
+    "modelo_de_regulacion": "Sistema de licencias integrado y cadena de valor controlada",
+    "elementos_clave": [
+      {
+        "componente": "Licencias Segmentadas",
+        "detalle": "Separación por actividad: cultivo, procesamiento, distribución, venta minorista, clubs sociales",
+        "control": "Autoridad Reguladora del Cannabis (nueva entidad)"
+      },
+      {
+        "componente": "Sistema de Trazabilidad",
+        "detalle": "Tecnología blockchain para seguimiento seed-to-sale",
+        "objetivo": "Prevenir desvíos al mercado ilegal y garantizar calidad"
+      },
+      {
+        "componente": "Controles de Calidad",
+        "detalle": "Laboratorios estatales certificados, empaquetado estandarizado, límites de potencia",
+        "estandar": "Análisis de THC, CBD, contaminantes y pureza"
+      },
+      {
+        "componente": "Restricciones de Acceso",
+        "detalle": "Edad mínima 21 años, límites de posesión, zonas de consumo restringidas",
+        "base": "Modelo similar al alcohol con regulaciones específicas"
+      }
+    ]
+  },
+  "modelo_fiscal": {
+    "principio": "Impuestos específicos y vinculados (earmarked) al Fondo de Seguridad Nacional",
+    "tipos_de_impuestos": [
+      {
+        "tipo": "Ad Valorem",
+        "aplicacion": "Sobre precio de venta final",
+        "tasa_proyectada": "15-25%"
+      },
+      {
+        "tipo": "Específico por Potencia",
+        "aplicacion": "Por gramo o porcentaje de THC",
+        "objetivo": "Desincentivar productos de alta potencia"
+      },
+      {
+        "tipo": "A la Producción",
+        "aplicacion": "Sobre cultivo o procesamiento",
+        "objetivo": "Capturar valor en diferentes eslabones de la cadena"
+      }
+    ],
+    "proyecciones_de_recaudacion": {
+      "ano_1-2": "$20-50 millones anuales",
+      "ano_3-5": "$50-100 millones anuales (mercado maduro)",
+      "destino_especifico": "100% al Fondo de Seguridad Nacional"
+    },
+    "distribucion_presupuestaria_dentro_del_fondo": {
+      "tecnologia_y_equipamiento": "40% (drones, sistemas de vigilancia, comunicaciones)",
+      "capacitacion_policial": "30% (entrenamiento especializado, equipamiento táctico)",
+      "inteligencia_financiera": "20% (rastreo de activos ilícitos, análisis económico del crimen)",
+      "prevencion_y_reinsercion": "10% (programas comunitarios, alternativas al encarcelamiento)"
+    }
+  },
+  "integracion_con_estrategia_de_seguridad": {
+    "sinergias_estrategicas": [
+      {
+        "con_propuesta": "Agencia de Inteligencia contra el Crimen Organizado",
+        "interaccion": "Monitoreo de la transición de mercado ilegal a legal; rastreo de intentos de infiltración criminal en mercado legal; identificación de organizaciones en crisis financiera"
+      },
+      {
+        "con_propuesta": "Operación 'Blindaje'",
+        "interaccion": "Recursos adicionales para despliegue territorial; enfoque en bandas específicamente debilitadas por pérdida de ingresos del cannabis"
+      },
+      {
+        "con_propuesta": "Cárceles Diferenciadas",
+        "interaccion": "Reducción de encarcelamiento por delitos menores de cannabis; programas de transición para reclusos relacionados con este mercado"
+      },
+      {
+        "con_propuesta": "Recuperación de Espacios Públicos",
+        "interaccion": "Menor presión criminal sobre territorios al reducirse financiamiento de bandas"
+      }
+    ],
+    "mecanismo_virtuoso": "Mercado legal → Impuestos → Fondo de Seguridad → Instituciones fortalecidas → Reducción del crimen → Mayor legitimidad estatal"
+  },
+  "reforma_legal_requerida": {
+    "nuevas_leyes": [
+      {
+        "ley": "Ley de Regulación del Cannabis Recreativo",
+        "contenido": "Crea Autoridad Reguladora; establece régimen de licencias; define modelo fiscal específico; establece controles y sanciones"
+      }
+    ],
+    "modificaciones": [
+      {
+        "a_ley": "Código Penal",
+        "cambios": "Despenalización de actividades dentro del marco regulado; mantención de penalizaciones para venta fuera del sistema; protecciones para consumidores en sistema legal"
+      },
+      {
+        "a_ley": "Ley 8204 (Cannabis Medicinal)",
+        "cambios": "Integración del marco recreativo sin afectar acceso medicinal; clarificación de regímenes diferenciados"
+      }
+    ],
+    "transicion": {
+      "periodo": "18-24 meses",
+      "medidas": "Programas de inclusión para productores históricos; destrucción de existencias ilícitas incautadas; campaña educativa pública"
+    }
+  },
+  "componente_salud_publica": {
+    "fortalecimiento_del_iafa": {
+      "transformacion": "De entidad asistencial a centro de excelencia en políticas de drogas",
+      "nuevos_programas": [
+        "Centros de consumo supervisado (para otras sustancias)",
+        "Programas de análisis de sustancias para reducción de riesgos",
+        "Educación basada en evidencia científica",
+        "Investigación epidemiológica longitudinal"
+      ]
+    },
+    "reduccion_de_danos": {
+      "principios": [
+        "Regulación de potencia máxima de THC",
+        "Información transparente y etiquetado detallado",
+        "Programas de reinserción vinculados a oportunidades laborales legales",
+        "Monitoreo continuo de impactos en salud pública"
+      ]
+    }
+  },
+  "dimension_internacional": {
+    "cumplimiento_tratados": {
+      "retos": "Costa Rica es signataria de la Convención Única de 1961 sobre Estupefacientes",
+      "estrategias": [
+        "Reservas o interpretaciones específicas (siguiendo precedentes de Uruguay y Canadá)",
+        "Diplomacia activa explicando el modelo como parte de lucha contra crimen organizado",
+        "Cooperación con países con experiencias similares"
+      ]
+    },
+    "oportunidades_geopoliticas": [
+      "Liderazgo regional en políticas de drogas innovadoras",
+      "Atracción de inversión especializada en industria legal del cannabis",
+      "Cooperación internacional en investigación y mejores prácticas regulatorias"
+    ]
+  },
+  "evaluacion_de_impacto": {
+    "indicadores_clave_de_exito": [
+      {
+        "indicador": "Reducción de participación criminal en mercado total",
+        "meta": "Menos del 20% en 3 años"
+      },
+      {
+        "indicador": "Recaudación para Fondo de Seguridad",
+        "meta": "Mínimo $30 millones anuales desde año 2"
+      },
+      {
+        "indicador": "Reducción de delitos violentos relacionados con cannabis",
+        "meta": "30% en 2 años"
+      },
+      {
+        "indicador": "Aceptación social del modelo regulado",
+        "meta": "Más del 60% de aprobación ciudadana en 2 años"
+      }
+    ],
+    "riesgos_mitigados": [
+      {
+        "riesgo": "Infiltración criminal en mercado legal",
+        "mitigacion": "Sistema de trazabilidad, verificaciones de antecedentes, inteligencia financiera"
+      },
+      {
+        "riesgo": "Aumento de consumo problemático",
+        "mitigacion": "Regulación de potencia, educación pública, servicios de tratamiento accesibles"
+      },
+      {
+        "riesgo": "Oposición internacional",
+        "mitigacion": "Diplomacia proactiva, alianzas con países con modelos similares"
+      }
+    ]
+  }
+}

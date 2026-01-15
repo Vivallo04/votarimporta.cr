@@ -1,0 +1,73 @@
+{
+  "contexto": {
+    "eje": "Educación y Salud",
+    "area": "Calidad Educativa",
+    "descripcion_general": "Se analiza como un factor crítico en crisis que requiere una reforma estructural profunda, estrechamente vinculada con el bienestar físico y emocional (salud) y la prosperidad económica. La propuesta se centra en la excelencia académica, la autonomía y la formación integral, más allá del nivel de gasto."
+  },
+  "resumen": {
+    "problema": "Existe una crisis profunda en la calidad educativa evidenciada por los últimos lugares de Costa Rica en las pruebas PISA de la OCDE (matemáticas, ciencias y lectura) y una comprensión de lectura satisfactoria en solo el 14% de los estudiantes universitarios de primer ingreso. El currículo está desactualizado, sin foco en habilidades del siglo XXI. Hay falta de autonomía escolar, mecanismos de evaluación independiente y entornos educativos dignos y seguros. Además, existe una desconexión entre la educación superior y las demandas del mercado laboral, y una brecha digital que limita el acceso equitativo a una educación de calidad.",
+    "propuesta": "Implementar una reforma estructural de la calidad educativa que priorice la excelencia académica y la formación integral. Esto se logrará mediante una actualización curricular centrada en habilidades STEM y el inglés, otorgando autonomía a los centros educativos, creando una agencia de evaluación independiente, dignificando la infraestructura, fortaleciendo la sinergia entre educación y salud (especialmente en salud mental y física), y vinculando la educación superior al mercado laboral. El objetivo es superar la crisis de resultados y formar ciudadanos competitivos y saludables.",
+    "solucion": {
+      "diagnostico_y_reforma_curricular": {
+        "enfrentar_crisis_de_resultados": "Abordar directamente los bajos puntajes en pruebas PISA y la deficiente comprensión lectora en la educación superior.",
+        "habilidades_del_siglo_xxi": "Implementar una reforma curricular profunda centrada en áreas STEM (ciencia, tecnología, ingeniería y matemáticas), razonamiento lógico y el dominio del inglés desde la educación primaria.",
+        "universalizacion_del_curriculo": "Meta de que el 30% de las escuelas implementen el currículo completo al final del periodo, cerrando brechas en zonas rurales y escuelas unidocentes."
+      },
+      "autonomia_y_evaluacion_independiente": {
+        "libertad_de_gestion": "Otorgar autonomía a centros educativos de excelencia para flexibilizar contenidos y seleccionar personal docente bajo estándares del MEP.",
+        "agencia_de_evaluacion": "Crear un organismo de evaluación independiente del ejecutor de la política, encargado de medir aprendizajes, desempeño docente e impacto de programas.",
+        "idoneidad_docente": "Establecer la obligatoriedad de exámenes de idoneidad para el ingreso a la carrera docente como garantía de excelencia en la enseñanza."
+      },
+      "entornos_seguros_e_infraestructura_moderna": {
+        "dignificacion_del_espacio": "Transformar la Dirección de Infraestructura y Equipamiento Educativo (DIEE) en una Oficina de Gestión de Proyectos (PMO) y usar concesiones para el diseño, construcción y mantenimiento de escuelas.",
+        "seguridad_ciudadana": "Coordinar activamente con la Fuerza Pública para garantizar entornos escolares seguros, especialmente en zonas vulnerables al reclutamiento criminal."
+      },
+      "sinergia_entre_educacion_y_salud": {
+        "salud_mental_escolar": "Implementar a escala nacional el módulo de salud mental del programa 'Vida Saludable', integrando habilidades socioemocionales desde primaria.",
+        "alfabetizacion_fisica": "Reforzar la educación física desde preescolar e impulsar un Programa Nacional de Alfabetización Física con el ICODER, entendiendo el deporte como inversión en salud pública y prevención de violencia.",
+        "primera_infancia": "Priorizar la inversión en la Red de Cuido (REDCUDI) y la educación temprana (0 a 6 años) como base del desarrollo cognitivo y la salud integral."
+      },
+      "educacion_superior_y_empleabilidad": {
+        "vinculacion_del_fees": "Condicionar la negociación del Fondo Especial para la Educación Superior (FEES) a que las universidades respondan al mercado laboral, priorizando la expansión de programas STEM y la paridad de género en estas áreas.",
+        "equidad_digital": "Garantizar el 100% de conectividad de banda ancha en todos los centros educativos públicos y crear centros de alfabetización digital en distritos vulnerables."
+      }
+    },
+    "ejecucion": {
+      "fase_1_preparacion_y_diseno": {
+        "descripcion": "Establecer las bases legales, institucionales y de diseño para la reforma integral.",
+        "acciones_clave": [
+          "Convocatoria para el diseño consensuado de la nueva reforma curricular con énfasis en STEM e inglés.",
+          "Presentación del proyecto de ley para crear la Agencia de Evaluación Educativa Independiente.",
+          "Transformación formal de la DIEE en una PMO y diseño del plan de concesiones para infraestructura."
+        ]
+      },
+      "fase_2_implementacion_inicial_y_pilotos": {
+        "descripcion": "Lanzar programas piloto, iniciar evaluaciones y comenzar con las intervenciones más urgentes.",
+        "acciones_clave": [
+          "Aplicación de los primeros exámenes de idoneidad docente.",
+          "Inicio de la implementación piloto del nuevo currículo en un grupo de escuelas autónomas.",
+          "Lanzamiento del módulo de salud mental escolar 'Vida Saludable' en regiones prioritarias.",
+          "Firma de los primeros convenios de conectividad para alcanzar la meta del 100% de banda ancha en centros educativos."
+        ]
+      },
+      "fase_3_escalamiento_y_reformas_estructurales": {
+        "descripcion": "Expandir las reformas a nivel nacional y consolidar los nuevos modelos de gestión.",
+        "acciones_clave": [
+          "Expansión nacional de la reforma curricular y del programa de autonomía escolar.",
+          "Puesta en marcha operativa de la Agencia de Evaluación Independiente con sus primeras mediciones nacionales.",
+          "Inicio de la construcción y remodelación de escuelas bajo el modelo de concesiones (PMO).",
+          "Negociación del FEES con las nuevas condicionalidades de empleabilidad y paridad de género en STEM."
+        ]
+      },
+      "fase_4_consolidacion_y_evaluacion_continua": {
+        "descripcion": "Evaluar el impacto de las reformas, ajustar políticas y asegurar la sostenibilidad.",
+        "acciones_clave": [
+          "Evaluación anual de resultados por parte de la Agencia Independiente (aprendizajes, desempeño docente, impacto en salud mental).",
+          "Análisis del impacto de la autonomía escolar en los resultados académicos.",
+          "Monitoreo de la empleabilidad de los graduados universitarios, especialmente en carreras STEM.",
+          "Revisión y ajuste de los programas de primera infancia y alfabetización física basados en evidencia."
+        ]
+      }
+    }
+  }
+}

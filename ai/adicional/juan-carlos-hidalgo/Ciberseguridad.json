@@ -1,0 +1,331 @@
+{
+  "componente": "Ciberseguridad como Pilar Estratégico",
+  "ubicacion_estrategica": "Eje 1: Orden y Seguridad - Dominio Operativo Crítico de Seguridad Nacional",
+  "vision": "Posicionar a Costa Rica como referente regional en resiliencia digital, con capacidades robustas para proteger su soberanía digital, infraestructura crítica y ciudadanía frente a amenazas cibernéticas estatales y no estatales.",
+  "cambio_de_paradigma": {
+    "de": "Problema técnico aislado del departamento de TI",
+    "a": "Dominio estratégico de seguridad nacional integral",
+    "catalizador": "Ataque ransomware del grupo Conti (2022) que evidenció vulnerabilidades sistémicas",
+    "lecciones_aprendidas": [
+      "Las vulnerabilidades digitales pueden paralizar la administración pública",
+      "El crimen organizado tiene capacidades cibernéticas sofisticadas",
+      "La respuesta fragmentada es inadecuada frente a amenazas coordinadas"
+    ]
+  },
+  "arquitectura_de_inteligencia_cibernetica_integrada": {
+    "centro_de_fusion_cibernetica": {
+      "ubicacion": "Dentro del Centro Nacional de Operaciones de Ciberseguridad (CNOC)",
+      "composicion": [
+        "Analistas de inteligencia cibernética",
+        "Investigadores financieros especializados en criptomonedas",
+        "Expertos en desinformación y operaciones de influencia",
+        "Representantes de la Agencia de Inteligencia contra el Crimen Organizado",
+        "Enlaces del OIJ y Ministerio Público"
+      ],
+      "funciones_principales": [
+        "Correlación de indicadores de compromiso (IoC) con investigaciones criminales",
+        "Análisis de campañas de desinformación vinculadas a actores criminales",
+        "Rastreo de transacciones con criptomonedas en casos de ransomware",
+        "Desarrollo de inteligencia táctica para operaciones policiales"
+      ],
+      "protocolos_de_intercambio": {
+        "sistema_de_alertas_tempranas": "Plataforma automatizada de distribución de inteligencia táctica",
+        "compartimentacion_inteligente": "Sistema 'need-to-know' que protege fuentes y métodos",
+        "ejercicios_conjuntos": "Simulacros mensuales que involucran equipos técnicos, policiales y de comunicaciones"
+      }
+    },
+    "sinergias_institucionales": [
+      {
+        "institucion": "Agencia de Inteligencia contra el Crimen Organizado",
+        "tipo_coordinacion": "Integración operativa permanente",
+        "intercambios_clave": [
+          "Inteligencia financiera sobre lavado mediante criptomonedas",
+          "Perfiles de actores criminales con capacidades cibernéticas",
+          "Análisis de redes oscuras (dark web) utilizadas por organizaciones criminales"
+        ]
+      },
+      {
+        "institucion": "Centro Conjunto de Inteligencia Policial",
+        "tipo_coordinacion": "Flujo bidireccional de inteligencia",
+        "intercambios_clave": [
+          "Indicadores de delitos cibernéticos para investigación policial",
+          "Información de campo sobre actividades delictivas con componente digital",
+          "Alertas sobre nuevas modalidades delictivas híbridas"
+        ]
+      }
+    ]
+  },
+  "centro_nacional_de_operaciones_de_ciberseguridad": {
+    "modelo_operativo": "Centro de operaciones 24/7/365 con capacidades proactivas y reactivas",
+    "arquitectura_tecnica": {
+      "plataforma_siem_nacional": "Sistema que ingesta y correlaciona logs de 300+ instituciones públicas y proveedores críticos",
+      "sistema_ids_perimetral": "Monitoreo de tráfico en puntos estratégicos de la red nacional",
+      "plataforma_analisis_malware": "Laboratorio de análisis dinámico/estático de muestras maliciosas",
+      "sistema_de_sandboxing": "Entornos aislados para análisis de código sospechoso"
+    },
+    "estructura_operativa_24_7": {
+      "equipos_especializados": [
+        {
+          "equipo": "Rojo (Ataque)",
+          "funcion": "Pruebas de penetración autorizadas contra infraestructura estatal",
+          "metodologia": "Red Team exercises basados en frameworks como MITRE ATT&CK"
+        },
+        {
+          "equipo": "Azul (Defensa)",
+          "funcion": "Monitoreo continuo y respuesta a incidentes",
+          "capacidades": "Detección y respuesta extendida (XDR), análisis forense digital"
+        },
+        {
+          "equipo": "Amarillo (Inteligencia)",
+          "funcion": "Análisis de amenazas y tendencias",
+          "productos": "Perfiles de amenazas (Threat Intelligence Reports), alertas estratégicas"
+        },
+        {
+          "equipo": "Verde (Coordinación)",
+          "funcion": "Enlace con instituciones y sector privado",
+          "actividades": "Coordinación interinstitucional, manejo de crisis, comunicaciones estratégicas"
+        }
+      ],
+      "centro_de_crisis_cibernetica": {
+        "capacidades": "Sala de situación con videoconferencia segura, paneles de control en tiempo real",
+        "activacion": "Protocolos específicos según nivel de crisis (1-4)"
+      }
+    },
+    "conectividad_internacional": {
+      "miembros_de_redes": [
+        "CERTs de países aliados (Estados Unidos, España, Israel, Corea del Sur)",
+        "Organización de los Estados Americanos - Comité Interamericano contra el Terrorismo",
+        "Foro de Respuesta a Incidentes y Equipos de Seguridad (FIRST)"
+      ],
+      "acuerdos_de_asistencia_mutua": [
+        {
+          "pais": "Estados Unidos",
+          "entidad": "Cybersecurity and Infrastructure Security Agency (CISA)",
+          "alcance": "Intercambio de inteligencia, asistencia técnica, respuesta conjunta"
+        },
+        {
+          "pais": "España",
+          "entidad": "Centro Criptológico Nacional (CCN)",
+          "alcance": "Cooperación en ciberinteligencia, formación especializada"
+        }
+      ]
+    }
+  },
+  "marco_legal_de_gobernanza_cibernetica_sectorial": {
+    "ley_habilitante_principal": "Ley de Seguridad de Infraestructura Crítica Digital",
+    "elementos_clave": {
+      "definicion_legal": "Incluye energía, agua, telecomunicaciones, salud, finanzas, transporte como infraestructura crítica",
+      "obligaciones_operadores": [
+        "Implementación de estándares mínimos (NIST CSF o ISO 27001)",
+        "Reporte obligatorio de incidentes dentro de 24 horas para incidentes graves",
+        "Evaluaciones de riesgo anuales realizadas por entidades independientes",
+        "Planes de continuidad del negocio con componentes cibernéticos"
+      ],
+      "autoridad_supervisora": "Centro Nacional de Operaciones de Ciberseguridad (CNOC)",
+      "atribuciones_supervision": [
+        "Realizar auditorías de cumplimiento sin previo aviso",
+        "Ordenar medidas correctivas con plazos específicos",
+        "Imponer sanciones proporcionales por incumplimiento",
+        "Exigir pruebas de resiliencia mediante ejercicios controlados"
+      ]
+    },
+    "reglamentos_sectoriales": [
+      {
+        "sector": "Financiero",
+        "requisitos_especificos": [
+          "Pruebas de resiliencia ante ransomware cada 6 meses",
+          "Planes de continuidad con componentes cibernéticos probados anualmente",
+          "Seguros de ciberriesgo con cobertura mínima según tamaño de institución",
+          "Protección especial para sistemas de pagos y transacciones"
+        ]
+      },
+      {
+        "sector": "Salud",
+        "requisitos_especificos": [
+          "Protección de dispositivos médicos conectados (IoT médico)",
+          "Cifrado end-to-end de historias clínicas electrónicas",
+          "Sistemas de emergencia hospitalaria con redundancia cibernética",
+          "Protocolos de desconexión controlada en caso de ataque"
+        ]
+      },
+      {
+        "sector": "Energía",
+        "requisitos_especificos": [
+          "Segmentación estricta entre redes operacionales (OT) y administrativas (IT)",
+          "Sistemas de detección de intrusos específicos para entornos OT/ICS",
+          "Protección de sistemas SCADA con múltiples capas de autenticación",
+          "Backups aislados de sistemas de control críticos"
+        ]
+      }
+    ]
+  },
+  "programa_nacional_de_resiliencia_cibernetica": {
+    "componente_economico": {
+      "escudo_digital_para_pymes": {
+        "fondo_de_transformacion": {
+          "monto_estimado": "$10-20 millones anuales",
+          "subsidios_para": [
+            "Adquisición de software de seguridad básico (70% subsidio)",
+            "Implementación de autenticación multifactor (MFA)",
+            "Copias de seguridad en la nube con cifrado",
+            "Consultorías de evaluación de riesgos"
+          ]
+        },
+        "red_asistencia_tecnica": {
+          "modelo": "Convenios con universidades públicas y privadas",
+          "beneficiarios": "Estudiantes de ciberseguridad realizan pasantías en PYMES",
+          "servicios": "Diagnósticos de seguridad gratuitos o a costo reducido",
+          "meta_cobertura": "5,000 PYMES anuales en primeros 3 años"
+        },
+        "certificacion_ciberseguro": {
+          "requisitos_minimos": [
+            "Antivirus actualizado en todos los dispositivos",
+            "Autenticación multifactor para acceso remoto",
+            "Copias de seguridad automatizadas y probadas",
+            "Política básica de seguridad informática"
+          ],
+          "beneficios": [
+            "Descuentos del 15-25% en seguros de ciberriesgo",
+            "Preferencia en compras públicas (hasta 5% de ventaja)",
+            "Acceso a líneas de crédito especiales del sistema bancario",
+            "Sello visible para confianza del consumidor"
+          ]
+        }
+      }
+    },
+    "componente_social": {
+      "integracion_curricular": {
+        "educacion_preescolar_primaria": {
+          "temas": "Conceptos básicos de privacidad digital, reconocimiento de riesgos en línea",
+          "metodologia": "Juegos interactivos, cuentos digitales, actividades prácticas"
+        },
+        "educacion_secundaria": {
+          "curso_obligatorio": "Ciudadanía Digital (3 horas semanales)",
+          "contenidos": [
+            "Principios de higiene cibernética",
+            "Reconocimiento de phishing y estafas en línea",
+            "Protección de identidad digital",
+            "Consecuencias legales del ciberacoso"
+          ]
+        },
+        "educacion_superior": {
+          "especializaciones": "Incorporación de módulos de ciberseguridad en 50% de las carreras técnicas y universitarias",
+          "becas": "500 becas anuales para carreras en ciberseguridad",
+          "programas_dual": "Formación combinada academia-industria con empresas del sector"
+        }
+      },
+      "campañas_nacionales": {
+        "mes_nacional_ciberseguridad": "Octubre - actividades coordinadas en todo el territorio",
+        "simulacros_nacionales": "Ejercicios públicos anuales de respuesta a ciberataques",
+        "portal_ciudadano": {
+          "recursos": [
+            "Guías de configuración segura de dispositivos",
+            "Herramientas de autodiagnóstico de seguridad digital",
+            "Formularios simplificados para reportar delitos cibernéticos",
+            "Recursos especializados para protección de niños y adultos mayores"
+          ],
+          "meta_acceso": "1 millón de consultas anuales a partir del año 3"
+        }
+      }
+    }
+  },
+  "diplomacia_cibernetica_y_liderazgo_internacional": {
+    "estrategia_posicionamiento": "Liderazgo normativo en ciberseguridad democrática para Centroamérica y el Caribe",
+    "iniciativas_multilaterales": {
+      "declaracion_regional": "Promoción de la 'Declaración de San José sobre Ciberespacio Abierto y Seguro'",
+      "marco_legal_modelo": "Desarrollo de legislación modelo para la región centroamericana",
+      "alianzas_estrategicas": [
+        {
+          "pais": "Países nórdicos",
+          "enfoque": "Gobierno digital seguro y transparente",
+          "proyectos": "Intercambio de mejores prácticas, misiones técnicas"
+        },
+        {
+          "pais": "Corea del Sur",
+          "enfoque": "Transferencia tecnológica en ciberseguridad",
+          "proyectos": "Centros de excelencia conjuntos, formación especializada"
+        },
+        {
+          "pais": "Israel",
+          "enfoque": "Ciberdefensa e inteligencia de amenazas",
+          "proyectos": "Ejercicios conjuntos, intercambio de inteligencia táctica"
+        }
+      ]
+    },
+    "agenda_normativa_internacional": {
+      "principios_promovidos": [
+        "Derechos humanos en el ciberespacio",
+        "Neutralidad de la red",
+        "Limitaciones al uso ofensivo de capacidades cibernéticas",
+        "Responsabilidad estatal por actividades cibernéticas desde su territorio"
+      ],
+      "participacion_foros": [
+        "Grupo de Expertos Gubernamentales de la ONU sobre Ciberseguridad",
+        "Convenio de Budapest sobre Cibercrimen (proceso de actualización)",
+        "Organización de los Estados Americanos - Comisiones especializadas",
+        "Foro de Gobernanza de Internet (IGF)"
+      ]
+    },
+    "cooperacion_operativa_internacional": {
+      "ejercicios_conjuntos": [
+        {
+          "ejercicio": "Cyber Coalition (OTAN)",
+          "participacion": "Observador activo con posibilidad de participación plena",
+          "beneficio": "Acceso a metodologías y estándares de la OTAN"
+        },
+        {
+          "ejercicio": "Locked Shields (CCDCOE)",
+          "participacion": "Equipo nacional participante",
+          "beneficio": "Prueba de capacidades en entorno simulado de alta fidelidad"
+        },
+        {
+          "ejercicio": "Ejercicios regionales OEA",
+          "participacion": "País anfitrión y coordinador",
+          "beneficio": "Fortalecimiento de capacidades regionales conjuntas"
+        }
+      ],
+      "intercambio_inteligencia": {
+        "plataformas": [
+          "Malware Information Sharing Platform (MISP)",
+          "Automated Indicator Sharing (AIS) de CISA",
+          "Plataformas sectoriales de ISACs"
+        ],
+        "acuerdos_formales": "Firmas de 5-10 acuerdos de intercambio de inteligencia con países aliados"
+      }
+    }
+  },
+  "metricas_de_exito_y_gobernanza": {
+    "indicadores_clave_de_desempeno": [
+      {
+        "indicador": "Tiempo medio de detección de incidentes críticos",
+        "linea_base": "> 30 días (actual)",
+        "meta_ano_1": "< 7 días",
+        "meta_ano_3": "< 24 horas"
+      },
+      {
+        "indicador": "Tiempo medio de respuesta a incidentes críticos",
+        "linea_base": "> 15 días (actual)",
+        "meta_ano_1": "< 72 horas",
+        "meta_ano_3": "< 12 horas"
+      },
+      {
+        "indicador": "Porcentaje de instituciones públicas con estándares mínimos implementados",
+        "linea_base": "< 20% (actual)",
+        "meta_ano_1": "50%",
+        "meta_ano_3": "90%"
+      },
+      {
+        "indicador": "Reducción de pérdidas económicas por delitos cibernéticos reportados",
+        "linea_base": "$50+ millones anuales (estimado)",
+        "meta_ano_1": "-20%",
+        "meta_ano_3": "-50%"
+      }
+    ],
+    "estructura_gobernanza": {
+      "consejo_nacional_ciberseguridad": "Máximo órgano rector, presidido por Presidencia de la República",
+      "comite_ejecutivo": "Integrado por ministros de Seguridad, Ciencia y Tecnología, Hacienda, Relaciones Exteriores",
+      "secretaria_tecnica": "A cargo del Director del CNOC, con equipos técnicos permanentes",
+      "reportes_publicos": "Informe anual público sobre estado de la ciberseguridad nacional"
+    }
+  }
+}

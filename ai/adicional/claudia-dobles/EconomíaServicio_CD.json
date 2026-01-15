@@ -1,0 +1,61 @@
+{
+  "iniciativa": "Economía al servicio de la gente",
+  "eje": "Economía al servicio de la gente",
+  "propuestas": [
+    {
+      "propuesta": "Implementar disciplina fiscal con enfoque en inversión social estratégica",
+      "solucion": "Establecer una política de responsabilidad fiscal que garantice la sostenibilidad de las finanzas públicas como medio para financiar inversiones prioritarias en educación, salud, seguridad e infraestructura, asegurando que el ajuste fiscal no afecte los programas sociales esenciales",
+      "ejecucion": "Elaborar un Plan de Sostenibilidad Fiscal con metas plurianuales de reducción del déficit, crear un sistema de evaluación de impacto social para el gasto público, establecer un fondo de estabilización social y priorizar en el presupuesto nacional las partidas destinadas a desarrollo humano e infraestructura básica"
+    },
+    {
+      "propuesta": "Combatir la evasión fiscal mediante digitalización y tecnologías avanzadas",
+      "solucion": "Aumentar la recaudación tributaria en un 1.5% del PIB sin crear nuevos impuestos, mediante la modernización de la administración tributaria con herramientas digitales y analíticas que permitan detectar y reducir la evasión y elusión fiscal de manera eficiente",
+      "ejecucion": "Implementar la plataforma 'Hacienda Digital' integral con facturación electrónica obligatoria, desarrollar algoritmos de inteligencia artificial para detección de patrones de evasión, capacitar a 500 funcionarios en fiscalización digital, fortalecer los acuerdos de intercambio de información tributaria internacional y crear una unidad especializada en delitos fiscales complejos"
+    },
+    {
+      "propuesta": "Optimizar la gestión de la deuda pública para liberar recursos hacia inversión social y pensiones",
+      "solucion": "Reducir el peso de los intereses de la deuda pública mediante una gestión activa y estratégica que permita reorientar recursos presupuestarios hacia el fortalecimiento del régimen de pensiones del IVM y otros programas sociales prioritarios",
+      "ejecucion": "Implementar una estrategia de reestructuración de deuda que aproveche las condiciones favorables de mercado, negociar tasas de interés más bajas con organismos multilaterales, crear un Fondo de Inversión Social con los ahorros generados por la reducción de intereses y establecer un comité técnico interinstitucional para el monitoreo permanente de la sostenibilidad de la deuda"
+    },
+    {
+      "propuesta": "Establecer salarios mínimos que garanticen una vida digna y cubran todas las necesidades básicas",
+      "solucion": "Implementar una política de salarios crecientes para los quintiles de ingresos más bajos, donde el salario mínimo no solo cubra la canasta alimentaria básica, sino también los costos de vivienda, transporte, educación, salud, ocio y recreación para una vida digna",
+      "ejecucion": "Crear una comisión técnica independiente para calcular periódicamente el costo de vida digna, ajustar el salario mínimo por sector económico con base en este cálculo, implementar programas de apoyo a las micro y pequeñas empresas para la transición salarial y establecer mecanismos de fiscalización del cumplimiento con sanciones efectivas"
+    },
+    {
+      "propuesta": "Promover la salud mental en el ámbito laboral mediante una ley integral de bienestar psicológico",
+      "solucion": "Reconocer el bienestar psicológico como un derecho laboral esencial y un factor clave de productividad, fomentando el equilibrio entre la vida personal y laboral mediante políticas organizacionales que prevengan el estrés crónico y promuevan entornos de trabajo saludables",
+      "ejecucion": "Elaborar y presentar la Ley Integral de Salud Mental Laboral, crear el Programa Nacional de Entornos Laborales Saludables, capacitar a 5,000 empleadores en gestión del bienestar psicológico, establecer protocolos de prevención del burnout en empresas públicas y privadas, y crear una red de atención psicológica especializada para trabajadores"
+    },
+    {
+      "propuesta": "Formalizar el empleo e incluir a poblaciones vulnerables mediante la Agencia Nacional de Empleo fortalecida",
+      "solucion": "Conectar a personas en situación de vulnerabilidad (jóvenes, mujeres, personas con discapacidad, migrantes) con el mercado laboral formal y regular las nuevas formas de trabajo en plataformas digitales para garantizar el acceso a la seguridad social y derechos laborales",
+      "ejecucion": "Fortalecer la Agencia Nacional de Empleo con 50 oficinas regionales, implementar el Sistema Digital de Intermediación Laboral, crear el Registro Nacional de Trabajadores de Plataformas Digitales, establecer convenios con 1,000 empresas para inclusión laboral prioritaria y reformar el Código de Trabajo para reconocer y regular el trabajo digital con protección social"
+    },
+    {
+      "propuesta": "Impulsar una Política Nacional de Productividad basada en conocimiento, biotecnología y digitalización",
+      "solucion": "Transformar el tejido productivo nacional hacia actividades de mayor valor agregado mediante el fomento de la innovación, la adopción tecnológica y el desarrollo de capacidades en sectores estratégicos del conocimiento",
+      "ejecucion": "Diseñar e implementar la Política Nacional de Productividad y Innovación 2025-2040, crear el Consejo Nacional de Productividad, establecer fondos concursables para proyectos de I+D, desarrollar 10 parques tecnológicos regionales y fomentar alianzas estratégicas entre universidades, centros de investigación y sector productivo"
+    },
+    {
+      "propuesta": "Desarrollar sectores estratégicos sostenibles: bioeconomía, turismo regenerativo y agricultura inteligente",
+      "solucion": "Promover un modelo de desarrollo productivo que genere crecimiento económico simultáneo con conservación ambiental, mediante la transformación de sectores tradicionales hacia prácticas regenerativas y de bajo impacto",
+      "ejecucion": "Crear el Programa Nacional de Bioeconomía con 100 proyectos pilotos, implementar la Certificación Nacional de Turismo Regenerativo, desarrollar el Plan de Agricultura Inteligente con reducción del 30% en uso de agroquímicos, establecer incentivos fiscales para empresas sostenibles y crear el Instituto de Innovación Agropecuaria y Ambiental"
+    },
+    {
+      "propuesta": "Apoyar a las PYMES y emprendimientos mediante simplificación de trámites y acceso a financiamiento",
+      "solucion": "Facilitar la creación, formalización y crecimiento de pequeñas y medianas empresas mediante la eliminación de barreras burocráticas y el acceso a capital de riesgo y crédito en condiciones favorables",
+      "ejecucion": "Implementar la Ventanilla Única de Inversiones (VUI) digital que integre todos los trámites empresariales, crear el Fondo Nacional de Capital Semilla con $100 millones de capital inicial, establecer líneas de crédito preferencial para PYMES en la banca estatal y desarrollar programas de encadenamiento productivo con empresas exportadoras líderes"
+    },
+    {
+      "propuesta": "Fomentar la autonomía económica de las mujeres mediante inserción en sectores de innovación y fortalecimiento del sistema de cuidados",
+      "solucion": "Promover la participación equitativa de las mujeres en los sectores de mayor dinamismo e innovación (STEAM y economía verde) mientras se libera su tiempo productivo mediante la corresponsabilidad social en el cuidado",
+      "ejecucion": "Crear el Programa Nacional de Mujeres en STEAM con 10,000 becas técnicas y universitarias, implementar el Sello de Equidad de Género en empresas de tecnología, expandir la Red de Cuido a 75,000 niños y niñas, establecer permisos parentales igualitarios y crear el Fondo de Emprendimiento Femenino en economía verde"
+    },
+    {
+      "propuesta": "Promover el desarrollo regional mediante nodos logísticos y cadena de frío fuera del Gran Área Metropolitana",
+      "solucion": "Reducir las brechas territoriales de desarrollo mediante la creación de infraestructura logística estratégica que permita a las regiones rurales y costeras participar plenamente en las cadenas de valor nacionales e internacionales",
+      "ejecucion": "Construir 5 nodos de consolidación logística en las regiones Huetar Norte, Huetar Caribe, Pacífico Central, Brunca y Chorotega, implementar un sistema nacional de cadena de frío con 50 centros de acopio refrigerados, mejorar 500 km de vías de acceso regional y crear incentivos fiscales para empresas que se localicen fuera del GAM"
+    }
+  ]
+}

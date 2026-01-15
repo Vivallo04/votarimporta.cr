@@ -1,0 +1,67 @@
+{
+  "contexto": {
+    "eje": "Prosperidad Económica",
+    "area": "Cargas y Trámites",
+    "descripcion_general": "Considerada la 'segunda gran victoria' del plan, es el paso previo y necesario para alcanzar la prosperidad económica ('tercera gran victoria'). Se basa en la premisa de que un Estado moderno debe facilitar y no estorbar el esfuerzo productivo, eliminando la burocracia que asfixia la innovación y el empleo, para así fortalecer una clase media próspera."
+  },
+  "resumen": {
+    "problema": "La excesiva tramitología y las altas cargas burocráticas actúan como un 'peaje' que asfixia el emprendimiento, la innovación y la creación de empleo formal. Las empresas, especialmente las Pymes que representan el 85% de la producción nacional, enfrentan procesos lentos y complejos para abrir y operar. Además, las altas cargas sociales sobre la planilla (26.6%) encarecen la contratación formal, y un sistema tributario enredado con muchos impuestos pequeños genera una alta carga administrativa para ciudadanos y negocios, frenando la competitividad y el crecimiento económico. Este entorno dificulta que el régimen definitivo (Pymes) se conecte a cadenas globales de valor y genere empleos de calidad.",
+    "propuesta": "Lograr la 'libertad frente a la burocracia' como base para la prosperidad. Esto mediante una simplificación radical de trámites, una reducción significativa de las cargas sociales sobre el empleo y una racionalización del sistema tributario. El objetivo es crear un Estado ágil que facilite la actividad productiva, reduzca los costos de operar formalmente, 'devuelva oxígeno al bolsillo' de los ciudadanos y permita que las empresas nacionales sean más competitivas, sentando las bases para una clase media próspera.",
+    "solucion": {
+      "simplificacion_radical_para_la_libertad_de_producir": {
+        "negocio_en_un_dia": "Permitir que un ciudadano pueda abrir un negocio y empezar a facturar en un solo día hábil.",
+        "principio_de_solo_una_vez": "Obligar a la interoperabilidad de datos entre instituciones del Estado, prohibiendo solicitar al ciudadano información que ya haya entregado anteriormente a otra entidad.",
+        "silencio_positivo": "Establecer que, ante la falta de respuesta de una institución dentro de los plazos legales, el trámite se considerará aprobado automáticamente.",
+        "ventanilla_unica_de_inversion_vui": "Automatizar y centralizar en un solo portal la integración de trámites municipales, de salud, tributarios y de seguridad social."
+      },
+      "reduccion_de_cargas_sociales_para_el_empleo_formal": {
+        "reduccion_de_cargas_patronales": "Reducir las cargas sociales que pagan los empleadores del 26.6% al 19%.",
+        "traslado_al_presupuesto_nacional": "Financiar gradualmente el INA, IMAS y FODESAF (que suman un 7.25% de la planilla) a través del Presupuesto de la República, en lugar de cargarlo a los patronos.",
+        "flexibilizacion_para_trabajadores_independientes": "Eliminar la 'base mínima contributiva' y establecer cobros flexibles (bimestrales o semestrales) al seguro social, ajustándose a la realidad de sus ingresos variables."
+      },
+      "alivio_de_la_carga_tributaria": {
+        "solo_15_impuestos": "Eliminar 35 tributos nacionales menores de baja recaudación y alta burocracia, manteniendo solo los 15 que generan el 98% de los ingresos presupuestarios.",
+        "iva_diferenciado": "Reducir el IVA en alquileres del 13% al 4% y aplicar una tasa reducida a servicios turísticos para bajar el costo de vida y reactivar sectores clave.",
+        "proteccion_del_sinpe_movil": "Impulsar una ley para prohibir cualquier retención del IVA sobre las transferencias realizadas a través de SINPE Móvil."
+      },
+      "impacto_en_la_competitividad_pymes": {
+        "objetivo": "Al reducir radicalmente los trámites y los costos de formalización, se busca elevar la productividad y competitividad del régimen definitivo (donde operan la mayoría de Pymes). Esto les permitirá integrarse mejor a las cadenas globales de valor y generar empleos de alta calidad fuera de las zonas francas, aprovechando que representan el 85% de la producción nacional."
+      }
+    },
+    "ejecucion": {
+      "fase_1_marco_legal_y_habilitacion_digital": {
+        "descripcion": "Crear las bases legales y técnicas para la simplificación radical y la interoperabilidad de datos.",
+        "acciones_clave": [
+          "Presentación y aprobación de la ley de 'silencio positivo' y del principio de 'Solo Una Vez'.",
+          "Desarrollo y puesta en marcha inicial de la Ventanilla Única de Inversión (VUI) completamente automatizada.",
+          "Presentación del plan legal para reducir y consolidar los impuestos nacionales a 15."
+        ]
+      },
+      "fase_2_implementacion_inicial_y_alivio_inmediato": {
+        "descripcion": "Lanzar los primeros servicios rápidos y aplicar las primeras reducciones de cargas y tributos.",
+        "acciones_clave": [
+          "Activación del servicio 'negocio en un día' en la VUI a nivel nacional.",
+          "Aprobación e implementación de la ley que protege al SINPE Móvil de retenciones de IVA.",
+          "Aplicación de la reducción del IVA a alquileres (13% a 4%) y a servicios turísticos.",
+          "Inicio del proceso legislativo para trasladar el financiamiento del INA, IMAS y FODESAF al Presupuesto de la República."
+        ]
+      },
+      "fase_3_reduccion_estructural_y_flexibilizacion": {
+        "descripcion": "Aplicar las reformas más profundas en cargas sociales y tributarias, consolidando el nuevo sistema.",
+        "acciones_clave": [
+          "Implementación gradual de la reducción de cargas patronales del 26.6% al 19%, a medida que se traslada el financiamiento social al Presupuesto.",
+          "Eliminación efectiva de los 35 impuestos menores y consolidación operativa del sistema en 15 tributos principales.",
+          "Implementación del nuevo régimen flexible de cotización para trabajadores independientes en la CCSS."
+        ]
+      },
+      "fase_4_consolidacion_y_evaluacion_de_impacto": {
+        "descripcion": "Medir los resultados del nuevo entorno de facilidad para hacer negocios, evaluar el impacto económico y ajustar políticas.",
+        "acciones_clave": [
+          "Evaluación trimestral de indicadores clave: tiempo promedio para abrir un negocio, número de nuevas empresas registradas, crecimiento del empleo formal, percepción de competitividad por parte de las Pymes.",
+          "Monitoreo del impacto de las reducciones tributarias y de cargas sociales en la formalización laboral, el costo de vida y el crecimiento económico.",
+          "Ajuste y optimización continua de la VUI y los protocolos de interoperabilidad entre instituciones basado en la retroalimentación de los usuarios."
+        ]
+      }
+    }
+  }
+}

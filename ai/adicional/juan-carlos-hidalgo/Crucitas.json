@@ -1,0 +1,81 @@
+[
+  {
+    "iniciativa": "Resolución Estratégica del Proyecto Crucitas",
+    "marco_estrategico": "Eje 3: Agenda Social y Desarrollo Sostenible - Pilar de Desarrollo Sostenible y Ambiente (Minería Responsable y Soberanía Nacional)",
+    "vision": "Transformar el conflicto de Crucitas de una situación de abandono e ilegalidad en un modelo de aprovechamiento soberano, técnico y responsable que garantice seguridad nacional, beneficio social, recuperación ambiental y certidumbre jurídica, integrando la explotación de recursos no renovables en una política ambiental holística.",
+    "diagnostico_problema": {
+      "conflicto_inconcluso": {
+        "urgencia": "Uno de los temas inconclusos más urgentes que afecta la variante ambiental del país",
+        "situacion_actual": "Abandono e ilegalidad en la zona, con presencia de actividades mineras informales y crimen organizado",
+        "incertidumbre_juridica": "Falta de definición estratégica que genera inseguridad legal y ambiental"
+      },
+      "impactos_negativos": {
+        "degradacion_ambiental": "Ecosistemas afectados por minería ilegal previa",
+        "vulnerabilidad_fronteriza": "Zona expuesta a actividades delictivas transnacionales",
+        "rezago_social": "Comunidades aledañas históricamente desatendidas"
+      }
+    },
+    "paradigma_estrategico": {
+      "transicion": "De la minería ilegal y conflictiva a un modelo formal de minería subterránea responsable que equilibra soberanía nacional, protección ambiental y desarrollo social.",
+      "principios_rectores": ["Soberanía nacional", "Responsabilidad ambiental", "Beneficio social local", "Formalización técnica", "Seguridad jurídica"]
+    },
+    "componentes_estrategia": [
+      {
+        "componente": "Seguridad y Soberanía Nacional Fronteriza",
+        "propuesta": "Abordar Crucitas como asunto de soberanía fronteriza que requiere presencia estatal decisiva para eliminar actividades ilícitas y recuperar el control territorial.",
+        "solucion": {
+          "erradicacion_mineria_ilegal": "Eliminación de estructuras criminales que operan en la zona",
+          "control_contrabando": "Implementación de medidas para evitar el tráfico ilícito de oro hacia el exterior",
+          "presencia_estatal_fortalecida": "Asegurar control territorial en zona vulnerable a actividades delictivas transnacionales"
+        },
+        "ejecucion": [
+          "Despliegue coordinado de fuerzas de seguridad en la zona fronteriza",
+          "Implementación de sistemas de monitoreo y vigilancia tecnológica",
+          "Cooperación internacional para control de rutas de contrabando"
+        ]
+      },
+      {
+        "componente": "Transición hacia Minería Subterránea Formal",
+        "propuesta": "Sustituir la minería ilegal a cielo abierto por un proyecto formal de minería subterránea que aplique tecnología de punta y estrictos controles ambientales.",
+        "solucion": {
+          "tecnologia_punta": "Aplicación de estándares técnicos modernos para minimizar impacto en superficie",
+          "modelo_concesion_controlado": "Desarrollo mediante concesión que garantice controles estrictos por parte del Estado",
+          "recuperacion_ambiental_obligatoria": "Restauración de ecosistemas degradados por minería ilegal previa como componente integral del proyecto"
+        },
+        "ejecucion": [
+          "Diseño de proyecto con consultoría internacional especializada en minería subterránea responsable",
+          "Establecimiento de sistema de monitoreo ambiental en tiempo real",
+          "Programa de recuperación ambiental paralelo a las operaciones mineras"
+        ]
+      },
+      {
+        "componente": "Impacto Social y Económico Local",
+        "propuesta": "Asegurar que la riqueza del subsuelo se traduzca en beneficios medibles para las comunidades aledañas, históricamente rezagadas, mediante mecanismos de distribución justa.",
+        "solucion": {
+          "beneficios_comunitarios": "Traducción de riqueza minera en desarrollo local tangible",
+          "actualizacion_canon_minero": "Reforma del Código de Minería para ajustar compensaciones a estándares internacionales",
+          "compensacion_justa": "Garantía de que Estado y comunidades reciban compensación adecuada por explotación de recursos no renovables"
+        },
+        "ejecucion": [
+          "Elaboración de plan de desarrollo local vinculado a ingresos mineros",
+          "Presentación de proyecto de ley para actualización del canon minero",
+          "Establecimiento de fondo de desarrollo comunitario con porcentaje de ingresos mineros"
+        ]
+      },
+      {
+        "componente": "Integración en Política Ambiental Holística",
+        "propuesta": "Enmarcar la resolución de Crucitas en una visión donde protección del patrimonio natural y crecimiento económico son complementarios, generando certidumbre jurídica y financiamiento para conservación.",
+        "solucion": {
+          "complementariedad_ambiental_economica": "Integración de protección ambiental y aprovechamiento económico en modelo sostenible",
+          "seguridad_juridica": "Brindar resoluciones concluyentes que eliminen incertidumbre legal histórica",
+          "finanzas_sostenibles": "Utilizar recursos generados para fortalecer mecanismos de conservación y mitigación climática a nivel nacional"
+        },
+        "ejecucion": [
+          "Elaboración de dictámenes jurídicos definitivos que resuelvan el estatus legal del proyecto",
+          "Destino específico de porcentaje de ingresos a Sistema Nacional de Áreas de Conservación (SINAC)",
+          "Inclusión del proyecto en estrategia nacional de economía circular y minería responsable"
+        ]
+      }
+    ]
+  }
+]

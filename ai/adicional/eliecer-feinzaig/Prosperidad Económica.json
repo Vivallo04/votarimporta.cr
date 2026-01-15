@@ -1,0 +1,82 @@
+{
+  "contexto": {
+    "eje": "Prosperidad Económica",
+    "descripcion_general": "La 'tercera gran victoria' del plan, centrada en fortalecer una clase media pujante mediante un enfoque integral que reduce el costo de vida, simplifica el sistema tributario, dinamiza el mercado laboral y abre mercados estratégicos."
+  },
+  "resumen": {
+    "problema": "La economía enfrenta un alto costo de vida que ahoga el bolsillo de los ciudadanos, un sistema tributario complejo y con muchos impuestos de baja recaudación, monopolios estatales que limitan la competencia (RECOPE, FANAL), una tramitología excesiva que frena el emprendimiento, un mercado laboral rígido con altas cargas sociales que desincentivan la contratación formal, y una inserción internacional que requiere modernización para atraer inversión y competir en nuevos mercados. Adicionalmente, la infraestructura logística y el aparato estatal no están optimizados para la competitividad.",
+    "propuesta": "Generar prosperidad económica a través de un choque de competitividad y eficiencia que ponga al ciudadano y al emprendedor en el centro. Se busca reducir estructuralmente el costo de la vida, simplificar radicalmente el Estado y el sistema tributario, eliminar monopolios, flexibilizar y modernizar el mercado laboral, e insertar agresivamente al país en la economía global, todo con el objetivo de crear empleo de calidad y permitir que la clase media alcance sus proyectos de vida con holgura.",
+    "solucion": {
+      "reduccion_del_costo_de_vida_y_reforma_fiscal": {
+        "mercado_electrico": "Apertura y armonización del mercado eléctrico para permitir que generadores privados vendan directamente a consumidores, bajando tarifas por competencia.",
+        "simplificacion_tributaria": "Reducir el universo de impuestos nacionales a solo quince, eliminando aquellos de baja recaudación y alta carga burocrática.",
+        "alivio_en_vivienda": "Reducir el IVA del alquiler del 13% al 4% y exonerar el impuesto de traspaso para la primera vivienda de clase media (hasta $150,000).",
+        "proteccion_de_medios_de_pago": "Reforma para asegurar que las transferencias vía SINPE Móvil estén libres de retenciones de IVA."
+      },
+      "libertad_para_producir_y_eliminacion_de_monopolios": {
+        "golpe_a_la_tramitologia": "Implementar la estrategia 'Solo Una Vez' y una Ventanilla Única de Inversión para abrir un negocio en un solo día.",
+        "apertura_de_monopolios": "Cierre de RECOPE para abrir el mercado de combustibles a la competencia, y venta de la Fábrica Nacional de Licores (FANAL).",
+        "promocion_de_la_competencia": "Fortalecimiento de la COPROCOM y modernización de la ARESEP para asegurar tarifas técnicas, no políticas."
+      },
+      "modernizacion_del_mercado_laboral_y_capital_humano": {
+        "reduccion_de_cargas_sociales": "Trasladar gradualmente al Presupuesto Nacional el financiamiento del INA, IMAS y FODESAF, para reducir las cargas patronales del 26.6% al 19%.",
+        "inclusion_de_poblaciones": "Incentivos fiscales por contratar a personas mayores de 50 años y fortalecimiento de la Red de Cuido para incorporar mujeres al mercado laboral.",
+        "reconversion_laboral": "Programa de formación rápida para la empleabilidad, enfocado en habilidades para la Cuarta Revolución Industrial y dominio del inglés."
+      },
+      "insercion_global_comercio_exterior_e_infraestructura": {
+        "nuevos_mercados": "Priorizar la adhesión al Tratado Transpacífico (CPTPP) y firmar tratados con Israel, Emiratos Árabes Unidos y Ecuador.",
+        "atraccion_de_inversion": "Fomentar el nearshoring y crear Zonas Económicas Especiales en regiones con rezago (Guanacaste, Puntarenas, Limón) con incentivos para alta tecnología.",
+        "logistica_e_infraestructura": "Modernización de Puerto Caldera, construcción de Ciudad Gobierno para ahorrar en alquileres estatales, y despliegue eficiente de la red 5G.",
+        "turismo_dinamico": "Reducir el IVA al turismo al 4% y desarrollar nichos como turismo de bienestar y astronómico."
+      },
+      "reforma_del_estado_para_la_competitividad": {
+        "fusion_de_ministerios": "Crear el Ministerio de Desarrollo Económico y Competitividad (MINDEC), fusionando Hacienda, Planificación y funciones del MEIC.",
+        "venta_de_activos": "Venta del Banco de Costa Rica (BCR) y de BICSA para reducir la deuda pública en al menos un 3% del PIB.",
+        "independencia_monetaria": "Reafirmar el respeto a la autonomía del Banco Central para garantizar estabilidad de precios y poder adquisitivo."
+      }
+    },
+    "ejecucion": {
+      "fase_1_preparacion_legal_y_administrativa": {
+        "descripcion": "Preparación del marco legal y de gobierno para las reformas estructurales.",
+        "acciones_clave": [
+          "Presentación a la Asamblea Legislativa del paquete de leyes de reforma fiscal (simplificación, IVA alquiler), cierre de monopolios (RECOPE, FANAL) y creación del MINDEC.",
+          "Establecimiento de la Ventanilla Única de Inversión y diseño de la estrategia 'Solo Una Vez'.",
+          "Inicio de los estudios y procesos para la venta de activos estatales (BCR, BICSA)."
+        ]
+      },
+      "fase_2_implementacion_inicial_y_alivio_inmediato": {
+        "descripcion": "Ejecución de medidas que generen un impacto rápido en el costo de vida y la facilidad para hacer negocios.",
+        "acciones_clave": [
+          "Implementación de la exoneración del impuesto de traspaso para primera vivienda y reforma del SINPE Móvil.",
+          "Primera etapa de reducción de trámites para apertura de negocios.",
+          "Lanzamiento de la primera fase del programa de reconversión laboral en habilidades digitales e inglés."
+        ]
+      },
+      "fase_3_reformas_estructurales_y_despliegue": {
+        "descripcion": "Puesta en marcha de las transformaciones más profundas en mercados, competencia e infraestructura.",
+        "acciones_clave": [
+          "Apertura efectiva del mercado de combustibles y eléctrico.",
+          "Inicio del traslado del financiamiento de INA/IMAS/FODESAF al Presupuesto Nacional, para bajar cargas patronales.",
+          "Lanzamiento de las Zonas Económicas Especiales en regiones periféricas.",
+          "Inicio de la modernización de Puerto Caldera y del despliegue estratégico de la red 5G."
+        ]
+      },
+      "fase_4_insercion_global_y_consolidacion_institucional": {
+        "descripcion": "Integración internacional y consolidación del nuevo modelo de estado competitivo.",
+        "acciones_clave": [
+          "Firma de nuevos tratados comerciales (CPTPP, Israel, Emiratos Árabes Unidos, Ecuador).",
+          "Consolidación operativa del nuevo Ministerio de Desarrollo Económico y Competitividad (MINDEC).",
+          "Ejecución de la venta de activos y uso de los recursos para reducción de deuda."
+        ]
+      },
+      "fase_5_monitoreo_y_ajuste_continuo": {
+        "descripcion": "Evaluación del impacto económico y ajuste de políticas para maximizar los beneficios.",
+        "acciones_clave": [
+          "Monitoreo trimestral de indicadores clave: costo de vida, creación de empleo formal, atracción de inversión, crecimiento de exportaciones.",
+          "Evaluación y ajuste de los incentivos en Zonas Económicas Especiales y programas de capacitación.",
+          "Revisión de la eficiencia de las instituciones regulatorias (ARESEP, COPROCOM) en la promoción de la competencia."
+        ]
+      }
+    }
+  }
+}

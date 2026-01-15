@@ -1,0 +1,37 @@
+{
+  "eje": "1: Orden y Seguridad",
+  "premisa": "La seguridad es la base fundamental para la prosperidad económica y la justicia social.",
+  "diagnostico": "Costa Rica es el segundo país más violento de Centroamérica, con una tasa de homicidios de 17.2 por cada 100,000 habitantes en 2023 (907 homicidios), debido a la infiltración del crimen organizado transnacional.",
+  "propuestas": [
+    {
+      "nombre": "Operación 'Blindaje' (Respuesta de Choque)",
+      "propuesta": "Recuperar el control soberano de barrios, puertos, mares y espacio aéreo en los primeros 100 días de gobierno.",
+      "solucion": "Despliegue conjunto y masivo de todas las policías y el OIJ para estrangular la logística del narcotráfico.",
+      "ejecucion": "Operación dirigida desde el Poder Ejecutivo en los primeros 100 días, con apoyo estratégico de Estados Unidos y la Unión Europea."
+    },
+    {
+      "nombre": "Financiamiento Extraordinario",
+      "propuesta": "Garantizar recursos financieros excepcionales para equipar, capacitar y expandir las fuerzas de seguridad.",
+      "solucion": "1) Flexibilizar la interpretación de la regla fiscal para inversiones en seguridad. 2) Crear un 'Fondo de Seguridad Nacional' con la venta de activos estatales (ej. Banco de Costa Rica) y subejecuciones presupuestarias.",
+      "ejecucion": "Modificación de la regla fiscal y creación legal del fondo. Los recursos se destinarán a tecnología (drones, videovigilancia), armamento, blindaje, capacitación y la contratación de 6,500 nuevos policías durante el cuatrienio."
+    },
+    {
+      "nombre": "Modernización de la Inteligencia",
+      "propuesta": "Transformar el modelo de seguridad de reactivo a proactivo, basado en inteligencia estratégica integrada.",
+      "solucion": "1) Transformar el ICD en una Agencia de Inteligencia contra el Crimen Organizado. 2) Reformar la DIS en una unidad de inteligencia civil estratégica. 3) Crear un Centro Conjunto de Inteligencia Policial.",
+      "ejecucion": "Reforma institucional y legal de las agencias de inteligencia (ICD y DIS) y establecimiento del Centro Conjunto para integrar información del Ejecutivo, Poder Judicial y policías municipales, incluyendo el ámbito de ciberseguridad."
+    },
+    {
+      "nombre": "Reforma Legal y Penitenciaria",
+      "propuesta": "Combatir la impunidad aislando a los líderes del crimen organizado y agilizando los procesos penales.",
+      "solucion": "1) Construir cárceles diferenciadas para crimen organizado. 2) Reformar el Código Procesal Penal con plazos taxativos y restricción de beneficios. 3) Tipificar como delito la filtración de información confidencial.",
+      "ejecucion": "Proyectos de construcción de centros penitenciarios de alta seguridad y presentación de reformas legales ante la Asamblea Legislativa."
+    },
+    {
+      "nombre": "Prevención y Cohesión Social",
+      "propuesta": "Atacar las causas sociales del crimen y recuperar espacios públicos para la comunidad.",
+      "solucion": "1) Fortalecer el rol del MEP en detectar deserción y reclutamiento. 2) Invertir en la recuperación de parques y polideportivos. 3) Legalizar la comercialización recreativa del cannabis para eliminar un mercado de las mafias.",
+      "ejecucion": "Directrices al Ministerio de Educación Pública (MEP), coordinación con gobiernos locales para obras públicas, y presentación de un proyecto de ley para legalizar el cannabis, destinando sus impuestos al Fondo de Seguridad Nacional."
+    }
+  ]
+}

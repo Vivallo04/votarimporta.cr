@@ -1,0 +1,86 @@
+{
+  "eje": "4: Sectores productivos",
+  "meta_central": "Emparejar la cancha eliminando asimetrías regulatorias y de costos para que el sector privado sea catalizador de movilidad social y reducción de la pobreza, mediante una economía con alto crecimiento y generación de empleo.",
+  "sectores_productivos_estrategicos": [
+    {
+      "nombre": "Sector Agropecuario: Modernización y Seguridad Alimentaria",
+      "propuesta": "Dignificar la agricultura transitando hacia un modelo de mayor competitividad y valor agregado, con enfoque en innovación, tecnología y acceso a recursos críticos.",
+      "solucion": [
+        "Creación de clústeres de biotecnología y agricultura tropical",
+        "Facilitar registro expedito de agroquímicos y semillas mediante estándares OCDE",
+        "Ejecutar proyecto Agua para Guanacaste para democratizar riego",
+        "Iniciativas 'Consuma Costa Rica' y modernización de Ferias del Agricultor"
+      ],
+      "ejecucion": [
+        "Desarrollo de clústeres sectoriales",
+        "Implementación de normativa agrícola alineada a OCDE",
+        "Ejecución inmediata de proyectos de infraestructura hídrica",
+        "Campañas de promoción de producto local y modernización de canales de comercialización"
+      ]
+    },
+    {
+      "nombre": "Turismo: Recuperación de la Competitividad",
+      "propuesta": "Revertir la pérdida de competitividad del sector turístico (8% del PIB) mediante seguridad, infraestructura, promoción internacional y talento humano calificado.",
+      "solucion": [
+        "Acuerdo por el Turismo 2025 con hoja de ruta prioritaria",
+        "Transformación del ICT en ente público no estatal con gobernanza público-privada",
+        "Formación bilingüe y trilingüe en regiones costeras y rurales",
+        "Mejora de infraestructura turística y promoción agresiva internacional"
+      ],
+      "ejecucion": [
+        "Convocatoria al Acuerdo por el Turismo 2025",
+        "Reforma legal para transformación del ICT",
+        "Programas de formación de idiomas en zonas turísticas",
+        "Inversión en infraestructura y campañas internacionales de promoción"
+      ]
+    },
+    {
+      "nombre": "Pesca y Acuicultura: Economía Azul",
+      "propuesta": "Transición de modelo extractivista a aprovechamiento sostenible basado en economía azul, con valor agregado y generación de empleo.",
+      "solucion": [
+        "Otorgar cuotas de acarreo de atún prioritariamente a embarcaciones que desembarquen y procesen en Costa Rica",
+        "Programa nacional de acuicultura sostenible",
+        "Creación de al menos 2,000 empleos directos en procesamiento de atún",
+        "Meta de 20,000 toneladas de producción acuícola para 2030"
+      ],
+      "ejecucion": [
+        "Regulación para condicionar cuotas de pesca a procesamiento local",
+        "Diseño e implementación de programa nacional de acuicultura",
+        "Incentivos para inversión en plantas procesadoras",
+        "Seguimiento a metas de producción y empleo en sector acuícola"
+      ]
+    },
+    {
+      "nombre": "Comercio Exterior y Clústeres de Alta Tecnología",
+      "propuesta": "Posicionar a Costa Rica como hub competitivo y sostenible en sectores de alta complejidad económica mediante articulación de ecosistemas productivos.",
+      "solucion": [
+        "Transformar PROCOMER en Agencia Nacional de Desarrollo Productivo",
+        "Articulación de clústeres territoriales y sectoriales",
+        "Gestión del Fondo Impulso Global para emprendimientos exportadores",
+        "Impulso a clústeres prioritarios: dispositivos médicos, semiconductores, bioeconomía, servicios digitales"
+      ],
+      "ejecucion": [
+        "Reforma legal de PROCOMER",
+        "Desarrollo de planes de clústeres territoriales",
+        "Operativización del Fondo Impulso Global",
+        "Políticas específicas para atracción de inversión en sectores prioritarios"
+      ]
+    },
+    {
+      "nombre": "Pilares Transversales de la Transformación Productiva",
+      "propuesta": "Implementar reformas estructurales en costos de producción para habilitar la competitividad de todos los sectores productivos.",
+      "solucion": [
+        "Reducción del 7.25% de carga patronal (IMAS, INA, FODESAF, Banco Popular)",
+        "Apertura del mercado eléctrico y fortalecimiento de generación distribuida",
+        "Creación de Agencia Nacional de Infraestructura",
+        "Mejora de infraestructura logística: puertos, aeropuertos, carreteras"
+      ],
+      "ejecucion": [
+        "Proyecto de ley de alivio a planillas",
+        "Proyectos de ley para reforma del mercado eléctrico",
+        "Presentación de ley para creación de Agencia Nacional de Infraestructura",
+        "Programas de concesión y profesionalización de obra pública"
+      ]
+    }
+  ]
+}

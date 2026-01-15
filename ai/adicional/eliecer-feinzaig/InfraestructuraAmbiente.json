@@ -1,0 +1,75 @@
+{
+  "contexto": {
+    "eje": "Infraestructura y Ambiente",
+    "descripcion_general": "Se entrelazan como motores estratégicos para alcanzar la prosperidad y la competitividad, bajo una visión que prioriza la resiliencia climática, la eficiencia operativa y la apertura a la inversión privada. Se propone transformar al Estado en un facilitador que garantice un desarrollo sostenible y de alta calidad."
+  },
+  "resumen": {
+    "problema": "Existe un rezago estructural en la inversión pública en infraestructura (históricamente menor al 2% del PIB), agravado por una fragmentación institucional que paraliza los proyectos. El país enfrenta una crisis en la gestión del agua (distribución desigual y solo el 14% de tratamiento de aguas residuales), congestión vial severa, infraestructura de transporte insuficiente y desactualizada, y una gobernanza ambiental que no se integra plenamente con la planificación del desarrollo. Además, el sistema energético requiere modernización para asegurar la descarbonización y la competitividad.",
+    "propuesta": "Realizar una ruptura con el modelo tradicional de gestión estatal, transformando al Estado en un facilitador que impulse una infraestructura resiliente, eficiente y sostenible mediante reformas institucionales, el uso intensivo de Alianzas Público-Privadas (APP) y la integración de la variable ambiental en toda planificación. El objetivo es cerrar la brecha de infraestructura, mejorar la conectividad, garantizar la seguridad hídrica y avanzar hacia una economía descarbonizada y competitiva.",
+    "solucion": {
+      "modernizacion_y_gobernanza_de_la_infraestructura": {
+        "reforma_institucional": "Centralizar las competencias del MOPT, absorbiendo órganos desconcentrados (CONAVI, CNC, CTP, COSEVI) para eliminar duplicidades y fortalecer la rectoría.",
+        "unidad_gestora_de_proyectos": "Convertir la Unidad de Inversiones de MIDEPLAN en una Unidad Gestora de Proyectos del país que utilice metodologías ágiles y garantice transparencia con un Banco de Proyectos de trazabilidad total.",
+        "alianzas_publico_privadas_app": "Establecer las APP como el mecanismo idóneo para financiar y ejecutar obras estratégicas (carreteras, puertos, aeropuertos), compartiendo riesgos con el sector privado."
+      },
+      "conectividad_y_movilidad_inteligente": {
+        "proyectos_viales_criticos": "Priorizar la finalización de la carretera a San Carlos, ampliación de las Rutas 1, 27 y 32, y modernización de los tramos hacia las fronteras (Barranca-Limonal, Palmar Norte-Paso Canoas, Liberia-Peñas Blancas).",
+        "transporte_ferroviario": "Impulsar el Tren Rápido de Pasajeros en la GAM y el Tren Eléctrico de Carga hacia Moín, ambos bajo modelos de APP.",
+        "modernizacion_portuaria_y_aeroportuaria": "Modernización integral del Puerto de Caldera y expansión de las terminales del Aeropuerto Juan Santamaría y Daniel Oduber.",
+        "gestion_del_trafico": "Implementar un Sistema Nacional de Gestión Inteligente del Tráfico con semáforos automatizados, sensores de flujo y cámaras de videovigilancia para reducir la congestión."
+      },
+      "gestion_integral_del_recurso_hidrico_y_saneamiento": {
+        "modernizacion_del_aya": "Acelerar la ejecución de planes maestros y digitalizar el 100% de los trámites del Instituto Costarricense de Acueductos y Alcantarillados (AyA).",
+        "proyectos_estrategicos": "Concretar definitivamente PAACUME para Guanacaste y Orosi II para el Acueducto Metropolitano, mediante esquemas de APP.",
+        "saneamiento_y_economia_circular": "Implementar plantas de tratamiento modulares y descentralizadas, y promover modelos de economía circular para el aprovechamiento de lodos tratados en agricultura o generación energética."
+      },
+      "gobernanza_ambiental_y_adaptacion_climatica": {
+        "reestructuracion_del_minae": "Fortalecer su rol rector creando Unidades Técnicas Especializadas en cambio climático, biodiversidad y transición energética.",
+        "infraestructura_resiliente": "Exigir que toda obra pública nueva incorpore análisis de vulnerabilidad climática y estándares de seguridad. Crear un Fondo Nacional para la Infraestructura Resiliente con apoyo multilateral.",
+        "infraestructura_verde_urbana": "Fomentar jardines de lluvia, techos verdes y corredores biológicos urbanos para mitigar el efecto 'isla de calor' y mejorar el drenaje pluvial."
+      },
+      "recursos_geologicos_y_energia_sostenible": {
+        "politica_petrolera_y_gas_natural": "Mantener la moratoria a la exploración petrolera, pero evaluar el aprovechamiento del gas natural bajo estándares científicos que no comprometan la salud pública ni la biodiversidad.",
+        "mercado_electrico": "Abrir totalmente el mercado para que generadores privados compitan en igualdad de condiciones, eliminando el monopolio de hecho del ICE para bajar tarifas y fomentar la innovación.",
+        "geotermia": "Expandir la geotermia fuera de parques nacionales mediante alianzas público-privadas para garantizar seguridad eléctrica renovable."
+      }
+    },
+    "ejecucion": {
+      "fase_1_reformas_institucionales_y_preparacion": {
+        "descripcion": "Establecer el nuevo marco de gobernanza y preparar los proyectos prioritarios.",
+        "acciones_clave": [
+          "Presentación de la ley para centralizar competencias en el MOPT y creación de la Unidad Gestora de Proyectos.",
+          "Digitalización del 100% de los trámites del AyA y diseño de los primeros proyectos APP (viales, hídricos).",
+          "Creación de las Unidades Técnicas Especializadas en el MINAE y diseño del Fondo Nacional para Infraestructura Resiliente."
+        ]
+      },
+      "fase_2_lanzamiento_de_app_y_proyectos_criticos": {
+        "descripcion": "Iniciar las obras más urgentes y lanzar las primeras alianzas público-privadas.",
+        "acciones_clave": [
+          "Licitación y adjudicación de las primeras APP para proyectos viales críticos y para PAACUME/Orosi II.",
+          "Inicio de los trabajos de modernización del Puerto de Caldera.",
+          "Implementación piloto del Sistema Nacional de Gestión Inteligente del Tráfico en la GAM.",
+          "Puesta en marcha de plantas de tratamiento de aguas residuales modulares en comunidades prioritarias."
+        ]
+      },
+      "fase_3_expansion_y_reformas_estructurales": {
+        "descripcion": "Expandir los modelos exitosos y ejecutar las grandes obras de infraestructura.",
+        "acciones_clave": [
+          "Inicio de la construcción del Tren Rápido de Pasajeros y del Tren Eléctrico de Carga bajo APP.",
+          "Expansión nacional de los sistemas de gestión inteligente del tráfico.",
+          "Ejecución a gran escala de proyectos de infraestructura verde urbana.",
+          "Apertura operativa del mercado eléctrico competitivo y avance en proyectos de expansión geotérmica."
+        ]
+      },
+      "fase_4_consolidacion_y_monitoreo_sostenible": {
+        "descripcion": "Evaluar el impacto, asegurar el mantenimiento y ajustar políticas para la sostenibilidad.",
+        "acciones_clave": [
+          "Evaluación anual del desempeño de las APP y del avance en la reducción del déficit de infraestructura.",
+          "Monitoreo continuo de indicadores de seguridad hídrica, reducción de congestión y mejora en la calidad ambiental.",
+          "Auditorías de resiliencia climática para las nuevas infraestructuras.",
+          "Revisión y actualización de la política energética basada en los resultados de la transición."
+        ]
+      }
+    }
+  }
+}

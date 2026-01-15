@@ -1,0 +1,61 @@
+{
+  "iniciativa": "Transición Energética",
+  "eje": "Acción Climática y Justicia Ambiental",
+  "propuestas": [
+    {
+      "propuesta": "Crear la Secretaría de Planificación para la Transición Energética y Ambiental (SEPTEA)",
+      "solucion": "Establecer una entidad rectora que asegure la coherencia, planificación y ejecución de las políticas de transición energética y acción climática, alineándolas con los compromisos internacionales como el Acuerdo de París",
+      "ejecucion": "Presentar proyecto de ley para crear la SEPTEA bajo la rectoría del MINAE, designar un equipo técnico interdisciplinario, desarrollar el Plan Nacional de Transición Energética 2025-2050 y establecer mecanismos de coordinación con todas las instituciones sectoriales"
+    },
+    {
+      "propuesta": "Prohibir definitivamente la exploración y explotación de hidrocarburos en el territorio nacional",
+      "solucion": "Blindar el modelo de desarrollo sostenible del país frente a industrias extractivas de combustibles fósiles, consolidando el compromiso con la descarbonización total",
+      "ejecucion": "Presentar y aprobar la Ley de Prohibición de Hidrocarburos, establecer sanciones severas por incumplimiento, crear un plan de transición para sectores afectados y promover alternativas de energía limpia en las regiones con potencial extractivo"
+    },
+    {
+      "propuesta": "Transformar RECOPE en una empresa pública de energías limpias",
+      "solucion": "Reconvertir la Refinadora Costarricense de Petróleo en un motor de la transición energética, enfocándose en combustibles sostenibles, almacenamiento energético y soluciones para la movilidad verde",
+      "ejecucion": "Presentar el plan de transformación corporativa de RECOPE, reorientar su presupuesto de inversión hacia energías renovables, desarrollar proyectos piloto de biocombustibles avanzados e hidrógeno verde, y crear alianzas estratégicas con empresas líderes en tecnologías limpias"
+    },
+    {
+      "propuesta": "Implementar programas de reconversión laboral justa para trabajadores de sectores intensivos en combustibles fósiles",
+      "solucion": "Garantizar que la transición energética no genere desempleo ni precarización, mediante la capacitación y recolocación de trabajadores en la nueva economía electrificada y sostenible",
+      "ejecucion": "Crear el Programa Nacional de Transición Justa en el INA, identificar y capacitar a 5,000 trabajadores de sectores fósiles en los primeros 3 años, establecer convenios con empresas de energías renovables para contratación preferencial y crear un fondo de garantía salarial durante la transición"
+    },
+    {
+      "propuesta": "Desarrollar Ecoparques de Energía y modelos de generación distribuida para democratizar el acceso",
+      "solucion": "Permitir que hogares, pymes y cooperativas rurales se conviertan en 'prosumidores' (productores-consumidores) de energía, reduciendo costos y promoviendo la equidad territorial en el acceso a energía limpia",
+      "ejecucion": "Crear 50 Ecoparques de Energía en territorios rurales y periurbanos, implementar el programa 'Mi Casa es una Planta Solar' con 100,000 instalaciones subsidiadas, simplificar trámites para generación distribuida y establecer tarifas de inyección justas a la red"
+    },
+    {
+      "propuesta": "Reorientar subsidios de combustibles fósiles hacia financiamiento de movilidad eléctrica y producción sostenible",
+      "solucion": "Eliminar gradualmente los subsidios regresivos a los hidrocarburos para redirigir esos recursos hacia tecnologías limpias, priorizando a las comunidades más vulnerables a los impactos climáticos y energéticos",
+      "ejecucion": "Diseñar un plan de eliminación gradual de subsidios a combustibles fósiles en 5 años, crear el Fondo de Transición Energética Justa con los recursos liberados, financiar 50,000 vehículos eléctricos para transporte público y particular, y subsidiar sistemas de energía solar para hogares de bajos ingresos"
+    },
+    {
+      "propuesta": "Adoptar un enfoque de justicia climática basado en derechos humanos y ciencia",
+      "solucion": "Reconocer constitucionalmente el derecho humano a un clima sano y establecer mecanismos de protección para poblaciones vulnerables, incluyendo la figura de refugiado climático",
+      "ejecucion": "Presentar reforma constitucional para reconocer el derecho al clima, crear la Ley de Protección a Personas Desplazadas por Cambio Climático, establecer protocolos de atención para comunidades en riesgo y fortalecer los sistemas de alerta temprana con enfoque de derechos"
+    },
+    {
+      "propuesta": "Implementar integralmente el Acuerdo de Escazú para garantizar participación ambiental y protección de defensores",
+      "solucion": "Asegurar la participación ciudadana efectiva en las decisiones ambientales y brindar protección especial a las personas defensoras del ambiente, tal como establece el primer acuerdo ambiental de América Latina y el Caribe",
+      "ejecucion": "Crear la Comisión Nacional de Implementación del Acuerdo de Escazú, establecer mecanismos de consulta pública vinculante para proyectos energéticos y ambientales, diseñar el Sistema de Protección para Defensores Ambientales y capacitar a funcionarios públicos en sus obligaciones"
+    },
+    {
+      "propuesta": "Planificar la acción climática utilizando la cuenca hidrográfica como unidad básica de gestión",
+      "solucion": "Integrar la gestión del agua, el desarrollo hidroeléctrico sostenible y la resiliencia territorial mediante un enfoque de cuencas que reconozca la interdependencia de los ecosistemas y las comunidades",
+      "ejecucion": "Diseñar e implementar los Planes de Acción Climática por Cuenca para las 34 cuencas hidrográficas del país, crear comités de cuenca con participación comunitaria, integrar la variable climática en todos los permisos de uso de agua y desarrollar sistemas de monitoreo hidro-meteorológico avanzado"
+    },
+    {
+      "propuesta": "Liderar debates internacionales sobre reforma de la arquitectura financiera climática global",
+      "solucion": "Posicionar a Costa Rica como voz líder en la defensa de financiamiento climático justo y accesible para países en desarrollo, con especial énfasis en fondos para pérdidas y daños",
+      "ejecucion": "Crear la Unidad de Diplomacia Climática en el Ministerio de Relaciones Exteriores, presentar iniciativas en foros multilaterales como la COP, establecer alianzas con países vulnerables al clima y abogar por la reforma de instituciones financieras internacionales"
+    },
+    {
+      "propuesta": "Modernizar el mercado de créditos de carbono para beneficiar directamente a comunidades locales",
+      "solucion": "Transformar el sistema de compensación de emisiones para que los recursos generados por la conservación de bosques y captura de carbono lleguen efectivamente a las comunidades que protegen los ecosistemas",
+      "ejecucion": "Presentar la Ley de Mercado de Carbono con Equidad, crear la Plataforma Nacional de Carbono con trazabilidad blockchain, establecer que el 70% de los ingresos por créditos revierta a comunidades locales y desarrollar estándares de certificación rigurosos"
+    }
+  ]
+}

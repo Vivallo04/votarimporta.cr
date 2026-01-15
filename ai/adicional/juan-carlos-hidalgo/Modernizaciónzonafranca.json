@@ -1,0 +1,80 @@
+{
+  "eje": "4: Transformación Económica",
+  "componente": "Modernización de Zonas Francas",
+  "objetivo": "Evolucionar el modelo de zonas francas hacia uno más inclusivo, tecnológicamente avanzado y territorialmente equilibrado, utilizándolo como referente para 'emparejar la cancha' y extender sus beneficios a todos los sectores productivos.",
+  "propuestas_modernizacion": [
+    {
+      "nombre": "Evolución hacia la Sofisticación e Innovación",
+      "propuesta": "Actualizar el Régimen de Zona Franca para premiar factores de alto valor agregado más allá de la exención fiscal.",
+      "solucion": [
+        "Incentivar la Investigación y Desarrollo (I+D) dentro del país",
+        "Atraer inversiones en sectores de vanguardia: semiconductores, dispositivos médicos, manufactura avanzada",
+        "Captar inversión alineada con la transición energética y economía verde"
+      ],
+      "ejecucion": [
+        "Reforma del régimen de zonas francas con criterios de valor agregado",
+        "Desarrollo de incentivos específicos para I+D y sofisticación tecnológica",
+        "Promoción internacional de Costa Rica como hub de inversión sostenible y tecnológica"
+      ]
+    },
+    {
+      "nombre": "Descentralización y Equidad Territorial",
+      "propuesta": "Romper la concentración geográfica en la GAM priorizando el desarrollo en zonas de menor desarrollo relativo.",
+      "solucion": [
+        "Priorizar incentivos para empresas que operen en zonas rurales, costeras y de menor desarrollo",
+        "Generar empleo para poblaciones con diversas escolaridades",
+        "Integrar actividades como agricultura y manufactura liviana bajo el régimen de zonas francas"
+      ],
+      "ejecucion": [
+        "Diseño de incentivos diferenciados por región",
+        "Promoción agresiva de inversión en regiones fuera de la GAM",
+        "Adaptación del modelo de zonas francas a actividades agroindustriales y manufactureras locales"
+      ]
+    },
+    {
+      "nombre": "Encadenamientos Productivos y Programa 'Empresas Puente'",
+      "propuesta": "Convertir las zonas francas de 'islas' de prosperidad en motores de la economía local mediante articulación productiva.",
+      "solucion": [
+        "Programa 'Empresas Puente' para vincular PYMES con multinacionales",
+        "Laboratorios de Innovación Abierta donde multinacionales planteen retos técnicos a emprendedores locales",
+        "Fondo Impulso Global (FIG) de $40 millones para financiar emprendimientos exportadores"
+      ],
+      "ejecucion": [
+        "Diseño e implementación del programa 'Empresas Puente'",
+        "Creación de espacios físicos y virtuales para innovación abierta",
+        "Constitución legal y operativización del Fondo Impulso Global",
+        "Fondos concursables para retos técnicos planteados por multinacionales"
+      ]
+    },
+    {
+      "nombre": "Integración con Sectores Tradicionales",
+      "propuesta": "Utilizar el régimen de zona franca como herramienta para revitalizar sectores tradicionales como pesca y agro.",
+      "solucion": [
+        "Incentivar que el atún capturado en aguas nacionales sea desembarcado y procesado localmente mediante figura de Zona Franca",
+        "Generar al menos 2,000 empleos directos en industria atunera",
+        "Integrar Programa Descubre de PROCOMER para diversificar oferta exportable agroindustrial usando tecnologías de zona franca"
+      ],
+      "ejecucion": [
+        "Regulación para condicionar cuotas de pesca a procesamiento local con beneficios de zona franca",
+        "Atracción de inversión en plantas procesadoras de atún",
+        "Integración del Programa Descubre con el régimen de zonas francas",
+        "Desarrollo de capacidades tecnológicas en sector agroindustrial"
+      ]
+    },
+    {
+      "nombre": "Transformación Institucional: De PROCOMER a Agencia de Desarrollo Productivo",
+      "propuesta": "Transformar PROCOMER en Agencia Nacional de Desarrollo Productivo para liderar la modernización y articulación productiva.",
+      "solucion": [
+        "Ampliar la Ventanilla Única de Inversión (VUI) para que todos los sectores tengan trámites 100% digitales y trazables",
+        "Asegurar que empresas del régimen definitivo reciban mismo acompañamiento integral que zonas francas",
+        "Articular clústeres territoriales y sectoriales"
+      ],
+      "ejecucion": [
+        "Reforma legal para transformación de PROCOMER",
+        "Desarrollo e implementación obligatoria de plataforma VUI ampliada",
+        "Capacitación y recursos para atender empresas fuera del régimen de zonas francas",
+        "Diseño e implementación de estrategias de clústeres"
+      ]
+    }
+  ]
+}

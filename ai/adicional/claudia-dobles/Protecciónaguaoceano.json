@@ -1,0 +1,71 @@
+{
+  "iniciativa": "Protección del Agua y Océanos",
+  "eje": "Acción Climática y Justicia Ambiental",
+  "propuestas": [
+    {
+      "propuesta": "Aprobar una nueva Ley de Gestión Integrada del Recurso Hídrico (GIRH) que reconozca el agua como derecho humano",
+      "solucion": "Reemplazar la obsoleta ley de aguas de 1942 con una legislación moderna que reconozca explícitamente el agua como un derecho humano fundamental y bien de dominio público, estableciendo un marco para la gestión sostenible y equitativa del recurso",
+      "ejecucion": "Presentar y aprobar la nueva Ley de Gestión Integrada del Recurso Hídrico, crear la Autoridad Nacional del Agua, establecer mecanismos de participación ciudadana en la gestión hídrica y diseñar un sistema tarifario progresivo que garantice acceso universal"
+    },
+    {
+      "propuesta": "Reorientar la planificación nacional bajo el enfoque de unidad de cuenca hidrográfica",
+      "solucion": "Adoptar la cuenca hidrográfica como unidad básica de planificación y gestión territorial, permitiendo una gobernanza participativa, integral y adaptativa que considere la interconexión de los ecosistemas y comunidades",
+      "ejecucion": "Crear los Consejos de Cuenca para las 34 cuencas hidrográficas del país, elaborar balances hídricos periódicos, implementar sistemas de monitoreo de acuíferos estratégicos y desarrollar planes de manejo integrado por cuenca con participación comunitaria"
+    },
+    {
+      "propuesta": "Blindar y fortalecer a las ASADAS frente a la captura privada",
+      "solucion": "Proteger y fortalecer a las Asociaciones Administradoras de Sistemas de Acueductos y Alcantarillados Sanitarios (ASADAS) como modelos comunitarios de gestión del agua, garantizando su autonomía, sostenibilidad financiera y apoyo técnico institucional",
+      "ejecucion": "Crear la Ley de Fortalecimiento de las ASADAS, establecer un fondo de apoyo técnico y financiero, implementar programas de capacitación para 5,000 administradores comunitarios y priorizar inversiones en infraestructura para zonas rurales, fronterizas y territorios indígenas"
+    },
+    {
+      "propuesta": "Crear un Viceministerio de Agua y Mares para fortalecer la rectoría estatal",
+      "solucion": "Establecer una instancia de alto nivel que coordine integralmente las políticas de gestión del agua dulce y la protección de los océanos, fortaleciendo la capacidad del Estado para ejercer su rectoría y soberanía sobre estos recursos estratégicos",
+      "ejecucion": "Presentar el proyecto de ley para crear el Viceministerio de Agua y Mares bajo el MINAE, designar un viceministro con equipo técnico especializado, desarrollar la Política Nacional Integrada de Agua y Océanos y fortalecer la vigilancia de la Zona Económica Exclusiva"
+    },
+    {
+      "propuesta": "Implementar un Plan Nacional de Ordenamiento Espacial Marino-Costero (OEMC)",
+      "solucion": "Regular de forma justa, científica y participativa los usos del mar costarricense mediante un plan que delimite zonas para conservación, pesca responsable, turismo sostenible y otras actividades, previniendo conflictos y asegurando la salud de los ecosistemas marinos",
+      "ejecucion": "Elaborar e implementar el Plan Nacional de OEMC con participación de científicos, comunidades costeras y sector privado, establecer zonas de exclusión para actividades destructivas, crear corredores biológicos marinos y desarrollar sistemas de monitoreo satelital"
+    },
+    {
+      "propuesta": "Promover la 'Innovación Azul' con pesca artesanal responsable, turismo comunitario y bioprospección marina",
+      "solucion": "Desarrollar una economía azul sostenible que valore los recursos marinos mediante actividades de bajo impacto, innovación tecnológica y reparto justo de beneficios, especialmente para las comunidades costeras",
+      "ejecucion": "Crear el Programa Nacional de Innovación Azul, establecer 50 proyectos de pesca artesanal responsable con valor agregado, desarrollar 30 iniciativas de turismo comunitario costero y crear un marco legal para la bioprospección marina con beneficios compartidos"
+    },
+    {
+      "propuesta": "Prohibir la pesca de arrastre y la exploración de hidrocarburos en el mar",
+      "solucion": "Eliminar definitivamente las prácticas pesqueras destructivas y cualquier posibilidad de explotación de combustibles fósiles en el territorio marino costarricense, protegiendo la biodiversidad marina y los medios de vida sostenibles",
+      "ejecucion": "Presentar y aprobar la ley de prohibición de pesca de arrastre, establecer un programa de reconversión para pescadores afectados, ratificar la moratoria permanente sobre exploración de hidrocarburos en el mar y fortalecer la vigilancia y control marítimo"
+    },
+    {
+      "propuesta": "Implementar el Acuerdo de Escazú para transparencia, participación y protección de defensores ambientales",
+      "solucion": "Garantizar el acceso a la información, participación pública y justicia en asuntos ambientales, con especial protección para las personas defensoras del ambiente que enfrentan riesgos por proteger el agua y los ecosistemas marinos",
+      "ejecucion": "Crear la Comisión Nacional de Implementación del Acuerdo de Escazú, establecer mecanismos de consulta vinculante para proyectos que afecten recursos hídricos y marinos, diseñar el Sistema de Protección para Defensores Ambientales y capacitar a funcionarios y jueces"
+    },
+    {
+      "propuesta": "Impulsar proyectos masivos de tratamiento de aguas residuales en zonas costeras y la GAM",
+      "solucion": "Atacar la principal fuente de contaminación de ríos y mares mediante la construcción y modernización de sistemas de tratamiento de aguas residuales en las principales ciudades costeras y del Gran Área Metropolitana",
+      "ejecucion": "Ejecutar proyectos de saneamiento en Jacó, Quepos y Limón, modernizar la planta de Los Tajos en la GAM, construir 50 plantas de tratamiento en comunidades costeras y establecer tarifas que cubran operación y mantenimiento sostenible"
+    },
+    {
+      "propuesta": "Priorizar inversión en infraestructura hídrica en comunidades vulnerables con estrés hídrico",
+      "solucion": "Enfocar recursos públicos en soluciones de abastecimiento, almacenamiento y uso eficiente del agua para comunidades que enfrentan escasez crónica, utilizando tecnologías apropiadas y gestión comunitaria",
+      "ejecucion": "Implementar el Programa Nacional de Seguridad Hídrica Comunitaria, construir 1,000 sistemas de cosecha de agua de lluvia, establecer 500 proyectos de reúso de aguas grises y desarrollar planes de gestión del riesgo por sequía en 50 cantones prioritarios"
+    },
+    {
+      "propuesta": "Ejecutar el PAACUME para abastecimiento de agua en la cuenca media del río Tempisque y comunidades costeras de Chorotega",
+      "solucion": "Garantizar el acceso sostenible al agua potable para poblaciones de la región Chorotega mediante la implementación del Proyecto de Abastecimiento de Agua para la Cuenca Media del Tempisque y Comunidades Costeras",
+      "ejecucion": "Finalizar los estudios de factibilidad del PAACUME, gestionar financiamiento internacional, construir la infraestructura de captación, conducción y distribución, y establecer un modelo de gestión comunitaria participativa"
+    },
+    {
+      "propuesta": "Restaurar manglares y proyectos de carbono azul en el Golfo de Nicoya (Pacífico Central)",
+      "solucion": "Recuperar los ecosistemas de manglar degradados en el Golfo de Nicoya y desarrollar proyectos de carbono azul que mitiguen el cambio climático mientras generan beneficios económicos para las comunidades costeras",
+      "ejecucion": "Implementar el Programa de Restauración de Manglares del Golfo de Nicoya (5,000 hectáreas), crear el primer proyecto de carbono azul certificado del país, establecer viveros comunitarios de mangle y capacitar a 500 personas en técnicas de restauración"
+    },
+    {
+      "propuesta": "Desarrollar un plan integral de saneamiento en Limón y protección de las tierras en las Barras (Huetar Caribe)",
+      "solucion": "Abordar integralmente los desafíos de saneamiento en la ciudad de Limón y proteger las tierras y humedales costeros de las Barras del Tortuguero y Parismina frente a la erosión y el cambio climático",
+      "ejecucion": "Elaborar e implementar el Plan Integral de Saneamiento de Limón, construir la planta de tratamiento de aguas residuales de la ciudad, ejecutar proyectos de protección costera en las Barras y reubicar asentamientos en zonas de riesgo"
+    }
+  ]
+}

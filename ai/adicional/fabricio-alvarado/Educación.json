@@ -1,0 +1,30 @@
+{
+  "eje": "Política Social",
+  "area": "Educación",
+  "resumen": {
+    "problema": "Existe un 'apagón educativo' con resultados deficientes en pruebas internacionales (como PISA), que no prepara a los estudiantes para la Cuarta Revolución Industrial. El sistema educativo actual no fomenta la autonomía económica y hay una brecha digital e infraestructural significativa en los centros educativos, además de una falta de enfoque en habilidades prácticas y valores familiares.",
+    "propuesta": "Transformar la educación en el motor principal de la movilidad social y el desarrollo nacional, pasando de un modelo asistencialista a uno centrado en la empleabilidad y la autonomía. Se busca una reforma integral que prepare a los ciudadanos para los desafíos tecnológicos y económicos del futuro, respetando los valores familiares y la soberanía nacional.",
+    "solucion": [
+      "Cambio de Paradigma hacia la Empleabilidad: Vincular la educación y la capacitación técnica con la integración al mercado laboral, usando subsidios estatales como instrumentos temporales condicionados a la formación.",
+      "Reforma Pedagógica con Modelo STEAM: Implementar el enfoque interdisciplinario de Ciencia, Tecnología, Ingeniería, Artes y Matemáticas para desarrollar pensamiento crítico y resolución de problemas.",
+      "Multilingüismo y Cultura Financiera: Enseñar al menos tres idiomas mediante programas con inteligencia artificial e integrar educación financiera desde preescolar.",
+      "Dignificación y Actualización Docente: Profesionalizar la carrera docente con contratación por idoneidad, capacitación continua virtual y reconocimiento social.",
+      "Infraestructura Educativa Moderna y Conectada: Crear un instituto especializado para gestionar infraestructura, cerrar la brecha digital con tecnología 5G y fibra óptica, y construir 'Unidades Pedagógicas de Alta Tecnología'.",
+      "Inclusión, Familia y Soberanía: Respetar la libertad de los padres para educar según sus valores, promover currículos regionales especializados, fortalecer la educación indígena y rechazar imposiciones ideológicas externas."
+    ],
+    "ejecucion": [
+      "Condicionar subsidios estatales a la participación en programas de formación y capacitación técnica.",
+      "Implementar el modelo STEAM en todos los niveles educativos del país.",
+      "Desarrollar programas asincrónicos de multilingüismo (tres idiomas) apoyados en inteligencia artificial.",
+      "Integrar la enseñanza de finanzas y emprendimiento responsable desde preescolar.",
+      "Establecer un sistema de contratación docente basado en idoneidad y habilidades blandas, despolitizando los nombramientos.",
+      "Implementar un programa de formación continua virtual para docentes sin sobrecargar su jornada laboral.",
+      "Crear un Instituto Especializado Desconcentrado en Infraestructura Educativa (sustituyendo a la DIE) que utilice tecnologías como BIM.",
+      "Asegurar acceso a tecnología 5G y fibra óptica en el 100% de los centros educativos.",
+      "Construir 'Unidades Pedagógicas de Alta Tecnología' en zonas estratégicas como polos de excelencia.",
+      "Respetar y garantizar el derecho de los padres a educar a sus hijos según sus valores y creencias.",
+      "Desarrollar currículos regionales especializados en turismo, agroindustria y bilingüismo para zonas costeras y rurales.",
+      "Fortalecer el subsistema de educación indígena respetando su cosmovisión y lenguas, y resolviendo brechas de acceso tecnológico."
+    ]
+  }
+}

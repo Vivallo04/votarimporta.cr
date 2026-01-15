@@ -1,0 +1,188 @@
+{
+  "iniciativa": "Modernización del Expediente Digital Único en Salud (EDUS)",
+  "ubicacion_estrategica": "Eje 3: Agenda Social y Desarrollo Sostenible - Pilar de Transformación Digital en Salud. Acción prioritaria de los primeros 100 días.",
+  "vision": "Convertir el EDUS en la plataforma nacional de salud digital que interconecte a todos los actores del sistema, transformando datos en inteligencia accionable para mejorar la calidad clínica, la experiencia del paciente y la sostenibilidad financiera del sistema sanitario.",
+  "diagnostico_problema": {
+    "fragmentacion_digital": {
+      "sistemas_inconexos": "Más de 25 sistemas operando en silos entre CCSS, Ministerio de Salud y proveedores privados",
+      "consecuencias_clinicas": "70% de los pacientes repiten exámenes/historial al cambiar de proveedor; 15% de eventos adversos vinculados a información incompleta"
+    },
+    "persistencia_papel": {
+      "procesos_manuales": "40% de procesos clínicos/administrativos aún en papel",
+      "impacto": [
+        "30% del tiempo clínico dedicado a tareas administrativas manuales",
+        "Demora promedio de 45 días en referencias por procesos manuales",
+        "Costos administrativos equivalentes al 25% del gasto total en salud"
+      ]
+    },
+    "vulnerabilidades": {
+      "seguridad": "60% de instituciones sin control de acceso robusto ni auditoría de consultas",
+      "ciberresiliencia": "Infraestructura fragmentada con múltiples puntos de entrada vulnerables a ransomware"
+    }
+  },
+  "arquitectura_tecnica": {
+    "modelo": "Federado, basado en estándares abiertos y cloud híbrida soberana",
+    "componentes_core": {
+      "gateway_nacional_interoperabilidad": "Nodo central (GNIS) para traducción y enrutamiento entre sistemas",
+      "estandar_obligatorio": "FHIR (Fast Healthcare Interoperability Resources) para todas las nuevas integraciones",
+      "indice_maestro_pacientes": "Identificador único nacional para cada paciente (MPI)",
+      "infraestructura": "Cloud híbrida: datos sensibles en data centers nacionales con cifrado E2E, capacidad elástica en cloud público"
+    }
+  },
+  "componentes_modernizacion": [
+    {
+      "componente": "Interoperabilidad Total y Eliminación del Papel",
+      "propuesta": "Conectar todos los sistemas existentes en una red nacional de datos, eliminando duplicidades y procesos físicos.",
+      "solucion": {
+        "gateway_nacional": "GNIS con servicios de MPI, consentimiento digital y broker de seguridad",
+        "modulos_nucleares_integrados": [
+          {
+            "modulo": "Gestión Unificada de Agendas (GUA)",
+            "funcion": "Sistema inteligente de citas con visión nacional de disponibilidad, permite auto-programación desde EBAIS"
+          },
+          {
+            "modulo": "Sistema Electrónico de Referencia/Contrarreferencia (SERC)",
+            "funcion": "Flujo digital completo con trazabilidad, alertas y priorización clínica"
+          },
+          {
+            "modulo": "Repositorio Nacional de Resultados (RNR)",
+            "funcion": "Almacena resultados de lab, imágenes (PACS) y patología; integra IA para lectura asistida"
+          }
+        ]
+      },
+      "ejecucion_100_dias": [
+        "Decreto Ejecutivo de Interoperabilidad Obligatoria (estándar FHIR + GNIS)",
+        "Convocatoria a 'Sprinthones' de integración para desarrollar conectores",
+        "Plan 'Papel Cero' en 3 hospitales piloto (San Juan de Dios, México, Niños) con métricas públicas"
+      ]
+    },
+    {
+      "componente": "Tecnologías 4.0 e Inteligencia Artificial",
+      "propuesta": "Incorporar tecnologías avanzadas para seguridad, predictibilidad y personalización.",
+      "solucion": {
+        "identidad_digital_biometrica": "Huella dactilar y reconocimiento facial como identificación primaria; Tarjeta Sanitaria Digital en app 'Mi Salud CR'",
+        "plataforma_analitica_predictiva": {
+          "tablero_control_nacional": "Indicadores en tiempo real: ocupación, esperas, brotes, consumo",
+          "modelos_predictivos": [
+            "Predicción de picos de demanda en urgencias",
+            "Identificación de pacientes de alto riesgo de reingreso",
+            "Optimización de distribución de insumos y medicamentos"
+          ],
+          "sistema_apoyo_decision_clinica": "Sugiere diagnósticos, alerta interacciones, recomienda guías"
+        }
+      },
+      "ejecucion": [
+        "Creación del Centro de Excelencia en Salud Digital e IA (CCSS-Universidades)",
+        "Concurso Nacional de Algoritmos para modelos de predicción de enfermedades crónicas"
+      ]
+    },
+    {
+      "componente": "Reducción de Listas de Espera vía Optimización Digital",
+      "propuesta": "Usar datos integrados para identificar cuellos de botella y agilizar el camino del paciente.",
+      "solucion": {
+        "motor_optimizacion_recursos": "Analiza disponibilidad nacional de quirófanos, equipos y especialistas; reasigna cupos ociosos y genera listas de espera dinámicas nacionales",
+        "flujo_digital_sad": "Solicitud electrónica unificada, agendamiento automático en recurso con menor espera, resultados inmediatos en EDUS con alertas para casos críticos"
+      },
+      "ejecucion": [
+        "Implementación en fases: comenzar con 5 cirugías y 3 estudios de imagen de mayor demanda",
+        "Creación de Unidad de Gestión de Listas de Espera para monitoreo y excepciones"
+      ]
+    },
+    {
+      "componente": "Habilitación de Telemedicina y Descentralización",
+      "propuesta": "Usar EDUS como base para servicios de salud a distancia, llevando especialidad a la periferia.",
+      "solucion": {
+        "plataforma_nacional_telesalud": {
+          "videoconsulta_nativa": "Integrada al expediente, acceso completo al historial durante consulta",
+          "teleinterconsulta": "Médico de primer nivel consulta en tiempo real con especialista compartiendo imágenes/datos",
+          "telelectura_centralizada": "Estudios de imagen de hospitales regionales leídos por radiólogos en centros de excelencia"
+        },
+        "kit_telemedicina_ebais": "Maletín portátil con dispositivos conectados (estetoscopio digital, ECG, etc.) que capturan datos directo al EDUS"
+      },
+      "ejecucion": [
+        "Acuerdo con ICE/proveedores para garantizar banda ancha en todos los EBAIS/centros de salud",
+        "Programa de capacitación 'E-salud para Todos' para 5,000 profesionales"
+      ]
+    },
+    {
+      "componente": "Eficiencia Financiera y Transparencia",
+      "propuesta": "Aprovechar la integridad de datos para optimizar gasto, combatir fraude y realizar compras inteligentes.",
+      "solucion": {
+        "pago_por_valor": "EDUS permite medir resultados en salud, facilitando transición de pago por servicio a pago por valor",
+        "plataforma_analisis_compras_logistica": "Visibilidad del consumo real en toda la red, identifica variaciones y oportunidades de compra consolidada; predictivo de demanda",
+        "deteccion_automatizada_fraude": "Algoritmos analizan patrones de prescripción/facturación para detectar anomalías"
+      },
+      "ejecucion": [
+        "Creación de la Oficina de Datos y Analytics de la CCSS",
+        "Lanzamiento del Portal de Transparencia de Compras en Salud (precios, proveedores, volúmenes)"
+      ]
+    }
+  ],
+  "gobernanza_implementacion": {
+    "estructura": {
+      "comite_director_edus": "Presidido por Presidente de la República, con Ministros de Salud, Hacienda, Ciencia y Presidente Ejecutivo CCSS",
+      "unidad_ejecutora_edus": "Equipo ágil con autonomía presupuestaria y técnica, reportando al Comité Director",
+      "consejo_tecnico_estandarizacion": "Expertos nacionales e internacionales en salud digital, estándares y ciberseguridad"
+    },
+    "fases": {
+      "fase_0_preparacion": "Días 1-30: Decreto, estructuración equipo, contratación cloud, diseño APIs",
+      "fase_1_interoperabilidad": "Días 31-100: Lanzamiento GNIS, sprinthones, pilotos papel cero",
+      "fase_2_expansion": "Meses 4-12: Integración de 50% hospitales y EBAIS, lanzamiento plataforma telesalud",
+      "fase_3_madurez": "Años 2-3: 100% integración, IA predictiva operativa, modelo pago por valor"
+    }
+  },
+  "ciberseguridad_proteccion_datos": {
+    "principios": "Privacy by Design, Security by Default",
+    "medidas_clave": [
+      "Cifrado de datos en reposo y tránsito (estándar AES-256)",
+      "Autenticación multifactor obligatoria para todo personal clínico",
+      "Blockchain para trazabilidad inmutable de accesos a expedientes (consentimientos, consultas)",
+      "Certificación ISO 27001 para toda la infraestructura del EDUS",
+      "Pruebas de penetración y auditorías de seguridad trimestrales por firmas externas"
+    ],
+    "marco_legal": "Adecuación a Ley de Protección de Datos Personales y regulación específica para datos de salud"
+  },
+  "metricas_exito": [
+    {
+      "indicador": "Tasa de Interoperabilidad (sistemas conectados al GNIS)",
+      "linea_base": "0%",
+      "meta_100_dias": "30% (sistemas de 3 hospitales piloto + CCSS central)",
+      "meta_ano_1": "70%",
+      "meta_ano_3": "100% de instituciones afiliadas a CCSS"
+    },
+    {
+      "indicador": "Reducción de tiempo administrativo por profesional de salud",
+      "linea_base": "30% del tiempo",
+      "meta_ano_1": "20%",
+      "meta_ano_3": "10%"
+    },
+    {
+      "indicador": "Tiempo promedio de referencia a especialidad",
+      "linea_base": "45 días",
+      "meta_ano_1": "25 días",
+      "meta_ano_3": "7 días"
+    },
+    {
+      "indicador": "Porcentaje de consultas de primer nivel resueltas por telemedicina",
+      "linea_base": "<1%",
+      "meta_ano_1": "10%",
+      "meta_ano_3": "30%"
+    },
+    {
+      "indicador": "Reducción de repetición innecesaria de exámenes",
+      "linea_base": "70% de pacientes",
+      "meta_ano_1": "50%",
+      "meta_ano_3": "20%"
+    }
+  ],
+  "inversion_y_retorno": {
+    "inversion_estimada": "$80-100 millones en 3 años (infraestructura, desarrollo, capacitación)",
+    "fuentes_financiamiento": ["Préstamo BID/Banco Mundial", "Fondo de Modernización Acelerada de CCSS", "Alianza Público-Privada para componentes específicos"],
+    "retorno_esperado_ano_5": {
+      "eficiencias_administrativas": "Ahorro de $50 millones anuales",
+      "reduccion_costos_por_mejor_gestion_cronicos": "Ahorro de $30 millones anuales",
+      "reduccion_gasto_por_evitacion_de_errores_medicos": "Ahorro de $20 millones anuales",
+      "total": "ROI positivo a partir del año 4"
+    }
+  }
+}

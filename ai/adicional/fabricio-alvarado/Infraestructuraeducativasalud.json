@@ -1,0 +1,25 @@
+{
+  "eje": "Infraestructura",
+  "area": "Infraestructura Educativa y de Salud",
+  "resumen": {
+    "problema": "Más del 60% de los centros educativos públicos tienen problemas estructurales, de mantenimiento o carecen de equipamiento tecnológico, debido a una gestión centralizada y lenta. En salud, al menos el 20% de los hospitales presentan fallas estructurales y los servicios están crónicamente saturados. Esta infraestructura deficiente limita el desarrollo humano y el acceso a servicios básicos, especialmente fuera de la Gran Área Metropolitana.",
+    "propuesta": "Transformar la infraestructura educativa y de salud mediante una gestión descentralizada y modernizada, integrada en una estrategia nacional de infraestructura y movilidad. El objetivo es construir un Estado estratégico que utilice alianzas público-privadas, tecnología de punta y un nuevo modelo de financiamiento (Fodenal) para proveer instalaciones modernas, accesibles y de alta calidad en todo el territorio.",
+    "solucion": [
+      "Infraestructura Educativa Moderna: Descentralizar la gestión, crear un instituto especializado que use inteligencia artificial y modelos digitales (BIM) para agilizar obras, y construir escuelas con diseño STEAM y tecnología de punta.",
+      "Infraestructura Sanitaria Eficiente y Regional: Modernizar hospitales mediante Alianzas Público-Privadas (APP), construir centros de especialidad (como oncológicos) en regiones periféricas, fortalecer la red primaria (EBAIS/CAIS) e implementar sistemas de salud digital (telemedicina, expedientes únicos).",
+      "Conectividad y Acceso Universal: Garantizar que todos los centros educativos y de salud tengan acceso a internet de alta velocidad (5G y fibra óptica) y mejorar la movilidad con proyectos como TransGAM para facilitar el acceso de la población.",
+      "Financiamiento Innovador: Utilizar los recursos del Fondo de Desarrollo Nacional (Fodenal) —alimentado por megaobras y recursos naturales— para financiar estas infraestructuras sin aumentar la deuda pública, liberando presupuesto para su mantenimiento y operación."
+    ],
+    "ejecucion": [
+      "Crear un Instituto Especializado Desconcentrado en Infraestructura Educativa que utilice IA y sistemas BIM.",
+      "Construir 'Unidades Pedagógicas de Alta Tecnología' con modelo STEAM en zonas estratégicas del país.",
+      "Asegurar que el 100% de los centros educativos tengan conectividad con tecnología 5G y fibra óptica.",
+      "Modernizar hospitales existentes mediante Alianzas Público-Privadas (APP) manteniendo la rectoría estatal.",
+      "Construir centros oncológicos regionales en Puntarenas, Cartago, Limón y Golfito.",
+      "Fortalecer la red de EBAIS y CAIS en zonas rurales y fronterizas.",
+      "Implementar sistemas de telemedicina y expediente digital unificado en todo el sistema de salud.",
+      "Financiar estos proyectos con recursos del Fondo de Desarrollo Nacional (Fodenal), provenientes de utilidades de megaobras (como el Canal Verde Interoceánico) y la explotación de recursos naturales.",
+      "Integrar la ubicación de nuevos centros educativos y de salud con proyectos de movilidad (ej. TransGAM, aeropuertos) para mejorar el acceso."
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "componente": "Transformación del Sistema de Salud",
+  "marco_estrategico": "Eje 3: Agenda Social y Desarrollo Sostenible - Pilar de Equidad y Capital Humano",
+  "vision": "Construir un ecosistema de salud proactivo, preventivo y digital que garantice el bienestar integral como derecho fundamental y motor del desarrollo humano, desplazando el centro de gravedad del hospital a la comunidad y de la enfermedad a la salud.",
+  "diagnostico_profundo": {
+    "crisis_sostenibilidad_ccss": {
+      "saturacion": "Ocupación hospitalaria >100%, listas de espera >100,000 procedimientos",
+      "deuda_estado": "~8% del PIB (₡4 billones), limita inversión",
+      "infraestructura": "70% capacidad en GAM, déficit de 2,000 camas, regiones periféricas precarias"
+    },
+    "epidemia_salud_mental": {
+      "incremento_atenciones": "44% en emergencias (2020-2024)",
+      "impacto_economico": "Pérdidas ~3% del PIB",
+      "brecha_atencion": "Solo 2% del presupuesto en salud mental, 1 psiquiatra/30,000 hab."
+    },
+    "fragmentacion_digital": "15+ sistemas de información inconexos, expedientes en silos",
+    "modelo_curativo_obsoleto": "70% del gasto en enfermedades crónicas en etapas avanzadas"
+  },
+  "paradigma_estrategico": {
+    "nombre": "Salud en Todas las Políticas y Redes Integradas de Salud (RIS)",
+    "principios": [
+      "Evaluación de Impacto en Salud obligatoria para leyes y proyectos grandes",
+      "Desplazamiento del centro al primer nivel de atención (EBAIS)",
+      "Enfoque en determinantes sociales (vivienda, ingresos, educación)"
+    ],
+    "niveles_ris": {
+      "nivel_1": "EBAIS 2.0 - Puerta de entrada y gestión de salud poblacional",
+      "nivel_2": "Centros de Especialidades Integradas (CEI) - Resolver 80% casos sin hospitalización",
+      "nivel_3": "Hospitales de agudos y referencia - Solo alta complejidad"
+    }
+  },
+  "componentes_transformacion": [
+    {
+      "nombre": "Rescate Financiero y Modernización de la CCSS",
+      "propuesta": "Restaurar sostenibilidad financiera y modernizar infraestructura mediante renegociación de deuda, reforma de compras y APP.",
+      "solucion": {
+        "acuerdo_saneamiento": "Condonación 50% deuda estatal a cambio de Fondo de Modernización Acelerada (FMA)",
+        "nuevos_financiamientos": ["Impuesto bebidas azucaradas/tabaco", "Bonos de Impacto en Salud"],
+        "plan_reduccion_listas_espera": {
+          "nombre": "Operación 'Salud sin Espera'",
+          "acciones": [
+            "5 Centros de Cirugía Ambulatoria de Alto Rendimiento (16hrs/día, 6d/semana)",
+            "Compra estratégica a privados basada en costo-efectividad",
+            "Meta: Reducir 40% listas quirúrgicas en 24 meses"
+          ]
+        },
+        "expansion_hospitalaria": {
+          "modelo": "APP para hospitales modulares inteligentes",
+          "proyectos": ["Hospital Cartago (especialidades)", "Hospital Limón (trauma/tropicales)", "Hospital Zona Sur (materno-infantil/crónicos)", "Hospital Geriátrico Nacional"]
+        }
+      },
+      "ejecucion": {
+        "instrumento_habilitante": "Decreto de Emergencia Sanitaria (primeros 30 días)",
+        "comision_negociadora_deuda": "MinHacienda, Pres. CCSS, 2 diputados, Contraloría - Plazo 6 meses",
+        "unidad_ejecutora": "UEPI en CCSS para gestionar proyectos de APP"
+      }
+    },
+    {
+      "nombre": "Revolución Preventiva y Atención Primaria Fortalecida",
+      "propuesta": "Desplazar el centro del sistema a la comunidad mediante EBAIS inteligentes y programas poblacionales.",
+      "solucion": {
+        "ebais_2_0": {
+          "tecnologia": ["Tablets con software clínico", "Maletines telemedicina portátiles", "Puntos conexión satelital"],
+          "nuevos_perfiles": ["Facilitadores de salud comunitaria", "Nutricionistas/fisioterapeutas por equipo"],
+          "consultorios_moviles": "50 unidades 'Salud sobre Ruedas'"
+        },
+        "programas_poblacionales": {
+          "escuelas_saludables": "Intervención curricular obligatoria - Meta: reducir obesidad infantil 25% en 5 años",
+          "empresas_promotoras": "Certificación con beneficios tributarios",
+          "rutas_ciclo_vida": ["Ruta de la Mujer", "Ruta del Adulto Mayor"]
+        }
+      },
+      "ejecucion": {
+        "plan_nacional": "Plan Nacional de Atención Primaria (PNAP) con presupuesto propio",
+        "alianza_academia": "Pasantías obligatorias de estudiantes de salud en EBAIS 2.0"
+      }
+    },
+    {
+      "nombre": "Salud Mental como Prioridad Nacional Transversal",
+      "propuesta": "Abordar crisis con enfoque preventivo, comunitario y de desestigmatización mediante nueva ley y estrategia integral.",
+      "solucion": {
+        "marco_legal": "Ley de Salud Mental Integral crea Viceministerio y meta de inversión del 8% en 5 años",
+        "estrategia_bienestar_emocional": {
+          "educacion": "Educación emocional obligatoria desde preescolar",
+          "centros_comunitarios": "Red de Centros de Escucha y Primer Apoyo (CEPA) por municipio",
+          "linea_crisis": "Número único 24/7 (ej. 113) con red de camas de corta estancia"
+        },
+        "fortalecimiento_red": ["Unidades de Salud Mental Comunitaria (USMC)", "Hospitales de Día y Viviendas Asistidas"]
+      },
+      "ejecucion": {
+        "organo_rector": "Consejo Nacional de Salud Mental multisectorial",
+        "financiamiento": "Fondo Nacional de Salud Mental con impuestos específicos"
+      }
+    },
+    {
+      "nombre": "Transformación Digital: Sistema Nacional de Salud Digital (SNSD)",
+      "propuesta": "Crear ecosistema digital unificado para calidad clínica, eficiencia e investigación.",
+      "solucion": {
+        "expediente_digital_unico": {
+          "plataforma": "EDUS con interoperabilidad FHIR obligatoria",
+          "app_ciudadana": "'Mi Salud CR' para acceso a historia clínica personal",
+          "analitica_predictiva": "IA para identificación proactiva de poblaciones en riesgo"
+        },
+        "telesalud": {
+          "red_nacional": "Conecta EBAIS con especialistas",
+          "telemonitoreo": "Dispositivos domiciliarios para pacientes crónicos"
+        },
+        "centro_datos": "Centro Nacional de Datos de Salud (CNDS) para investigación"
+      },
+      "ejecucion": {
+        "agencia_especializada": "Agencia de Salud Digital (ASD) autónoma",
+        "hoja_ruta": "Plan Maestro de Salud Digital 2026-2030 con hitos trimestrales"
+      }
+    },
+    {
+      "nombre": "Interseccionalidad: Salud en el Tejido Social",
+      "propuesta": "Integrar salud en políticas sociales mediante articulación institucional y enfoque 'Una Sola Salud'.",
+      "solucion": {
+        "integracion_suc": {
+          "equipos_salud": "Enfermeras/terapistas en centros de cuido",
+          "capacitacion_cuidadores": "En detección de signos de alarma"
+        },
+        "triangulo_solidaridad_salud": "Fondo concursable para EBAIS en 30 cantones con mayor rezago",
+        "una_sola_salud": {
+          "comision_nacional": "Coordina Salud, SENASA, MINAE, universidades",
+          "programas": "Vigilancia zoonosis, resistencia antimicrobiana, tenencia responsable"
+        }
+      },
+      "ejecucion": {
+        "protocolos_articulacion": "Obligatorios entre CCSS, IMAS, MEP, MIVAH, MIDEPLAN",
+        "presupuesto_resultados": "Parte del presupuesto institucional condicionado a metas de salud conjuntas"
+      }
+    }
+  ],
+  "metricas_exito_principales": [
+    {
+      "indicador": "Tiempo promedio de espera para cirugía electiva",
+      "linea_base": ">18 meses",
+      "meta_ano_2": "<9 meses",
+      "meta_ano_5": "<3 meses"
+    },
+    {
+      "indicador": "Cobertura efectiva de atención primaria (EBAIS 2.0)",
+      "linea_base": "85% (con calidad variable)",
+      "meta_ano_2": "95% con estándares completos",
+      "meta_ano_5": "100%"
+    },
+    {
+      "indicador": "Prevalencia de obesidad en población escolar (7-12 años)",
+      "linea_base": "34%",
+      "meta_ano_2": "30%",
+      "meta_ano_5": "25%"
+    },
+    {
+      "indicador": "Mortalidad prematura por enfermedades no transmisibles (30-70 años)",
+      "linea_base": "18%",
+      "meta_ano_2": "16%",
+      "meta_ano_5": "<15%"
+    },
+    {
+      "indicador": "Satisfacción usuaria con servicios de salud",
+      "linea_base": "65%",
+      "meta_ano_2": "75%",
+      "meta_ano_5": "85%"
+    }
+  ],
+  "gobernanza_implementacion": {
+    "consejo_nacional_salud": "Máximo órgano rector, presidido por Presidente de la República",
+    "comite_ejecutivo_transformacion": "Ministros de Salud, Hacienda, Planificación, Presidente CCSS, Director ASD",
+    "sistema_monitoreo_evaluacion": "Plataforma en tiempo real con indicadores públicos, auditorías semestrales internacionales",
+    "participacion_ciudadana": "Observatorio de Salud Ciudadana con poder de veeduría y propuesta"
+  }
+}

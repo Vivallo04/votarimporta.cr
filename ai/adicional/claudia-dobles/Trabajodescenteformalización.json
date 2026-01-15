@@ -1,0 +1,66 @@
+{
+"iniciativa": "Justicia Trabajo Descente y Formalización",
+"eje": "Economía al servicio de la gente",
+"propuestas": [
+{
+"propuesta": "Establecer una política de salarios crecientes para garantizar una vida digna",
+"solucion": "Implementar un salario mínimo que cubra integralmente las necesidades básicas de las familias, incluyendo no solo la canasta alimentaria sino también vivienda, transporte, educación, ocio y recreación, asegurando que el trabajo sea una ruta efectiva hacia la movilidad social",
+"ejecucion": "Crear una comisión técnica independiente para calcular periódicamente el costo de una vida digna, ajustar los salarios mínimos por sector económico con base en este cálculo, implementar programas de apoyo transitorio para micro y pequeñas empresas, y establecer un sistema de inspección laboral fortalecido para verificar el cumplimiento"
+},
+{
+"propuesta": "Modernizar la inspección laboral con perspectiva de género para garantizar derechos laborales",
+"solucion": "Fortalecer la capacidad de supervisión y sanción del Ministerio de Trabajo para asegurar condiciones laborales justas y seguras, con especial atención a la protección de los derechos de las mujeres y otros grupos vulnerables en el entorno laboral",
+"ejecucion": "Aumentar en un 50% el personal inspector del MTSS, implementar el Sistema Digital de Denuncias Laborales, capacitar a 300 inspectores en perspectiva de género y derechos laborales fundamentales, y establecer alianzas con organizaciones sindicales y empresariales para promoción de buenas prácticas"
+},
+{
+"propuesta": "Implementar una Ley Integral de Salud Mental en el Trabajo",
+"solucion": "Reconocer el bienestar psicológico como un derecho laboral esencial y establecer medidas concretas para prevenir riesgos psicosociales, promover el equilibrio vida-trabajo y crear entornos laborales saludables que aumenten tanto el bienestar como la productividad",
+"ejecucion": "Elaborar y presentar el proyecto de Ley Integral de Salud Mental Laboral, crear el Programa Nacional de Entornos Laborales Saludables, capacitar a 5,000 empleadores en gestión del bienestar psicológico, establecer protocolos obligatorios de prevención del estrés crónico, y crear una red de atención psicológica especializada para trabajadores"
+},
+{
+"propuesta": "Regular nuevas formas de empleo (plataformas digitales y trabajo remoto) con protección social",
+"solucion": "Adaptar el marco normativo laboral para reconocer y proteger los derechos de las personas que trabajan mediante plataformas digitales o en modalidad remota, garantizando su acceso a la seguridad social y condiciones laborales dignas",
+"ejecucion": "Presentar reformas al Código de Trabajo para regular el trabajo digital y remoto, crear el Registro Nacional de Trabajadores de Plataformas Digitales, establecer mecanismos de aseguramiento obligatorio diferenciado, y desarrollar estándares mínimos de condiciones laborales para estas modalidades"
+},
+{
+"propuesta": "Crear incentivos financieros y de seguridad social para la formalización",
+"solucion": "Diseñar esquemas de aseguramiento diferenciados y reducción de contribuciones para facilitar el ingreso a la formalidad de trabajadores independientes de bajos ingresos y microempresas, eliminando barreras económicas a la formalización",
+"ejecucion": "Implementar el Programa de Formalización Progresiva con reducción del 50% en cargas sociales durante los primeros 2 años, crear el Seguro Social Diferenciado para trabajadores independientes de bajos ingresos, desarrollar plataformas digitales de afiliación simplificada, y ofrecer asesoría gratuita para la regularización"
+},
+{
+"propuesta": "Implementar la Ventanilla Única de Inversiones (VUI) digital para simplificación de trámites",
+"solucion": "Crear una plataforma digital integral que unifique todos los trámites requeridos para la formalización y operación de MIPYMES, aplicando el principio de silencio positivo para eliminar barreras burocráticas y reducir tiempos de espera",
+"ejecucion": "Desarrollar e implementar la plataforma VUI con expediente único digital, integrar 50 trámites de 15 instituciones diferentes, establecer el mecanismo de silencio positivo con plazos máximos de respuesta, capacitar a 10,000 emprendedores en su uso, y crear centros de atención presencial complementarios"
+},
+{
+"propuesta": "Fortalecer la intermediación sociolaboral de la Agencia Nacional de Empleo",
+"solucion": "Transformar la Agencia Nacional de Empleo en un puente efectivo entre poblaciones en situación de exclusión y el mercado laboral formal, mediante acompañamiento personalizado, capacitación en habilidades blandas y seguimiento post-colocación",
+"ejecucion": "Expandir la red de la Agencia Nacional de Empleo a 50 oficinas regionales, implementar el Sistema de Intermediación Personalizada con 500 consejeros laborales, desarrollar programas de capacitación en habilidades blandas para 20,000 personas, y establecer convenios con 2,000 empresas para colocaciones prioritarias"
+},
+{
+"propuesta": "Promover la autonomía económica de las mujeres mediante formalización e inserción en sectores innovadores",
+"solucion": "Facilitar el emprendimiento formal femenino y la inserción laboral de mujeres en sectores de alta innovación (STEAM) y economía verde, combinando apoyo financiero, capacitación especializada y mentoría",
+"ejecucion": "Fortalecer el programa FOMUJERES con $50 millones adicionales, crear el Programa Mujeres en STEAM con 5,000 becas técnicas, establecer convenios con 500 empresas para contratación preferencial de mujeres, implementar incubadoras de emprendimiento femenino en 25 comunidades, y ofrecer mentoría especializada"
+},
+{
+"propuesta": "Relanzar programas de primer empleo para jóvenes con subsidios temporales a cargas sociales",
+"solucion": "Facilitar la transición de jóvenes al mercado formal mediante incentivos económicos a empresas que los contraten, combinados con capacitación técnica y acompañamiento durante el período de adaptación laboral",
+"ejecucion": "Implementar el programa 'Mi Primer Empleo Joven' con subsidios del 50% en cargas sociales durante el primer año, establecer convenios con 1,000 empresas participantes, crear programas de capacitación técnica pre-empleo para 10,000 jóvenes, y ofrecer mentoría laboral durante los primeros 6 meses de trabajo"
+},
+{
+"propuesta": "Formalizar trabajadores históricamente invisibilizados (cocineras de comedores escolares, etc.)",
+"solucion": "Reconocer y regularizar la situación laboral de grupos que han desempeñado funciones esenciales sin acceso a derechos laborales ni protección social, garantizándoles estabilidad y acceso a pensiones dignas",
+"ejecucion": "Realizar un censo nacional de trabajadores invisibilizados, diseñar rutas específicas de formalización para cada grupo, establecer convenios interinstitucionales para su regularización, crear programas de capacitación y reconversión laboral, y garantizar su afiliación al sistema de pensiones"
+},
+{
+"propuesta": "Fortalecer el Sistema Nacional de Educación y Formación Técnica Profesional (EFTP)",
+"solucion": "Alinear la oferta educativa técnica con las demandas del mercado laboral actual y futuro, enfocándose en sectores estratégicos como biotecnología, economía digital y energías renovables, para aumentar la empleabilidad de la población",
+"ejecucion": "Actualizar el 70% de la malla curricular del INA y colegios técnicos, crear 50 nuevos programas de formación en áreas de alta demanda, establecer alianzas con 200 empresas para pasantías y práctica profesional, implementar el sistema de certificación de competencias laborales, y desarrollar plataformas de educación virtual especializada"
+},
+{
+"propuesta": "Modernizar el INA para responder a las demandas productivas del siglo XXI",
+"solucion": "Transformar el Instituto Nacional de Aprendizaje en una institución de vanguardia que forme el talento humano requerido por los sectores productivos emergentes, mediante infraestructura tecnológica actualizada y alianzas estratégicas con el sector privado",
+"ejecucion": "Invertir $100 millones en modernización de infraestructura del INA, crear 20 centros de excelencia tecnológica regionales, establecer el Consejo Nacional de Vinculación INA-Empresa, implementar programas de formación dual con 500 empresas, y desarrollar laboratorios de simulación para industrias 4.0"
+}
+]
+}

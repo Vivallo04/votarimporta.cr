@@ -1,0 +1,226 @@
+{
+  "iniciativa": "Universalización del Bilingüismo como Estrategia de Equidad y Competitividad",
+  "marco_estrategico": "Eje 3: Agenda Social y Desarrollo Sostenible - Pilar de Educación para la Movilidad Social",
+  "vision": "Convertir a Costa Rica en una nación bilingüe donde el dominio del inglés sea un derecho educativo garantizado y una ventaja competitiva que permita a todos los ciudadanos acceder a oportunidades de empleo de calidad, educación superior y participación en la economía global.",
+  "diagnostico_profundo": {
+    "crisis_empleabilidad": {
+      "barrera_principal": "69.7% de jóvenes identifica no manejo de inglés como principal obstáculo laboral",
+      "exclusion_anual": "Más de 150,000 jóvenes excluidos de empleos de alto valor por falta de inglés"
+    },
+    "resultados_educativos": {
+      "nivel_b1_secundaria_publica": "Solo 12% de graduados alcanza nivel B1 o superior",
+      "brecha_publico_privado": "65% en sistema privado vs 12% en público",
+      "posicion_internacional": "Puestos medios-bajos en índice EF EPI para Latinoamérica"
+    },
+    "desigualdad_territorial": {
+      "oferta_gam": "40% de centros con programas reforzados",
+      "oferta_regiones_rezagadas": "15% en Chorotega, Brunca, Huetar Norte",
+      "brecha_docente": "5 veces menos docentes certificados en zonas rurales"
+    },
+    "impacto_economico": {
+      "servicios_globales": "30% de posiciones no cubiertas por falta de inglés",
+      "inversion_empresarial": "$50 millones anuales en capacitación de inglés",
+      "sector_turistico": "Solo 25% con personal bilingüe competente"
+    },
+    "fallas_estructurales": {
+      "deficit_docente": "2,000 profesores de inglés certificados faltantes",
+      "certificacion_actual": "35% en primaria, 60% en secundaria con certificación internacional",
+      "exposicion_insuficiente": "2-3 horas semanales promedio, metodología obsoleta"
+    }
+  },
+  "paradigma_transformador": {
+    "enfoque": "De modelo elitista y fragmentado a sistema inclusivo de desarrollo de competencias plurilingües",
+    "dimensiones": [
+      "Derecho educativo fundamental desde primera infancia",
+      "Herramienta de equidad para nivelar oportunidades",
+      "Competencia económica estratégica vinculada a sectores productivos",
+      "Puente cultural para ciudadanía global"
+    ],
+    "enfoque_multilingue": {
+      "prioridad_nacional": "Inglés como lengua franca para ciencia, tecnología y negocios",
+      "idiomas_contextuales": ["Francés en zonas turísticas europeas", "Mandarín en regiones con comercio asiático", "Portugués en frontera sur", "Lenguas indígenas en territorios originarios"],
+      "base_fortalecida": "Español como fundamento para aprendizaje de segundas lenguas"
+    }
+  },
+  "componentes_estrategicos": [
+    {
+      "componente": "Transformación Curricular e Inicio Temprano",
+      "propuesta": "Implementar currículo nacional bilingüe articulado desde preescolar con metodologías modernas y exposición intensiva.",
+      "solucion": {
+        "curriculo_nacional": "CNLE con secuencia de 12 años, metodología CLIL, estándares MCER (A1 en 3°, A2 en 6°, B1 en 9°, B2 en 11°)",
+        "inmersion_temprana": {
+          "preescolar_bilingue": "50% exposición en jardines públicos",
+          "escuelas_primarias_piloto": "100 escuelas con 30% instrucción en inglés desde primer grado",
+          "plataforma_digital": "'Aprendo Inglés CR' con contenidos adaptativos"
+        },
+        "jornada_extendida": {
+          "clubes_actividades": "Robótica, debate, teatro en inglés",
+          "intercambios_virtuales": "Conexión semanal con aulas en países anglófonos"
+        }
+      },
+      "ejecucion": [
+        "Reforma curricular expedita en 18 meses con expertos internacionales",
+        "Dotación de tablets con software especializado para todos primer grado desde 2027",
+        "Evaluación diagnóstica nacional anual de competencias lingüísticas"
+      ]
+    },
+    {
+      "componente": "Revolución en Formación y Certificación Docente",
+      "propuesta": "Crear sistema masivo de desarrollo profesional para garantizar educadores altamente competentes y certificados internacionalmente.",
+      "solucion": {
+        "programa_certificacion": {
+          "meta": "100% docentes con certificación internacional en 5 años",
+          "ruta_formativa": "Cursos en línea, talleres presenciales, práctica supervisada",
+          "incentivos": "Aumento salarial 15% por certificación C1+, 25% por certificaciones enseñanza"
+        },
+        "centros_excelencia": {
+          "creei": "7 centros regionales con laboratorios, estudios grabación, realidad virtual",
+          "formacion_continua": "Actualización obligatoria cada 3 años",
+          "tutores_nativos": "500 hablantes nativos anuales via voluntariado internacional"
+        },
+        "carrera_renovada": {
+          "perfil_ingreso": "Nivel B2 mínimo para estudiar enseñanza inglés",
+          "formacion_dual": "Alternancia universidad-centros educativos desde primer año",
+          "especializaciones": "Enseñanza temprana, CLIL, inglés fines específicos"
+        }
+      },
+      "ejecucion": [
+        "Alianza Estratégica MEP-INA-Universidades como comisión rectora",
+        "Fondo de Certificación Docente: $20 millones anuales para exámenes internacionales",
+        "Programa 'Maestros sin Fronteras': 200 becas anuales para pasantías 3 meses en países anglófonos"
+      ]
+    },
+    {
+      "componente": "Equidad Territorial y Enfoque en Regiones Rezagadas",
+      "propuesta": "Asegurar que la universalización actúe como nivelador social, priorizando recursos en zonas con mayores brechas.",
+      "solucion": {
+        "plan_equidad": {
+          "clasificacion_vulnerabilidad": "Centros educativos por nivel (alto, medio, bajo)",
+          "recursos_diferenciados": "3 veces más recursos para alta vulnerabilidad",
+          "transporte_inmersion": "Estudiantes rurales a centros excelencia 1 día/semana"
+        },
+        "modelos_contextuales": [
+          "Inglés para Turismo Rural Comunitario (Guanacaste, Limón, Puntarenas)",
+          "Inglés Técnico para Agricultura 4.0",
+          "Programas Trilingües (lengua indígena-español-inglés)"
+        ],
+        "infraestructura_tecnologica": {
+          "aulas_digitales_moviles": "Para escuelas unidocentes y multigrado",
+          "internet_satelital": "En 500 centros más aislados"
+        }
+      },
+      "ejecucion": [
+        "Mapa de Brecha Lingüística Nacional georreferenciado",
+        "Fondo Compensatorio de Equidad Lingüística: $15 millones anuales de impuestos al turismo",
+        "Red de Embajadores Juveniles Bilingües: tutorización entre pares urbano-rural"
+      ]
+    },
+    {
+      "componente": "Vinculación Estratégica con Sectores Económicos Prioritarios",
+      "propuesta": "Alinear aprendizaje de idiomas con necesidades de sectores generadores de empleo de calidad.",
+      "solucion": {
+        "especializacion_sectorial": [
+          "Inglés para Tecnología y Servicios Globales con CINDE y empresas",
+          "Inglés para Turismo Sostenible con certificación MEP-ICT",
+          "Inglés para Ciencias y Salud en colegios científicos"
+        ],
+        "educacion_dual_linguistica": {
+          "empresas_como_aulas": "30% tiempo en empresas practicando inglés en contexto real",
+          "certificaciones_conjuntas": "Empresa y centro educativo certifican competencias"
+        },
+        "observatorio_competencias": "Seguimiento tiempo real de demandas laborales, ajuste curricular cada 2 años"
+      },
+      "ejecucion": [
+        "Mesas Sectoriales de Competencias Lingüísticas (turismo, tecnología, agricultura, manufactura)",
+        "Sello 'Empresa Amiga del Bilingüismo' con beneficios tributarios",
+        "Ferias de Empleabilidad Bilingüe anuales por región"
+      ]
+    },
+    {
+      "componente": "Integración en Cruzada Nacional por el Aprendizaje",
+      "propuesta": "Incorporar bilingüismo como componente fundamental vinculado con lectoescritura y alfabetización digital.",
+      "solucion": {
+        "alfabetizaciones_multiples": "Programa 'Leer, Escribir y Comunicar en Dos Idiomas'",
+        "plataforma_digital_integral": "'Aprendo+' con contenidos interactivos para español, inglés y habilidades digitales",
+        "evaluacion_integrada": "Pruebas trimestrales con sistema de alerta temprana para intervención"
+      },
+      "ejecucion": [
+        "Unidad de Implementación de la Cruzada en MEP con enfoque integrado",
+        "Campamento de Verano de Inmersión Total: 4 semanas para estudiantes con rezago",
+        "Certificación Familiar: programas para padres apoyen bilingüismo en casa"
+      ]
+    }
+  ],
+  "gobernanza_financiamiento": {
+    "estructura_gobierno": {
+      "consejo_nacional_bilinguismo": "Presidido por Ministro Educación, con MEP, INA, universidades, sector empresarial, comunidades, expertos internacionales",
+      "comites_regionales": "En cada dirección regional educativa con autonomía contextual",
+      "observatorio_politicas_linguisticas": "Entidad técnica independiente para monitoreo y recomendaciones"
+    },
+    "financiamiento": {
+      "inversion_total": "$500 millones en 5 años (0.2% PIB anual)",
+      "fuentes": [
+        "60% presupuesto ordinario MEP reorientado",
+        "20% cooperación internacional (Banco Mundial, BID, Alianza Pacífico)",
+        "15% contribución sector privado vía impuestos responsabilidad social",
+        "5% recursos gobiernos locales"
+      ],
+      "mecanismo": "Fideicomiso Nacional para el Bilingüismo con auditoría internacional"
+    }
+  },
+  "sistema_monitoreo_evaluacion": {
+    "indicadores_proceso": [
+      "Número de docentes certificados internacionalmente",
+      "Horas de exposición efectiva al inglés por estudiante/año",
+      "Inversión por estudiante según nivel de vulnerabilidad"
+    ],
+    "indicadores_resultado": [
+      "Porcentaje estudiantes alcanzando nivel B1 al finalizar primaria",
+      "Porcentaje estudiantes alcanzando nivel B2 al graduarse de secundaria",
+      "Mejora en posicionamiento en índice EF EPI internacional"
+    ],
+    "indicadores_impacto": [
+      "Tasa de empleabilidad de egresados con certificación bilingüe vs sin ella",
+      "Crecimiento de sectores que requieren bilingüismo como % PIB",
+      "Reducción brecha salarial entre población bilingüe y monolingüe"
+    ],
+    "evaluaciones_externas": "Anuales por British Council, ETS o Cambridge Assessment"
+  },
+  "metricas_exito_principales": [
+    {
+      "indicador": "Porcentaje de estudiantes que alcanzan nivel B1 al finalizar noveno año",
+      "linea_base": "15%",
+      "meta_ano_3": "40%",
+      "meta_ano_5": "70%"
+    },
+    {
+      "indicador": "Porcentaje de docentes de inglés con certificación internacional",
+      "linea_base": "35% primaria, 60% secundaria",
+      "meta_ano_3": "70% primaria, 85% secundaria",
+      "meta_ano_5": "100% en todos los niveles"
+    },
+    {
+      "indicador": "Brecha de competencia entre regiones urbanas y rurales (diferencia en % B1+)",
+      "linea_base": "28 puntos porcentuales",
+      "meta_ano_3": "15 puntos porcentuales",
+      "meta_ano_5": "5 puntos porcentuales"
+    },
+    {
+      "indicador": "Porcentaje de jóvenes que identifican inglés como barrera laboral",
+      "linea_base": "69.7%",
+      "meta_ano_3": "40%",
+      "meta_ano_5": "20%"
+    },
+    {
+      "indicador": "Posición de Costa Rica en Índice EF EPI para Latinoamérica",
+      "linea_base": "Posición 10/14",
+      "meta_ano_3": "Posición 6/14",
+      "meta_ano_5": "Posición 3/14"
+    }
+  ],
+  "cronograma_implementacion": {
+    "fase_1_preparacion": "Meses 1-12: Diseño curricular, capacitación inicial docentes, equipamiento piloto",
+    "fase_2_expansion": "Años 2-3: Implementación en 50% centros educativos, formación masiva docente",
+    "fase_3_consolidacion": "Años 4-5: Cobertura total, ajustes basados en evaluación, sostenibilidad"
+  }
+}

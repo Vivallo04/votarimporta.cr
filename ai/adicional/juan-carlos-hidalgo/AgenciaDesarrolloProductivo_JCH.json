@@ -1,0 +1,70 @@
+{
+  "eje": "4: Transformación Económica",
+  "componente": "Creación de la Agencia Nacional de Desarrollo Productivo (ANDP)",
+  "objetivo": "Convertir a PROCOMER en el brazo ejecutor para 'emparejar la cancha' entre sectores productivos, extendiendo los beneficios de agilidad y eficiencia del régimen de zona franca a todas las empresas locales y del régimen definitivo.",
+  "propuestas_transformacion": [
+    {
+      "nombre": "Pilares Estratégicos de la Agencia",
+      "propuesta": "Fundamentar la ANDP en cinco pilares diseñados para sofisticar la matriz productiva nacional y coordinar el ecosistema productivo.",
+      "solucion": [
+        "Articulación del ecosistema: coordinar sector público, privado, academia y organismos de financiamiento",
+        "Desarrollo territorial de clústeres: fomentar polos de desarrollo en todas las regiones (dispositivos médicos, semiconductores, bioeconomía, logística verde)",
+        "Sofisticación y financiamiento: gestionar recursos para aumentar complejidad tecnológica empresarial",
+        "Inteligencia estratégica: identificar proactivamente nuevas actividades productivas con potencial global",
+        "Secretaría Técnica: apoyar al Consejo de Competitividad e Innovación eliminando cuellos de botella en el gabinete"
+      ],
+      "ejecucion": [
+        "Reforma legal para transformación de PROCOMER en ANDP",
+        "Diseño de estructura organizacional basada en los cinco pilares",
+        "Desarrollo de capacidades de inteligencia estratégica y prospectiva sectorial",
+        "Establecimiento de mecanismos de coordinación interinstitucional"
+      ]
+    },
+    {
+      "nombre": "Herramientas para la Competitividad de las PYMES",
+      "propuesta": "Gestionar instrumentos clave para integrar a las pequeñas y medianas empresas en la economía global.",
+      "solucion": [
+        "Ventanilla Única de Inversión (VUI): expansión para procesos 100% digitales y trazables en todos los sectores y municipalidades",
+        "Fondo Impulso Global (FIG): fondo de $40 millones para financiar emprendimientos con potencial exportador",
+        "Programa 'Empresas Puente': conectar proveedores locales con cadenas globales de valor de multinacionales",
+        "Programa Descubre: escalar para diversificar oferta exportadora en sector agropecuario y agroindustrial"
+      ],
+      "ejecucion": [
+        "Liderar desarrollo e implementación obligatoria de plataforma VUI ampliada",
+        "Constitución legal y operativización del FIG con aportes de PROCOMER, INA y SBD",
+        "Diseño e implementación del programa 'Empresas Puente'",
+        "Expansión y fortalecimiento del Programa Descubre"
+      ]
+    },
+    {
+      "nombre": "Impacto en Sectores Estratégicos",
+      "propuesta": "Dinamizar sectores clave mediante mandato directo de la Agencia.",
+      "solucion": [
+        "Agricultura: atracción de inversiones agrícolas vinculando producción local con mercados internacionales",
+        "Turismo: priorizar atracción de inversión para modernización de infraestructura y servicios turísticos",
+        "Industria Atunera: utilizar capacidad de la Agencia y figura de zona franca para incentivar procesamiento local de atún"
+      ],
+      "ejecucion": [
+        "Desarrollo de estrategias sectoriales específicas",
+        "Promoción agresiva de inversión en sectores priorizados",
+        "Implementación de incentivos para procesamiento local de recursos pesqueros",
+        "Coordinación con instituciones sectoriales (ICT, MAG, INCOPESCA)"
+      ]
+    },
+    {
+      "nombre": "Innovación Abierta y Desarrollo de Talento",
+      "propuesta": "Promover innovación colaborativa y asegurar talento humano calificado para sectores de alta tecnología.",
+      "solucion": [
+        "Laboratorios de Innovación Abierta: espacios donde multinacionales planteen retos técnicos a emprendedores y PYMES locales",
+        "Fondos concursables para estimular soluciones innovadoras",
+        "Formación de talento humano calificado alineado con necesidades de sectores de alta tecnología"
+      ],
+      "ejecucion": [
+        "Creación de espacios físicos y virtuales para innovación abierta",
+        "Diseño e implementación de fondos concursables para retos técnicos",
+        "Colaboración con instituciones educativas (INA, universidades) para adaptar oferta formativa",
+        "Desarrollo de programas de capacitación específicos por sector"
+      ]
+    }
+  ]
+}

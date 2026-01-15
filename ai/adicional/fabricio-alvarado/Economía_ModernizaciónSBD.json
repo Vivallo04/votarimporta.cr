@@ -1,0 +1,49 @@
+{
+  "eje": "Política Económica",
+  "area": "Modernización Banca de Desarrollo",
+  "resumen": {
+    "problema": "El Sistema de Banca para el Desarrollo (SBD) es excesivamente burocrático y no llega a su público meta. Solo el 38% de las MiPymes ha solicitado crédito en los últimos cinco años debido a la exigencia de garantías reales (como propiedades) que no poseen. La baja competencia bancaria (15 bancos vs. 60 en Panamá) eleva las tasas de interés y limita el acceso al financiamiento, especialmente para microempresas, agricultores y emprendedores en zonas rurales.",
+    "propuesta": "Transformar el SBD en un motor estratégico de competitividad y generación de empleo, reformando su gobernanza y operación para que cumpla su misión original de brindar capital semilla y crédito accesible. El objetivo es convertirlo en una palanca financiera clave para un 'círculo virtuoso del desarrollo', priorizando a las MiPymes, poblaciones vulnerables y regiones fuera del área metropolitana.",
+    "soluciones": [
+      {
+        "titulo": "Reforma a la Gobernanza",
+        "descripcion": "Modificar el esquema directivo del SBD para asegurar que su administración priorice la misión de apoyar a emprendedores y MiPymes, garantizando que los recursos de capital semilla lleguen efectivamente a la base de la pirámide empresarial."
+      },
+      {
+        "titulo": "Garantías No Convencionales",
+        "descripcion": "Permitir el uso de garantías alternativas como garantías mobiliarias, contratos de venta de cosecha y semovientes (animales), facilitando el acceso al crédito para agricultores, pequeños productores y negocios que no cuentan con propiedades o activos fijos tradicionales."
+      },
+      {
+        "titulo": "Fortalecimiento como Banca de Segundo Piso",
+        "descripcion": "Robustecer la función del SBD como banca de segundo piso, creando más canales de colocación de recursos y verificando que estos se canalicen eficientemente hacia los sectores productivos de menor escala."
+      },
+      {
+        "titulo": "Inclusión de Fintech y Cooperativas",
+        "descripcion": "Integrar formalmente a las empresas Fintech y a las cooperativas en el sistema de colocación de recursos del SBD, estableciendo una meta mínima (ej. 1% de la cartera anual) para aprovechar su agilidad tecnológica y cercanía con los clientes."
+      },
+      {
+        "titulo": "Reducción de Costos y Fomento de Competencia",
+        "descripcion": "Fomentar una mayor competencia en el sector financiero, siguiendo modelos internacionales, para reducir las tasas de interés, comisiones y tiempos de respuesta, aliviando la carga financiera de los prestatarios."
+      },
+      {
+        "titulo": "Acompañamiento Técnico y Educación Financiera",
+        "descripcion": "Vincular cada operación crediticia con programas de educación financiera y capacitación en gestión empresarial, para mejorar las capacidades de los beneficiarios y asegurar el buen uso de los recursos."
+      },
+      {
+        "titulo": "Enfoque en Poblaciones y Sectores Estratégicos",
+        "descripcion": "Diseñar líneas de crédito específicas para el emprendimiento femenino, jóvenes, regiones periféricas y sectores como la agropecuaria y la tecnología, promoviendo la inclusión y el relevo generacional."
+      }
+    ],
+    "ejecucion": [
+      "Modificar la estructura de gobierno y los criterios de decisión del SBD para alinearlos con su misión de desarrollo.",
+      "Establecer un marco legal y regulatorio que permita aceptar garantías mobiliarias, de cosecha y semovientes.",
+      "Fortalecer los Fondos de Avales para que el Estado actúe como respaldo, reduciendo la dependencia de hipotecas.",
+      "Crear los mecanismos de participación y supervisión para que Fintech y cooperativas coloquen recursos del SBD.",
+      "Impulsar políticas que aumenten la competencia entre intermediarios financieros para bajar costos.",
+      "Diseñar e implementar módulos obligatorios de educación financiera para todos los beneficiarios de crédito.",
+      "Lanzar convocatorias específicas de crédito blando para mujeres, jóvenes y proyectos en zonas rurales.",
+      "Articular al SBD con el INA, MICITT y universidades para financiar proyectos juveniles en alta tecnología.",
+      "Crear programas de crédito con condiciones preferenciales para el relevo generacional en el sector agropecuario."
+    ]
+  }
+}

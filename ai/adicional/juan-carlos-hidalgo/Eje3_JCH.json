@@ -1,0 +1,51 @@
+{
+  "eje": "3: Agenda Social y Desarrollo Sostenible",
+  "premisa": "El crecimiento económico y la justicia social son interdependientes. La mejor política social es una economía que genera empleo y recursos, y a su vez, una población sana y educada es el sustento del crecimiento. Se transita de un Estado paternalista a un facilitador.",
+  "diagnostico": "La erosión histórica de la inversión social pública ha ampliado las brechas de desigualdad y dejado desprotegidas a las poblaciones en zonas rurales, costeras y fronterizas. Servicios como salud y educación muestran signos de deterioro en cobertura y calidad, amenazando la cohesión social y el capital humano del país.",
+  "meta_central": "Cerrar las brechas de desigualdad y garantizar el desarrollo humano, asegurando que todos los ciudadanos tengan las condiciones básicas (salud, educación, protección social) para participar plenamente en la vida social y económica.",
+  "metáfora_interpretativa": "Es el 'equipo de mantenimiento y entrenamiento' del plan. Mientras otros ejes arreglan las reglas del juego o el estadio, este eje se asegura de que todos los jugadores estén sanos, educados y equipados para poder jugar.",
+  "propuestas": [
+    {
+      "nombre": "Filosofía de Crecimiento con Justicia Social",
+      "propuesta": "Integrar de manera indisoluble las políticas sociales y económicas, rompiendo con la visión de que son ámbitos separados.",
+      "solucion": "Diseñar una agenda social donde el sector privado actúe como motor de movilidad social a través del empleo, y el Estado garantice inclusión, protección a los vulnerables y provision de bienes públicos esenciales (educación, salud, cuido).",
+      "ejecucion": "Aplicación de esta filosofía como criterio transversal en el diseño de todas las políticas públicas, asegurando coherencia entre los ejes económico, social y ambiental del plan de gobierno."
+    },
+    {
+      "nombre": "Sistema Unificado de Cuido (SUC)",
+      "propuesta": "Crear un sistema nacional, integral y corresponsable para atender las necesidades de cuido de la población dependiente (niños, personas con discapacidad, adultos mayores).",
+      "solucion": "Establecer una red de servicios que combine provisión pública, privada y comunitaria, con un esquema de financiamiento con copago familiar escalonado y un programa de certificación profesional de cuidadores, priorizando la inserción laboral de mujeres.",
+      "ejecucion": "Activación en los primeros 100 días mediante decreto ejecutivo que establezca la gobernanza, inicio del registro/certificación de cuidadores y diseño de la plataforma de acceso y financiamiento."
+    },
+    {
+      "nombre": "Transformación del Sistema de Salud",
+      "propuesta": "Lograr un sistema de salud preventivo, digital, eficiente y financieramente sostenible, eliminando las largas listas de espera.",
+      "solucion": "1) Reducción agresiva de listas de espera con jornadas extraordinarias y compra de servicios privados costo-efectivos. 2) Negociación de la deuda gobierno-CCSS para liberar recursos. 3) Integración de salud mental preventiva en escuelas. 4) Apostar por telemedicina e historia clínica digital.",
+      "ejecucion": "Acuerdo político-financiero con la CCSS, licitaciones para compra de servicios, reforma de protocolos de primer nivel de atención y fortalecimiento de la infraestructura digital del sistema."
+    },
+    {
+      "nombre": "Educación: Motor de Oportunidades",
+      "propuesta": "Convertir el sistema educativo en el principal instrumento de movilidad social, con foco en aprendizajes básicos, pertinencia y apoyo integral al estudiante.",
+      "solucion": "1) 'Cruzada Nacional por la Lectoescritura' para nivelación en primaria. 2) Reforma curricular para universalizar el bilingüismo y alinearse con sectores estratégicos (tec, turismo, industria verde). 3) Programa 'Estudiar sin Barreras' que unifique becas, transporte y alimentación.",
+      "ejecucion": "Instrucción al MEP para lanzar la Cruzada, revisión de planes de estudio con el sector productivo, y desarrollo de una plataforma digital unificada para la gestión de apoyos estudiantiles."
+    },
+    {
+      "nombre": "Protección Social en la Vejez",
+      "propuesta": "Garantizar un ingreso mínimo en la vejez y asegurar la sostenibilidad a largo plazo del sistema de pensiones.",
+      "solucion": "1) Implementar una Pensión Mínima Universal para mayores de 65 años, financiada con impuestos a pensiones altas. 2) Estudiar e implementar un esquema de cuentas nocionales para el régimen IVM de la CCSS.",
+      "ejecucion": "Presentación de proyecto de ley para la pensión universal y conformación de comisión técnica para el diseño de la reforma al IVM con cuentas nocionales."
+    },
+    {
+      "nombre": "Desarrollo Sostenible como Ventaja",
+      "propuesta": "Integrar la gestión ambiental y de recursos con la generación de empleo y crecimiento económico.",
+      "solucion": "1) Impulsar una agenda de economía circular que transforme residuos en energía y materiales. 2) Asegurar la seguridad hídrica mediante obras como Agua para Guanacaste y el fortalecimiento de las ASADAS.",
+      "ejecucion": "Promoción de alianzas público-privadas para plantas de valorización de residuos y asignación de recursos para culminar infraestructura hídrica crítica y apoyar sistemas comunales de agua."
+    },
+    {
+      "nombre": "Triángulo de Solidaridad 2.0",
+      "propuesta": "Recuperar y modernizar la inversión comunitaria descentralizada para obras de impacto local rápido.",
+      "solucion": "Fondo y metodología de inversión tripartita (gobierno central, municipalidad, comunidad) para proyectos de infraestructura comunal, caminos y emprendimientos en cantones con rezago.",
+      "ejecucion": "Reactivación del modelo por decreto, creación de un fondo presupuestario específico y convocatorias públicas para que las comunidades presenten proyectos con sus municipalidades."
+    }
+  ]
+}

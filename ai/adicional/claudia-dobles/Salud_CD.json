@@ -1,0 +1,30 @@
+{
+  "eje": "Salud",
+  "propuestas": [
+    {
+      "propuesta": "Reducir listas de espera mediante gestión hospitalaria eficiente",
+      "solucion": "Articular una gestión en red que coordine EBAIS, clínicas y hospitales con indicadores de rendimiento y jornadas extendidas",
+      "ejecucion": "Implementar coordinación planificada entre niveles de atención, usar indicadores de recambio de quirófanos y camas en tiempo real, y escalar jornadas extraordinarias de cirugías y consultas"
+    },
+    {
+      "propuesta": "Fortalecer el talento humano en salud",
+      "solucion": "Incrementar formación y contratación de especialistas con incentivos vinculados a metas",
+      "ejecucion": "Aumentar formación de especialistas, crear incentivos por reducción de listas de espera y conformar equipos itinerantes para zonas rezagadas"
+    },
+    {
+      "propuesta": "Implementar innovación tecnológica en salud",
+      "solucion": "Potenciar el uso del EDUS y telesalud para agilizar procesos y reducir consultas presenciales innecesarias",
+      "ejecucion": "Expandir el Expediente Digital Único en Salud (EDUS), desarrollar plataformas de telesalud y optimizar el sistema de referencias médicas"
+    },
+    {
+      "propuesta": "Reforzar la atención primaria y preventiva",
+      "solucion": "Invertir en EBAIS para prevenir complicaciones que saturan hospitales",
+      "ejecucion": "Aumentar recursos para EBAIS, retomar atención domiciliaria (EFES) y fortalecer prevención en comunidades y centros educativos"
+    },
+    {
+      "propuesta": "Integrar salud mental como componente esencial del bienestar",
+      "solucion": "Aumentar profesionales en psicología y crear plataforma digital de primer contacto",
+      "ejecucion": "Contratar más psicólogos en el sistema de salud y desarrollar Plataforma Digital de Primer Contacto Psicológico"
+    }
+  ]
+}

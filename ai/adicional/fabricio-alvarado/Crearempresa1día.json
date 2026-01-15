@@ -1,0 +1,17 @@
+{
+  "iniciativa": "Crea tu empresa en 1 día",
+  "eje": "Competencia y empleo",
+  "resumen": {
+    "problema": "Existe un 'círculo vicioso del subdesarrollo' caracterizado por un Estado controlador, exceso de regulación y burocracia. Emprender en Costa Rica es una 'carrera de obstáculos' que tarda cerca de 3 meses, elevando significativamente los costos de entrada. Esto ha contribuido a una caída en los índices de competitividad (posición 74 en Doing Business 2020), desincentiva la formalización (35.8% de informalidad) y concentra el dinamismo económico en la Gran Área Metropolitana (GAM).",
+    "solucion": "Implementar una reforma disruptiva que permita crear una empresa y que esté operativa en 24 horas mediante una plataforma digital integral. El objetivo es emular modelos de éxito como Estonia, Dubái y Nueva Zelanda, transformando al Estado en un facilitador y socio de la iniciativa privada, con la meta de un 'Gobierno 100% Digital' y '0% burocracia'.",
+    "implementacion": [
+      "Desarrollo de una plataforma digital unificada que utilice inteligencia artificial para ayudar a elegir la figura legal más adecuada.",
+      "Validación automática del registro de marca y logo ante el Registro Nacional.",
+      "Facilitar una apertura bancaria ágil, fomentando la competencia entre bancos.",
+      "Sincronización institucional automatizada para la inscripción en la CCSS (seguridad social), obtención de la patente municipal e incorporación al sistema tributario, mediante un asistente virtual.",
+      "Creación de 'Ventanillas Únicas Empresariales' para descentralizar el servicio.",
+      "Establecimiento de cargas sociales escalonadas (menores para salarios bajos) como incentivo para la formalización.",
+      "Descentralización del empleo mediante la creación de polos de inversión en zonas costeras y rurales."
+    ]
+  }
+}

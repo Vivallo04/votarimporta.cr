@@ -1,0 +1,25 @@
+{
+  "eje": "Educación Pública y STEAM",
+  "propuestas": [
+    {
+      "propuesta": "Garantizar educación como motor de dignidad y movilidad social",
+      "solucion": "Avanzar hacia inversión del 8% del PIB, ampliar programas de becas y extender la obligatoriedad de la secundaria",
+      "ejecucion": "Aumentar gradualmente el financiamiento educativo, expandir programas como 'Avancemos' y mejorar infraestructura escolar en todo el país"
+    },
+    {
+      "propuesta": "Incorporar enfoque STEAM en la educación primaria y secundaria",
+      "solucion": "Dotar a estudiantes de habilidades críticas, creativas y adaptativas para el siglo XXI mediante actualización curricular",
+      "ejecucion": "Crear laboratorios de robótica, ciencia de datos y programación en todas las regiones; capacitar docentes en áreas STEAM; implementar becas para talentos en vulnerabilidad"
+    },
+    {
+      "propuesta": "Conectar educación con empleo y prosperidad compartida",
+      "solucion": "Facilitar acceso al trabajo decente mediante formación alineada con demandas del mercado laboral",
+      "ejecucion": "Establecer convenios para inserción laboral de mujeres en sectores estratégicos; implementar 'Ruta de Habilidades para la Empleabilidad' con bootcamps digitales; garantizar conectividad en escuelas rurales e indígenas"
+    },
+    {
+      "propuesta": "Integrar educación con transformación integral del bienestar",
+      "solucion": "Utilizar infraestructura educativa para fortalecer el tejido social más allá del horario lectivo",
+      "ejecucion": "Promover uso comunitario de instalaciones escolares para actividades culturales, deportivas y comunitarias"
+    }
+  ]
+}

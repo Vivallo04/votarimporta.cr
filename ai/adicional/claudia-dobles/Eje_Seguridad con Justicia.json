@@ -1,0 +1,60 @@
+{
+  "eje": "Seguridad con Justicia",
+  "propuestas": [
+    {
+      "propuesta": "Recuperar megaoperativos contra el crimen organizado mediante inteligencia conjunta",
+      "solucion": "Reforzar la coordinación estratégica entre el OIJ y el Ministerio de Seguridad Pública para planificar y ejecutar operaciones de alto impacto basadas en análisis criminal integrado, evitando la militarización de la seguridad pública",
+      "ejecucion": "Establecer mesas de inteligencia operativa permanentes entre OIJ y MSP, diseñar protocolos conjuntos para intervenciones en territorios con alta incidencia delictiva y garantizar el uso de información verificada para desarticular redes criminales"
+    },
+    {
+      "propuesta": "Fortalecer capacidades policiales con más efectivos y equipamiento tecnológico moderno",
+      "solucion": "Aumentar la presencia policial con 4,000 nuevos oficiales y modernizar el equipamiento con tecnología de vigilancia y respuesta rápida para mejorar la cobertura y efectividad en la prevención y reacción delictiva",
+      "ejecucion": "Abrir procesos de reclutamiento y formación acelerada para nuevos agentes, adquirir drones de vigilancia, radares móviles, cámaras de reconocimiento facial y renovar la flota vehicular con unidades adaptadas a distintos terrenos urbanos y rurales"
+    },
+    {
+      "propuesta": "Endurecer el control de armas y atacar el lavado de dinero del narcotráfico",
+      "solucion": "Modificar el marco legal para incrementar las penas por portación y tráfico ilegal de armas, y aprobar una Ley de Capitales Emergentes que permita investigar y confiscar bienes de origen ilícito con mayor agilidad",
+      "ejecucion": "Presentar reformas al Código Penal para elevar sanciones por delitos con armas, crear una unidad fiscal especializada en delitos financieros y establecer mecanismos de colaboración internacional para rastrear flujos de dinero vinculados al narcotráfico"
+    },
+    {
+      "propuesta": "Unificar la estrategia nacional de prevención de la violencia con enfoque comunitario",
+      "solucion": "Integrar todos los programas dispersos de prevención en una sola instancia de coordinación interinstitucional que involucre a gobiernos locales, organizaciones sociales y comunidades en el diseño e implementación de acciones",
+      "ejecucion": "Crear el Consejo Nacional de Prevención de la Violencia, asignar presupuesto específico para intervenciones territoriales y desarrollar un sistema de monitoreo y evaluación de impacto comunitario"
+    },
+    {
+      "propuesta": "Fortalecer la prevención a través de cultura, deporte y ocupación del tiempo libre",
+      "solucion": "Utilizar el deporte, el arte y la recreación como herramientas de inclusión social para jóvenes en riesgo, expandiendo programas existentes y creando nuevos espacios de participación segura",
+      "ejecucion": "Ampliar las Ligas Atléticas de la Fuerza Pública, reforzar los Centros Cívicos por la Paz (incluyendo modalidades 'sin paredes' en espacios abiertos) y establecer alianzas con clubes deportivos y colectivos culturales para talleres permanentes"
+    },
+    {
+      "propuesta": "Implementar planes de choque integrales en distritos con alta inseguridad",
+      "solucion": "Intervención multisectorial en territorios priorizados que combine oferta de empleo, acceso a vivienda, continuidad educativa y servicios sociales para atacar las causas estructurales de la violencia",
+      "ejecucion": "Identificar 30 distritos de alta prioridad, desplegar equipos interministeriales (MEP, IMAS, INVU, MTSS) para ofrecer soluciones concretas y establecer metas trimestrales de reducción de indicadores delictivos"
+    },
+    {
+      "propuesta": "Aumentar la infraestructura carcelaria y el control tecnológico en centros penitenciarios",
+      "solucion": "Reducir el hacinamiento mediante la construcción de nuevos módulos y dotar las cárceles de tecnología que impida la continuidad de actividades criminales desde dentro",
+      "ejecucion": "Construir 3 nuevos centros penitenciarios regionales, instalar escáneres corporales y de vehículos en todos los ingresos, implementar bloqueadores de señal celular en áreas de alta seguridad y crear un sistema de vigilancia biométrica"
+    },
+    {
+      "propuesta": "Consolidar el modelo de justicia restaurativa para delitos no violentos",
+      "solucion": "Priorizar mecanismos alternativos a la prisión que permitan la reparación del daño a las víctimas y la reintegración comunitaria de infractores en casos de delitos menores",
+      "ejecucion": "Ampliar los programas de justicia restaurativa a todos los circuitos judiciales del país, capacitar a jueces y fiscales en su aplicación y crear un registro nacional de casos exitosos de mediación y reparación"
+    },
+    {
+      "propuesta": "Fortalecer los planes de egreso y reinserción socio-laboral de personas privadas de libertad",
+      "solucion": "Garantizar que las personas próximas a recuperar su libertad cuenten con oportunidades concretas de empleo, educación y acompañamiento psicosocial para reducir la reincidencia",
+      "ejecucion": "Firmar convenios con cámaras empresariales para empleos con seguimiento, crear programas de formación técnica dentro de los centros penales y establecer unidades de apoyo post-penitenciario en comunidades receptoras"
+    },
+    {
+      "propuesta": "Transformar la DIS en una agencia de inteligencia estratégica con control democrático",
+      "solucion": "Reformar la Dirección de Inteligencia y Seguridad para que se dedique exclusivamente a amenazas a la seguridad nacional, eliminando sus funciones de vigilancia política y sometiéndola a supervisión parlamentaria",
+      "ejecucion": "Presentar un proyecto de ley para crear la nueva Agencia de Inteligencia Estratégica, establecer comisiones de fiscalización en la Asamblea Legislativa y designar un ombudsman específico en la Defensoría de los Habitantes"
+    },
+    {
+      "propuesta": "Fortalecer las capacidades nacionales en ciberseguridad y combate al ciberterrorismo",
+      "solucion": "Desarrollar una estrategia nacional de ciberseguridad que proteja infraestructuras críticas y capacite a las fuerzas de seguridad en la prevención e investigación de delitos digitales",
+      "ejecucion": "Crear el Centro Nacional de Ciberseguridad, invertir en tecnologías de detección de amenazas digitales y formar una unidad especializada en el OIJ para investigar ciberdelitos y ciberterrorismo"
+    }
+  ]
+}

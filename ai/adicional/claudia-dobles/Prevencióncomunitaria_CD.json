@@ -1,0 +1,46 @@
+{
+  "iniciativa": "Prevención Comunitaria y Social",
+  "eje": "Seguridad con Justicia",
+  "propuestas": [
+    {
+      "propuesta": "Crear una Estrategia Nacional de Prevención unificada e interinstitucional",
+      "solucion": "Integrar todos los programas dispersos de prevención en un marco coordinado que articule a instituciones de seguridad, justicia, gobiernos locales y comunidades, evitando la fragmentación y duplicación de esfuerzos",
+      "ejecucion": "Establecer el Consejo Nacional de Prevención de la Violencia, desarrollar el programa 'Sembremos Seguridad' para diagnóstico local de riesgos, asignar presupuesto específico y crear mesas cantonales de coordinación con participación ciudadana"
+    },
+    {
+      "propuesta": "Fortalecer y expandir los Centros Cívicos por la Paz",
+      "solucion": "Ampliar la cobertura de los Centros Cívicos por la Paz y crear la modalidad 'sin paredes' para llevar servicios y actividades directamente a territorios de alta vulnerabilidad",
+      "ejecucion": "Rehabilitar 15 Centros Cívicos existentes, crear 10 nuevos centros en cantones prioritarios, implementar la modalidad itinerante 'sin paredes' en 30 comunidades y dotarlos de programas de arte, deporte y formación técnica"
+    },
+    {
+      "propuesta": "Utilizar el deporte como herramienta de prevención mediante Ligas Atléticas",
+      "solucion": "Aprovechar el deporte para desarrollar habilidades para la vida, valores cívicos y sentido de pertenencia en jóvenes en riesgo, alejándolos de entornos delictivos",
+      "ejecucion": "Expandir las Ligas Atléticas de la Fuerza Pública a 50 nuevos territorios, capacitar 200 entrenadores en metodologías socio-deportivas, organizar torneos intercomunitarios y establecer alianzas con federaciones deportivas nacionales"
+    },
+    {
+      "propuesta": "Implementar programas culturales para prevención en zonas vulnerables",
+      "solucion": "Utilizar el arte y la cultura como herramientas de transformación social que ofrezcan alternativas creativas y productivas a jóvenes en contextos de riesgo",
+      "ejecucion": "Crear el Programa Nacional de Cultura para la Prevención, establecer 100 talleres artísticos en comunidades prioritarias, desarrollar emprendimientos creativos juveniles y firmar convenios con el Ministerio de Cultura y gobiernos locales"
+    },
+    {
+      "propuesta": "Garantizar la culminación de educación secundaria y prevención en centros educativos",
+      "solucion": "Reducir la deserción escolar y fortalecer factores protectores mediante programas educativos integrales que prevengan la violencia y el involucramiento criminal",
+      "ejecucion": "Implementar el programa 'Secundaria Completa' con becas y apoyo psicosocial, relanzar programas de prevención en 200 centros educativos prioritarios, capacitar a 1,000 docentes en prevención de violencia y crear protocolos de atención temprana"
+    },
+    {
+      "propuesta": "Ejecutar intervención integral en cantones priorizados con rezago estructural",
+      "solucion": "Atacar las causas estructurales de la inseguridad mediante acceso a servicios básicos, oportunidades económicas y desarrollo comunitario en zonas de alta vulnerabilidad",
+      "ejecucion": "Seleccionar 25 cantones prioritarios, desplegar equipos interinstitucionales para ofrecer acceso a vivienda digna, empleo juvenil, servicios de salud y agua potable, y monitorear indicadores de desarrollo comunitario trimestralmente"
+    },
+    {
+      "propuesta": "Transformar el modelo policial hacia un enfoque proactivo y comunitario",
+      "solucion": "Cambiar el paradigma policial de reactivo a preventivo mediante estrategias de solución de problemas y fortalecimiento del vínculo policía-comunidad",
+      "ejecucion": "Implementar el modelo de Policía Orientada a la Solución de Problemas (POP) en todas las regiones policiales, capacitar a 3,000 oficiales en metodologías comunitarias, ampliar el Programa de Seguridad Comunitaria a 100 nuevos territorios y crear consejos barriales de seguridad"
+    },
+    {
+      "propuesta": "Abordar las adicciones como problema de salud pública con enfoque de derechos",
+      "solucion": "Tratar el consumo problemático de sustancias desde una perspectiva de salud pública y derechos humanos, coordinando acciones preventivas y de atención integral",
+      "ejecucion": "Fortalecer la coordinación entre el IAFA, el Ministerio de Salud y el Ministerio de Seguridad Pública, crear 50 centros de atención integral en comunidades prioritarias, implementar programas de reducción de daños y capacitar a 500 profesionales en abordaje de adicciones"
+    }
+  ]
+}

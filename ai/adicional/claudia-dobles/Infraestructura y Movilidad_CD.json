@@ -1,0 +1,55 @@
+{
+  "eje": "Infraestructura y Movilidad Sostenible",
+  "propuestas": [
+    {
+      "propuesta": "Desarrollar el Tren Eléctrico Metropolitano como columna vertebral del transporte",
+      "solucion": "Reducir tiempos de traslado y contaminación mediante un sistema integrado e intermodal",
+      "ejecucion": "Construir e implementar el Tren Eléctrico Metropolitano, integrándolo con buses BRT, bicicletas, taxis y zonas peatonales"
+    },
+    {
+      "propuesta": "Construir infraestructura peatonal accesible y segura",
+      "solucion": "Garantizar movilidad peatonal sin barreras arquitectónicas",
+      "ejecucion": "Construir 200 kilómetros de aceras en la Red Vial Nacional y eliminar barreras para personas con discapacidad"
+    },
+    {
+      "propuesta": "Expandir la red de ciclovías en zonas costeras",
+      "solucion": "Promover la movilidad ciclista y conectar con el transporte público",
+      "ejecucion": "Construir 100 kilómetros de ciclovías en las provincias de Limón, Puntarenas y Guanacaste, vinculándolas a estaciones de transporte"
+    },
+    {
+      "propuesta": "Transformar infraestructuras urbanas en espacios públicos de calidad",
+      "solucion": "Fomentar la revitalización comunitaria mediante la 'acupuntura urbana'",
+      "ejecucion": "Reconvertir infraestructuras urbanas en lugares de encuentro y disfrute para las comunidades"
+    },
+    {
+      "propuesta": "Planificar la infraestructura de movilidad a largo plazo (PIMovi)",
+      "solucion": "Priorizar obras estratégicas para eliminar cuellos de botella que afectan la vida cotidiana y el comercio",
+      "ejecucion": "Elaborar e implementar un Plan de Infraestructura de Movilidad Pública a 20 años, incluyendo ampliación de las Rutas 1, 2, 27 y 32"
+    },
+    {
+      "propuesta": "Incorporar infraestructura verde y azul en el desarrollo vial",
+      "solucion": "Mejorar la gestión del recurso hídrico y el entorno comunitario",
+      "ejecucion": "Incluir elementos naturales (vegetación y cuerpos de agua) en el diseño y construcción de carreteras"
+    },
+    {
+      "propuesta": "Garantizar conectividad digital en todas las regiones",
+      "solucion": "Cerrar brechas territoriales mediante acceso a tecnología avanzada",
+      "ejecucion": "Expandir el acceso a redes 5G y fibra óptica en zonas rurales y fronterizas para permitir educación y salud digital"
+    },
+    {
+      "propuesta": "Crear una Autoridad Única de Transporte Público Sostenible",
+      "solucion": "Integrar funciones dispersas para una gestión centrada en el usuario",
+      "ejecucion": "Establecer una Autoridad que unifique la planificación, regulación y operación del transporte público"
+    },
+    {
+      "propuesta": "Implementar un sistema de pago electrónico único para el transporte",
+      "solucion": "Facilitar la intermodalidad y mejorar la experiencia del usuario",
+      "ejecucion": "Desarrollar e implantar un sistema integrado de pago para todas las modalidades de transporte (tren, bus, taxi)"
+    },
+    {
+      "propuesta": "Crear un Sistema Nacional de Indicadores de Movilidad Urbana",
+      "solucion": "Basar las decisiones públicas en datos que reflejen el bienestar colectivo",
+      "ejecucion": "Desarrollar y mantener un sistema de indicadores que mida la calidad, eficiencia y dignidad en el espacio público y la movilidad"
+    }
+  ]
+}

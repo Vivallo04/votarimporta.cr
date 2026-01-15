@@ -1,0 +1,86 @@
+{
+  "operacion": "Blindaje",
+  "marco": "Eje 1: Orden y Seguridad",
+  "naturaleza": "Acción de choque inmediata y prioridad máxima para los primeros 100 días de gobierno. Es una intervención estatal masiva, conjunta y de alta intensidad para revertir la iniciativa del crimen organizado.",
+  "objetivo_estrategico": "Generar un 'shock de seguridad' que recupere la iniciativa operativa para el Estado, restablezca una percepción básica de orden y autoridad, y siente las bases para una estrategia de seguridad sostenible.",
+  "objetivos_tacticos": [
+    {
+      "nombre": "Recuperación de Territorio y Control de Barrios",
+      "descripcion": "Retomar el control físico y simbólico de comunidades dominadas por bandas criminales, donde el Estado ha perdido presencia efectiva.",
+      "acciones_clave": [
+        "Despliegue masivo y permanente de fuerzas combinadas en 'puntos calientes'.",
+        "Establecimiento de puestos de control operativos avanzados.",
+        "Redistribución táctica del personal policial de tareas administrativas al campo.",
+        "Coordinación en tiempo real con el Ministerio Público y el OIJ para allanamientos y detenciones."
+      ],
+      "metricas": "Reducción en reportes de extorsión, homicidios y venta de droga en dichas zonas durante y después de la operación."
+    },
+    {
+      "nombre": "Estrangulamiento Logístico del Narcotráfico",
+      "descripcion": "Interrumpir severamente las rutas y métodos de transporte de drogas y precursores químicos a través del territorio nacional.",
+      "acciones_clave": [
+        "Incremento al 100% del escaneo de contenedores en puertos clave (Moín, Caldera).",
+        "Patrullaje marítimo intensivo con radares costeros, drones y aeronaves.",
+        "Reforzamiento de puestos fronterizos con tecnología de rayos X para vehículos.",
+        "Vigilancia especial de pistas de aterrizaje clandestinas y aeropuertos regionales."
+      ],
+      "metricas": "Aumento en toneladas de droga incautadas en puertos y costas; disminución de avistamientos de lanchas rápidas sospechosas."
+    }
+  ],
+  "contexto_y_justificacion": {
+    "crisis": "Pérdida del monopolio estatal de la fuerza y escalada de violencia.",
+    "datos_criticos": {
+      "homicidios_2023": 907,
+      "tasa_por_100mil": 17.2,
+      "posicion_regional": "Segundo país más violento de Centroamérica",
+      "intervalo": "Un homicidio cada 10 horas en promedio"
+    },
+    "diagnostico": "Infiltración del crimen organizado transnacional que amenaza con corroer estructuras económicas, comunitarias e institucionales, yendo más allá de la 'inseguridad común'."
+  },
+  "cooperacion_internacional": {
+    "aliados_estrategicos": ["Estados Unidos", "Unión Europea"],
+    "tipo_de_apoyo": [
+      "Intercambio de inteligencia en tiempo real.",
+      "Capacitación táctico-operativa para unidades élite.",
+      "Asistencia logística y tecnológica (análisis financiero, equipos de interdicción)."
+    ],
+    "acuerdo_especifico": {
+      "nombre": "Contingente Policial de la UE en Puerto de Moín",
+      "objetivo": "Evitar la contaminación de exportaciones costarricenses con drogas, protegiendo la reputación del sector productivo y los mercados de exportación.",
+      "impacto_esperado": "Blindaje de la marca-país 'Costa Rica' y protección de empleos en sectores agroexportadores."
+    }
+  },
+  "soporte_estructural_del_eje": {
+    "financiamiento_extraordinario": {
+      "instrumento": "Fondo de Seguridad Nacional",
+      "fuentes": ["Venta de activos estatales (ej. Banco de Costa Rica)", "Subejecuciones presupuestarias"],
+      "destino": "Adquisición ágil de tecnología (drones, videovigilancia, escáneres), armamento, blindaje y capacitación."
+    },
+    "recurso_humano": {
+      "meta_contratacion": "6,500 nuevos efectivos policiales activos durante el cuatrienio",
+      "proposito": "Consolidar la presencia territorial lograda por la operación inicial y prevenir el resurgimiento de las bandas."
+    },
+    "modernizacion_inteligencia": {
+      "agencia_nueva": "Transformación del ICD en Agencia de Inteligencia contra el Crimen Organizado (con potestades financieras y policiales)",
+      "centro_conjunto": "Creación del Centro Conjunto de Inteligencia Policial para integración de información entre todas las fuerzas del orden.",
+      "rol": "Proveer el 'cerebro' (inteligencia estratégica) que guíe los 'puños' (operaciones tácticas) de manera efectiva."
+    }
+  },
+  "reformas_complementarias_de_fondo": {
+    "sistema_penitenciario": {
+      "propuesta": "Construcción de cárceles diferenciadas para crimen organizado",
+      "objetivo": "Aislar operativamente a los líderes para cortar su capacidad de dirigir bandas desde la prisión (inteligencia penitenciaria)."
+    },
+    "prevencion_social": {
+      "acciones": [
+        "Recuperación de espacios públicos (parques, polideportivos) en coordinación con gobiernos locales.",
+        "Programas en el MEP para detección de deserción y reclutamiento de menores."
+      ],
+      "objetivo": "Quitar territorios físicos y humanos a la delincuencia y devolverlos a la comunidad."
+    },
+    "politica_de_drogas": {
+      "propuesta": "Legalización regulada de la comercialización recreativa del cannabis",
+      "objetivo": "Desfinanciar a las mafias locales al eliminar uno de sus mercados más lucrativos. Los impuestos generados se redirigen al Fondo de Seguridad Nacional, creando un circuito virtuoso."
+    }
+  }
+}

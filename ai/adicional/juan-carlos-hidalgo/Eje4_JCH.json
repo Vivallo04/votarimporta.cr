@@ -1,0 +1,33 @@
+{
+  "eje": "4: Transformación Económica",
+  "premisa_fundamental": "La mejor política social es una economía con alto crecimiento y generación robusta de empleo de calidad. El sector privado es el catalizador principal de la movilidad social.",
+  "filosofia_central": "Transición de un 'Estado paternalista' a un 'Estado facilitador', donde el gobierno se concentra en eliminar obstáculos, reducir costos y crear condiciones marco para la inversión y la productividad del sector privado.",
+  "interdependencia": "Este eje es viable solo si se sostiene en los demás: requiere seguridad (Eje 1) para operar, agilidad institucional (Eje 2) para florecer y capital humano capacitado (Eje 3) para ser sostenible.",
+  "meta_central": "Crear una economía más competitiva, diversificada, formal y descentralizada, que genere empleo de calidad y aumente la productividad nacional, 'emparejando la cancha' entre regiones y tipos de empresa.",
+  "propuestas": [
+    {
+      "nombre": "Rediseño del Estado: De Obstáculo a Facilitador",
+      "propuesta": "Cambiar la relación Estado-empresa para reducir drásticamente los costos de operar formalmente y de invertir en el país, incentivando la productividad y la creación de empleo.",
+      "solucion": "1) Eliminar el 7.25% de cargas patronales (INA, IMAS, FODESAF, Banco Popular), financiándolas vía presupuesto nacional. 2) Ruta gradual para reducir el impuesto de renta corporativo al 25%. 3) Implementar una 'guillotina regulatoria' y una moratoria de 4 años a nuevas regulaciones costosas.",
+      "ejecucion": "Proyecto de ley de alivio a planillas en primeros 100 días. Publicación de hoja de ruta para reducción de renta. Decreto para la guillotina regulatoria con comisión técnica evaluadora."
+    },
+    {
+      "nombre": "Modernización Institucional Competitiva",
+      "propuesta": "Reformar instituciones clave para que actúen como aliados ágiles y estratégicos de la productividad y la inversión, nacional y extranjera.",
+      "solucion": "1) Transformar PROCOMER en una Agencia Nacional de Desarrollo Productivo con rol articulador de clústeres. 2) Implementar una Ventanilla Única de Inversión (VUI) digital al 100% para estandarizar trámites municipales y nacionales. 3) Crear una Agencia Nacional de Infraestructura profesional (reemplazo del CNC) para atraer inversión en obra pública.",
+      "ejecucion": "Reforma legal de PROCOMER. Desarrollo e implementación obligatoria de la plataforma VUI. Presentación de ley para crear la Agencia Nacional de Infraestructura autónoma."
+    },
+    {
+      "nombre": "Desarrollo de Sectores Estratégicos con Enfoque Territorial",
+      "propuesta": "Impulsar sectores con alto potencial de crecimiento y empleo, priorizando el desarrollo de regiones fuera del GAM para cerrar brechas territoriales.",
+      "solucion": "Abordaje sectorial: 1) Agricultura/Pesca: Reserva Estratégica Alimentaria, 'EBAIS Agrícolas' y reactivación de FIDAGRO. 2) Turismo: 'Acuerdo por el Turismo 2025' para seguridad, regulación de plataformas y formación bilingüe. 3) Tecnología/Energía: Despliegue de 5G y apertura del mercado eléctrico para generación distribuida y energías limpias.",
+      "ejecucion": "Decretos para Reserva Alimentaria y EBAIS Agrícolas. Convocatoria al Acuerdo por el Turismo. Proyectos de ley para reforma del mercado eléctrico y facilitación de infraestructura 5G."
+    },
+    {
+      "nombre": "Ecosistema de Emprendimiento e Innovación de Alto Impacto",
+      "propuesta": "Fomentar un salto cualitativo en la innovación nacional, apoyando emprendimientos escalables globalmente y fortaleciendo los encadenamientos productivos.",
+      "solucion": "1) Crear el Fondo Impulso Global (FIG), un fondo de capital de riesgo de USD $40 millones (público-privado) para startups. 2) Lanzar el programa 'Empresas Puente' para conectar PYMES con cadenas de valor de multinacionales.",
+      "ejecucion": "Constitución legal del FIG con aportes mixtos. Diseño e implementación del programa 'Empresas Puente' con CINDE y cámaras empresariales."
+    }
+  ]
+}

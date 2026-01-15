@@ -1,0 +1,26 @@
+[
+  {
+    "propuesta": "Sistema Ferroviario de Pasajeros",
+    "problema": "Falta de un sistema de transporte masivo eficiente y moderno que conecte las regiones y alivie la congestión vehicular.",
+    "solucion": "Consolidar el tren eléctrico como columna vertebral del transporte masivo y extender su alcance para impulsar el desarrollo regional.",
+    "ejecucion": "Adjudicar y poner en marcha el Tren Eléctrico de Pasajeros de la GAM; y crear el Tren del Pacífico con capacidad mixta (carga y pasajeros) para dinamizar la economía de las zonas costeras."
+  },
+  {
+    "propuesta": "Política Nacional de Transporte Público Integral",
+    "problema": "Falta de una política coordinada que evalúe la demanda, calidad y costos del transporte público, causando congestión y mala experiencia para los usuarios.",
+    "solucion": "Implementar una política nacional que modernice y gestione integralmente el transporte público para mejorar su eficiencia y cobertura.",
+    "ejecucion": "Evaluar permanentemente la demanda, calidad y costos del servicio; desarrollar centros de transferencia intermodales (trenes, autobuses); y reordenar las paradas en la GAM y ciudades periféricas para reducir la congestión."
+  },
+  {
+    "propuesta": "Modernización Tecnológica y Sostenibilidad",
+    "problema": "Falta de tecnología moderna en el pago y una flota contaminante, lo que dificulta el acceso y daña el medio ambiente.",
+    "solucion": "Digitalizar los pagos y electrificar la flota para hacer el transporte público más accesible, eficiente y limpio.",
+    "ejecucion": "Expandir el pago electrónico a nivel nacional, priorizando zonas rurales; potenciar incentivos para migrar a unidades eléctricas; e integrar los taxis en plataformas digitales."
+  },
+  {
+    "propuesta": "Educación y Seguridad Vial",
+    "problema": "Falta de educación vial entre los usuarios y conductores, y necesidad de control para reducir accidentes y mejorar el flujo del tránsito.",
+    "solucion": "Incorporar la educación vial en las escuelas y usar tecnología para hacer cumplir las normas de tránsito.",
+    "ejecucion": "Incluir módulos obligatorios sobre derechos y responsabilidades en el transporte público y el curso teórico de manejo en el currículo educativo; y utilizar radares y cámaras para controlar el tránsito y hacer cumplir las restricciones."
+  }
+]

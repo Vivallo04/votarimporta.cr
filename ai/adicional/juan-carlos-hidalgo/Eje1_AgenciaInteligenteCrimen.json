@@ -1,0 +1,103 @@
+{
+  "iniciativa": "Creación de la Agencia de Inteligencia contra el Crimen Organizado",
+  "marco": "Eje 1: Orden y Seguridad - Pilar de Modernización de la Inteligencia Criminal",
+  "vision": "Ser la agencia de inteligencia criminal líder en la región, capaz de desmantelar proactivamente las estructuras económicas y logísticas del crimen organizado transnacional mediante el uso integrado de inteligencia financiera, policial y tecnológica.",
+  "base_legal_transformacion": "Transformación del Instituto Costarricense sobre Drogas (ICD) mediante una Ley de Creación específica.",
+  "nuevas_potestades_y_estructura": {
+    "1_inteligencia_financiera_y_patrimonial": {
+      "descripcion": "Capacidad para investigar el flujo de capitales ilícitos y la propiedad oculta de las organizaciones criminales.",
+      "facultades_clave": [
+        "Acceso y análisis de reportes financieros de la SUGEF.",
+        "Rastreo de transacciones sospechosas y uso de criptomonedas.",
+        "Análisis de registros de propiedad (Registro Nacional) y datos tributarios.",
+        "Colaboración con unidades de inteligencia financiera internacional (Egmont Group)."
+      ],
+      "objetivo": "Identificar y desarticular los activos y redes de lavado, golpeando la viabilidad económica del crimen."
+    },
+    "2_centro_de_fusion_investigacion_policial": {
+      "descripcion": "Plataforma centralizada que integra y analiza información criminal de todas las fuerzas del orden.",
+      "funciones_clave": [
+        "Recolección y análisis de datos masivos (big data) de OIJ, Fuerza Pública, policías municipales, etc.",
+        "Empleo de software de análisis de enlaces sociales y mapas de redes criminales.",
+        "Generación de perfiles criminales, alertas predictivas y objetivos estratégicos."
+      ],
+      "objetivo": "Superar la fragmentación informativa, proporcionando una imagen única y completa de las amenazas."
+    },
+    "3_independencia_y_control_democratico": {
+      "descripcion": "Autonomía operativa técnica sujeta a fiscalización para prevenir abusos.",
+      "mecanismos": [
+        "Autonomía presupuestaria y de gestión investigativa.",
+        "Fiscalización por una comisión legislativa especializada en seguridad e inteligencia.",
+        "Auditorías internas y externas periódicas sobre métodos y respeto a DDHH."
+      ],
+      "objetivo": "Garantizar eficacia sin sacrificar los controles democráticos y las libertades civiles."
+    }
+  },
+  "coordinacion_estrategica": {
+    "ecosistema_de_inteligencia": "La Agencia actúa como el nodo central de una red interinstitucional rediseñada.",
+    "entidades_clave_y_sinergias": [
+      {
+        "entidad": "DIS (Reformada)",
+        "rol": "Inteligencia estratégica civil (amenazas a soberanía, terrorismo).",
+        "sinergia": "División clara de roles. Intercambio protocolizado cuando una investigación de crimen organizado revele amenazas a la seguridad nacional."
+      },
+      {
+        "entidad": "OIJ y Ministerio Público",
+        "rol": "Investigación penal formal y acción procesal.",
+        "sinergia": "La Agencia provee inteligencia probatoria para que el OIJ inicie investigaciones formales y el MP construya casos sólidos. Protocolos de colaboración operativa permanente."
+      },
+      {
+        "entidad": "Centro Conjunto de Inteligencia Policial",
+        "rol": "Intercambio táctico-operativo entre fuerzas policiales.",
+        "sinergia": "La Agencia alimenta el Centro con análisis estratégico y recibe de él datos operativos para refinar sus modelos. Es el puente entre lo estratégico y lo táctico."
+      },
+      {
+        "entidad": "Centro Nacional de Ciberseguridad (CSIRT)",
+        "rol": "Protección de infraestructura crítica digital y respuesta a incidentes.",
+        "sinergia": "Creación de una unidad mixta de ciberinteligencia criminal para investigar actividades de mafias en la dark web, criptomonedas y ciberataques."
+      }
+    ]
+  },
+  "justificacion_estrategica": {
+    "diagnostico": "El crimen organizado es una amenaza híbrida que busca infiltrar y corromper las estructuras económicas, políticas y sociales, erosionando la democracia y el Estado de Derecho.",
+    "mision_ampliada": "Más que combatir el delito, la Agencia debe proteger la integridad institucional y económica de Costa Rica.",
+    "acciones_estrategicas": [
+      "Blindaje del sector exportador mediante inteligencia para prevenir contaminación de carga.",
+      "Identificación de vulnerabilidades a la infiltración en sectores económicos clave (inmobiliario, financiero, contratación pública).",
+      "Protección de la reputación internacional del país como destino seguro para inversiones y comercio."
+    ]
+  },
+  "respaldo_de_recursos_y_marco_legal": {
+    "financiamiento": {
+      "fuente_principal": "Fondo de Seguridad Nacional",
+      "inversiones_clave": [
+        "Sistemas de computación de alto rendimiento y software de análisis especializado.",
+        "Plataforma tecnológica segura para intercambio interagencial de información.",
+        "Equipos de vigilancia electrónica (con control judicial).",
+        "Academia de formación continua en inteligencia financiera, análisis de datos y ciberinteligencia."
+      ]
+    },
+    "reformas_legales_imprescindibles": [
+      {
+        "reforma": "Ley de Creación de la Agencia",
+        "objetivo": "Dotarla de personalidad jurídica y definir con precisión sus nuevas potestades y límites."
+      },
+      {
+        "reforma": "Fortalecimiento de la Ley contra el Lavado de Dinero",
+        "objetivo": "Ampliar las obligaciones de reporte y facilitar el acceso de la Agencia a información financiera."
+      },
+      {
+        "reforma": "Modificaciones al Código Procesal Penal",
+        "objetivo": "Regular y validar el uso de técnicas especiales de investigación (interceptaciones, agente encubierto) bajo estricto control judicial, para que la inteligencia sea admisible en juicio."
+      },
+      {
+        "reforma": "Ley de Extinción de Dominio Ágil",
+        "objetivo": "Permitir la decomiso rápido de bienes basado en investigaciones financieras de la Agencia, sin necesidad de una condena penal previa en todos los casos."
+      }
+    ],
+    "vinculacion_con_otras_propuestas": {
+      "carceles_diferenciadas": "La Agencia proveerá la inteligencia penitenciaria para decidir qué reos del crimen organizado deben ser aislados en régimen especial.",
+      "operacion_blindaje": "La Agencia será la fuente principal de inteligencia estratégica y objetivos prioritarios para las operaciones tácticas de la Fuerza Pública y el OIJ."
+    }
+  }
+}

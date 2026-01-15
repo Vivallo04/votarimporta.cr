@@ -1,0 +1,87 @@
+[
+  {
+    "iniciativa": "Proyecto Agua para Guanacaste",
+    "marco_estrategico": "Eje 3: Agenda Social y Desarrollo Sostenible - Pilar de Desarrollo Sostenible y Ambiente (Gestión Hídrica y Resiliencia Climática)",
+    "vision": "Garantizar la seguridad hídrica de la región Chorotega a través de un proyecto estratégico que asegure acceso equitativo y resiliente al agua, sirviendo como motor de desarrollo productivo, bienestar social y competitividad regional frente al cambio climático.",
+    "diagnostico_problema": {
+      "crisis_hidrica": {
+        "region_afectada": "Provincia de Guanacaste (región Chorotega)",
+        "desafios_criticos": "Falta de acceso confiable a agua para saneamiento, potabilidad y producción",
+        "amenaza_sectores": "El rezago en servicios básicos amenaza la sostenibilidad del turismo y la agricultura"
+      },
+      "falla_institucional": {
+        "incapacidad_aya": "Acueductos y Alcantarillados (AyA) ha demostrado incapacidad para garantizar suministro confiable",
+        "retrasos_burocraticos": "Proyectos estratégicos enfrentan demoras que agravan la crisis"
+      }
+    },
+    "paradigma_estrategico": {
+      "transicion": "De una gestión hídrica reactiva y fragmentada a un modelo integral que prioriza la seguridad hídrica como base para el desarrollo humano, la resiliencia climática y la competitividad económica.",
+      "principios_rectores": ["Seguridad hídrica", "Resiliencia climática", "Equidad en el acceso", "Sostenibilidad", "Eficiencia institucional"]
+    },
+    "componentes_estrategia": [
+      {
+        "componente": "Garantía de Derechos y Sostenibilidad",
+        "propuesta": "Asegurar el acceso a agua de calidad y en cantidad para las generaciones presentes y futuras como derecho fundamental, resolviendo los desafíos críticos de saneamiento y potabilidad en la región Chorotega.",
+        "solucion": {
+          "proyecto_fundamental": "Ejecución prioritaria del Proyecto Agua para Guanacaste como infraestructura crítica",
+          "enfoque_derechos_humanos": "Colocar al ser humano en el centro de la política ambiental y de gestión hídrica",
+          "vision_intergeneracional": "Diseño que considera las necesidades de generaciones futuras"
+        },
+        "ejecucion": [
+          "Declaratoria de prioridad nacional y aceleración de trámites ambientales y técnicos",
+          "Asignación presupuestaria prioritaria dentro del gasto público en infraestructura"
+        ]
+      },
+      {
+        "componente": "Respuesta al Cambio Climático",
+        "propuesta": "Diseñar y construir la infraestructura con perspectiva prospectiva, considerando la evidencia científica sobre cambio climático para garantizar resiliencia a largo plazo.",
+        "solucion": {
+          "enfoque_prospectivo": "Planificación basada en escenarios futuros de variabilidad climática",
+          "resiliencia_hidrologica": "Infraestructura preparada para escenarios de variabilidad hidrológica extrema (sequías e inundaciones)",
+          "adaptacion_climatica": "Incorporación de criterios de adaptación al cambio climático en diseño y operación"
+        },
+        "ejecucion": [
+          "Estudios hidrológicos prospectivos que incluyan modelos climáticos regionales",
+          "Diseño de infraestructura modular y escalable para ajustarse a condiciones futuras"
+        ]
+      },
+      {
+        "componente": "Motor de Desarrollo Productivo y Social",
+        "propuesta": "Convertir el agua en eje transversal que viabilice el desarrollo de sectores estratégicos y mejore la calidad de vida en Guanacaste, priorizando usos productivos y consumo humano.",
+        "solucion": {
+          "agricultura": {
+            "democratizacion_acceso": "Garantizar 'agua para producir' mediante proyectos de riego tecnificado",
+            "expansion_productiva": "Ampliar en más de 50,000 hectáreas la zona productiva de la provincia"
+          },
+          "turismo": {
+            "sostenibilidad_cluster": "Asegurar suministro confiable para mantener la competitividad del clúster turístico",
+            "confianza_internacional": "Restaurar la confianza en servicios básicos para el sector turístico"
+          },
+          "consumo_humano": {
+            "priorizacion_comunidades": "Eliminar brechas de acceso que afectan salud y calidad de vida",
+            "bienestar_local": "Garantizar agua potable para todas las comunidades de la región"
+          }
+        },
+        "ejecucion": [
+          "Programa de riego tecnificado asociado al proyecto principal",
+          "Coordinación con sector turístico para planes de gestión hídrica específicos",
+          "Plan de conexión prioritaria para comunidades con mayor vulnerabilidad hídrica"
+        ]
+      },
+      {
+        "componente": "Reforma Institucional y Ejecución",
+        "propuesta": "Superar las incapacidades institucionales históricas mediante intervención decisiva, mecanismos ágiles de ejecución y fortalecimiento de la gestión comunitaria del agua.",
+        "solucion": {
+          "intervencion_institucional": "El Poder Ejecutivo intervendrá el AyA para eliminar retrasos burocráticos y garantizar avance del proyecto",
+          "modelos_concesion": "Diseño y concesión de la construcción como mecanismo para agilizar la puesta en marcha durante la administración",
+          "fortalecimiento_asadas": "Programa nacional complementario para robustecer acueductos comunales (ASADAS) en infraestructura de captación y almacenamiento"
+        },
+        "ejecucion": [
+          "Decreto de intervención del AyA para proyectos estratégicos de agua",
+          "Lanzamiento de proceso de concesión para construcción y operación de infraestructura",
+          "Plan de inversión en infraestructura para 500 ASADAS a nivel nacional, priorizando Guanacaste"
+        ]
+      }
+    ]
+  }
+]

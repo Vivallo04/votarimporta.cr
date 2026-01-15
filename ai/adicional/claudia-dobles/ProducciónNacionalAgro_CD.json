@@ -1,0 +1,61 @@
+{
+  "iniciativa": "Apoyo a Producción Nacional y Agro",
+  "eje": "Economía al servicio de la vida",
+  "propuestas": [
+    {
+      "propuesta": "Implementar la Ventanilla Única de Inversiones (VUI) para simplificación de trámites productivos",
+      "solucion": "Unificar digitalmente todos los trámites de formalización y operación de MIPYMES en un expediente único con silencio positivo, reduciendo la burocracia y tiempos de espera para emprendedores y productores",
+      "ejecucion": "Desarrollar e implementar la plataforma VUI que integre 50 trámites de 15 instituciones, aplicar el principio de silencio positivo con plazos máximos de 15 días, crear 30 centros de atención presencial complementarios y capacitar a 20,000 emprendedores en su uso"
+    },
+    {
+      "propuesta": "Crear fondos de financiamiento innovador para startups y MIPYMES",
+      "solucion": "Establecer mecanismos de financiamiento no tradicionales como subvenciones no reembolsables (grants) y capital de riesgo para apoyar la innovación y competitividad del sector productivo nacional",
+      "ejecucion": "Crear el Fondo Nacional de Innovación Productiva con $100 millones, implementar el programa de grants para 500 startups anuales, establecer alianzas con fondos de capital riesgo internacionales y desarrollar líneas de microcrédito especializado para innovación"
+    },
+    {
+      "propuesta": "Transformar digitalmente la economía social solidaria y diversificar su producción",
+      "solucion": "Modernizar las cooperativas mediante transformación digital y diversificación productiva para reducir su dependencia de monocultivos vulnerables al cambio climático y aumentar su resiliencia económica",
+      "ejecucion": "Implementar el Programa de Transformación Digital Cooperativa con 200 proyectos pilotos, crear 50 nuevas líneas de producción diversificada, establecer centros de innovación cooperativa regional y capacitar a 5,000 cooperativistas en gestión moderna"
+    },
+    {
+      "propuesta": "Transformar el CNP en una agencia de fomento productivo con enfoque en valor agregado",
+      "solucion": "Reconvertir el Consejo Nacional de Producción en una entidad moderna que promueva la competitividad, el valor agregado y la articulación de pequeños productores con mercados institucionales y de exportación",
+      "ejecucion": "Presentar proyecto de ley para transformar el CNP en la Agencia de Fomento Productivo, fortalecer el Programa de Abastecimiento Institucional (PAI) para incluir 5,000 nuevos pequeños productores, crear 20 centros de acopio y agregación de valor regional y desarrollar marcas colectivas para productos nacionales"
+    },
+    {
+      "propuesta": "Proteger la producción nacional mediante herramientas comerciales estratégicas",
+      "solucion": "Utilizar mecanismos de defensa comercial y negociación internacional para evitar que importaciones masivas y acuerdos comerciales desventajosos pongan en riesgo la producción agropecuaria y manufacturera nacional",
+      "ejecucion": "Crear el Comité de Defensa Comercial Agropecuaria, establecer salvaguardas automáticas para productos sensibles, fortalecer las capacidades de negociación comercial del país y realizar estudios de impacto previo a la firma de acuerdos comerciales"
+    },
+    {
+      "propuesta": "Promover la bioeconomía y economía circular en el sector agropecuario",
+      "solucion": "Incentivar la transformación de residuos agropecuarios en bioproductos de valor agregado como biogás, biofertilizantes y biomateriales, creando nuevas cadenas de valor sostenibles",
+      "ejecucion": "Implementar el Programa Nacional de Bioeconomía Agropecuaria con 100 proyectos demostrativos, crear incentivos fiscales para bioproductos, establecer 50 plantas de procesamiento de residuos y desarrollar protocolos de certificación para productos circulares"
+    },
+    {
+      "propuesta": "Implementar etiquetado de origen y nutricional para productos nacionales",
+      "solucion": "Establecer sistemas de etiquetado obligatorio que informen sobre el origen nacional de los productos y su valor nutricional, promoviendo el consumo local y la salud alimentaria",
+      "ejecucion": "Presentar y aprobar la Ley de Etiquetado de Origen y Nutricional, desarrollar la plataforma digital de verificación de origen, crear el sello 'Hecho en Costa Rica' diferenciado y establecer campañas masivas de promoción del consumo local"
+    },
+    {
+      "propuesta": "Reducir la carga química y promover agricultura orgánica certificada",
+      "solucion": "Disminuir gradualmente el uso de agroquímicos en la producción nacional mediante transición hacia prácticas orgánicas y de bajos insumos, asegurando alimentos más saludables y sostenibles",
+      "ejecucion": "Implementar el Plan Nacional de Reducción de Agroquímicos con meta del 30% en 5 años, crear el Programa de Certificación Orgánica Acelerada para 10,000 productores, establecer incentivos para conversión orgánica y fortalecer la investigación en control biológico"
+    },
+    {
+      "propuesta": "Facilitar acceso a tierra, asistencia técnica y crédito para mujeres y jóvenes rurales",
+      "solucion": "Garantizar el relevo generacional en el campo mediante acceso preferencial a recursos productivos para mujeres y jóvenes, incluyendo titularidad de tierra, asistencia técnica especializada y crédito adaptado",
+      "ejecucion": "Crear el Fondo de Tierras para Mujeres y Jóvenes Rurales, implementar el Programa de Asistencia Técnica Generacional, establecer líneas de crédito preferencial en banca estatal y desarrollar escuelas de liderazgo rural para 5,000 jóvenes anualmente"
+    },
+    {
+      "propuesta": "Desarrollar Plan de Ordenamiento Espacial Marino para pesca artesanal responsable",
+      "solucion": "Ordenar el uso del espacio marino costarricense para garantizar áreas exclusivas y protegidas para la pesca artesanal de pequeña escala, diferenciándola claramente de la pesca industrial",
+      "ejecucion": "Elaborar e implementar el Plan de Ordenamiento Espacial Marino con zonificación clara, crear 50 áreas de pesca artesanal exclusiva, establecer vedas dinámicas basadas en ciencia y desarrollar programas de valor agregado para productos del mar artesanales"
+    },
+    {
+      "propuesta": "Establecer créditos especializados del SBD para ciclos biológicos agropecuarios",
+      "solucion": "Diseñar instrumentos financieros adaptados a los ciclos productivos del campo, con tasas preferenciales, períodos de gracia y garantías estatales que respondan a las particularidades de la actividad agropecuaria",
+      "ejecucion": "Crear la Línea Agro del Sistema de Banca para el Desarrollo con tasas máximas del 5% anual, garantías del 80% del monto, períodos de gracia según ciclo productivo, y procesos de aprobación simplificados con evaluación por pares productivos"
+    }
+  ]
+}

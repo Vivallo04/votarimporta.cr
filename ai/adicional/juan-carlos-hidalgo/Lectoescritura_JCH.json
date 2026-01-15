@@ -1,0 +1,178 @@
+{
+  "iniciativa": "Cruzada Nacional por la Lectoescritura y el Aprendizaje Básico",
+  "marco_estrategico": "Eje 3: Agenda Social y Desarrollo Sostenible - Fundamento del Desarrollo Humano y la Equidad",
+  "vision": "Convertir a Costa Rica en una nación donde el 100% de los estudiantes desarrollen competencias sólidas en lectura, escritura y matemática básica como cimiento para el aprendizaje permanente, la empleabilidad digna y la participación ciudadana plena, cerrando las brechas de aprendizaje que reproducen la desigualdad.",
+  "diagnostico_crisis": {
+    "apagón_educativo": {
+      "primaria": "4 de cada 10 estudiantes no alcanzan nivel mínimo satisfactorio en lectura",
+      "matematica": "6 de cada 10 no alcanzan nivel mínimo en matemáticas",
+      "secundaria": "25% no pueden extraer ideas principales de textos de mediana complejidad"
+    },
+    "analfabetismo_funcional": "Aproximadamente 200,000 jóvenes entre 15-24 años en situación de analfabetismo funcional avanzado",
+    "impacto_economico": "Costo estimado de 1.5% del PIB anual en productividad perdida",
+    "reproduccion_pobreza": "85% de los que abandonan secundaria tenían rezago severo desde primaria",
+    "causas_estructurales": [
+      "Pedagogía obsoleta basada en memorización",
+      "Solo 30% de docentes capacitados en métodos de lectoescritura última década",
+      "40% hogares en quintiles I y II con menos de 10 libros",
+      "Currículo sobrecargado con tiempo insuficiente para competencias básicas"
+    ]
+  },
+  "paradigma_estrategico": {
+    "concepto": "Proyecto País - Pacto Social por el Aprendizaje",
+    "principios": [
+      "Aprendizaje básico como responsabilidad de toda la sociedad",
+      "Lectoescritura como derecho fundacional que habilita otros derechos",
+      "Equidad que comienza con aprendizajes equivalentes para todos"
+    ],
+    "enfoque": "Universalidad con enfoque diferencial, basado en evidencia científica, con participación corresponsable y sostenibilidad"
+  },
+  "componentes_estrategia": [
+    {
+      "componente": "Movilización Nacional Multisectorial y Comunicacional",
+      "propuesta": "Convertir la Cruzada en movimiento social visible que genere nueva cultura de valoración del aprendizaje básico.",
+      "solucion": {
+        "pacto_nacional": "Firma simbólica por todos los poderes y sectores, con mesas cantonales de implementación",
+        "estrategia_comunicacion": "Campaña 'Leer es Poder' multimedia, programas emblemáticos como 'La Hora de Leer en Familia'",
+        "red_voluntariado": "50,000 voluntarios capacitados y puntos de lectura comunitarios en espacios públicos"
+      },
+      "ejecucion": [
+        "Lanzamiento en primeros 30 días con acto simbólico nacional",
+        "Fondo de Comunicación Educativa: ₡2,000 millones anuales",
+        "Sistema digital de registro y capacitación de voluntarios"
+      ]
+    },
+    {
+      "componente": "Intervenciones Pedagógicas Diferenciadas por Nivel",
+      "propuesta": "Implementar estrategias específicas basadas en evidencia para cada nivel y tipo de rezago.",
+      "solucion": {
+        "intervencion_temprana": "Programa 'Primero Lee' con evaluación diagnóstica universal, tutorías intensivas (5 estudiantes máximo) y metodología fonética sintética",
+        "aceleracion_aprendizaje": "Programa 'Ponte al Día' de 12 semanas para rezago de 2+ años, con pedagogía por proyectos y nivelación en matemática básica",
+        "alfabetizacion_digital": "Estrategia 'Navega y Comprende' para competencia lectora en entornos digitales y producción digital como herramienta de expresión"
+      },
+      "ejecucion": [
+        "Formación de 10,000 docentes especialistas en metodologías de intervención temprana",
+        "Aulas de recursos especializados en cada circuito educativo",
+        "Plataforma de aprendizaje adaptativo con rutas personalizadas"
+      ]
+    },
+    {
+      "componente": "Lectoescritura como Eje de Equidad y Permanencia",
+      "propuesta": "Vincular desarrollo de competencias básicas con superación de barreras de acceso y permanencia.",
+      "solucion": {
+        "integracion_estudiar_sin_barreras": "Rezago en lectoescritura activa asignación automática de becas, alimentación y transporte; extensión a centros de cuido",
+        "programa_libros_en_casa": "Dotación de bibliotecas básicas familiares (50 libros) a 200,000 familias en pobreza con rutas de lectura guiada",
+        "escuelas_como_centros_comunitarios": "Bibliotecas escolares abiertas fines de semana y vacaciones, programas intergeneracionales de lectura"
+      },
+      "ejecucion": [
+        "Protocolo de articulación MEP-IMAS para asignación automática de beneficios",
+        "Fondo Editorial Nacional para producción y distribución masiva de libros",
+        "Certificación 'Escuela Lectora' con incentivos económicos por metas alcanzadas"
+      ]
+    },
+    {
+      "componente": "Transformación de la Formación Docente y Evaluación",
+      "propuesta": "Revolucionar apoyo y evaluación docente para garantizar efectividad en el aula.",
+      "solucion": {
+        "instituto_desarrollo_docente": "IDP renovado con maestrías en didáctica (5,000 becas), observación entre pares y micro-credenciales digitales",
+        "sistema_nacional_evaluacion": "SNEA autónomo con evaluaciones censales anuales (3°, 6°, 9°), informes diagnósticos accionables y banco nacional de ítems",
+        "red_maestros_investigadores": "500 comunidades de práctica docente con fondo de innovación pedagógica"
+      },
+      "ejecucion": [
+        "Ley de Creación del SNEA en primeros 18 meses",
+        "Reforma estatutaria del IDP para autonomía técnica y presupuestaria",
+        "Convenio con universidades públicas para acreditación de programas"
+      ]
+    },
+    {
+      "componente": "Conexión con Habilidades del Siglo XXI y Proyecto de Vida",
+      "propuesta": "Demostrar relevancia de competencias básicas para desarrollo personal y profesional en mundo actual.",
+      "solucion": {
+        "aprendo_para_la_vida": "Programa de lectura funcional (instructivos, contratos) y matemática cotidiana (impuestos, presupuestos) con proyectos de emprendimiento educativo",
+        "articulacion_bilinguismo_steam": "Secuencia lógica: primero dominio sólido de español, luego inglés; lectura científica como base para STEAM; matemática como fundamento de pensamiento computacional",
+        "rutas_progresion": "Certificación de competencias básicas con validez para empleadores y pasantías tempranas que demuestran aplicación práctica"
+      },
+      "ejecucion": [
+        "Revisión curricular integrada para conectar competencias básicas con aplicaciones prácticas",
+        "Alianzas con cámaras empresariales para diseño de certificaciones reconocidas",
+        "Ferias de Aplicación del Conocimiento anuales por región"
+      ]
+    }
+  ],
+  "gobernanza_implementacion": {
+    "estructura_gobierno": {
+      "consejo_nacional_cruzada": "Presidido por Presidente de la República, con Ministros de Educación, Cultura, Comunicación, rectores universitarios, líderes empresariales y comunitarios",
+      "comite_ejecutivo": "Nivel técnico con representantes de MEP, IDP, SNEA, universidades y organismos internacionales (UNESCO, BID)",
+      "comites_cantonales": "En los 82 cantones, coordinados por dirección regional educativa con participación de municipalidad, ONGs y líderes comunales"
+    },
+    "financiamiento": {
+      "inversion_total": "₡300,000 millones en 5 años (0.6% PIB anual)",
+      "fuentes": [
+        "50% reorientación presupuestaria MEP y FODESAF",
+        "25% préstamo BID/Banco Mundial para componentes específicos",
+        "15% contribución sector privado vía impuesto responsabilidad social educativa",
+        "10% cooperación internacional y donaciones"
+      ],
+      "mecanismo": "Fideicomiso Nacional para la Lectoescritura con auditoría internacional y rendición de cuentas trimestral"
+    }
+  },
+  "sistema_monitoreo_evaluacion": {
+    "indicadores_proceso": [
+      "Número de estudiantes en programas de intervención específica",
+      "Horas de tutoría adicional recibida por estudiante con rezago",
+      "Porcentaje de docentes capacitados en nuevas metodologías",
+      "Número de libros distribuidos por programa 'Libros en Casa'"
+    ],
+    "indicadores_resultado": [
+      "Porcentaje de estudiantes alcanzando nivel satisfactorio en pruebas de 3° grado",
+      "Reducción en brecha de resultados entre quintiles de ingreso I y V",
+      "Tasa de promoción oportuna en primaria",
+      "Nivel de comprensión lectora en entornos digitales (pruebas específicas)"
+    ],
+    "indicadores_impacto": [
+      "Reducción en tasa de abandono escolar asociada a rezago en lectoescritura",
+      "Mejora en resultados de pruebas PISA o LLECE en componentes de lectura",
+      "Incremento en tasa de transición efectiva primaria-secundaria",
+      "Percepción de empleadores sobre competencias básicas de egresados"
+    ],
+    "evaluaciones_independientes": "Semestrales por consorcio de universidades nacionales, anuales por organismos internacionales (UNESCO, OEI)"
+  },
+  "metricas_exito_principales": [
+    {
+      "indicador": "Porcentaje de estudiantes que alcanzan nivel satisfactorio en lectura al finalizar tercer grado",
+      "linea_base": "60%",
+      "meta_ano_3": "75%",
+      "meta_ano_5": "90%"
+    },
+    {
+      "indicador": "Brecha en resultados de lectura entre quintil de ingreso I y V (diferencia en puntos porcentuales)",
+      "linea_base": "35 puntos",
+      "meta_ano_3": "20 puntos",
+      "meta_ano_5": "10 puntos"
+    },
+    {
+      "indicador": "Tasa de abandono escolar en secundaria asociada a rezago en lectoescritura",
+      "linea_base": "8.5%",
+      "meta_ano_3": "5.0%",
+      "meta_ano_5": "2.5%"
+    },
+    {
+      "indicador": "Porcentaje de docentes de primaria certificados en metodologías de enseñanza de lectoescritura basadas en evidencia",
+      "linea_base": "30%",
+      "meta_ano_3": "70%",
+      "meta_ano_5": "100%"
+    },
+    {
+      "indicador": "Número de libros promedio por hogar en quintiles I y II",
+      "linea_base": "<10 libros",
+      "meta_ano_3": "25 libros",
+      "meta_ano_5": "50 libros"
+    }
+  ],
+  "cronograma_implementacion": {
+    "fase_0_movilizacion": "Meses 1-3: Lanzamiento, pacto nacional, campaña comunicacional, diagnóstico censal",
+    "fase_1_intervencion_intensiva": "Meses 4-24: Implementación programas 'Primero Lee' y 'Ponte al Día', formación docente masiva, dotación de materiales",
+    "fase_2_consolidacion": "Años 3-4: Expansión a 100% cobertura, implementación SNEA, articulación con habilidades siglo XXI",
+    "fase_3_sostenibilidad": "Año 5: Institucionalización, transferencia a estructuras permanentes, evaluación de impacto integral"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "iniciativa": "Justicia Restaurativa y Reinserción",
+  "eje": "Seguridad con Justicia",
+  "propuestas": [
+    {
+      "propuesta": "Consolidar y expandir la justicia restaurativa como modelo principal para delitos no violentos",
+      "solucion": "Establecer la justicia restaurativa como alternativa eficaz al encarcelamiento tradicional, priorizando la reparación integral del daño a las víctimas y la responsabilización activa de las personas ofensoras en casos de delitos de menor gravedad",
+      "ejecucion": "Crear la Ley de Justicia Restaurativa, capacitar a 500 operadores judiciales en metodologías restaurativas, implementar centros de mediación en todos los circuitos judiciales y establecer protocolos específicos para delitos contra la propiedad, daños y conflictos comunitarios"
+    },
+    {
+      "propuesta": "Implementar justicia restaurativa especializada para adolescentes en conflicto con la ley penal",
+      "solucion": "Desarrollar un sistema de justicia juvenil restaurativo que priorice la educación, la reparación y la reintegración social sobre el castigo punitivo, reconociendo la especial condición de desarrollo de las personas menores de edad",
+      "ejecucion": "Reformar la Ley de Justicia Penal Juvenil para incorporar principios restaurativos, crear 50 equipos interdisciplinarios de atención a adolescentes, implementar programas de reparación comunitaria y establecer convenios con el MEP para garantizar continuidad educativa"
+    },
+    {
+      "propuesta": "Ampliar y fortalecer los programas de reinserción socio-laboral en el sistema penitenciario",
+      "solucion": "Reducir significativamente la reincidencia delictiva mediante la creación de oportunidades reales de desarrollo personal, educativo y laboral para la población privada de libertad durante su permanencia en centros penales",
+      "ejecucion": "Contratar 300 profesionales en atención técnica penitenciaria, establecer 100 convenios con empresas para trabajo intramuros, implementar 50 programas de formación técnica acreditada y crear un sistema de ahorro programado para personas privadas de libertad"
+    },
+    {
+      "propuesta": "Implementar atención especializada con enfoque diferencial en el sistema penitenciario",
+      "solucion": "Reconocer y atender las necesidades específicas de grupos vulnerables dentro de la población penitenciaria, incluyendo mujeres, personas con consumo problemático de sustancias y personas con discapacidad",
+      "ejecucion": "Crear 10 módulos especializados para mujeres con enfoque de género, implementar 30 programas de tratamiento de adicciones con personal de salud mental, adaptar infraestructura para personas con discapacidad y capacitar a 800 funcionarios penitenciarios en enfoque diferencial"
+    },
+    {
+      "propuesta": "Regionalizar la atención penitenciaria femenina para favorecer el mantenimiento de vínculos familiares",
+      "solucion": "Garantizar que las mujeres privadas de libertad cumplan sus penas en establecimientos cercanos a sus redes de apoyo familiar y comunitario, facilitando procesos de reintegración y reduciendo el impacto del desarraigo",
+      "ejecucion": "Construir 5 centros penitenciarios regionales para mujeres, implementar programas de visitas familiares fortalecidas, crear sistemas de comunicación virtual con hijos/as y establecer alianzas con organizaciones comunitarias para apoyo post-penitenciario"
+    },
+    {
+      "propuesta": "Fortalecer los planes de egreso mediante coordinación interinstitucional integral",
+      "solucion": "Asegurar una transición exitosa de la vida intramuros a la vida en libertad mediante el acompañamiento coordinado de instituciones especializadas en protección social, empleo y vivienda",
+      "ejecucion": "Crear el Programa Nacional de Egreso Penitenciario, establecer mesas de coordinación trimestrales con IMAS, INAMU, CONAPAM y MTSS, diseñar rutas individualizadas de egreso y asignar 200 profesionales de apoyo psicosocial para seguimiento post-penitenciario"
+    },
+    {
+      "propuesta": "Desarrollar planes de vida individualizados para jóvenes en conflicto con la ley penal",
+      "solucion": "Ofrecer a la población penal juvenil proyectos de vida viables y atractivos que incluyan acceso inmediato a educación, formación técnica y empleo digno al recuperar su libertad",
+      "ejecucion": "Crear 30 centros de atención post-penal juvenil, establecer convenios con 100 empresas para empleo protegido, implementar programas de mentoría con profesionales voluntarios y desarrollar plataformas digitales de formación técnica acreditada"
+    },
+    {
+      "propuesta": "Implementar tecnología de control penitenciario que garantice seguridad sin vulnerar derechos humanos",
+      "solucion": "Recuperar el control estatal total de los centros penitenciarios mediante tecnología avanzada que impida actividades delictivas intramuros, manteniendo estrictos estándares de respeto a la dignidad humana",
+      "ejecucion": "Instalar sistemas de bloqueo de comunicaciones celulares y satelitales en todas las cárceles, implementar 500 escáneres corporales de última generación, crear sistemas biométricos de control de acceso y establecer protocolos de supervisión independiente del uso de tecnología"
+    },
+    {
+      "propuesta": "Incorporar perspectivas de género, diversidad y derechos humanos en la gestión penitenciaria",
+      "solucion": "Transformar la cultura y prácticas penitenciarias para que respondan a estándares internacionales de derechos humanos, con especial atención a poblaciones en situación de vulnerabilidad",
+      "ejecucion": "Crear la Unidad de Derechos Humanos Penitenciarios, capacitar a todos los funcionarios en estándares internacionales, implementar sistemas de quejas y seguimiento independientes y establecer alianzas con universidades para investigación y mejora continua"
+    }
+  ]
+}

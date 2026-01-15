@@ -1,0 +1,27 @@
+{
+  "eje": "4: Transformación Económica",
+  "componente": "Reducción del Impuesto sobre la Renta Corporativa",
+  "objetivo": "Mejorar la competitividad de Costa Rica frente a estándares internacionales, 'emparejar la cancha' disminuyendo la carga fiscal de los productores nacionales y facilitar un entorno de negocios más dinámico para generar empleo y crecimiento económico.",
+  "propuestas": [
+    {
+      "nombre": "Reducción Estructural del Impuesto sobre la Renta Corporativa al 25%",
+      "propuesta": "Reducir el impuesto sobre la renta corporativa al 25% como medida estructural para mejorar la competitividad, atraer inversión y generar empleo, alineando a Costa Rica con estándares internacionales.",
+      "solucion": [
+        "Converger con los promedios de la OCDE (21%) y Latinoamérica (22%) desde la tasa actual del 30%",
+        "Atraer inversión al hacer que producir e invertir en el país sea más atractivo en todo el territorio",
+        "Condicionar la reducción a la sostenibilidad fiscal del Estado",
+        "Complementar con la eliminación del 7.25% de cargas patronales para reducir el costo de contratar y operar formalmente",
+        "Modernizar la recaudación tributaria mediante inteligencia artificial y factura digital para reducir la evasión",
+        "Recomponer el gasto público revisando duplicidades institucionales y optimizando activos del Estado",
+        "Garantizar certeza jurídica y estabilidad en las reglas del juego para la confianza inversionista"
+      ],
+      "ejecucion": [
+        "Implementar la reducción de manera gradual y condicionada a indicadores de sostenibilidad fiscal",
+        "Desarrollar e implementar sistemas de control tributario con IA y factura digital",
+        "Realizar una revisión exhaustiva de duplicidades institucionales para optimizar el gasto público",
+        "Priorizar sectores críticos como seguridad y educación dentro del mismo marco fiscal",
+        "Establecer políticas de estabilidad jurídica y reglas claras para la inversión"
+      ]
+    }
+  ]
+}

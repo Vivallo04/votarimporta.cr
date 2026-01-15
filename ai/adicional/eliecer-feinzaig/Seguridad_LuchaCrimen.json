@@ -1,0 +1,82 @@
+{
+  "contexto": {
+    "eje": "Seguridad Ciudadana",
+    "area": "Lucha contra el Crimen"
+  },
+  "resumen": {
+    "problema": "La inseguridad en Costa Rica es un fenómeno multidimensional, multifactorial y transnacional que ha desbordado las capacidades del Estado. Se caracteriza por altas tasas de homicidios dolosos, violencia interpersonal y un avance descontrolado del crimen organizado, el cual ha fragmentado el territorio, infiltrado instituciones y utilizado las cárceles como centros de mando. La falta de coordinación policial, herramientas legales obsoletas, un sistema financiero vulnerable al lavado y la ausencia de control efectivo en fronteras y barrios críticos han permitido que las estructuras criminales operen con impunidad.",
+    "propuesta": "Lograr la 'primera gran victoria' contra el crimen mediante una estrategia integral y ofensiva que combine un fortalecimiento operativo masivo, una ofensiva legal severa, la asfixia financiera de las bandas, la recuperación física del territorio y una reforma penitenciaria profunda. El objetivo es atacar simultáneamente todos los eslabones de la cadena criminal: desde el reclutamiento hasta el financiamiento y la ejecución de delitos, con tres metas urgentes: disminuir homicidios, prevenir la violencia interpersonal y bloquear al crimen organizado.",
+    "solucion": {
+      "fortalecimiento_operativo_y_coordinacion": {
+        "aumento_de_fuerza": "Contratación de 10,000 nuevos oficiales de la Fuerza Pública y triplicar el contingente de la Policía de Tránsito.",
+        "mando_unificado": "Traslado de las policías especializadas (Tránsito, Fiscal y Unidad Especial de Intervención) bajo la rectoría única del Ministerio de Seguridad Pública para mejorar la coordinación estratégica.",
+        "lucha_contra_la_corrupcion": "Obligatoriedad de que todo el personal del OIJ, Fuerza Pública y Policía Penitenciaria rinda declaraciones patrimoniales ante la Contraloría General de la República para detectar enriquecimiento ilícito."
+      },
+      "ofensiva_legal_y_judicial": {
+        "declaratoria_de_narcoactividad": "Impulso de leyes para que delitos de narcotráfico y sicariato tengan prisión preventiva de un año no revisable y plazos de investigación duplicados.",
+        "crimen_organizado_juvenil": "Creación de un marco legal específico para perseguir a menores en estructuras criminales, permitiendo herramientas de investigación de adultos y limitando medidas alternativas en casos violentos.",
+        "emergencia_nacional": "Declaratoria de Emergencia Nacional en Seguridad para agilizar compras, contrataciones y construcción de infraestructura policial en 'puntos calientes'."
+      },
+      "asfixia_financiera_e_inteligencia": {
+        "inteligencia_financiera": "Traslado de la Unidad de Inteligencia Financiera (UIF) al Banco Central para dotarla de autonomía técnica y despolitizarla.",
+        "rastreo_de_activos": "Implementación de mecanismos para la trazabilidad de monedas virtuales y reformas para desincentivar el uso de efectivo en transacciones sospechosas.",
+        "golpe_al_contrabando": "Reducción de distorsiones impositivas que incentivan el comercio ilícito de cigarrillos, alcohol y medicamentos, el cual financia a las bandas."
+      },
+      "recuperacion_del_territorio_y_control": {
+        "muro_tecnologico": "Instalación de drones, radares, biometría y escáneres en fronteras, puertos y costas (integrado con el área de 'Tecnología y Fronteras').",
+        "operativos_de_choque": "Ejecución de operativos tipo retén constantes (de 10 a 12 horas) en cantones de alta prevalencia criminal como Limón, San José, Puntarenas y Alajuela.",
+        "control_de_mares": "Refuerzo del Servicio Nacional de Guardacostas, devolviendo su puesto en Bahía Drake y ampliando el patrullaje conjunto con Estados Unidos."
+      },
+      "reforma_del_sistema_penitenciario": {
+        "concesion_de_carceles": "Uso de Alianzas Público-Privadas para diseñar y construir nuevos centros que permitan la segregación de reclusos por peligrosidad.",
+        "bloqueo_de_señales": "Aislamiento efectivo de los centros penitenciarios de la señal de telefonía celular para cortar la comunicación criminal desde el interior."
+      },
+      "prevencion_social_como_alternativa": {
+        "prevencion_situacional": "Recuperación de espacios públicos, mejora de iluminación y limpieza en barrios críticos para obstaculizar la actividad delictiva.",
+        "cultura_y_deporte": "Uso del arte y el deporte como herramientas de cohesión social. Implementación del 'ingreso creativo comunitario', un subsidio condicionado para jóvenes en riesgo que desarrollen proyectos culturales locales."
+      }
+    },
+    "ejecucion": {
+      "fase_1_declaratoria_y_estructuracion_de_emergencia": {
+        "descripcion": "Activación del marco de excepción para agilizar todas las acciones y creación de la estructura de mando unificado.",
+        "acciones_clave": [
+          "Declaratoria de Emergencia Nacional en Seguridad por parte del Poder Ejecutivo.",
+          "Traslado inmediato de las policías especializadas bajo el mando del Ministerio de Seguridad Pública.",
+          "Inicio del proceso masivo de contratación de los 10,000 nuevos oficiales."
+        ]
+      },
+      "fase_2_ofensiva_legal_y_despliegue_operativo_inmediato": {
+        "descripcion": "Puesta en marcha de las nuevas herramientas legales y despliegue policial en territorio.",
+        "acciones_clave": [
+          "Presentación y trámite expedito en la Asamblea Legislativa del paquete de leyes de 'narcoactividad' y 'crimen organizado juvenil'.",
+          "Inicio de operativos de choque sostenidos en los cantones priorizados.",
+          "Activación del requisito de declaraciones patrimoniales obligatorias para el personal policial y del OIJ."
+        ]
+      },
+      "fase_3_implementacion_tecnologica_y_financiera": {
+        "descripcion": "Despliegue del componente tecnológico y reestructuración del sistema de inteligencia financiera.",
+        "acciones_clave": [
+          "Instalación inicial del 'Muro Tecnológico' en puntos fronterizos críticos (coordinado con el área específica).",
+          "Traslado formal de la UIF al Banco Central y dotación de capacidades para rastreo de criptoactivos.",
+          "Implementación de las reformas para desincentivar el uso de efectivo en actividades de riesgo."
+        ]
+      },
+      "fase_4_intervencion_penitenciaria_y_social": {
+        "descripcion": "Ataque a las bases logísticas del crimen en las cárceles y lanzamiento de programas sociales preventivos.",
+        "acciones_clave": [
+          "Lanzamiento de los procesos de concesión para nuevas cárceles y despliegue de sistemas de bloqueo de señal celular en centros existentes.",
+          "Inicio de los programas de recuperación de espacios públicos e iluminación en barrios críticos.",
+          "Lanzamiento y primera convocatoria del 'ingreso creativo comunitario' para jóvenes."
+        ]
+      },
+      "fase_5_consolidacion_y_evaluacion_continua": {
+        "descripcion": "Integración total del sistema, evaluación de resultados y ajustes tácticos.",
+        "acciones_clave": [
+          "Evaluación trimestral de indicadores clave (tasa de homicidios, incautaciones, desarticulación de bandas).",
+          "Revisión y ajuste de protocolos operativos y legales basados en la inteligencia recopilada.",
+          "Consolidación de las alianzas internacionales (EE.UU. y otros) para operativos conjuntos y capacitación."
+        ]
+      }
+    }
+  }
+}

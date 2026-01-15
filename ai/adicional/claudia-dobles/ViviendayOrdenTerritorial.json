@@ -1,0 +1,55 @@
+{
+  "eje": "Vivienda y Ordenamiento Territorial",
+  "propuestas": [
+    {
+      "propuesta": "Facilitar acceso a vivienda digna para grupos vulnerables",
+      "solucion": "Proporcionar soluciones habitacionales adaptadas a necesidades específicas de familias en pobreza, personas con discapacidad y pueblos indígenas",
+      "ejecucion": "Desarrollar programas de vivienda con materiales y diseños culturalmente apropiados, asegurando respeto a tradiciones y costumbres"
+    },
+    {
+      "propuesta": "Crear soluciones habitacionales para clase media y jóvenes",
+      "solucion": "Ofrecer alternativas accesibles mediante bonos diferidos y alquileres asequibles",
+      "ejecucion": "Implementar programas de bono diferido de vivienda y desarrollar oferta de alquileres accesibles en zonas tensionadas"
+    },
+    {
+      "propuesta": "Garantizar vivienda digna para personas adultas mayores",
+      "solucion": "Crear opciones habitacionales específicas y modelos financieros innovadores para la vejez",
+      "ejecucion": "Establecer programas de vivienda en alquiler para adultos mayores e implementar el modelo de hipoteca inversa"
+    },
+    {
+      "propuesta": "Desarrollar territorios inteligentes y conectados",
+      "solucion": "Planificar regiones basadas en actividades económicas sostenibles y conectividad",
+      "ejecucion": "Integrar planes reguladores con planes de transporte regional, enfocados en agroindustria, ecoturismo y bioeconomía"
+    },
+    {
+      "propuesta": "Proteger recursos hídricos mediante ordenamiento territorial",
+      "solucion": "Priorizar la gestión integrada de cuencas para asegurar seguridad hídrica",
+      "ejecucion": "Basar el ordenamiento territorial en protección de nacientes y mantos acuíferos, con planes de gestión de cuencas"
+    },
+    {
+      "propuesta": "Elevar a rango constitucional el derecho a la ciudad",
+      "solucion": "Garantizar acceso a espacios públicos seguros y ciudades inclusivas",
+      "ejecucion": "Promover reforma constitucional y desarrollar políticas de espacios públicos accesibles, rehabilitación de centros urbanos"
+    },
+    {
+      "propuesta": "Combatir la gentrificación en zonas costeras y turísticas",
+      "solucion": "Proteger comunidades locales del desplazamiento por presión inmobiliaria",
+      "ejecucion": "Incorporar en planes reguladores instrumentos anti-gentrificación y reservas de suelo para vivienda asequible"
+    },
+    {
+      "propuesta": "Regular alquileres de corto plazo para evitar especulación",
+      "solucion": "Controlar plataformas digitales de alquiler y verificar cumplimiento tributario",
+      "ejecucion": "Establecer regulación específica para alquileres turísticos y mecanismos de verificación de pago de impuestos"
+    },
+    {
+      "propuesta": "Rehabilitar edificios desocupados para uso habitacional y comunitario",
+      "solucion": "Aprovechar espacios urbanos subutilizados para soluciones habitacionales",
+      "ejecucion": "Identificar y rehabilitar edificios desocupados en centros urbanos para convertirlos en vivienda o centros comunitarios"
+    },
+    {
+      "propuesta": "Integrar infraestructura verde en el diseño urbano",
+      "solucion": "Aumentar resiliencia climática y calidad estética de los barrios",
+      "ejecucion": "Implementar corredores biológicos urbanos, jardines de lluvia y techos verdes en desarrollos habitacionales"
+    }
+  ]
+}

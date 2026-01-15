@@ -1,0 +1,66 @@
+{
+  "iniciativa": "Conservación de la Biodiversidad",
+  "eje": "Acción Climática y Justicia Ambiental",
+  "propuestas": [
+    {
+      "propuesta": "Fortalecer financieramente a SINAC, CONAGEBIO y SETENA mediante blindaje presupuestario",
+      "solucion": "Garantizar que las entidades rectoras de conservación y evaluación ambiental cuenten con recursos suficientes y estables para ejercer efectivamente sus competencias de protección de la biodiversidad",
+      "ejecucion": "Aprobar ley de asignación específica de recursos provenientes de cánones ambientales, incrementar en un 40% el presupuesto del SINAC, contratar 500 nuevos profesionales técnicos y establecer un fondo de emergencia para áreas protegidas"
+    },
+    {
+      "propuesta": "Implementar modelos de co-manejo participativo en Áreas Silvestres Protegidas",
+      "solucion": "Promover la gestión colaborativa de las áreas protegidas mediante la participación activa de ONGs, asociaciones de desarrollo y comunidades locales en la toma de decisiones y administración",
+      "ejecucion": "Establecer 50 convenios de co-manejo en áreas protegidas prioritarias, crear comités locales de gestión con participación comunitaria, capacitar a 1,000 líderes locales en conservación y desarrollar planes de manejo participativos"
+    },
+    {
+      "propuesta": "Reformar SETENA hacia un sistema de peritaje independiente y regentes acreditados aleatoriamente",
+      "solucion": "Garantizar evaluaciones de impacto ambiental rigurosas, imparciales y científicamente sólidas mediante la creación de un sistema de peritos independientes y asignación aleatoria de regentes ambientales",
+      "ejecucion": "Presentar reforma legal para transformar SETENA, crear el Registro Nacional de Peritos Ambientales Independientes, implementar sistema de asignación aleatoria de regentes y establecer sanciones severas por conflictos de interés"
+    },
+    {
+      "propuesta": "Reconocer y fortalecer las autoridades ambientales territoriales indígenas",
+      "solucion": "Dotar a las autoridades indígenas de capacidades legales y técnicas para regular el uso de recursos naturales en sus territorios, en coordinación con las instituciones ambientales nacionales",
+      "ejecucion": "Crear el Programa de Fortalecimiento de Autoridades Ambientales Indígenas, establecer convenios de co-gestión para 24 territorios indígenas, capacitar a 300 autoridades tradicionales y crear fondos para proyectos de conservación indígena"
+    },
+    {
+      "propuesta": "Garantizar el acceso de pueblos indígenas a Áreas Silvestres Protegidas para usos tradicionales",
+      "solucion": "Reconocer y facilitar el acceso de las comunidades indígenas a las áreas protegidas para la práctica de sus usos y costumbres tradicionales, así como su participación activa en la gestión de estas áreas",
+      "ejecucion": "Establecer protocolos de acceso cultural a 30 áreas protegidas, crear comités mixtos de gestión con participación indígena, desarrollar planes de manejo que integren conocimientos tradicionales y regular el acceso para prácticas culturales específicas"
+    },
+    {
+      "propuesta": "Implementar el Acuerdo de Escazú para protección de defensores ambientales y participación ciudadana",
+      "solucion": "Garantizar transparencia, acceso a la información, participación pública y protección especial para personas defensoras del ambiente en asuntos relacionados con la conservación de la biodiversidad",
+      "ejecucion": "Crear la Comisión Nacional de Implementación del Escazú, establecer el Sistema de Protección para Defensores Ambientales, desarrollar plataformas de información ambiental accesible y capacitar a funcionarios y jueces en justicia ambiental"
+    },
+    {
+      "propuesta": "Fortalecer el Pago por Servicios Ambientales (PSA) de nueva generación con enfoque de equidad",
+      "solucion": "Rediseñar el programa de PSA para priorizar a mujeres rurales, territorios indígenas y micro-propietarios, incorporando nuevos servicios ecosistémicos y criterios de justicia distributiva",
+      "ejecucion": "Crear el PSA Equitativo con el 50% de los fondos destinados a mujeres y pueblos indígenas, incorporar servicios de polinización y belleza escénica, establecer incentivos para recuperación de semillas nativas y simplificar trámites para pequeños propietarios"
+    },
+    {
+      "propuesta": "Consolidar a CONAGEBIO como ente rector de bioprospección y desarrollo de bio-PYMES",
+      "solucion": "Transformar la Comisión Nacional para la Gestión de la Biodiversidad en un motor de la bioeconomía mediante la regulación de la bioprospección y el apoyo a emprendimientos basados en la biodiversidad",
+      "ejecucion": "Fortalecer el presupuesto y capacidades técnicas de CONAGEBIO, crear el Centro de Innovación en Bioeconomía, establecer el Fondo de Bio-emprendimientos y diseñar protocolos de reparto justo de beneficios con comunidades"
+    },
+    {
+      "propuesta": "Desarrollar el turismo regenerativo vinculado a la observación de biodiversidad y cultura local",
+      "solucion": "Transitar del turismo sostenible al regenerativo donde la actividad turística devuelva más de lo que toma, integrando la observación de biodiversidad con la valoración de la cultura y generación de beneficios locales",
+      "ejecucion": "Crear la Certificación Nacional de Turismo Regenerativo, establecer 50 rutas de observación de biodiversidad con comunidades, capacitar a 2,000 guías locales en interpretación ambiental y destinar el 30% de ingresos a fondos de conservación local"
+    },
+    {
+      "propuesta": "Fortalecer la gestión de corredores biológicos como estrategia de adaptación climática",
+      "solucion": "Consolidar los corredores biológicos como herramientas clave para la conectividad ecológica y la adaptación al cambio climático en todas las regiones del país",
+      "ejecucion": "Aprobar la Ley de Corredores Biológicos, crear el Sistema Nacional de Corredores, establecer fondos para compensación por servicios de conectividad y desarrollar planes de manejo para los 44 corredores existentes"
+    },
+    {
+      "propuesta": "Restaurar ecosistemas dulceacuícolas: humedales, lagos, lagunas, arrecifes y manglares",
+      "solucion": "Recuperar y proteger los ecosistemas de agua dulce y costeros mediante proyectos comunitarios de restauración que incrementen la resiliencia climática y generen beneficios locales",
+      "ejecucion": "Implementar el Programa Nacional de Restauración de Ecosistemas Acuáticos, restaurar 10,000 hectáreas de humedales, desarrollar 50 proyectos de carbono azul comunitario y crear el Inventario Nacional de Ecosistemas Dulceacuícolas"
+    },
+    {
+      "propuesta": "Crear la categoría de Parques Naturales Urbanos para integrar biodiversidad en ciudades",
+      "solucion": "Establecer una nueva figura de protección que permita integrar la conservación de la biodiversidad en el entorno urbano, mejorando la calidad de vida y resiliencia de las ciudades",
+      "ejecucion": "Crear la Ley de Parques Naturales Urbanos, establecer 30 parques en las principales ciudades, implementar infraestructura verde en espacios públicos y desarrollar programas de educación ambiental urbana"
+    }
+  ]
+}

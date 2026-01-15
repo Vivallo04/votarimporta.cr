@@ -1,0 +1,32 @@
+{
+  "eje": "Política Social",
+  "area": "Salud",
+  "resumen": {
+    "problema": "El sistema de salud enfrenta una crisis debido al deterioro físico de hospitales, saturación de servicios, brecha entre demanda y capacidad instalada, y el desafío de un envejecimiento poblacional acelerado (14% son adultos mayores). Las listas de espera son la antítesis de la igualdad en el acceso, y existe una brecha territorial entre la Gran Área Metropolitana y las zonas rurales. Además, hay un incremento preocupante en problemas de salud mental, como intentos de suicidio, especialmente en mujeres y adolescentes de zonas costeras.",
+    "propuesta": "Transformar la salud de un modelo asistencialista a un motor estratégico para el desarrollo y la reactivación económica, asegurando un capital humano productivo y con bienestar integral. Se busca una salud oportuna y de calidad que genere autonomía y capacidades, integrando innovación tecnológica y enfoque territorial para superar la crisis actual.",
+    "solucion": [
+      "Gestión Eficiente de Listas de Espera: Declarar Emergencia Institucional para abordar las listas de espera mediante tecnologías inteligentes de depuración, jornadas extraordinarias de cirugía y alianzas público-privadas responsables, manteniendo la rectoría estatal.",
+      "Regionalización y Equidad Territorial: Construir centros especializados (como oncológicos) en regiones periféricas (Puntarenas, Cartago, Limón, Golfito) y fortalecer la atención primaria (EBAIS y CAIS) en zonas rurales y fronterizas para evitar desplazamientos innecesarios.",
+      "Salud Digital e Innovación: Implementar un sistema de 'Salud Digital' con interoperabilidad de datos entre la CCSS y el Ministerio de Salud, expedientes digitales unificados y telemedicina para ampliar cobertura y eficiencia.",
+      "Enfoque en Salud Mental: Crear un Programa Nacional de Salud Mental y Bienestar con clínicas móviles juveniles y campañas en centros educativos para detección temprana de riesgos, especialmente en poblaciones vulnerables.",
+      "Programa 'Salud de Oro' para Adultos Mayores: Fortalecer la atención geriátrica con hospitales de día, atención domiciliar y promoción de un envejecimiento activo, vinculado con seguridad social para acceso prioritario a pensiones y vida digna.",
+      "Prevención y Modelo Proactivo: Migrar hacia un modelo de salud preventivo (no solo reactivo) para enfrentar el envejecimiento poblacional y reducir la carga de enfermedades crónicas."
+    ],
+    "ejecucion": [
+      "Declarar Emergencia Institucional en el sistema de salud para gestionar listas de espera.",
+      "Utilizar tecnologías inteligentes para depurar y organizar las listas de espera.",
+      "Realizar jornadas extraordinarias de cirugía y procedimientos médicos.",
+      "Establecer alianzas público-privadas responsables para complementar la capacidad del sistema público.",
+      "Construir centros oncológicos regionales en Puntarenas, Cartago, Limón y Golfito.",
+      "Fortalecer la red de EBAIS y CAIS en zonas rurales y fronterizas.",
+      "Implementar sistemas de interoperabilidad de datos entre la CCSS y el Ministerio de Salud.",
+      "Desarrollar e implementar expedientes digitales unificados para pacientes.",
+      "Expandir los servicios de telemedicina a nivel nacional.",
+      "Lanzar el Programa Nacional de Salud Mental y Bienestar con clínicas móviles juveniles.",
+      "Realizar campañas de bienestar emocional y detección temprana en centros educativos.",
+      "Crear el programa 'Salud de Oro' con hospitales de día y atención domiciliar para adultos mayores.",
+      "Vincular el programa 'Salud de Oro' con el sistema de pensiones para garantizar prioridad en el acceso.",
+      "Diseñar e implementar políticas de salud preventiva enfocadas en el envejecimiento poblacional y enfermedades crónicas."
+    ]
+  }
+}

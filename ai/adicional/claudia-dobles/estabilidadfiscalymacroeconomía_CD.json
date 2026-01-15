@@ -1,0 +1,46 @@
+{
+  "iniciativa": "Fiscal y Macroeconómica",
+  "eje": "Economía al servicio de la vida",
+  "propuestas": [
+    {
+      "propuesta": "Implementar disciplina fiscal estratégica con propósito democrático y social",
+      "solucion": "Establecer una consolidación fiscal que priorice la inversión pública en derechos fundamentales, utilizando la disciplina presupuestaria como herramienta para fortalecer la capacidad del Estado en salud, educación, seguridad e infraestructura, garantizando que el ajuste fiscal no afecte los programas sociales esenciales",
+      "ejecucion": "Diseñar e implementar el Plan de Consolidación Fiscal con Propósito Democrático 2025-2030, crear el Consejo de Evaluación del Gasto Público con participación ciudadana, establecer mecanismos de rendición de cuentas trimestral sobre la ejecución presupuestaria en áreas sociales, y priorizar el gasto de capital sobre el gasto corriente mediante la eliminación de duplicidades y digitalización de procesos administrativos"
+    },
+    {
+      "propuesta": "Aumentar la recaudación en 1.5% del PIB mediante eficiencia y combate a la evasión fiscal",
+      "solucion": "Incrementar los ingresos tributarios sin crear nuevos impuestos ni aumentar tasas existentes, mediante la modernización tecnológica de la administración tributaria, cruces automáticos de información y algoritmos avanzados para detectar y combatir la evasión y elusión fiscal de manera eficiente",
+      "ejecucion": "Implementar la plataforma 'Hacienda Digital Integral' con facturación electrónica obligatoria para todos los contribuyentes, desarrollar sistemas de inteligencia artificial para análisis de patrones de evasión, fortalecer los acuerdos de intercambio automático de información con jurisdicciones internacionales, crear la Unidad Especializada en Delitos Fiscales Complejos y capacitar a 800 funcionarios en técnicas de fiscalización digital avanzada"
+    },
+    {
+      "propuesta": "Gestionar responsablemente la deuda pública para reducir intereses y liberar recursos sociales",
+      "solucion": "Mantener un superávit primario sostenido y reducir el pago de intereses de la deuda mediante una gestión activa que aproveche condiciones de mercado favorables, con el objetivo de que la deuda total sea inferior al 54.2% del PIB para 2030 y los recursos liberados se destinen a inversión social y fortalecimiento de pensiones",
+      "ejecucion": "Implementar la Estrategia Nacional de Gestión de Deuda 2025-2030, establecer un Comité Técnico Interinstitucional para monitoreo permanente, negociar refinanciamientos a tasas más bajas con organismos multilaterales, crear el Fondo de Inversión Social con los ahorros por reducción de intereses, y mantener calificaciones crediticias que permitan acceso a mercados en condiciones favorables"
+    },
+    {
+      "propuesta": "Garantizar la autonomía del Banco Central con visión de bienestar y empleo",
+      "solucion": "Preservar la independencia del Banco Central de Costa Rica (BCCR) para mantener la estabilidad de precios, pero incorporando consideraciones sobre el impacto de las tasas de interés en el dinamismo económico, el crecimiento del empleo y el bienestar de las familias, buscando un balance entre control inflacionario y promoción del desarrollo productivo",
+      "ejecucion": "Establecer diálogos periódicos entre el BCCR, el Ministerio de Hacienda y el Ministerio de Economía para alinear políticas, crear el Observatorio Ciudadano de Política Monetaria, realizar estudios de impacto de las tasas de interés en PYMEs y empleo, y fortalecer la transparencia en la comunicación de decisiones de política monetaria"
+    },
+    {
+      "propuesta": "Implementar gestión cambiaria independiente para instituciones del sector público no financiero",
+      "solucion": "Permitir que las instituciones del Estado gestionen sus necesidades de divisas directamente en el mercado interbancario (MONEX), reduciendo la dependencia del Banco Central, mejorando la eficiencia operativa y optimizando el uso de reservas internacionales para fines de política monetaria",
+      "ejecucion": "Desarrollar la plataforma 'Sistema de Gestión Cambiaria Institucional', capacitar a 500 funcionarios de instituciones públicas en operaciones cambiarias, establecer protocolos de cobertura de riesgo para compras en moneda extranjera, y crear un comité interinstitucional para monitorear y evaluar la implementación progresiva del sistema"
+    },
+    {
+      "propuesta": "Promover inclusión financiera y combatir el crédito informal 'gota a gota' mediante alternativas formales",
+      "solucion": "Crear categorías especiales de crédito de consumo de baja denominación para poblaciones vulnerables, utilizando procesos automatizados y criterios flexibles que ofrezcan alternativas seguras y accesibles frente a los préstamos informales de alto riesgo, promoviendo la bancarización y protección financiera",
+      "ejecucion": "Diseñar e implementar el Programa Nacional de Inclusión Financiera, establecer líneas de crédito de consumo con tasas preferenciales en banca estatal, desarrollar plataformas digitales de microcrédito con procesos automatizados de aprobación, crear campañas educativas sobre riesgos del crédito informal, y fortalecer la regulación y supervisión de entidades no bancarias"
+    },
+    {
+      "propuesta": "Aumentar gradualmente la inversión pública en sectores estratégicos para el bienestar",
+      "solucion": "Incrementar sustancialmente el presupuesto destinado a educación, seguridad, infraestructura e inversión social, con metas específicas para 2030 que permitan cerrar brechas de desarrollo y garantizar el acceso universal a derechos fundamentales",
+      "ejecucion": "Establecer el Plan de Inversión Pública Prioritaria 2025-2030 con incrementos anuales progresivos: educación (+1.15% del PIB acumulado), seguridad y justicia (+0.60% del PIB), infraestructura (del 1.8% al 3.0% del PIB), e inversión social (+0.60% del PIB); crear mecanismos de seguimiento y evaluación de impacto; y asegurar la ejecución eficiente mediante proyectos bien estructurados y supervisión ciudadana"
+    },
+    {
+      "propuesta": "Fortalecer la competencia y protección al consumidor mediante una COPROCOM robustecida",
+      "solucion": "Empoderar a la Comisión para Promover la Competencia (COPROCOM) para detectar, investigar y sancionar prácticas anticompetitivas en mercados oligopólicos y monopólicos, asegurando que los beneficios de la eficiencia económica se traduzcan en precios más bajos y mayor calidad para los consumidores",
+      "ejecucion": "Presentar reformas legales para fortalecer las facultades y autonomía de la COPROCOM, incrementar su presupuesto en un 50%, contratar 30 especialistas en análisis de competencia, implementar sistemas de inteligencia de mercado para detección temprana de prácticas anticompetitivas, y lanzar campañas masivas de educación al consumidor sobre sus derechos"
+    }
+  ]
+}

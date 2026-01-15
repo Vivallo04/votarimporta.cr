@@ -1,0 +1,77 @@
+{
+  "eje": "4: Transformación Económica",
+  "componente": "Infraestructura y Logística",
+  "objetivo": "Emparejar la cancha y convertir a Costa Rica en un hub exportador competitivo, inclusivo y sostenible, reduciendo costos operativos, facilitando el flujo de mercancías y personas, y generando empleos de alta calidad en todo el territorio.",
+  "propuestas": [
+    {
+      "nombre": "Transformación Institucional: De la Gestión a la Especialización",
+      "propuesta": "Reforma profunda para superar la dispersión de funciones y burocracia en la gestión de infraestructura y transporte mediante la creación de entidades especializadas.",
+      "solucion": [
+        "Dividir el Ministerio de Obras Públicas y Transportes (MOPT) en dos entidades independientes: una enfocada en Infraestructura y otra en Movilidad y Gestión Urbana",
+        "Transformar el Consejo Nacional de Concesiones en la Agencia Nacional de Infraestructura (ANI), un ente público no estatal con gobernanza público-privada",
+        "Profesionalizar la planificación y promoción de proyectos bajo modalidad de Alianza Público-Privada (APP)"
+      ],
+      "ejecucion": [
+        "Presentación de proyecto de ley para división del MOPT",
+        "Reforma legal para creación de la Agencia Nacional de Infraestructura (ANI)",
+        "Establecimiento de gobernanza público-privada en la ANI",
+        "Capacitación y contratación de personal especializado"
+      ]
+    },
+    {
+      "nombre": "Modelos de Financiamiento Innovadores",
+      "propuesta": "Diversificar fuentes de capital para resolver el rezago histórico en infraestructura sin comprometer la estabilidad fiscal, mediante mecanismos financieros innovadores.",
+      "solucion": [
+        "Impulsar que las Operadoras de Pensiones inviertan en proyectos de infraestructura mediante fideicomisos y fondos de inversión de desarrollo",
+        "Venta de activos no estratégicos del Estado",
+        "Concesión de carreteras existentes para asegurar su mantenimiento preventivo y correctivo",
+        "Liberar recursos del presupuesto nacional para otras prioridades"
+      ],
+      "ejecucion": [
+        "Creación de mecanismos legales para inversión de fondos de pensiones en infraestructura",
+        "Identificación y venta de activos no estratégicos",
+        "Lanzamiento de procesos de concesión para carreteras existentes",
+        "Diseño de fideicomisos y fondos de inversión específicos para infraestructura"
+      ]
+    },
+    {
+      "nombre": "Red Vial Estratégica y Conectividad Logística",
+      "propuesta": "Desarrollar una red vial eficiente que conecte centros de producción con puntos de salida, priorizando rutas clave y corredores regionales para mejorar la competitividad del sector productivo.",
+      "solucion": [
+        "Finalización de la Ruta 32 (incluyendo pasos peatonales e intercambios)",
+        "Ampliación de la Ruta 27",
+        "Completar la carretera a San Carlos",
+        "Concluir la Ruta 1 (Sabana-San Ramón)",
+        "Desarrollar el Corredor Norte para agilizar tránsito desde zona norte hacia Puerto Limón",
+        "Implementar la Ruta del Sol para dinamizar la costa de Guanacaste y Puntarenas",
+        "Modernizar Puerto Caldera y desarrollar terminal de cruceros y marina en Limón",
+        "Ampliar integralmente el Aeropuerto Daniel Oduber en Liberia"
+      ],
+      "ejecucion": [
+        "Priorización y asignación de recursos para finalización de rutas clave",
+        "Desarrollo de proyectos de corredores regionales mediante APP",
+        "Ejecución de planes de modernización portuaria",
+        "Implementación de ampliación aeroportuaria en Liberia",
+        "Coordinación interinstitucional para proyectos logísticos integrados"
+      ]
+    },
+    {
+      "nombre": "Logística Digital y Facilitación del Comercio",
+      "propuesta": "Complementar la infraestructura física con una capa digital para reducir tiempos y costos, facilitando el comercio y la inversión mediante sistemas unificados y planificación estratégica.",
+      "solucion": [
+        "Convertir la Ventanilla Única de Inversión (VUI) en el sistema unificado para todos los trámites institucionales y municipales",
+        "Asegurar procesos 100% digitales y trazables",
+        "Desarrollar un Plan Nacional de Logística y Movilidad para orientar inversiones",
+        "Crear clústeres de logística verde y servicios globales",
+        "Garantizar que empresas del régimen definitivo tengan el mismo nivel de servicio que las zonas francas"
+      ],
+      "ejecucion": [
+        "Desarrollo e implementación obligatoria de la plataforma VUI ampliada",
+        "Digitalización completa de trámites municipales e institucionales",
+        "Formulación y adopción del Plan Nacional de Logística y Movilidad",
+        "Diseño e implementación de clústeres logísticos",
+        "Capacitación y recursos para atención a empresas fuera del régimen de zonas francas"
+      ]
+    }
+  ]
+}

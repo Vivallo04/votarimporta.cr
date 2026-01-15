@@ -1,0 +1,217 @@
+{
+  "iniciativa": "Integración del Enfoque STEAM e Inteligencia Artificial Pedagógica en el Sistema Educativo",
+  "marco_estrategico": "Eje 3: Agenda Social y Desarrollo Sostenible - Pilar de Educación para la Economía del Conocimiento",
+  "vision": "Transformar el sistema educativo costarricense en un ecosistema de aprendizaje interdisciplinario, personalizado y basado en competencias, donde los estudiantes desarrollen pensamiento crítico, creatividad y habilidades técnicas para innovar, resolver problemas complejos y participar activamente en la economía digital global.",
+  "diagnostico_problema": {
+    "modelo_educativo_obsoleto": {
+      "ensenanza_memoristica": "75% tiempo en aula dedicado a transmisión y evaluación reproductiva",
+      "falta_pensamiento_critico": "Solo 25% del tiempo desarrolla creatividad o solución de problemas",
+      "desconexion_economica": "15% de graduados con competencias básicas en pensamiento computacional/científico aplicado"
+    },
+    "brecha_digital_educativa": {
+      "acceso_smartphone": "85% estudiantes tiene acceso",
+      "laboratorios_funcionales": "35% centros educativos con laboratorios de informática funcionales",
+      "inseguridad_digital_docente": "40% docentes reporta inseguridad para integrar tecnología"
+    },
+    "resultados_internacionales": {
+      "pisa_2022": {
+        "matematicas": "374 puntos (vs 472 promedio OCDE)",
+        "ciencias": "383 puntos (vs 485 promedio OCDE)",
+        "tendencia": "Caída de 20 puntos en última década"
+      },
+      "participacion_olimpiadas": "Representación marginal en competencias internacionales científicas"
+    },
+    "oportunidades_desaprovechadas": {
+      "brecha_empleo_tecnologico": "30% posiciones en tecnología cubiertas con talento extranjero",
+      "brecha_genero_stem": "Solo 1 de cada 10 mujeres estudia carreras STEM"
+    }
+  },
+  "paradigma_estrategico": {
+    "transicion": "De modelo de transmisión de información a ecosistema de construcción de conocimiento",
+    "roles_transformados": {
+      "estudiantes": "Diseñadores y solucionadores que aplican conocimientos integrados a desafíos reales",
+      "docentes": "Facilitadores y guías en procesos de indagación con apoyo tecnológico",
+      "aulas": "Laboratorios vivos conectados con industria, academia y problemas sociales"
+    },
+    "principios_rectores": [
+      "Integración interdisciplinaria (romper barreras entre asignaturas)",
+      "Aprendizaje basado en problemas y proyectos (ABP/PBL)",
+      "Equidad de acceso a tecnología avanzada",
+      "Ética y ciudadanía digital",
+      "Vinculación educación-economía con rutas a empleos de calidad"
+    ]
+  },
+  "componentes_estrategia": [
+    {
+      "componente": "Metodología STEAM: Implementación Sistémica y Contextualizada",
+      "propuesta": "Implementar STEAM como columna vertebral curricular desde preescolar hasta secundaria, con recursos adecuados y formación docente especializada.",
+      "solucion": {
+        "curriculo_nacional_steam": {
+          "marcos_progresion": "Competencias específicas por ciclo (pensamiento computacional desenchufado en primaria, prototipado 3D en secundaria)",
+          "unidades_didacticas_integradas": "Módulos trimestrales sobre problemas locales (gestión residuos, seguridad vial) abordados desde múltiples disciplinas",
+          "espacios_creacion": "500 'Talleres de Innovación' con impresoras 3D, kits robótica, herramientas electrónica"
+        },
+        "red_laboratorios_moviles": "50 unidades que visitan escuelas rurales con realidad virtual, drones educativos, kits sensores ambientales",
+        "vinculacion_sectores_estrategicos": {
+          "alianzas_clusters": "Tecnología en GAM, agroindustria 4.0 en Guanacaste, turismo sostenible en Limón",
+          "desafios_empresariales_aula": "Empresas plantean problemas reales para prototipado estudiantil",
+          "certificaciones_duales": "Certificaciones de competencias técnicas reconocidas por sector productivo"
+        }
+      },
+      "ejecucion": [
+        "Reforma curricular expedita en 24 meses con comisión de expertos internacionales y docentes",
+        "Fondo de Equipamiento STEAM: $50 millones para 500 talleres y 50 laboratorios móviles",
+        "Programa de Embajadores STEAM: 1,000 docentes líderes formados como multiplicadores"
+      ]
+    },
+    {
+      "componente": "Inteligencia Artificial Pedagógica: Personalización Ética y Soporte Docente",
+      "propuesta": "Implementar plataformas de IA como asistente educativo que personalice aprendizaje, libere tiempo docente y provea analytics para mejora continua.",
+      "solucion": {
+        "plataforma_nacional_ia": {
+          "sistema_recomendacion": "Analiza estilos de aprendizaje, sugiere recursos y rutas individualizadas",
+          "deteccion_temprana_riesgo": "Algoritmos predictivos identifican rezago o abandono con 3 meses anticipación",
+          "tutor_virtual": "Asistente conversacional en español que responde dudas y propone ejercicios adaptativos"
+        },
+        "herramientas_apoyo_docente": {
+          "generador_evaluaciones": "Crea cuestionarios y rúbricas alineados a objetivos",
+          "analitica_aula": "Dashboard con patrones de participación, comprensión colectiva, efectividad metodológica",
+          "corrector_automatico": "Para ejercicios de matemáticas y ciencias con explicación de errores"
+        },
+        "marco_etico_ia_educacion": {
+          "transparencia_algoritmica": "Algoritmos auditables y explicables (no cajas negras)",
+          "proteccion_datos": "Anonimización estricta, consentimiento informado, prohibición comercialización",
+          "complementariedad": "IA no evalúa competencias socioemocionales ni sustituye relación pedagógica"
+        }
+      },
+      "ejecucion": [
+        "Consorcio público-privado-académico (MEP, UCR, TEC, empresas edtech costarricenses) para desarrollo",
+        "Formación masiva en literacia de IA: 40,000 docentes en 3 años con certificación progresiva",
+        "Observatorio Ético de IA Educativa: Comisión independiente de auditoría y recepción de quejas"
+      ]
+    },
+    {
+      "componente": "Condiciones Habilitantes: Conectividad Universal y Equipamiento Estratégico",
+      "propuesta": "Garantizar infraestructura tecnológica robusta y equitativa como base para STEAM e IA.",
+      "solucion": {
+        "conectividad_educativa": {
+          "red_banda_ancha_nacional": "Fibra óptica/5G a todos los centros con 100 Mbps mínimo por estudiante",
+          "internet_satelital": "300 escuelas unidocentes conectadas vía satélite baja latencia"
+        },
+        "modelo_1_1_equitativo": {
+          "dispositivos_ciclo": "Tablets para primaria, laptops convertibles para secundaria con software precargado",
+          "programa_reciclaje_mantenimiento": "Talleres técnicos en colegios que reparan y actualizan equipos"
+        },
+        "tecnologias_inmersivas": {
+          "laboratorios_rv_ra_compartidos": "Por circuito educativo con contenido curricular en realidad virtual",
+          "kits_bajo_costo_rural": "Realidad aumentada con smartphones y marcadores impresos"
+        }
+      },
+      "ejecucion": [
+        "Alianza estratégica MEP-ICE-MICITT para despliegue acelerado de infraestructura",
+        "Fondo de Sustentabilidad Tecnológica: 20% costo dispositivos para mantenimiento y actualización",
+        "Programa 'Familia Conectada': Subsidio a internet residencial para hogares con estudiantes en pobreza"
+      ]
+    },
+    {
+      "componente": "Educación Técnica y Formación para la Industria 4.0",
+      "propuesta": "Reformar educación técnica para alinearla con competencias demandadas por la cuarta revolución industrial.",
+      "solucion": {
+        "nuevas_especialidades_tecnicas": [
+          "Ciencia de Datos Aplicada (análisis para sectores agrícola, turístico, salud)",
+          "Robótica y Automatización (mantenimiento sistemas automatizados, robótica colaborativa)",
+          "Desarrollo de Software con IA (programación aplicaciones con componentes inteligentes)",
+          "Ciberseguridad Operacional (protección infraestructura digital para PYMES)"
+        ],
+        "centros_excelencia_industria_4_0": {
+          "7_centros_regionales": "Equipados con tecnologías punta (impresión 3D industrial, cobots, IoT, simuladores)",
+          "formacion_dual_avanzada": "60% en empresa, 40% en centro, con certificación alemana/suiza"
+        },
+        "ecosistema_innovacion_colaborativa": {
+          "living_labs_educativos": "Espacios donde estudiantes, universitarios, investigadores y empresas desarrollan soluciones",
+          "fondo_semilla_emprendimientos_tech": "Capital inicial para prototipos estudiantiles con potencial comercial"
+        }
+      },
+      "ejecucion": [
+        "Revisión completa oferta técnica INA y colegios técnicos en 18 meses",
+        "Alianzas con multinacionales tecnológicas para donación equipos, capacitación instructores y prácticas",
+        "Sistema de acreditación rápida de nuevas competencias: mecanismo ágil para incorporar certificaciones emergentes"
+      ]
+    }
+  ],
+  "gobernanza_implementacion": {
+    "estructura_gobierno": {
+      "consejo_nacional_educacion_digital_steam": "Presidido por Ministro Educación, con MICITT, INA, universidades, sector empresarial tecnológico, comunidad científica",
+      "unidad_ejecutora_transformacion_digital_educativa": "Equipo ágil con autonomía presupuestaria y técnica",
+      "comites_tecnicos_regionales": "Por región educativa, con representación de centros educativos, universidades y empresas locales"
+    },
+    "financiamiento": {
+      "inversion_total": "$300 millones en 5 años (0.12% PIB anual)",
+      "fuentes": [
+        "40% préstamo BID/Banco Mundial para infraestructura y equipamiento",
+        "30% reasignación presupuestaria MEP hacia componentes digitales",
+        "20% contribución sector privado vía impuesto a servicios digitales y alianzas estratégicas",
+        "10% cooperación internacional (Unión Europea, Corea del Sur, Israel)"
+      ],
+      "mecanismo": "Fideicomiso Nacional para la Educación Digital con auditoría internacional y comité ciudadano de vigilancia"
+    }
+  },
+  "sistema_monitoreo_evaluacion": {
+    "indicadores_proceso": [
+      "Porcentaje de centros educativos con Talleres de Innovación STEAM operativos",
+      "Número de docentes certificados en metodologías STEAM y uso pedagógico de IA",
+      "Horas semanales promedio dedicadas a proyectos interdisciplinarios por estudiante",
+      "Tasa de utilización de plataforma 'AprendoIA CR' (usuarios activos diarios)"
+    ],
+    "indicadores_resultado": [
+      "Mejora en resultados de pruebas nacionales de matemáticas y ciencias",
+      "Porcentaje de estudiantes que alcanzan competencias básicas en pensamiento computacional por grado",
+      "Número de prototipos/soluciones desarrollados por estudiantes que abordan problemas comunitarios",
+      "Brecha de género en participación en actividades STEAM (meta: reducir 50% en 5 años)"
+    ],
+    "indicadores_impacto": [
+      "Incremento en matrícula en carreras STEM en educación superior",
+      "Tasa de empleabilidad de egresados de especialidades técnicas de Industria 4.0 (meta: >85% en 6 meses)",
+      "Posición de Costa Rica en ranking internacional de capital humano digital (World Digital Competitiveness)",
+      "Número de patentes o registros de propiedad intelectual generados por proyectos estudiantiles"
+    ],
+    "evaluaciones_independientes": "Anuales por consorcio de universidades extranjeras especializadas (MIT, Stanford, Universidad de Helsinki) y organismos internacionales (UNESCO, OECD)"
+  },
+  "metricas_exito_principales": [
+    {
+      "indicador": "Porcentaje de tiempo en aula dedicado a metodologías activas (ABP/PBL, indagación)",
+      "linea_base": "25%",
+      "meta_ano_3": "50%",
+      "meta_ano_5": "75%"
+    },
+    {
+      "indicador": "Estudiantes que alcanzan nivel básico en pensamiento computacional al finalizar noveno año",
+      "linea_base": "15%",
+      "meta_ano_3": "40%",
+      "meta_ano_5": "70%"
+    },
+    {
+      "indicador": "Brecha de conectividad (diferencia en Mbps disponibles entre centros educativos urbanos y rurales)",
+      "linea_base": "50 Mbps",
+      "meta_ano_3": "20 Mbps",
+      "meta_ano_5": "5 Mbps"
+    },
+    {
+      "indicador": "Proporción mujeres en especialidades técnicas STEM en colegios técnicos",
+      "linea_base": "22%",
+      "meta_ano_3": "35%",
+      "meta_ano_5": "45%"
+    },
+    {
+      "indicador": "Docentes que reportan confianza alta en integración pedagógica de tecnología",
+      "linea_base": "30%",
+      "meta_ano_3": "60%",
+      "meta_ano_5": "85%"
+    }
+  ],
+  "cronograma_implementacion": {
+    "fase_1_cimientos": "Año 1: Diseño curricular STEAM, desarrollo plataforma IA piloto, conectividad 500 centros prioritarios, formación 5,000 docentes",
+    "fase_2_expansion": "Años 2-3: Implementación curricular en 50% centros, despliegue total plataforma IA, equipamiento 1,000 talleres STEAM, lanzamiento 3 centros Industria 4.0",
+    "fase_3_consolidacion": "Años 4-5: Cobertura total, integración avanzada IA-STEAM, medición impacto, modelo sostenible de actualización tecnológica"
+  }
+}

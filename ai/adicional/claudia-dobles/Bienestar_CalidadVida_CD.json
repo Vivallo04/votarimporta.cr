@@ -1,0 +1,50 @@
+{
+  "eje": "Bienestar y calidad de vida",
+  "propuestas": [
+    {
+      "propuesta": "Garantizar servicios públicos de calidad e inclusión a lo largo de la vida",
+      "solucion": "Fortalecer el Estado Social mediante salud accesible, educación inclusiva y pensiones sostenibles, priorizando a poblaciones históricamente excluidas",
+      "ejecucion": "Implementar políticas públicas con enfoque en mujeres, niñez, juventudes, personas mayores, pueblos indígenas, afrodescendientes, personas LGBTIQ+ y personas con discapacidad"
+    },
+    {
+      "propuesta": "Educación transformadora con inversión del 8% del PIB",
+      "solucion": "Enfocarse en habilidades digitales, bilingüismo y modelo STEAM para integrar a los jóvenes en la economía moderna",
+      "ejecucion": "Aumentar gradualmente la inversión educativa hasta alcanzar el 8% del PIB y desarrollar programas con énfasis en tecnología y ciencias"
+    },
+    {
+      "propuesta": "Salud oportuna mediante innovación tecnológica",
+      "solucion": "Reducir listas de espera en la CCSS con telemedicina, EDUS y fortalecimiento de la atención primaria en EBAIS",
+      "ejecucion": "Implementar un plan de choque con expansión de telemedicina, expedientes digitales y mejora de la red de EBAIS"
+    },
+    {
+      "propuesta": "Pensiones dignas a través de un sistema solidario",
+      "solucion": "Ampliar el Régimen No Contributivo y garantizar la solidaridad como eje del sistema de pensiones",
+      "ejecucion": "Reformar el sistema de pensiones para incluir más beneficiarios y asegurar sostenibilidad y dignidad post-jubilación"
+    },
+    {
+      "propuesta": "Sistema Nacional de Cuidados para reconocer el cuidado como derecho humano",
+      "solucion": "Ampliar la Red de Cuido y crear el Sistema Nacional de Cuidados y Apoyos (SINCA) para personas adultas mayores y con discapacidad",
+      "ejecucion": "Aumentar cupos en la Red de Cuido a 75,000 niños y niñas, crear cupos para clase media e implementar SINCA con corresponsabilidad social"
+    },
+    {
+      "propuesta": "Movilidad sostenible con Tren Eléctrico Metropolitano",
+      "solucion": "Desarrollar un transporte público integrado que reduzca tiempos de traslado y contaminación",
+      "ejecucion": "Construir y operar el Tren Eléctrico Metropolitano como columna vertebral del sistema de transporte"
+    },
+    {
+      "propuesta": "Vivienda digna y protección del territorio",
+      "solucion": "Ofrecer bonos y alquileres accesibles para jóvenes, y proteger comunidades de la gentrificación",
+      "ejecucion": "Implementar programas de vivienda con subsidios, regular alquileres y establecer políticas contra la gentrificación en zonas costeras y turísticas"
+    },
+    {
+      "propuesta": "Acceso al agua como derecho humano",
+      "solucion": "Invertir en infraestructura hídrica y saneamiento básico",
+      "ejecucion": "Ejecutar un plan nacional de inversiones en agua potable y saneamiento"
+    },
+    {
+      "propuesta": "Estado ágil mediante transformación digital",
+      "solucion": "Eliminar trámites innecesarios y digitalizar servicios para que el Estado sea más eficiente",
+      "ejecucion": "Implementar una estrategia de gobierno digital que simplifique trámites y mejore la atención al ciudadano"
+    }
+  ]
+}

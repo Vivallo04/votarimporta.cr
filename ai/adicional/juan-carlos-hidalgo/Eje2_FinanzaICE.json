@@ -1,0 +1,298 @@
+{
+  "iniciativa": "Saneamiento Financiero y Operativo del ICE",
+  "marco_estrategico": "Eje 2: Reforma Institucional - Intervención de Servicios Públicos Estratégicos",
+  "objetivo_principal": "Rescatar financieramente al ICE transformándolo en una empresa pública eficiente, sostenible y preparada para liderar la transición energética, asegurando suministro eléctrico confiable y a costos competitivos.",
+  "diagnostico_multidimensional": {
+    "situacion_financiera": {
+      "desequilibrio_estructural": {
+        "causas": [
+          "Tarifas congeladas o ajustadas con criterios políticos",
+          "Costos crecientes de generación térmica durante sequías",
+          "Diferimientos contables que ocultan pasivos reales"
+        ],
+        "impacto": "Pérdidas operativas recurrentes, dependencia de rescates estatales"
+      },
+      "problemas_deuda_liquidez": {
+        "nivel_endeudamiento": "Supera 70% del patrimonio en algunos años",
+        "liquidez": "Dificultades para cumplir obligaciones de corto plazo",
+        "calificacion_crediticia": "En deterioro, aumentando costos de financiamiento"
+      }
+    },
+    "ineficiencias_operativas": {
+      "contratos_onerosos": "PPA con precios por encima del mercado actual",
+      "activos_obsoletos": "Plantas térmicas con altos costos O&M",
+      "estructura_personal": "Exceso en áreas administrativas vs. áreas técnicas críticas",
+      "procesos_internos": "Burocracia excesiva, lentitud en toma de decisiones"
+    },
+    "riesgo_sistemico": {
+      "competitividad_pais": "Tarifas eléctricas altas afectan industria y PYMES",
+      "seguridad_energetica": "Capacidad insuficiente para picos de demanda",
+      "confianza_inversionista": "Incertidumbre sobre sostenibilidad del sistema"
+    }
+  },
+  "estrategia_saneamiento_integral": {
+    "componente_1_reforma_tarifaria": {
+      "tarifa_tecnica_al_costo": {
+        "mecanismo": "Ajuste automático trimestral basado en costos reales",
+        "elementos_costos": [
+          "Costo variable de generación (combustibles, mantenimiento)",
+          "Costos de transmisión y distribución",
+          "Inversiones en expansión y modernización",
+          "Servicio de deuda"
+        ],
+        "transparencia": "Publicación mensual de estructura detallada de costos",
+        "proteccion_social": "Subsidios focalizados para poblaciones vulnerables"
+      },
+      "mercado_mayorista_transparente": {
+        "sistema_precios": "Precios nodales que reflejen costos por zona geográfica",
+        "plataforma_informacion": "Datos en tiempo real sobre precios y transacciones",
+        "liquidacion": "Procesos automáticos y auditables"
+      }
+    },
+    "componente_2_plan_caja_reestructuracion": {
+      "fases": [
+        {
+          "fase": "Estabilización (Meses 1-12)",
+          "acciones_clave": [
+            "Congelamiento de contrataciones no esenciales",
+            "Revisión y renegociación de contratos de servicios",
+            "Venta de activos no estratégicos (inmuebles, participaciones, flota)",
+            "Reducción de 15% en gastos discrecionales"
+          ]
+        },
+        {
+          "fase": "Reestructuración (Meses 13-24)",
+          "acciones_clave": [
+            "Refinanciación de deuda: consolidación, renegociación plazos/tasas",
+            "Emisión de bonos corporativos con garantía estatal condicionada",
+            "Optimización OPEX: reducción 20% gastos administrativos",
+            "Digitalización de procesos para reducir costos transaccionales"
+          ]
+        },
+        {
+          "fase": "Sostenibilidad (Meses 25-36)",
+          "acciones_clave": [
+            "Nuevo modelo de negocio centrado en transmisión/distribución",
+            "Generación renovable competitiva",
+            "Servicios de valor agregado (redes inteligentes, eficiencia energética)",
+            "Alianzas estratégicas con sector privado"
+          ]
+        }
+      ]
+    },
+    "componente_3_auditoria_independiente": {
+      "alcance": {
+        "contratos_energia": "Revisión de todos los PPA últimos 10 años",
+        "estructura_costos": "Análisis por línea de negocio y centro de costos",
+        "procesos_contratacion": "Evaluación de procedimientos de adquisiciones",
+        "gestion_activos": "Diagnóstico de mantenimiento y vida útil"
+      },
+      "metodologia": {
+        "contratacion": "Firma auditora internacional con experiencia sector eléctrico",
+        "supervision": "Contraloría General de la República como observadora",
+        "transparencia": "Publicación completa de resultados (con excepciones legales mínimas)",
+        "seguimiento": "Plan de implementación de recomendaciones con metas trimestrales"
+      }
+    },
+    "componente_4_gestion_riesgo_hidrologico": {
+      "diversificacion_matriz": {
+        "meta": "Reducir dependencia hidroeléctrica de 70% a 50% en 5 años",
+        "acciones": [
+          "Expansión agresiva de eólica y solar con almacenamiento",
+          "Desarrollo de geotermia en sitios identificados",
+          "Estudios para energía marina (oleaje, corrientes)"
+        ]
+      },
+      "contratos_respaldo": {
+        "tipo": "Adquisición de capacidad firme (no energía)",
+        "modalidad": "Contratos de opción con generadores privados",
+        "duracion": "3-5 años con opción a renovación"
+      },
+      "tecnologia_almacenamiento": {
+        "baterias_escala_red": "100+ MW en primeros 3 años",
+        "bombeo_hidroelectrico": "Proyectos identificados para almacenamiento largo plazo",
+        "hidrogeno_verde": "Estudios de factibilidad para almacenamiento estacional"
+      }
+    }
+  },
+  "marco_intervencion_ejecutiva": {
+    "gobierno_corporativo": {
+      "liderazgo_por_competencia": {
+        "presidencia_ejecutiva": {
+          "proceso": "Concurso público y competitivo",
+          "requisitos_minimos": "15 años experiencia sector eléctrico, gestión empresas complejas",
+          "evaluacion": "Comisión técnica independiente",
+          "contrato": "3 años con evaluación de desempeño semestral"
+        },
+        "junta_directiva": {
+          "composicion": "Mayoría de miembros independientes con experiencia sectorial",
+          "designacion": "Términos fijos no coincidentes con ciclos políticos",
+          "evaluacion": "Desempeño semestral con métricas claras",
+          "remuneracion": "Vinculada a resultados institucionales"
+        }
+      }
+    },
+    "grupo_ejecutor_alto_nivel": {
+      "composicion": [
+        "Representante de la Presidencia de la República (coordinador)",
+        "Ministro de Hacienda o delegado",
+        "Ministro de Ambiente y Energía o delegado",
+        "Presidente Ejecutivo del ICE",
+        "Dos expertos internacionales en reestructuración empresas eléctricas"
+      ],
+      "atribuciones": [
+        "Aprobar plan de saneamiento y sus revisiones trimestrales",
+        "Autorizar desembolsos extraordinarios",
+        "Remover obstáculos institucionales y legales",
+        "Tomar decisiones urgentes en situaciones críticas"
+      ],
+      "seguimiento": {
+        "frecuencia_reuniones": "Semanales primeros 6 meses, luego quincenales",
+        "tablero_control": "15-20 indicadores clave de desempeño",
+        "reportes": "Mensuales públicos de avances",
+        "rendicion_cuentas": "Trimestral ante comisión legislativa especial"
+      }
+    },
+    "transparencia_radical": {
+      "portal_transparencia_ice_2_0": {
+        "datos_tiempo_real": [
+          "Cortes de energía por región y causa",
+          "Costos de generación por tipo de fuente",
+          "Avance de proyectos de inversión",
+          "Indicadores de calidad de servicio (SAIDI, SAIFI)",
+          "Niveles de embalses y pronósticos hidrológicos"
+        ],
+        "accesibilidad": "Datos abiertos en formatos reutilizables"
+      },
+      "audiencias_publicas": {
+        "frecuencia": "Trimestral",
+        "participantes": [
+          "Asamblea Legislativa (comisiones de ambiente y hacienda)",
+          "Organizaciones de usuarios y consumidores",
+          "Cámaras empresariales y sector productivo",
+          "Academia y expertos independientes"
+        ]
+      },
+      "participacion_ciudadana": {
+        "plataforma_reportes": "Sistema unificado para reporte de problemas y sugerencias",
+        "mesas_tematicas": "Espacios de diálogo sobre planificación energética a largo plazo",
+        "presupuestos_participativos": "Para proyectos comunitarios de eficiencia energética"
+      }
+    }
+  },
+  "vision_largo_plazo_nuevo_modelo_energetico": {
+    "apertura_controlada_mercado_electrico": {
+      "modelo_mercado_mayorista": {
+        "separacion_funcional": "Generación, transmisión y distribución como unidades separadas",
+        "acceso_abierto_red": "Para generadores privados con criterios técnicos transparentes",
+        "mercado_contratos": "Bilaterales a largo plazo con precios de mercado",
+        "operador_sistema": "Independiente y profesionalizado"
+      },
+      "rol_transformado_ice": {
+        "de": "Monopolio integrado verticalmente",
+        "a": [
+          "Operador de red de transmisión y distribución",
+          "Generador de última instancia y respaldo estratégico",
+          "Facilitador de la transición energética hacia renovables",
+          "Promotor de innovación en redes inteligentes y movilidad eléctrica"
+        ]
+      }
+    },
+    "generacion_distribuida_autoconsumo": {
+      "marco_regulatorio": {
+        "simplificacion_tramites": "Para instalaciones menores a 1 MW",
+        "tarifas_inyeccion": "Que reconozcan valor de energía distribuida",
+        "medicion_neta": "Sistema simple y transparente",
+        "comunidades_energeticas": "Marco legal para proyectos colectivos"
+      },
+      "metas": {
+        "capacidad_distribuida": "20% de capacidad instalada total para 2030",
+        "usuarios_con_autogeneracion": "15% de clientes residenciales para 2030",
+        "reduccion_perdidas": "De 10% a 6% en distribución para 2028"
+      }
+    },
+    "modernizacion_redes": {
+      "inversion_redes_inteligentes": {
+        "medicion_inteligente": "100% de usuarios en 5 años",
+        "automatizacion_distribucion": "Para reducir tiempos de restauración post-fallas",
+        "integracion_der": "Sistemas para gestionar recursos energéticos distribuidos",
+        "ciberproteccion": "Seguridad crítica para infraestructura digitalizada"
+      },
+      "expansion_transmision": {
+        "corredores_estrategicos": "Para integrar nuevas fuentes renovables",
+        "interconexiones": "Fortalecimiento de enlaces regionales",
+        "tecnologia_hvdc": "Para transporte eficiente a larga distancia"
+      }
+    }
+  },
+  "sinergias_aya_coherencia_eje_2": {
+    "modelo_comun_intervencion": {
+      "enfoque_basado_resultados": "Metas trimestrales claras para ambos institutos",
+      "saneamiento_financiero_paralelo": "Principios similares de eficiencia y transparencia",
+      "fortalecimiento_capacidades": "Programas conjuntos de capacitación y modernización"
+    },
+    "complementariedad_estrategica": {
+      "sinergias_operativas": [
+        "Coordinación en proyectos de infraestructura compartida",
+        "Compra conjunta de insumos y servicios para economías de escala",
+        "Plataformas tecnológicas comunes (sistemas de facturación, atención al cliente)"
+      ],
+      "impacto_socioeconomico_conjunto": {
+        "competitividad": "Tarifas estables y predecibles en electricidad y agua",
+        "atraccion_inversion": "Servicios confiables como ventaja competitiva regional",
+        "desarrollo_territorial": "Cobertura universal como base para inclusión social"
+      }
+    },
+    "integracion_reforma_institucional": {
+      "principio_subsidiariedad": "Estado interviene donde mercado no provee eficientemente",
+      "fortalecimiento_regulacion": {
+        "superintendencia_energia": "Entidad fuerte e independiente",
+        "regulacion_por_resultados": "Incentivos a eficiencia y calidad de servicio",
+        "participacion_usuarios": "En procesos regulatorios y tarifarios"
+      },
+      "cultura_servicio_publico": {
+        "transformacion_organizacional": "De burocracia a organización orientada al usuario",
+        "gestion_por_procesos": "Rediseño para eficiencia y reducción de tiempos",
+        "innovacion_abierta": "Colaboración con sector privado, academia y sociedad civil"
+      }
+    }
+  },
+  "gobernanza_y_seguimiento": {
+    "estructura_gobierno": {
+      "consejo_estrategico_energia": "Máximo órgano rector sectorial, presidido por Presidente de la República",
+      "comite_implementacion": "Nivel técnico-operativo con representantes de todas las instituciones involucradas",
+      "unidad_gestion_proyecto": "Equipo dedicado exclusivamente a la implementación del saneamiento"
+    },
+    "metricas_exito": [
+      {
+        "indicador": "Equilibrio financiero operativo",
+        "linea_base": "Pérdidas recurrentes",
+        "meta_ano_1": "Reducción pérdidas en 50%",
+        "meta_ano_3": "Equilibrio operativo sostenido"
+      },
+      {
+        "indicador": "Calidad de servicio (SAIDI)",
+        "linea_base": "Variable por región",
+        "meta_ano_1": "Mejora del 10%",
+        "meta_ano_3": "Estándares internacionales (menos de 90 minutos/año)"
+      },
+      {
+        "indicador": "Participación renovables en matriz",
+        "linea_base": "~99%",
+        "meta_ano_1": "Mantenimiento + diversificación",
+        "meta_ano_3": "100% renovable con respaldo firme"
+      },
+      {
+        "indicador": "Satisfacción usuarios",
+        "linea_base": "Según encuestas actuales",
+        "meta_ano_1": "Mejora 15 puntos porcentuales",
+        "meta_ano_3": "80% satisfacción o superior"
+      }
+    ],
+    "evaluacion_independiente": {
+      "auditoria_ex_post": "A los 18 y 36 meses por entidad internacional independiente",
+      "estudio_impacto": "Evaluación socioeconómica del saneamiento",
+      "benchmarking_internacional": "Comparación con mejores prácticas globales"
+    }
+  }
+}

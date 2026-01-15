@@ -1,0 +1,25 @@
+{
+  "eje": "Infraestructura y Movilidad",
+  "resumen": {
+    "problema": "Costa Rica sufre un rezago crítico en infraestructura. Invierte menos del 2.3% del PIB en este sector, mientras los costos por congestionamiento vial le cuestan al país el 3.8% del PIB. Más del 70% de las rutas nacionales están en estado deficiente, lo que encarece la vida de las familias, frena el transporte de mercancías y limita la competitividad del país.",
+    "propuesta": "Cambiar el modelo de 'parches' por una visión de Estado estratégico que use la infraestructura como motor de reactivación económica. El objetivo es transformar a Costa Rica en un hub logístico regional mediante proyectos de gran escala, conectividad multimodal (marítima, terrestre, aérea) y una integración con la revolución digital, sin aumentar la deuda pública.",
+    "solucion": [
+      "Conectividad Multimodal y Proyectos Insignia: Desarrollar megaproyectos integrados como el Canal Verde Interoceánico (CVI) para conectar ambos océanos, y modernizar el transporte público (TransGAM) y la red vial nacional.",
+      "Infraestructura Social Crítica: Expandir y modernizar la infraestructura en salud (hospitales, centros oncológicos), educación (institutos especializados) y vivienda (soluciones accesibles).",
+      "Revolución Digital como Soporte: Implementar tecnología de punta (5G, fibra óptica) en todo el país y digitalizar al 100% la información del gobierno para apoyar la gestión de infraestructura y movilidad.",
+      "Modelo de Financiamiento Innovador: Financiar las obras mediante un fondo soberano (Fodenal), titularización de flujos futuros y Alianzas Público-Privadas (APP), evitando cargar el costo total al presupuesto nacional."
+    ],
+    "ejecucion": [
+      "Construir el Canal Verde Interoceánico (CVI) con dos megapuertos, una autopista y tres líneas de tren de más de 300 km.",
+      "Implementar el Programa TransGAM para reordenar el transporte público con unidades eléctricas y nodos de interconexión, sacando los buses del centro de San José.",
+      "Agilizar y mejorar las Rutas Nacionales 32, 27, y las vías a San Carlos, Cartago y San Ramón, junto con un programa agresivo de mantenimiento de puentes.",
+      "Construir aeropuertos internacionales en Limón y Osa (Aeropuerto del Sur), y modernizar los puertos de Caldera y Moín.",
+      "Modernizar hospitales y crear centros oncológicos regionales en Puntarenas, Cartago, Limón y Golfito mediante APP.",
+      "Crear un Instituto Especializado en Infraestructura Educativa y construir 'Unidades Pedagógicas de Alta Tecnología' en zonas estratégicas.",
+      "Gestionar 16,000 soluciones de vivienda al año, con programas como 'Arrendamiento con Opción de Compra Vertical'.",
+      "Implementar red 5G y fibra óptica a nivel nacional y crear la Agencia Nacional de Transformación Digital (ANTD).",
+      "Financiar proyectos mediante el Fondo de Desarrollo Nacional (Fodenal), alimentado por recursos minerales y utilidades del CVI.",
+      "Utilizar titularización de flujos futuros (de recursos energéticos) y fondos de pensiones, junto con APP, para financiar la obra pública."
+    ]
+  }
+}

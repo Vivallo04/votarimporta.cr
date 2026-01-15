@@ -1,0 +1,29 @@
+{
+  "eje": "Infraestructura",
+  "area": "Modernización de la red vial y logística",
+  "resumen": {
+    "problema": "Costa Rica ocupa la posición 117 de 141 países en infraestructura vial según el Foro Económico Mundial (2019). Las deficiencias viales le cuestan al país un 3.8% del PIB por congestionamientos, mientras que la inversión pública en infraestructura es de solo 2.3% del PIB. Más del 70% de las rutas nacionales presentan deterioro funcional y estructural deficiente, lo que afecta la competitividad, encarece la logística y reduce la calidad de vida.",
+    "propuesta": "Abandonar el modelo de 'parches e improvisación' para desarrollar un sistema vial y logístico multimodal e inteligente. El objetivo es reducir costos operativos, mejorar la fluidez del transporte de mercancías y personas, y convertir a Costa Rica en un hub logístico regional que impulse la reactivación económica y la soberanía nacional.",
+    "solucion": [
+      "Construir el Canal Verde Interoceánico (CVI): Conectar el Atlántico y Pacífico mediante dos megapuertos, una autopista de diez carriles y tres líneas de ferrocarril de más de 300 km, para transformar al país en centro logístico regional.",
+      "Modernizar la Red de Alta Capacidad (RAC): Priorizar la finalización y mejora de corredores estratégicos (rutas 32, 27, San Carlos, Cartago, San Ramón) e implementar mantenimiento preventivo y gestión vial inteligente.",
+      "Fortalecer Nodos de Comercio Exterior: Intervenir en puertos saturados (Caldera, Moín) y construir aeropuertos internacionales en Limón y Osa, además de expandir el aeropuerto Daniel Oduber en Liberia.",
+      "Reordenar la Movilidad Urbana con TransGAM: Crear un sistema de transporte público multimodal en la GAM con sectorización, nodos de interconexión y flota eléctrica, eliminando paradas fijas en el centro de San José.",
+      "Implementar Reformas de Gobernanza y Soporte Digital: Reformar la contratación pública, crear un Banco de Proyectos Estratégicos de Infraestructura (BPEI) y desplegar fibra óptica y 5G en zonas estratégicas."
+    ],
+    "ejecucion": [
+      "Gestionar la construcción del CVI mediante Alianzas Público-Privadas (APP).",
+      "Agilizar procesos en rutas nacionales 32, 27, San Carlos, Cartago y San Ramón.",
+      "Ejecutar programa agresivo de mantenimiento de puentes críticos y transición de rutas de lastre a pavimento.",
+      "Implementar sistema técnico de evaluación vial y tecnología espacial para toma de decisiones.",
+      "Intervenir urgentemente en Puerto Caldera y fortalecer operaciones en Puerto Moín.",
+      "Construir aeropuertos internacionales en Limón y Osa (Aeropuerto del Sur).",
+      "Expandir el aeropuerto Daniel Oduber en Liberia.",
+      "Crear e implementar el sistema TransGAM con sectorización, nodos de interconexión y buses eléctricos.",
+      "Eliminar paradas fijas de buses en el centro de San José.",
+      "Reformar la Ley General de Contratación Pública (N.º 9986) para optimizar tiempos.",
+      "Crear el Banco de Proyectos Estratégicos de Infraestructura (BPEI).",
+      "Lanzar plan nacional para dotar de fibra óptica y 5G a zonas estratégicas logísticas."
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "contexto": {
+    "eje": "Seguridad Ciudadana",
+    "area": "Tecnología y Fronteras"
+  },
+  "resumen": {
+    "problema": "Las fronteras terrestres y costeras del país son actualmente 'porosas', con múltiples puntos ciegos que son aprovechados por el crimen organizado transnacional, especialmente el narcotráfico, para el ingreso de drogas, armas y personas de manera ilegal. Existe una falta de control efectivo en puertos y pasos fronterizos, lo que facilita actividades como el coyotaje y el contrabando. Además, los sistemas de vigilancia son limitados y obsoletos, y no hay una integración adecuada de la información entre las diferentes agencias de seguridad, lo que impide una respuesta coordinada y eficaz contra estas amenazas.",
+    "propuesta": "Implementar un sistema de defensa fronterizo avanzado y coordinado, denominado 'Muro Tecnológico', que trascienda la vigilancia tradicional. La propuesta integra tecnología de última generación, personal especializado y sistemas de inteligencia para recuperar el control absoluto de las fronteras, costas y puertos, cerrando los flujos ilegales y desarticulando las operaciones del crimen organizado transnacional.",
+    "solucion": {
+      "muro_tecnologico_y_vigilancia": {
+        "infraestructura": "Despliegue de 315 drones, 2 radares, 4 faros en puntos costeros críticos y 4,000 cámaras de vigilancia en todo el territorio nacional.",
+        "vigilancia_aerea": "Creación de una unidad especializada de drones para vigilancia diurna y nocturna en fronteras, y acceso a vigilancia satelital mediante alianzas internacionales.",
+        "biometria": "Instalación de sistemas de identificación biométrica en todos los pasos fronterizos oficiales para el registro y rastreo preciso."
+      },
+      "recuperacion_de_control_fronterizo": {
+        "modernizacion_de_pasos": "Intervención y equipamiento con tecnología (escáneres, cámaras) en pasos clave terrestres como Paso Canoas, Sabalito, Guabito, Sixaola y Las Tablillas.",
+        "refuerzo_de_personal": "Asignación específica de 463 nuevos oficiales para la Policía de Migración y otros 463 para la Policía de Fronteras, dentro del plan de contratación de 10,000 agentes.",
+        "empadronamiento_biometrico": "Implementación de un registro biométrico obligatorio para extranjeros que ingresen por pasos no habilitados, requisito para cualquier futuro proceso de regularización.",
+        "inversion": "Presupuesto estimado de aproximadamente $10 millones de dólares por frontera (norte y sur) para establecer este sistema."
+      },
+      "inteligencia_e_interoperabilidad": {
+        "bases_de_datos_integradas": "Creación de un sistema único que integre las bases de datos policiales y un centro de control y monitoreo nacional para compartir información en tiempo real.",
+        "ciberseguridad": "Establecimiento de un Centro Nacional de Ciberseguridad bajo la rectoría de Seguridad Pública para proteger infraestructuras críticas y combatir la ciberdelincuencia.",
+        "inteligencia_financiera": "Modernización y autonomía de la Unidad de Inteligencia Financiera para rastrear monedas virtuales y desarticular las finanzas del crimen organizado.",
+        "cooperacion_internacional": "Búsqueda de alianzas estratégicas con países líderes para transferencia tecnológica y capacitación especializada en protección fronteriza."
+      }
+    },
+    "ejecucion": {
+      "fase_1_preparacion_y_emergencia": {
+        "descripcion": "Creación del marco legal y administrativo para agilizar todo el proceso.",
+        "acciones_clave": [
+          "Declaratoria de Emergencia Nacional en materia de seguridad para acelerar procesos de contratación, compra y asignación de recursos.",
+          "Conformación de un equipo técnico y de proyecto dedicado al 'Muro Tecnológico'."
+        ]
+      },
+      "fase_2_inversion_y_adquisicion": {
+        "descripcion": "Adquisición e instalación inicial de la tecnología y equipamiento central.",
+        "acciones_clave": [
+          "Asignación y desembolso del presupuesto estimado (aprox. $20 millones en total para ambas fronteras).",
+          "Proceso de licitación y compra de los 315 drones, 2 radares, 4 faros costeros, 4,000 cámaras y los sistemas biométricos.",
+          "Compra e instalación de escáneres y equipos para los pasos fronterizos terrestres clave."
+        ]
+      },
+      "fase_3_despliegue_operativo_inicial": {
+        "descripcion": "Puesta en funcionamiento de la infraestructura tecnológica en puntos críticos.",
+        "acciones_clave": [
+          "Instalación física de cámaras, radares y faros en los lugares predefinidos.",
+          "Activación del centro de control y monitoreo nacional.",
+          "Puesta en operación de los sistemas biométricos en los pasos fronterizos oficiales.",
+          "Despliegue de la unidad de drones y inicio de patrullajes aéreos."
+        ]
+      },
+      "fase_4_fortalecimiento_institucional": {
+        "descripcion": "Integración del componente humano y legal al sistema tecnológico.",
+        "acciones_clave": [
+          "Capacitación del personal (nuevo y existente) en el uso de la nueva tecnología.",
+          "Asignación y despliegue de los 926 nuevos oficiales de Migración y Fronteras.",
+          "Puesta en marcha oficial del mecanismo de empadronamiento biométrico para ingresos irregulares."
+        ]
+      },
+      "fase_5_integracion_y_consolidacion": {
+        "descripcion": "Unificación de sistemas y establecimiento de alianzas para una operación total.",
+        "acciones_clave": [
+          "Desarrollo e integración completa del sistema único de bases de datos policiales.",
+          "Creación y puesta en marcha del Centro Nacional de Ciberseguridad.",
+          "Modernización operativa de la Unidad de Inteligencia Financiera.",
+          "Firma de acuerdos de cooperación internacional para vigilancia satelital, transferencia tecnológica y capacitación."
+        ]
+      },
+      "fase_6_monitoreo_y_ajuste_continuo": {
+        "descripcion": "Evaluación permanente y mejora del sistema para mantener su efectividad.",
+        "acciones_clave": [
+          "Monitoreo constante de los indicadores de seguridad fronteriza (intentos de ingreso ilegal, incautaciones).",
+          "Mantenimiento y actualización periódica del software y hardware tecnológico.",
+          "Revisión y ajuste de protocolos operativos basados en la inteligencia recopilada."
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "eje": "Infraestructura",
+  "area": "Vivienda Social",
+  "resumen": {
+    "problema": "Existe un déficit habitacional que supera las 150,000 viviendas, afectando potencialmente al 40% de los hogares si se incluyen casas en condiciones precarias. Entre 2022 y 2024 se dejaron de otorgar más de 9,000 bonos familiares de vivienda, y solo 44 de los 84 cantones cuentan con planes reguladores vigentes, lo que refleja una planificación territorial obsoleta y una ineficiencia institucional en el sector.",
+    "propuesta": "Convertir el sector vivienda en un motor de reactivación económica que combine la eficiencia en el uso de recursos públicos con la responsabilidad social del Estado. El objetivo es garantizar el acceso a una vivienda digna como derecho humano, enfocándose en la clase media empobrecida y en la regeneración urbana, integrando los desarrollos habitacionales con la infraestructura de movilidad.",
+    "solucion": [
+      "Soluciones para la Clase Media: Implementar esquemas innovadores como el 'Arrendamiento con Opción de Compra Vertical' en edificios, sin prima inicial y sin afectar el récord crediticio, junto con créditos blandos y subsidios para familias jóvenes.",
+      "Vivienda Social y Regeneración Urbana: Transformar asentamientos informales en espacios dignos con servicios básicos y áreas verdes, y ofrecer 'Viviendas de oro' (derecho de uso vitalicio) para adultos mayores en pobreza extrema, integrados en entornos para envejecimiento activo.",
+      "Modernización Operativa y Financiera: Digitalizar trámites mediante una 'Ventanilla Única Digital', fomentar Alianzas Público-Privadas (APP) para construcción eficiente, y convertir terrenos estatales ociosos en comunidades sostenibles.",
+      "Integración con la Movilidad: Priorizar desarrollos de vivienda en áreas con acceso a sistemas de transporte masivo (como el TransGAM) para reducir la dependencia del vehículo privado y mejorar la conectividad."
+    ],
+    "ejecucion": [
+      "Gestionar 16,000 soluciones de vivienda anuales como meta estratégica.",
+      "Construir edificios bajo el modelo de 'Arrendamiento con Opción de Compra Vertical' para clase media.",
+      "Crear líneas de crédito blando y subsidios específicos para parejas jóvenes con hijos.",
+      "Intervenir en asentamientos informales para regenerarlos con servicios básicos, áreas verdes y participación vecinal.",
+      "Otorgar 'Viviendas de oro' (uso vitalicio no transferible) a adultos mayores en pobreza extrema, bajo la Ley 10214.",
+      "Desarrollar una 'Ventanilla Única Digital' para agilizar trámites de bonos, permisos y créditos de vivienda.",
+      "Fomentar Alianzas Público-Privadas (APP) para la construcción de viviendas sociales.",
+      "Convertir terrenos estatales ociosos en comunidades seguras y sostenibles.",
+      "Coordinar la ubicación de nuevos desarrollos de vivienda con las rutas del Programa TransGAM y otros sistemas de transporte masivo."
+    ]
+  }
+}
