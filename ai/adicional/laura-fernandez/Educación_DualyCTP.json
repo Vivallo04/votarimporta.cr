@@ -1,0 +1,32 @@
+[
+  {
+    "problema": "Existen brechas de pobreza y desempleo en ciertos cantones, con baja cobertura de educación técnica que limita las oportunidades de empleo y desarrollo económico local.",
+    "propuesta": "Expansión y Modernización de los Colegios Técnicos Profesionales (CTP)",
+    "solucion": "Transformar colegios académicos en colegios técnicos para ofrecer formación alineada con las demandas del mercado laboral y reducir las desigualdades territoriales.",
+    "ejecucion": "Reconvertir progresivamente más de 50 colegios académicos en CTPs, priorizando cantones con alta pobreza; modernizar la oferta educativa hacia sectores de alto valor (biotecnología, agroindustria, turismo); y establecer un sistema nacional de seguimiento de egresados para ajustar la formación según las necesidades."
+  },
+  {
+    "problema": "Falta de articulación efectiva entre el sistema educativo y el sector productivo, lo que dificulta que los estudiantes adquieran experiencia práctica y se inserten rápidamente en el mercado laboral.",
+    "propuesta": "Fortalecimiento de la Educación Técnica Dual y Articulación Estratégica",
+    "solucion": "Implementar un modelo de educación dual que combine formación académica con práctica en empresas, garantizando competencias relevantes y empleabilidad.",
+    "ejecucion": "Fortalecer la articulación entre el MEP, el INA, universidades, cámaras empresariales y gobiernos locales; adoptar obligatoriamente el Marco Nacional de Cualificaciones (MNC) para estandarizar competencias; y usar tecnología (IA, docentes virtuales) para llevar educación dual y bilingüismo a zonas rurales e indígenas."
+  },
+  {
+    "problema": "Altas tasas de desempleo en poblaciones vulnerables, especialmente jóvenes y mujeres, debido a la desconexión entre la formación técnica y las oportunidades laborales reales.",
+    "propuesta": "Vinculación de la Educación Técnica con la Empleabilidad (Estrategia Brete)",
+    "solucion": "Potenciar la estrategia Brete para conectar la formación técnica con empleos dignos, focalizando en territorios y sectores de alta demanda.",
+    "ejecucion": "Focalizar la oferta formativa territorialmente; promover alianzas con el sector privado para direccionar la formación en sectores emergentes (economía verde, energías renovables); e implementar estrategias específicas para atraer a más mujeres a carreras técnicas en ciencia y tecnología."
+  },
+  {
+    "problema": "Falta de profesionalización y apoyo técnico al sector cultural, lo que limita el desarrollo de las economías naranjas (industrias creativas) como motor de empleo y desarrollo local.",
+    "propuesta": "Integración de la Educación Técnica con la Cultura y las Economías Naranjas",
+    "solucion": "Brindar capacitación técnica especializada a emprendimientos culturales y creativos para fortalecer su gestión y sostenibilidad.",
+    "ejecucion": "Ofrecer capacitación en formulación de proyectos, contabilidad, finanzas y logística de eventos a empresas culturales; y promover polos de desarrollo de economías naranjas en zonas como Nicoya, San Carlos y Guápiles, vinculando identidad cultural con habilidades técnicas."
+  },
+  {
+    "problema": "Acceso limitado a educación técnica de calidad en territorios indígenas y zonas periféricas, lo que agrava la exclusión y limita las oportunidades de movilidad social.",
+    "propuesta": "Educación Técnica Adaptada a Territorios Indígenas y Periféricos",
+    "solucion": "Crear una oferta técnica integral y contextualizada que responda a las realidades económicas y culturales de estas zonas.",
+    "ejecucion": "Establecer 'Centros educativos rurales integrales' con oferta desde primera infancia hasta secundaria técnica; ampliar la oferta del INA en pesca responsable, navegación y atención al turista en zonas costeras; y fomentar programas de transferencia tecnológica para la agricultura de precisión."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "propuesta": "Infraestructura Vial y Transporte Público Moderno",
+    "problema": "Rezago histórico en el mantenimiento de carreteras y puentes, y un sistema de transporte público desconectado que dificulta la movilidad de las personas y la competitividad.",
+    "solucion": "Priorizar la conectividad terrestre y la modernización del transporte público para mejorar la movilidad y el desarrollo económico.",
+    "ejecucion": "Ampliar rutas estratégicas (como la Ruta 35); intervenir puentes en condición crítica; implementar un plan de reciclaje y mantenimiento de activos viales; desarrollar centros de transferencia intermodal; y fomentar la electrificación y el pago electrónico en el transporte público, incluyendo zonas rurales."
+  },
+  {
+    "propuesta": "Desarrollo Portuario y Logística Marítima",
+    "problema": "Infraestructura portuaria limitada que no aprovecha todo el potencial para el comercio internacional, el turismo de cruceros y la logística de exportación.",
+    "solucion": "Modernizar y expandir la infraestructura portuaria para convertir a Costa Rica en un hub logístico regional y potenciar la 'economía jaguar'.",
+    "ejecucion": "Modernizar los puertos de Limón y Moín en el Caribe (con un parque industrial y muelle post-Panamax); supervisar la nueva concesión del Puerto de Caldera y su enlace con el tren de carga; y modernizar los muelles de cruceros de Puntarenas y Quepos, además de construir un atracadero en Bahía Drake."
+  },
+  {
+    "propuesta": "Potenciar la Infraestructura Aeroportuaria Regional",
+    "problema": "Falta de capacidad y competitividad en los aeropuertos regionales para apoyar el turismo y el comercio fuera del área metropolitana.",
+    "solucion": "Elevar la categoría de los servicios aéreos en regiones clave para dinamizar el turismo y la economía local.",
+    "ejecucion": "Ejecutar una estrategia integral para el Aeropuerto Daniel Oduber en Liberia, incluyendo una terminal de carga; y mejorar 15 aeródromos regionales para dinamizar el desarrollo de los pueblos donde se ubican."
+  },
+  {
+    "propuesta": "Garantizar Agua Potable, Saneamiento y Conectividad Digital",
+    "problema": "Falta de seguridad hídrica y una brecha digital que afecta la salud pública y limita el acceso a oportunidades económicas, especialmente en zonas rurales.",
+    "solucion": "Invertir en infraestructura básica de agua y telecomunicaciones como base para la salud pública y la economía digital.",
+    "ejecucion": "Crear un Plan Nacional de Seguridad Hídrica y construir nuevas plantas potabilizadoras y de tratamiento de aguas residuales; e impulsar la red 5G en todo el territorio, priorizando zonas rurales y vulnerables para cerrar la brecha digital."
+  },
+  {
+    "propuesta": "Construir Infraestructura Resiliente y con Mantenimiento Permanente",
+    "problema": "Obras públicas que no están diseñadas para resistir fenómenos climáticos extremos y que carecen de un plan de mantenimiento sostenible, generando un rezago costoso.",
+    "solucion": "Cambiar el enfoque hacia la construcción de infraestructura duradera, adaptada al clima y con mantenimiento garantizado.",
+    "ejecucion": "Promover prácticas de construcción resiliente ante fenómenos climáticos; e implementar un sistema de gestión por resultados para fiscalizar y evaluar el impacto de toda la inversión pública en infraestructura, asegurando su calidad y sostenibilidad."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "propuesta": "Acceso a Financiamiento e Inclusión Financiera",
+    "problema": "La falta de capital es la principal barrera para el crecimiento y sostenibilidad de las PYMES, con dificultades para acceder a crédito tradicional y productos financieros adecuados.",
+    "solucion": "Facilitar el acceso a financiamiento mediante plataformas digitales y esquemas de capital especializados, promoviendo la inclusión financiera.",
+    "ejecucion": "Crear una plataforma digital que conecte a las PYMES con opciones de financiamiento público y privado; implementar herramientas de capital semilla, capital de riesgo y un programa de avales para innovación; y desarrollar productos crediticios específicos para poblaciones con menor inclusión financiera."
+  },
+  {
+    "propuesta": "Desarrollo Territorial y Encadenamientos Productivos",
+    "problema": "Concentración del crecimiento económico en el Gran Área Metropolitana y presencia de economías ilícitas en zonas fronterizas y costeras, lo que limita el desarrollo nacional equilibrado.",
+    "solucion": "Descentralizar el desarrollo mediante polos productivos en regiones periféricas y sustituir actividades ilegales con emprendimientos legales y competitivos.",
+    "ejecucion": "Crear Polos de Desarrollo Productivo (PDP) en territorios periféricos con 'empresas tractoras' que generen encadenamientos con PYMES locales; impulsar emprendimientos en zonas fronterizas y costeras para sustituir economías ilícitas; y potenciar el sistema de asesoría de exportación de PROCOMER en regiones periféricas."
+  },
+  {
+    "propuesta": "Incubación y Capacitación Estratégica",
+    "problema": "Falta de acompañamiento en gestión empresarial para emprendedores y brecha entre las habilidades de la fuerza laboral y las necesidades reales del mercado y las PYMES.",
+    "solucion": "Fortalecer las capacidades empresariales y técnicas mediante incubación especializada y formación alineada con la demanda.",
+    "ejecucion": "Crear una incubadora dentro del Instituto Nacional de Aprendizaje (INA) que brinde servicios de desarrollo empresarial, becas especializadas y acompañamiento; y articular la Estrategia BRETE (capacitación masiva de más de 100,000 personas) con las necesidades de capacitación de las PYMES."
+  },
+  {
+    "propuesta": "Simplificación y 'Desenredo' Burocrático",
+    "problema": "Exceso de trámites burocráticos, regulaciones complejas y barreras de entrada que consumen tiempo y recursos de los emprendedores, limitando su competitividad.",
+    "solucion": "Reducir radicalmente la carga administrativa mediante la digitalización y simplificación regulatoria.",
+    "ejecucion": "Implementar herramientas digitales interconectadas para agilizar trámites nacionales y municipales; eliminar trabas regulatorias y facilitar la constitución de sociedades; y eliminar tarifas mínimas en servicios profesionales mientras se promueve una Política Nacional de Competencia."
+  },
+  {
+    "propuesta": "Innovación y Economía del Futuro",
+    "problema": "Brecha tecnológica y digital que limita la competitividad de las PYMES, especialmente en sectores emergentes y zonas rurales.",
+    "solucion": "Fomentar la innovación y la adopción tecnológica en sectores de alto crecimiento y garantizar conectividad de vanguardia en todo el territorio.",
+    "ejecucion": "Promover PYMES en economías naranja (videojuegos, gastronomía), verde (energías renovables) y azul (maricultura); y dotar de infraestructura de red 5G a zonas rurales para cerrar la brecha digital y habilitar la competitividad."
+  }
+]

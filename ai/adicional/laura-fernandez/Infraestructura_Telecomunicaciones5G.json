@@ -1,0 +1,26 @@
+[
+  {
+    "propuesta": "Cierre de Brechas Digitales y Cobertura Nacional Universal",
+    "problema": "Desigualdad en el acceso a internet de alta velocidad, especialmente en zonas rurales, territorios indígenas y áreas vulnerables, lo que limita las oportunidades de desarrollo y educación.",
+    "solucion": "Democratizar el acceso a la conectividad de alta velocidad para que todos los costarricenses, sin importar su ubicación, puedan participar en la economía digital.",
+    "ejecucion": "Impulsar el despliegue de la red 5G priorizando zonas rurales y vulnerables; invertir en infraestructura pública de telecomunicaciones para mejorar el acceso en territorios indígenas; y vincular esta infraestructura con la modernización educativa."
+  },
+  {
+    "propuesta": "Habilitar la Competitividad y la Economía Digital (Economía Jaguar)",
+    "problema": "La falta de infraestructura digital avanzada limita la competitividad de las empresas, la eficiencia del Estado y el posicionamiento del país en la economía global.",
+    "solucion": "Convertir a la red 5G en la plataforma fundamental para la competitividad nacional, la innovación y la eficiencia gubernamental.",
+    "ejecucion": "Desplegar la red 5G como habilitadora de competencias digitales y competitividad empresarial; trabajar con gobiernos locales para digitalizar y estandarizar trámites; y sinergizar con la modernización del sector eléctrico hacia redes inteligentes."
+  },
+  {
+    "propuesta": "Modernización del Marco Normativo y Gobernanza Digital",
+    "problema": "Un marco regulatorio desactualizado y una falta de liderazgo claro frenan las inversiones y el despliegue eficiente de la infraestructura digital.",
+    "solucion": "Actualizar las leyes y fortalecer la institucionalidad para crear un entorno seguro y propicio para la inversión y la innovación tecnológica.",
+    "ejecucion": "Presentar una reforma legislativa para adecuar la normativa de telecomunicaciones y dar seguridad jurídica a las inversiones; consolidar el liderazgo del MICITT para la digitalización de servicios públicos; y replantear los precios de concesiones de radio y TV para fomentar la cultura e innovación."
+  },
+  {
+    "propuesta": "Fortalecimiento de la Ciberseguridad para Infraestructura Crítica",
+    "problema": "La creciente dependencia de las redes digitales las convierte en un blanco para ciberataques, poniendo en riesgo servicios esenciales y la seguridad nacional.",
+    "solucion": "Proteger las redes de telecomunicaciones como infraestructura crítica nacional mediante defensas activas y monitoreo constante.",
+    "ejecucion": "Establecer protocolos tecnológicos de ciberdefensa para las redes de telecomunicaciones; y conectar el futuro Centro Nacional de Comando de Ciberseguridad al sistema C7i para monitorear y responder a incidentes críticos en tiempo real."
+  }
+]

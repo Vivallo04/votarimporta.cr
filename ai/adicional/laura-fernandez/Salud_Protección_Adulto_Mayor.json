@@ -1,0 +1,32 @@
+[
+  {
+    "problema": "El sistema de salud no está adaptado para atender las necesidades específicas de una población que envejece, con falta de especialización en geriatría y atención para enfermedades degenerativas.",
+    "propuesta": "Especialización del Sistema de Salud (Enfoque Geriátrico)",
+    "solucion": "Transformar el modelo de atención de la CCSS para priorizar la salud geriátrica y prevenir enfermedades crónicas.",
+    "ejecucion": "Reorientar inversiones de la CCSS hacia geriatría y gerontología, modernizando el Hospital Blanco Cervantes; crear unidades regionales para atención integral de enfermedades como el Alzheimer; y promover la 'receta médica de ejercicio' en alianza con la CCSS."
+  },
+  {
+    "problema": "Riesgo en la sostenibilidad de las pensiones y desigualdades en el sistema, lo que amenaza la seguridad económica de los adultos mayores.",
+    "propuesta": "Sostenibilidad de Pensiones y Seguridad Económica",
+    "solucion": "Fortalecer los regímenes de pensiones para garantizar ingresos estables y justos en la vejez.",
+    "ejecucion": "Retomar la venta del BICSA para inyectar capital al régimen de IVM; mantener cero tolerancia a las pensiones de lujo; y asegurar más pensiones del Régimen No Contributivo (RNC) trasladando la gestión de fondos al Banco Popular."
+  },
+  {
+    "problema": "Falta de una red de cuidado adecuada y de apoyo para las personas cuidadoras, lo que deja a muchos adultos mayores en situación de vulnerabilidad.",
+    "propuesta": "Fortalecimiento de la Red de Cuido y Apoyo al Cuidador",
+    "solucion": "Ampliar y profesionalizar los servicios de cuidado y reconocer el trabajo de las personas cuidadoras.",
+    "ejecucion": "Ampliar los horarios y cobertura de la Red de Cuido para alcanzar al 50% de adultos mayores en pobreza extrema; implementar una línea de teleasistencia para 10,000 hogares; y usar la plataforma Cuida.cr para profesionalizar y brindar subsidios a cuidadores."
+  },
+  {
+    "problema": "Los adultos mayores enfrentan abuso, abandono, falta de protección social y riesgos en el entorno digital.",
+    "propuesta": "Inclusión Social, Derechos y Entorno Seguro",
+    "solucion": "Garantizar un entorno seguro y respetuoso que proteja los derechos y la dignidad de los adultos mayores.",
+    "ejecucion": "Combatir el abuso y abandono extendiendo redes de protección y fiscalizando la exoneración de pasajes; implementar programas de alfabetización digital y ciberseguridad para prevenir fraudes; y priorizar bonos de vivienda para adultos mayores en pobreza extrema usando el SINIRUBE."
+  },
+  {
+    "problema": "Falta de oportunidades económicas y de servicios especializados que aprovechen el potencial de la población adulta mayor.",
+    "propuesta": "La 'Economía Plateada' como Oportunidad",
+    "solucion": "Fomentar un mercado de bienes y servicios especializados para adultos mayores, creando oportunidades de empleo y desarrollo.",
+    "ejecucion": "Promover la creación de prestadores de bienes y servicios dirigidos a adultos mayores, convirtiendo esta demanda en un motor de generación de empleo y desarrollo económico inclusivo."
+  }
+]

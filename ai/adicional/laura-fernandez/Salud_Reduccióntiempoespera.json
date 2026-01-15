@@ -1,0 +1,26 @@
+[
+  {
+    "problema": "Existen listas de espera prolongadas para cirugías y atención especializada, lo que retrasa el tratamiento y afecta la calidad de vida de los pacientes.",
+    "propuesta": "Intervención Técnica e Interinstitucional",
+    "solucion": "Establecer alianzas estratégicas y actualizar los procesos internos para agilizar la atención, especialmente en casos críticos.",
+    "ejecucion": "Firmar convenios con universidades y el sector privado para atender casos prioritarios; y modernizar los manuales de puestos del personal médico para que reflejen la práctica real y permitan a los especialistas enfocarse en reducir las listas de espera."
+  },
+  {
+    "problema": "Los hospitales especializados están saturados porque muchos casos que podrían resolverse a nivel local terminan en ellos, y hay brechas de atención en zonas rurales y costeras.",
+    "propuesta": "Fortalecimiento del Primer Nivel de Atención y Descentralización",
+    "solucion": "Potenciar la atención primaria en las comunidades para prevenir la saturación hospitalaria y reducir los desplazamientos de pacientes.",
+    "ejecucion": "Fortalecer la infraestructura y capacidad del primer nivel de atención en todo el país, priorizando las periferias, para que los casos sean resueltos localmente siempre que sea posible."
+  },
+  {
+    "problema": "Escasez de especialistas en zonas alejadas y falta de herramientas para optimizar el flujo de pacientes, lo que alarga los tiempos de espera.",
+    "propuesta": "Innovación Tecnológica como Herramienta de Inclusión",
+    "solucion": "Utilizar la tecnología para acercar los servicios de salud a todas las regiones y mejorar la eficiencia del sistema.",
+    "ejecucion": "Implementar telemedicina para dar cobertura en zonas remotas; y usar Inteligencia Artificial (IA) y sistemas como el EDUS para la detección temprana de riesgos y optimizar la gestión de pacientes."
+  },
+  {
+    "problema": "Grupos poblacionales vulnerables (adultos mayores, personas con discapacidad, indígenas) enfrentan mayores barreras para acceder a una atención oportuna y adecuada.",
+    "propuesta": "Atención Diferenciada para Poblaciones Vulnerables",
+    "solucion": "Adaptar los servicios de salud a las necesidades específicas de cada grupo para garantizar su plena inclusión en el sistema.",
+    "ejecucion": "Reorientar inversiones hacia la geriatría y crear unidades regionales para enfermedades degenerativas; y garantizar que la infraestructura y el personal de salud estén capacitados para una atención accesible y culturalmente apropiada para personas con discapacidad y comunidades indígenas."
+  }
+]

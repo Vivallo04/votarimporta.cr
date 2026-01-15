@@ -1,0 +1,20 @@
+[
+  {
+    "propuesta": "Transformación y Modernización del Sistema de Salud",
+    "problema": "Sistema de salud debilitado con brechas en infraestructura, personal agotado, largas listas de espera y falta de innovación tecnológica.",
+    "solucion": "Reformar y modernizar la Caja Costarricense de Seguro Social (CCSS) e implementar tecnologías digitales para hacerla más eficiente y accesible.",
+    "ejecucion": "Actualizar el modelo de gobernanza y manuales de puestos de la CCSS para descongestionar listas de espera; impulsar 'mSalud' con monitoreo remoto de pacientes crónicos; usar Inteligencia Artificial para detección temprana de enfermedades; implementar el programa 'Costa Rica Sana' para prevención de enfermedades crónicas; y cumplir la Política Nacional de Salud Mental, integrando educación emocional en las escuelas."
+  },
+  {
+    "propuesta": "Inclusión Social y Justicia para Grupos Vulnerables",
+    "problema": "Poblaciones como personas con discapacidad, mujeres, indígenas y afrodescendientes enfrentan exclusión, falta de acceso a servicios y desigualdad de oportunidades.",
+    "solucion": "Garantizar autonomía, acceso equitativo y oportunidades económicas para todos los grupos históricamente excluidos.",
+    "ejecucion": "Ofrecer servicios estatales diferenciados y planes educativos individualizados para personas con discapacidad; promover una 'Ciudad Turística Accesible' y accesibilidad total en Parques Nacionales; aumentar la autonomía económica de las mujeres con tolerancia cero a la violencia de género; garantizar acceso a salud y servicios básicos en territorios indígenas respetando su cultura; e impulsar estrategias de empleo para la población afrodescendiente aprovechando su dominio del inglés y el turismo cultural en Limón."
+  },
+  {
+    "propuesta": "Bienestar en la Vejez y Reducción de la Pobreza",
+    "problema": "Envejecimiento poblacional sin una red de apoyo adecuada, y altos niveles de pobreza y dependencia de subsidios.",
+    "solucion": "Crear un sistema de atención geriátrica robusto y promover la movilidad social mediante capacitación y empleo.",
+    "ejecucion": "Reorientar inversiones de la CCSS hacia geriatría y gerontología, creando unidades regionales para enfermedades degenerativas; ampliar horarios y cobertura de las redes de cuido y profesionalizar a los cuidadores; fortalecer el modelo 'IMAS Impulsa' para capacitar a 120,000 personas en pobreza; y aumentar las becas Avancemos a 370,000 beneficiarios."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "propuesta": "Modernización Tecnológica y Agricultura de Precisión",
+    "problema": "El sector agropecuario no utiliza suficiente tecnología, lo que reduce su eficiencia, rendimiento y competitividad.",
+    "solucion": "Transformar digitalmente el campo para hacerlo más eficiente y productivo.",
+    "ejecucion": "Implementar el 'Programa Cosecha Tecnológica' para capacitar productores; fomentar la agricultura de precisión; y crear un Programa Nacional de Mejora Genética para proveer semillas de alta calidad."
+  },
+  {
+    "propuesta": "Mejora de la Comercialización y Mercados",
+    "problema": "Los canales para vender productos del campo son ineficientes, dificultando que los productores obtengan un precio justo y los consumidores accedan a alimentos nacionales.",
+    "solucion": "Acortar la distancia entre el productor y el consumidor, mejorando la logística y los puntos de venta.",
+    "ejecucion": "Modernizar el Programa Integral de Mercadeo Agropecuario (PIMA) y las Ferias del Agricultor; construir una nueva sede del PIMA en la zona Este; y optimizar el Programa de Abastecimiento Institucional (PAI) para pagos oportunos."
+  },
+  {
+    "propuesta": "Fortalecimiento Institucional y Apoyo Directo al Productor",
+    "problema": "El apoyo estatal al agricultor está fragmentado y es insuficiente, especialmente en asistencia técnica y protección contra riesgos climáticos.",
+    "solucion": "Unificar y fortalecer los servicios del Estado para dar un apoyo más directo y efectivo a los productores.",
+    "ejecucion": "Consolidar la institucionalidad agrícola bajo el MAG; fortalecer los servicios de extensión agrícola; y garantizar el acceso a seguros agrícolas contra eventos climáticos."
+  },
+  {
+    "propuesta": "Competitividad Internacional y Exportaciones",
+    "problema": "Los productores nacionales enfrentan dificultades para cumplir con estándares internacionales y competir contra el contrabando, limitando su acceso a mercados de exportación.",
+    "solucion": "Posicionar los productos costarricenses en mercados globales de alto valor y proteger la producción nacional.",
+    "ejecucion": "Brindar acompañamiento para cumplir normativas internacionales (como el Pacto Verde de la UE); posicionar la carne costarricense como orgánica y carbono neutral; e implementar controles estrictos en fronteras contra el contrabando agropecuario."
+  },
+  {
+    "propuesta": "Desarrollo Territorial y Relevo Generacional",
+    "problema": "Existe una brecha de desarrollo entre las zonas rurales y urbanas, y hay poco interés de las nuevas generaciones en trabajar el campo.",
+    "solucion": "Convertir el agro en un motor de desarrollo para todas las regiones y atraer a jóvenes y mujeres.",
+    "ejecucion": "Fomentar la participación de jóvenes y mujeres en la agroindustria; e integrar a los pequeños productores en los Polos de Desarrollo Productivo (PDP) para crear encadenamientos con empresas tractoras en zonas rurales."
+  }
+]

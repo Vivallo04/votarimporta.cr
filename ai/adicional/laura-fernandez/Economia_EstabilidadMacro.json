@@ -1,0 +1,26 @@
+[
+  {
+    "propuesta": "Consolidar la Estabilidad Macroeconómica Heredada",
+    "problema": "Riesgo de perder los avances logrados en reducción de deuda, crecimiento económico y generación de empleo, lo que podría afectar la confianza y el bienestar de la población.",
+    "solucion": "Mantener y profundizar la disciplina fiscal y monetaria para asegurar un crecimiento económico sostenido y estable.",
+    "ejecucion": "Mantener la deuda pública en niveles manejables (meta: continuar por debajo del 60% del PIB), sostener un crecimiento del PIB cercano al 5%, controlar el desempleo en niveles bajos (como el 6.9% histórico) y seguir aumentando el salario mínimo real."
+  },
+  {
+    "propuesta": "Modernización Fiscal con Hacienda Digital",
+    "problema": "Evasión y elusión fiscal, y una gestión tributaria y presupuestaria ineficiente que limita los recursos del Estado.",
+    "solucion": "Implementar completamente la Hacienda Digital para modernizar la recaudación, el gasto público y la lucha contra la evasión.",
+    "ejecucion": "Poner en marcha el sistema de Hacienda Digital para optimizar impuestos y presupuesto; combatir activamente la evasión; y gestionar la deuda mediante la emisión de bonos temáticos y la ampliación de la base de inversionistas."
+  },
+  {
+    "propuesta": "Política Monetaria Autónoma y Tipo de Cambio Equilibrado",
+    "problema": "Necesidad de mantener la estabilidad de precios (baja inflación) y un tipo de cambio que refleje las condiciones reales de la economía para favorecer la inversión y las exportaciones.",
+    "solucion": "Garantizar la independencia del Banco Central y un mercado cambiario flexible y transparente.",
+    "ejecucion": "Respetar la autonomía del Banco Central para el control de la inflación; permitir que el tipo de cambio se determine por las condiciones del mercado; y autorizar el pago de impuestos y seguridad social en dólares para facilitar a empresas y personas."
+  },
+  {
+    "propuesta": "Usar la Estabilidad para un Desarrollo Territorial Equitativo",
+    "problema": "Desigualdad regional y concentración del crecimiento económico en el Gran Área Metropolitana (GAM), dejando atrás a las zonas costeras, rurales y fronterizas.",
+    "solucion": "Redistribuir los beneficios de la estabilidad macroeconómica para impulsar el desarrollo en todas las regiones del país.",
+    "ejecucion": "Dirigir la inversión pública y privada a regiones fuera del GAM; potenciar sectores clave como el agro y el turismo en zonas periféricas; y utilizar los recursos del crecimiento para reducir la pobreza y la desigualdad."
+  }
+]

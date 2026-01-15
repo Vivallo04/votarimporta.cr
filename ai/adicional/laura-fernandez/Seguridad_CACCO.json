@@ -1,0 +1,26 @@
+[
+  {
+    "propuesta": "Propósito Estratégico y Operativo del CACCO",
+    "problema": "El sistema penitenciario actual permite que los líderes del crimen organizado continúen operando y dirigiendo actividades delictivas desde el interior de las prisiones, además de sufrir hacinamiento.",
+    "solucion": "Crear una infraestructura carcelaria de máxima seguridad diseñada específicamente para aislar a los cabecillas del crimen organizado y aliviar la presión sobre el sistema penitenciario general.",
+    "ejecucion": "Poner en operación el Centro de Alta Contención contra el Crimen Organizado (CACCO), con capacidad para 5,000 personas, inspirado en modelos internacionales de alta seguridad adaptados a la realidad costarricense, para lograr el aislamiento efectivo de los líderes criminales."
+  },
+  {
+    "propuesta": "Sinergia con la Reforma de Justicia",
+    "problema": "La efectividad de una nueva infraestructura carcelaria se ve socavada si no está respaldada por un sistema judicial ágil y contundente que evite la impunidad y garantice un control estricto de las penas.",
+    "solucion": "Asegurar que la implementación del CACCO vaya acompañada de una reforma judicial que garantice sentencias firmes y un manejo estricto de la ejecución penal.",
+    "ejecucion": "Respaldar el CACCO con la reforma estructural del Poder Judicial para lograr celeridad y contundencia. Además, transferir la administración de los beneficios de la pena y la vigilancia del sistema plenamente al Ministerio de Justicia y Paz para un control más estricto."
+  },
+  {
+    "propuesta": "Integración en un Nuevo Modelo de Reinserción Social",
+    "problema": "El sistema penitenciario tradicional no logra una reinserción social efectiva y sostenible, perpetuando los ciclos de delincuencia.",
+    "solucion": "Incorporar el CACCO dentro de un modelo penitenciario renovado que priorice el trabajo obligatorio y la rehabilitación integral como ejes para la reinserción.",
+    "ejecucion": "Realizar reformas legales para establecer el trabajo obligatorio para cada privado de libertad, adaptado a su nivel de peligrosidad. Complementar con programas de formación técnica y educación formal en coordinación con el INA, y crear alianzas con el sector privado para la inserción laboral post-penitenciaria."
+  },
+  {
+    "propuesta": "Contexto de Seguridad Humana y Tecnología",
+    "problema": "La seguridad penitenciaria y la lucha contra el crimen organizado requieren de una aproximación integral que combine el aislamiento físico con inteligencia y control territorial externo.",
+    "solucion": "Conectar la operación del CACCO con una estrategia tecnológica y de seguridad nacional más amplia para atacar al crimen organizado de manera simultánea desde dentro y fuera de las prisiones.",
+    "ejecucion": "Reforzar la seguridad del CACCO con modernización administrativa y el uso de registros biométricos, integrando estos datos con el Centro de Comando C7i. Coordinar su operación con otras estrategias como el escaneo integral en fronteras y el fortalecimiento de los cuerpos policiales."
+  }
+]

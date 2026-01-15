@@ -1,0 +1,26 @@
+[
+  {
+    "propuesta": "Creación del Centro de Mando C7i",
+    "problema": "Falta de un sistema centralizado de inteligencia operativa que integre información en tiempo real para una respuesta preventiva y coordinada ante el delito.",
+    "solucion": "Establecer un centro de comando tecnológico unificado que funcione como el cerebro de la estrategia de seguridad, pasando de un modelo reactivo a uno predictivo.",
+    "ejecucion": "Crear el Centro Nacional de Comando C7i para integrar en tiempo real subsistemas de videovigilancia, radares (aéreos, marítimos, terrestres), escáneres, drones y reconocimiento biométrico. Implementar un mapa interactivo con reportes policiales y ciudadanos, y utilizar herramientas de análisis predictivo delictivo."
+  },
+  {
+    "propuesta": "Despliegue de Videovigilancia y Control Territorial Inteligente",
+    "problema": "Vigilancia pública limitada, reactiva y desconectada, especialmente en zonas vulnerables y de difícil acceso, lo que genera oportunidades para el delito.",
+    "solucion": "Implementar una red interconectada de vigilancia que combine infraestructura pública, privada y comunitaria para cubrir el territorio de manera integral y disuasiva.",
+    "ejecucion": "Habilitar canales de cooperación para integrar la videovigilancia de bancos y corporaciones a la red nacional. Priorizar la iluminación estratégica y la vigilancia comunitaria en barrios vulnerables, y desplegar drones para vigilancia en zonas rurales, fronterizas y marítimas."
+  },
+  {
+    "propuesta": "Sistema de Identificación y Trazabilidad Digital",
+    "problema": "Falta de un sistema ágil y confiable para identificar sospechosos y rastrear mercancías ilícitas, lo que facilita la impunidad en fronteras y aduanas.",
+    "solucion": "Implementar sistemas avanzados de identificación biométrica y escaneo integral para crear una trazabilidad digital completa en puntos de entrada y salida del país.",
+    "ejecucion": "Establecer una base de datos biométrica nacional para agilizar los controles de identidad. Operar escáneres de forma continua en el 100% de puertos, aeropuertos y fronteras, enviando alertas automáticas al C7i para la inspección digital de todas las mercancías."
+  },
+  {
+    "propuesta": "Integración con la Justicia y la Ciberdefensa",
+    "problema": "La información generada por la tecnología de seguridad no se articula eficazmente con los procesos judiciales ni con la protección de infraestructuras digitales críticas.",
+    "solucion": "Conectar el sistema tecnológico C7i con el sistema judicial y de ciberseguridad nacional para crear un ciclo completo de prevención, respuesta y sanción.",
+    "ejecucion": "Utilizar la evidencia digital recopilada (fotos, audios) para fortalecer los procesos judiciales y evitar la impunidad. Conectar el C7i con un Centro Nacional de Comando de Ciberseguridad para monitorear y proteger infraestructuras críticas como telecomunicaciones, energía y salud."
+  }
+]

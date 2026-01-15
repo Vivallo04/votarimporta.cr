@@ -1,0 +1,32 @@
+[
+  {
+    "problema": "La infraestructura y el entorno urbano no están diseñados para resistir eventos climáticos extremos, lo que aumenta el riesgo de daños y afecta la conectividad nacional.",
+    "propuesta": "Resiliencia en la Infraestructura y el Entorno Urbano",
+    "solucion": "Promover prácticas de construcción adaptativas y preventivas que incorporen la naturaleza para reducir riesgos y asegurar la continuidad de servicios críticos.",
+    "ejecucion": "Fomentar diseños de infraestructura con zonas de amortiguamiento natural; fortalecer las capacidades de mitigación y adaptación en los gobiernos locales; y priorizar la intervención técnica de puentes en condición crítica para mantener la conectividad ante desastres."
+  },
+  {
+    "problema": "La matriz energética, aunque renovable, es vulnerable a la variabilidad climática (como sequías) y requiere modernización para garantizar seguridad y reducir emisiones del transporte.",
+    "propuesta": "Energía Limpia y Seguridad Energética Resiliente",
+    "solucion": "Modernizar y diversificar el sistema energético mediante la participación privada, digitalización y electrificación del transporte para hacerlo más estable, competitivo y bajo en emisiones.",
+    "ejecucion": "Permitir la participación privada en igualdad de condiciones en el Sistema Eléctrico Nacional, incluso en geotermia; implementar redes inteligentes (smart grids); y expandir el parque vehicular eléctrico a más de 100,000 unidades con una red nacional de centros de carga para 2030."
+  },
+  {
+    "problema": "Falta de seguridad en el acceso al agua potable y manejo inadecuado de aguas residuales, lo que pone en riesgo la salud pública y la economía ante el cambio climático.",
+    "propuesta": "Gestión Estratégica del Recurso Hídrico y Saneamiento",
+    "solucion": "Garantizar la seguridad hídrica mediante un plan nacional, infraestructura moderna de saneamiento y la reutilización de aguas tratadas.",
+    "ejecucion": "Crear el 'Plan Nacional de Seguridad Hídrica'; construir sistemas modernos de alcantarillado sanitario y plantas de tratamiento en zonas urbanas y rurales; fomentar el reúso de aguas residuales tratadas en agricultura e industria; y fortalecer el Pago por Servicios Ambientales (PSA) para proteger cuencas y acuíferos."
+  },
+  {
+    "problema": "El sector agropecuario es altamente vulnerable a los eventos climáticos extremos, lo que amenaza la producción de alimentos y los ingresos de los agricultores.",
+    "propuesta": "Resiliencia en el Sector Agropecuario",
+    "solucion": "Proteger la producción nacional mediante seguros climáticos y la adopción de tecnologías de agricultura de precisión para mejorar la adaptabilidad y sostenibilidad.",
+    "ejecucion": "Garantizar el acceso a seguros agropecuarios contra eventos climáticos no predecibles; fomentar la agricultura de precisión a través del programa 'Costa Rica Agrotech'; e implementar biodigestores para tratar residuos orgánicos y convertirlos en biogás y fertilizantes."
+  },
+  {
+    "problema": "Dispersión y burocracia en la gestión ambiental, y un sistema productivo lineal que genera residuos y no aprovecha los materiales, reduciendo la resiliencia general.",
+    "propuesta": "Gobernanza Ambiental Ágil y Economía Circular",
+    "solucion": "Reformar la institucionalidad ambiental para eliminar duplicidades e implementar un modelo de economía circular que haga el sistema productivo más resiliente y sostenible.",
+    "ejecucion": "Reformar y ordenar las instituciones ambientales para una gestión ágil; e implementar completamente la Estrategia Nacional de Economía Circular (ENEC), fomentando la valorización de residuos a través de cooperativas comunales y sistemas descentralizados."
+  }
+]

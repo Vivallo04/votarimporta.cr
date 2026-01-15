@@ -1,0 +1,38 @@
+[
+  {
+    "propuesta": "Consolidar la Estabilidad Macroeconómica",
+    "problema": "Riesgo de perder los avances en disciplina fiscal y crecimiento económico logrados recientemente, lo que podría afectar la confianza y el desarrollo sostenido.",
+    "solucion": "Mantener y profundizar las políticas de responsabilidad fiscal y monetaria como base fundamental para el crecimiento y la inversión.",
+    "ejecucion": "Mantener un crecimiento del PIB cercano al 5% mediante contención del gasto y recaudación eficiente; implementar al 100% el sistema de Hacienda Digital para modernizar impuestos y combatir la evasión; y garantizar la independencia del Banco Central para la estabilidad monetaria."
+  },
+  {
+    "propuesta": "Aumentar la Competitividad mediante la Simplificación Burocrática",
+    "problema": "Exceso de trámites, duplicidades institucionales y barreras administrativas que encarecen la operación, desincentivan la inversión y afectan el costo de vida.",
+    "solucion": "'Desenredar la burocracia' para facilitar el emprendimiento, la inversión privada y reducir costos para los ciudadanos.",
+    "ejecucion": "Continuar eliminando obstáculos tramitológicos (sumando a los 177 ya eliminados); realizar estudios de reestructuración integral en todas las instituciones para eliminar duplicidades; y promover la desgravación arancelaria en productos básicos y medicinas, además de eliminar tarifas mínimas en servicios profesionales."
+  },
+  {
+    "propuesta": "Dinamizar Sectores Estratégicos: Turismo, Agro y Economía Azul",
+    "problema": "Potencial no fully explotado en sectores clave como el turismo, la agricultura y los recursos marinos, que son vitales para el desarrollo regional.",
+    "solucion": "Implementar planes de modernización y valor agregado en estos sectores para convertirlos en motores de desarrollo territorial.",
+    "ejecucion": "Implementar Planes Maestros de Turismo en Cartago, Caribe, Occidente y Nicoya, y modernizar el muelle de cruceros de Puntarenas. Impulsar la agricultura de precisión y mejorar seguros agrícolas. Reformar el INCOPESCA para potenciar la pesca responsable, la maricultura y la pesca turística."
+  },
+  {
+    "propuesta": "Apoyar a las PYMES y Generar Empleo (Estrategia BRETE)",
+    "problema": "Dificultad de las pequeñas y medianas empresas para acceder a financiamiento y capacitación, y necesidad de formar capital humano para los empleos del futuro.",
+    "solucion": "Democratizar el acceso al crédito y a la capacitación técnica para fortalecer el tejido empresarial y la empleabilidad.",
+    "ejecucion": "Crear una plataforma digital para conectar PYMES con financiamiento, y generar programas de capital semilla y avales. Fortalecer la capacitación técnica masiva (más de 100,000 personas) con énfasis en mujeres y jóvenes para sectores como tecnología y energías renovables (Estrategia BRETE)."
+  },
+  {
+    "propuesta": "Acelerar la Infraestructura y la Innovación Digital",
+    "problema": "Brechas en infraestructura logística y digital que limitan la competitividad, la conectividad y el desarrollo de nuevas industrias.",
+    "solucion": "Invertir en infraestructura física de conectividad y en la revolución digital como motores del crecimiento del siglo XXI.",
+    "ejecucion": "Finalizar rutas estratégicas (como la Ruta 35), ampliar el Puerto de Caldera y construir una terminal de carga en el Aeropuerto Daniel Oduber. Implementar la red 5G en todo el territorio y fomentar la economía naranja (industrias creativas). Abrir el mercado eléctrico a participación privada para reducir tarifas."
+  },
+  {
+    "propuesta": "Promover la Justicia Social y el Desarrollo Territorial Equilibrado",
+    "problema": "Concentración del desarrollo y la inversión en el Gran Área Metropolitana, generando desigualdad regional y una 'Costa Rica de tres velocidades'.",
+    "solucion": "Descentralizar el desarrollo económico mediante la creación de polos de crecimiento en zonas periféricas.",
+    "ejecucion": "Crear Polos de Desarrollo Productivo (PDP) en zonas periféricas, atrayendo empresas tractoras que generen encadenamientos locales y aseguren que la inversión beneficie a todas las regiones."
+  }
+]

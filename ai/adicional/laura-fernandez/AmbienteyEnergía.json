@@ -1,0 +1,38 @@
+[
+  {
+    "problema": "Dispersión institucional y duplicidades en la gestión ambiental que generan obstáculos burocráticos y frenan el desarrollo sostenible.",
+    "propuesta": "Modernización de la Gobernanza Ambiental",
+    "solucion": "Ordenar la institucionalidad pública para eliminar la dispersión de funciones y brindar seguridad jurídica, promoviendo un desarrollo ambientalmente responsable.",
+    "ejecucion": "Reformar y ordenar las instituciones ambientales; actualizar el marco regulatorio de la Zona Marítimo Terrestre; y permitir la explotación regulada de minería metálica en Cutris y formalizar la minería artesanal en Abangares bajo estrictos estándares ambientales."
+  },
+  {
+    "problema": "Aunque la matriz eléctrica es mayormente renovable, existen altos costos de tarifas y necesidad de modernización para reducir emisiones y promover la competencia.",
+    "propuesta": "Energía Limpia y Descarbonización",
+    "solucion": "Transformar el Sistema Eléctrico Nacional para abrirlo a la competencia privada, reducir tarifas y fomentar la innovación en energías limpias.",
+    "ejecucion": "Permitir la participación privada en igualdad de condiciones con el ICE, incluso en geotermia; revisar exhaustivamente los costos y metodologías tarifarias para reducir sobrecargos; e impulsar redes inteligentes (smart grids), digitalización y combustibles limpios."
+  },
+  {
+    "problema": "Falta de un sistema productivo circular y gestión descentralizada de residuos, lo que genera contaminación y desaprovecha materiales.",
+    "propuesta": "Economía Circular y Gestión de Residuos",
+    "solucion": "Transitar hacia una economía circular que valore los materiales y mejore la gestión de residuos mediante la participación comunitaria y privada.",
+    "ejecucion": "Implementar totalmente la Estrategia Nacional de Economía Circular (ENEC); promover la creación de cooperativas comunales de reciclaje; y actualizar la normativa para permitir rellenos sanitarios mediante alianzas público-privadas."
+  },
+  {
+    "problema": "Deficiente manejo de aguas residuales y servicios de acueducto y alcantarillado ineficientes, especialmente en zonas rurales y costeras.",
+    "propuesta": "Recurso Hídrico y Saneamiento",
+    "solucion": "Modernizar la gestión del agua y ampliar la infraestructura de saneamiento para garantizar el acceso y el reuso responsable.",
+    "ejecucion": "Reformar estructuralmente el AyA (marco jurídico y gestión); construir un nuevo sistema de alcantarillado sanitario en la GAM y plantas de tratamiento en zonas rurales y costeras; y fomentar el reuso de aguas residuales tratadas en agricultura e industria."
+  },
+  {
+    "problema": "El transporte es el principal emisor de gases de efecto invernadero en el país, con una flota vehicular mayormente dependiente de combustibles fósiles.",
+    "propuesta": "Movilidad Sostenible y Resiliencia",
+    "solucion": "Acelerar la transición hacia la movilidad eléctrica y un transporte público eficiente, mientras se construye infraestructura resiliente al clima.",
+    "ejecucion": "Expandir el parque vehicular eléctrico a más de 100,000 unidades para 2030 con infraestructura de carga; incorporar más buses eléctricos y expandir el pago electrónico en el transporte público; y promover prácticas de construcción con zonas de amortiguamiento natural y adaptación climática."
+  },
+  {
+    "problema": "Necesidad de expandir el reconocimiento económico a los propietarios de bosques, incluyendo a los pueblos indígenas, por su rol vital en la conservación de la biodiversidad.",
+    "propuesta": "Fortalecimiento del Pago por Servicios Ambientales (PSA)",
+    "solucion": "Reafirmar y expandir el programa de PSA para compensar a quienes protegen los bosques y los servicios ecosistémicos.",
+    "ejecucion": "Ampliar el programa de PSA, asegurando la inclusión de los pueblos indígenas como guardianes de la biodiversidad y reconociendo económicamente su labor de conservación."
+  }
+]

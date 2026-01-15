@@ -1,0 +1,38 @@
+[
+  {
+    "eje": "Reforma Estructural del Poder Judicial",
+    "problema": "Impunidad, justicia lenta e ineficaz, falta de rendición de cuentas y procesos judiciales selectivos que no sirven a las víctimas.",
+    "solucion": "Transformación profunda del Poder Judicial para hacerlo ágil, contundente y autónomo.",
+    "implementacion": "Establecer la obligatoriedad de rendición de cuentas, limitar los cargos de magistrados a un máximo de 10 años, dotar de autonomía constitucional a la Sala Constitucional y reformar normativas para acelerar procesos judiciales."
+  },
+  {
+    "eje": "Combate Estratégico al Crimen Organizado y Tecnología",
+    "problema": "Narcotráfico y bandas criminales organizadas que operan con sofisticación y en redes transnacionales.",
+    "solucion": "Estrategia basada en inteligencia, vigilancia tecnológica y control fronterizo total.",
+    "implementacion": "Crear el Centro de Comando C7i (con videovigilancia, drones, radares y reconocimiento biométrico), operar escáneres en el 100% de puertos, aeropuertos y fronteras, fortalecer cooperación con DEA, Interpol y Europol, y en casos extremos, tramitar ante la Asamblea Legislativa la suspensión temporal de garantías individuales específicas para capturar delincuentes."
+  },
+  {
+    "eje": "Fortalecimiento Policial y Condiciones Laborales",
+    "problema": "Falta de respeto ciudadano hacia la policía y condiciones laborales deficientes que afectan su eficacia y bienestar.",
+    "solucion": "Mejorar la calidad de vida y la profesionalización de los cuerpos policiales.",
+    "implementacion": "Implementar programas de bienestar (becas estatales para hijos de policías, soluciones habitacionales con créditos preferentes) y proporcionar entrenamiento avanzado en inteligencia criminal, operaciones marítimas y control de drogas sintéticas como el fentanilo."
+  },
+  {
+    "eje": "Reforma Penitenciaria y Reinserción",
+    "problema": "Las prisiones funcionan como centros de operación criminal y no facilitan la reinserción social.",
+    "solucion": "Cambio estructural en la política carcelaria para aislar a líderes criminales y promover la reinserción.",
+    "implementacion": "Poner en operación Cárceles de Alta Contención (CACCO) para líderes del crimen organizado y reformar el sistema para que el trabajo sea obligatorio para cada persona privada de libertad, contribuyendo a su reinserción y a la sostenibilidad del sistema."
+  },
+  {
+    "eje": "Seguridad Humana y Prevención Comunitaria",
+    "problema": "Inseguridad generada por falta de oportunidades en zonas vulnerables, que lleva a la captación de jóvenes por el crimen, y alta incidencia de violencia de género.",
+    "solucion": "Enfoque de justicia social que prioriza la cohesión comunitaria y la prevención.",
+    "implementacion": "Implementar programas de empleo juvenil, deporte y cultura en barrios de riesgo; y fortalecer la atención a víctimas de violencia de género mediante interoperabilidad con el 9-1-1 y una aplicación para registrar incidentes y pruebas en tiempo real (tolerancia cero)."
+  },
+  {
+    "eje": "Ciberdefensa y Ciberseguridad",
+    "problema": "Aumento del cibercrimen y vulnerabilidad de infraestructuras críticas digitales.",
+    "solucion": "Fortalecimiento de la ciberseguridad nacional y protección de infraestructuras estratégicas.",
+    "implementacion": "Crear un Centro Nacional de Comando de Ciberseguridad conectado al C7i para monitoreo permanente de incidentes críticos, y establecer protocolos de defensa digital para sectores como energía, telecomunicaciones, agua y salud."
+  }
+]

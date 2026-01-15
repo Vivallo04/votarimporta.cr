@@ -1,0 +1,26 @@
+[
+  {
+    "problema": "El sistema eléctrico nacional está centralizado y carece de suficiente competencia, lo que limita la innovación, la eficiencia y puede generar altos costos para los usuarios.",
+    "propuesta": "Transformación y Apertura del Sistema Eléctrico",
+    "solucion": "Abrir el mercado eléctrico a la participación privada en igualdad de condiciones para fomentar la competencia, diversificar la matriz energética y descentralizar la generación.",
+    "ejecucion": "Permitir que el sector privado compita con el ICE; habilitar la producción y comercialización privada de energía geotérmica en comunidades cercanas a focos de calor; y dotar de mayor independencia técnica al Centro de Control de Energía para un despacho objetivo."
+  },
+  {
+    "problema": "Los altos precios de la electricidad debido a sobrecostos y metodologías tarifarias desactualizadas afectan la competitividad de las empresas y el bolsillo de las familias.",
+    "propuesta": "Reducción de Costos y Eficiencia Tarifaria",
+    "solucion": "Revisar y rediseñar las tarifas eléctricas para eliminar sobrecostos y establecer modelos más competitivos y justos, aprovechando la interconexión regional.",
+    "ejecucion": "Realizar una revisión exhaustiva para eliminar sobrecargos; rediseñar las metodologías tarifarias por categoría de consumo; y mejorar la interconexión eléctrica con otros países para importar energía a precios más bajos."
+  },
+  {
+    "problema": "Falta de adopción de tecnologías digitales y combustibles limpios en el sector energético, lo que limita la eficiencia, la resiliencia y la descarbonización.",
+    "propuesta": "Innovación Tecnológica y Descarbonización",
+    "solucion": "Digitalizar el sector e impulsar el uso de redes inteligentes y combustibles alternativos para aumentar la eficiencia, reducir emisiones y apoyar la transición energética.",
+    "ejecucion": "Impulsar la implementación de redes inteligentes (smart grids); ofrecer incentivos temporales y reducciones arancelarias para que empresas adopten renovables; facilitar créditos a MIPYMES para generación limpia; y promover el uso de combustibles limpios."
+  },
+  {
+    "problema": "La transición hacia una movilidad sostenible y la resiliencia climática requieren de una base de energía limpia, asequible y confiable.",
+    "propuesta": "Energía Limpia como Base para la Sostenibilidad y Movilidad",
+    "solucion": "Utilizar la energía limpia como pilar fundamental para electrificar el transporte y construir un sistema energético diversificado y resiliente ante el cambio climático.",
+    "ejecucion": "Expandir la infraestructura de carga para vehículos eléctricos (meta: más de 100,000 unidades para 2030); diversificar la matriz energética para reducir la dependencia de la hidroelectricidad vulnerable al clima; y fortalecer la infraestructura municipal con capacidades de adaptación."
+  }
+]

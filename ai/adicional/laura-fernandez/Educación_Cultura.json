@@ -1,0 +1,32 @@
+[
+  {
+    "problema": "El sistema educativo no está actualizado para las demandas futuras, especialmente en tecnología e idiomas, lo que limita la competitividad de los estudiantes.",
+    "propuesta": "Modernización Educativa: Enfoque STEAM y Bilingüismo",
+    "solucion": "Transformar el sistema educativo para integrar ciencia, tecnología, ingeniería, artes, matemáticas e inglés desde edades tempranas.",
+    "ejecucion": "Impulsar el programa 'Costa Rica STEAM' con desafíos nacionales; implementar el plan 'Costa Rica Habla Inglés' con estándares claros y cerrar brechas en zonas rurales; y consolidar el Programa Nacional de Formación Tecnológica en más de 4,500 centros educativos."
+  },
+  {
+    "problema": "La educación no está alineada con las necesidades del mercado laboral, y hay falta de oportunidades técnicas y superiores en regiones con alta pobreza.",
+    "propuesta": "Educación Técnica y Superior con Visión de Mercado",
+    "solucion": "Vincular la educación con la empleabilidad y el desarrollo económico regional, enfocándose en sectores de alta demanda.",
+    "ejecucion": "Transformar progresivamente más de 50 colegios académicos en Colegios Técnicos Profesionales (CTP) en cantones pobres; alinear la oferta con sectores como biotecnología y ciberseguridad; asignar presupuesto universitario basado en resultados; y fortalecer la oferta territorial del INA."
+  },
+  {
+    "problema": "Barreras como infraestructura inadecuada, falta de alimentación, transporte y salud emocional afectan la permanencia y el aprendizaje de los estudiantes más vulnerables.",
+    "propuesta": "Justicia Social: 'Educar sin exclusiones'",
+    "solucion": "Garantizar condiciones básicas y apoyo integral para que todos los estudiantes puedan aprender sin obstáculos.",
+    "ejecucion": "Implementar un plan multianual para mejorar la infraestructura escolar en riesgo; ampliar programas de alimentación (dos tiempos de comida) y transporte escolar universal; y crear el programa de Salud Psicoemocional Escolar en las 27 regiones educativas."
+  },
+  {
+    "problema": "La oferta cultural está concentrada en el centro del país, limitando el acceso en otras regiones y desaprovechando el potencial económico de la cultura.",
+    "propuesta": "Cultura: Democratización y Economía Naranja",
+    "solucion": "Descentralizar el acceso a la cultura y promover las industrias creativas como motor de desarrollo social y económico.",
+    "ejecucion": "Fortalecer el programa RIDE Cultural para llevar arte a todas las regiones; promover polos de industrias creativas en zonas como Nicoya y San Carlos; y preservar las lenguas y tradiciones de pueblos indígenas y la cultura afrocostarricense."
+  },
+  {
+    "problema": "Los docentes están sobrecargados con tareas administrativas, lo que les resta tiempo para la enseñanza y afecta su desarrollo profesional.",
+    "propuesta": "Dignificación de la Labor Docente",
+    "solucion": "Reducir la carga burocrática y mejorar la capacitación para que los educadores se enfoquen en la pedagogía.",
+    "ejecucion": "Implementar una estrategia para reducir las cargas administrativas de los docentes; y fortalecer la formación continua en áreas como neuroeducación y habilidades digitales."
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "eje": "Sostenibilidad y Energía",
+  "area_especifica": "Descarbonización del Transporte",
+  "enfoque": "Desafío más crítico para lograr una verdadera sostenibilidad, enfocado en transformar el sector transporte que es el principal consumidor de combustibles fósiles (responsable del 67% de la matriz energética sucia) mediante electrificación masiva y reformas integrales.",
+  "propuestas": [
+    {
+      "componente": "De la Planificación a la Acción Inmediata",
+      "problema": "El Plan Nacional de Descarbonización 2050 carece de acciones ejecutables a corto plazo, mientras el sector transporte sigue dependiendo abrumadoramente de combustibles fósiles.",
+      "solucion": "Transformar la planificación en acciones de choque inmediatas para una electrificación masiva, priorizando sectores de alto impacto.",
+      "implementacion": [
+        "Transporte Público y de Carga: Transición obligatoria a flotillas eléctricas o a gas para buses, taxis y vehículos de carga hacia 2030.",
+        "Movilidad Marítima Eléctrica: Implementar transporte limpio en áreas protegidas, vinculando conservación e innovación.",
+        "Proyectos Ferroviarios: Desarrollar el Tren Eléctrico Metropolitano y trenes de carga mediante alianzas público-privadas internacionales."
+      ]
+    },
+    {
+      "componente": "Infraestructura y Modernización Urbana",
+      "problema": "Dependencia excesiva del vehículo particular y falta de infraestructura para una movilidad urbana eficiente y baja en emisiones.",
+      "solucion": "Reforma profunda de la movilidad urbana, integrando infraestructura habilitadora y sistemas de transporte inteligentes.",
+      "implementacion": [
+        "Sectorización y Pago Electrónico: Organizar buses en rutas troncales/alimentadoras con tarifa única y pago digital.",
+        "Infraestructura Habilitadora: Construir carriles exclusivos, ciclovías seguras, aceras amplias y estacionamientos disuasorios.",
+        "Red de Carga Nacional: Crear infraestructura robusta de carga eléctrica y masificar fibra óptica para sistemas inteligentes de tráfico."
+      ]
+    },
+    {
+      "componente": "Incentivos Económicos y Regulación",
+      "problema": "Falta de mecanismos de mercado y reformas legales que aceleren la transición hacia vehículos limpios y modelos de transporte sostenibles.",
+      "solucion": "Implementar incentivos económicos, financiamiento accesible y un marco regulatorio moderno para estimular la descarbonización.",
+      "implementacion": [
+        "Modelo de Feebates: Aplicar incentivos fiscales y tasas diferenciadas para vehículos limpios, con tarifas competitivas para carga eléctrica.",
+        "Créditos Blandos: Facilitar financiamiento para la adquisición de vehículos eléctricos particulares y comerciales.",
+        "Plataformas Colaborativas: Modernizar la legislación para regular plataformas digitales de transporte, garantizando seguridad y competencia leal."
+      ]
+    },
+    {
+      "componente": "Vínculo con 'Energía Renovable 2.0'",
+      "problema": "El aumento de la demanda eléctrica por el transporte eléctrico podría comprometer la estabilidad del sistema y elevar costos si no se planifica con la matriz energética.",
+      "solucion": "Asegurar que la descarbonización del transporte esté integrada y sea el principal cliente de una matriz energética diversificada y renovable.",
+      "implementacion": [
+        "Diversificación de Fuentes: Asegurar el suministro mediante hidrógeno verde, energía solar y eólica marina para cubrir la nueva demanda eléctrica.",
+        "Integración Institucional: Avanzar en la integración estratégica de ICE y RECOPE bajo una política unificada para gestionar la transición de hidrocarburos a electricidad limpia."
+      ]
+    }
+  ]
+}

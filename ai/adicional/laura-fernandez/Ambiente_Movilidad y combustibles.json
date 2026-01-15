@@ -1,0 +1,26 @@
+[
+  {
+    "problema": "El sector transporte es responsable del 76% del incremento en las emisiones de gases de efecto invernadero en el país, debido a la dependencia de combustibles fósiles y una flota vehicular mayormente convencional.",
+    "propuesta": "Descarbonización y Electromovilidad",
+    "solucion": "Aprovechar la matriz eléctrica renovable para impulsar la transición hacia vehículos eléctricos, reduciendo las emisiones del transporte privado.",
+    "ejecucion": "Establecer la meta de superar las 100,000 unidades en el parque vehicular eléctrico para 2030; expandir estratégicamente la infraestructura de centros de carga en rutas nacionales con inversión pública y privada; y garantizar la continuidad de los incentivos fiscales y regulatorios para la movilidad eléctrica."
+  },
+  {
+    "problema": "El sistema de transporte público es ineficiente, con rutas desordenadas, una flota que genera altas emisiones y falta de integración entre modos de transporte.",
+    "propuesta": "Transformación Integral del Transporte Público",
+    "solucion": "Reformar el sistema de transporte público para hacerlo más eficiente, limpio e interconectado, reduciendo el número de unidades y las emisiones.",
+    "ejecucion": "Reordenar las rutas en la GAM para reducir la flota de buses a menos de la mitad; incorporar más buses eléctricos en rutas urbanas; expandir universalmente el pago electrónico, especialmente en zonas rurales; crear nodos intermodales que integren trenes y autobuses; e impulsar el Tren Eléctrico de Carga (TELCA) y el tren de pasajeros en la GAM."
+  },
+  {
+    "problema": "Persiste la dependencia de combustibles fósiles en algunos sectores del transporte, y existe un problema de robo de combustible que causa daños económicos y ambientales por derrames ilegales.",
+    "propuesta": "Uso de Combustibles Limpios y Seguridad Energética",
+    "solucion": "Promover el uso de combustibles alternativos más limpios y combatir el robo de hidrocarburos para proteger la economía y el medio ambiente.",
+    "ejecucion": "Impulsar el uso de combustibles limpios para reducir la huella de carbono; e implementar un sistema de trazabilidad de insumos y fortalecer la tipificación penal del robo de combustible para prevenir derrames y proteger los recursos."
+  },
+  {
+    "problema": "Falta de competencia y diversificación en la generación de energía limpia, lo que puede limitar la oferta y afectar los costos de la electricidad necesaria para la movilidad sostenible.",
+    "propuesta": "Apertura del Mercado Eléctrico y Diversificación Energética",
+    "solucion": "Transformar el sistema eléctrico para permitir mayor competencia y diversificación de fuentes renovables, asegurando energía abundante y asequible para la transición.",
+    "ejecucion": "Abrir el Sistema Eléctrico Nacional a la participación privada en igualdad de condiciones con el ICE; y habilitar la producción y comercialización privada de energía geotérmica en comunidades locales para diversificar la matriz de energía limpia."
+  }
+]

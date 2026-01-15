@@ -1,0 +1,26 @@
+[
+  {
+    "propuesta": "Reforma Administrativa y de Gobernanza de la CCSS",
+    "problema": "Estructura administrativa debilitada, exhausta y con procesos de toma de decisiones ineficientes que impiden una gestión ágil y enfocada en la atención médica.",
+    "solucion": "Modernizar profundamente la estructura de gobierno y los procesos administrativos para lograr una gestión estratégica, eficiente y con rendición de cuentas.",
+    "ejecucion": "Actualizar el modelo de gobernanza de la Junta Directiva, Presidencia Ejecutiva y Gerencia General; modernizar los manuales de puestos del personal médico para reflejar la práctica real; y tercerizar servicios no esenciales al sector privado."
+  },
+  {
+    "propuesta": "Revolución Tecnológica en Salud (Salud Digital)",
+    "problema": "Falta de innovación tecnológica que afecta la oportunidad y calidad de la atención, especialmente para pacientes crónicos y en zonas alejadas.",
+    "solucion": "Implementar tecnologías de punta como Inteligencia Artificial y telemedicina para mejorar la detección temprana, el monitoreo remoto y la gestión de recursos.",
+    "ejecucion": "Usar Inteligencia Artificial (IA) para la detección temprana de riesgos en enfermedades crónicas y oncológicas; implementar Salud Móvil (mSalud) y telemedicina para monitoreo remoto y cobertura en zonas alejadas; y consolidar el uso de sistemas de gestión (ERP y EDUS) para optimizar recursos."
+  },
+  {
+    "propuesta": "Inclusión y Atención a Poblaciones Vulnerables",
+    "problema": "Grupos específicos como adultos mayores, personas con discapacidad y comunidades indígenas no reciben una atención de salud adecuada y adaptada a sus necesidades.",
+    "solucion": "Adaptar los servicios de la CCSS para que sean inclusivos y respondan a las necesidades específicas de cada población vulnerable.",
+    "ejecucion": "Reorientar inversiones hacia geriatría y gerontología, fortaleciendo el Hospital Blanco Cervantes y creando unidades regionales para enfermedades degenerativas; capacitar al personal de la CCSS en trato digno y accesibilidad para personas con discapacidad; y ampliar la cobertura de atención primaria en territorios indígenas con un enfoque culturalmente apropiado."
+  },
+  {
+    "propuesta": "Estrategias para la Sostenibilidad y Salud Preventiva",
+    "problema": "Altos costos por enfermedades crónicas, listas de espera prolongadas y desafíos en la sostenibilidad financiera del sistema de salud.",
+    "solucion": "Transitar hacia un modelo preventivo y crear alianzas estratégicas para asegurar la sostenibilidad financiera y operativa a largo plazo.",
+    "ejecucion": "Implementar el programa 'Costa Rica Sana' para la prevención y tratamiento de enfermedades crónicas no transmisibles; establecer alianzas con universidades y el sector privado para reducir las listas de espera en casos críticos; y retomar la venta de activos (como el BICSA) para inyectar recursos al régimen de pensiones (IVM) y apoyar la sostenibilidad financiera."
+  }
+]

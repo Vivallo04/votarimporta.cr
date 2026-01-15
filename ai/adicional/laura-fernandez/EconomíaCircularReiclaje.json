@@ -1,0 +1,45 @@
+{
+  "eje": "Sostenibilidad y Energía",
+  "area_especifica": "Economía Circular y Reciclaje",
+  "enfoque": "Pilares fundamentales para superar el modelo lineal de 'usar y desechar', transformando la gestión deficiente de residuos en un ciclo productivo que impulsa un desarrollo verde integral y se integra con la matriz energética.",
+  "propuestas": [
+    {
+      "componente": "Cambio de Paradigma: De Desecho a Recurso",
+      "problema": "Visión tradicional de la basura como un simple desecho, con una gestión de residuos deficiente que no aprovecha su potencial como recurso dentro de un ciclo productivo.",
+      "solucion": "Transformar radicalmente la gestión de residuos bajo la premisa de 'reducir, reusar y reciclar', integrando los desechos en un ciclo económico circular.",
+      "implementacion": [
+        "Separación Obligatoria en la Fuente: Implementar la separación de residuos de manera obligatoria desde el origen (hogares, comercios, industrias).",
+        "Infraestructura Municipal: Crear centros de acopio municipales y plantas de compostaje específicas para tratar la fracción orgánica de los desechos.",
+        "Meta Cuantificable: Establecer y perseguir el objetivo de alcanzar una tasa de reciclaje municipal del 50% para el año 2030."
+      ]
+    },
+    {
+      "componente": "El Vínculo Energético: 'Waste-to-Energy'",
+      "problema": "Los residuos no son aprovechados como una fuente potencial de energía, perdiéndose la oportunidad de integrarlos a la matriz energética limpia y diversificada.",
+      "solucion": "Integrar los residuos en la estrategia de 'Energía Renovable 2.0', convirtiéndolos en una fuente de bioenergía para el sistema nacional.",
+      "implementacion": [
+        "Generación de Bioenergía: Producir energía a partir de residuos agrícolas y urbanos (biomasa, biogás).",
+        "Refuerzo del Sistema Eléctrico: Incluir la valorización energética de residuos como una de las nuevas fuentes limpias para fortalecer y diversificar el suministro eléctrico nacional."
+      ]
+    },
+    {
+      "componente": "Marco Legal e Incentivos para la Competitividad Industrial",
+      "problema": "Falta de un marco regulatorio sólido y de incentivos que impulsen la responsabilidad de los productores y hagan competitiva la industria del reciclaje y la producción circular.",
+      "solucion": "Crear un entorno normativo y económico que incentive la economía circular, posicionándola como una ventaja competitiva para la industria nacional.",
+      "implementacion": [
+        "Ley de Responsabilidad Extendida del Productor (REP): Establecer un marco legal que obligue a los productores a financiar y gestionar las cadenas de reciclaje de sus productos al final de su vida útil.",
+        "Incentivos a la Industia: Apoyar a empresas recicladoras y a aquellas que utilicen materiales reciclados mediante créditos blandos e incentivos fiscales.",
+        "Reducción de Plásticos de Un Solo Uso: Implementar políticas activas para desincentivar y reducir el consumo de plásticos de un solo uso."
+      ]
+    },
+    {
+      "componente": "Educación y Acción Comunitaria",
+      "problema": "Falta de conciencia ciudadana generalizada y de mecanismos estructurados de participación comunitaria para sostener la transición hacia una economía circular.",
+      "solucion": "Fomentar la educación ambiental desde la base y promover la acción organizada de las comunidades para asegurar la adopción y sostenibilidad de las prácticas circulares.",
+      "implementacion": [
+        "Brigadas Ambientales Cantonales: Crear y apoyar brigadas ambientales en cada cantón para tareas de limpieza de ríos, monitoreo ciudadano y promoción local del reciclaje.",
+        "Currículo Escolar con Enfoque Verde: Reforzar e integrar la educación ambiental y los principios de la economía circular en el currículo escolar para formar hábitos en las nuevas generaciones."
+      ]
+    }
+  ]
+}

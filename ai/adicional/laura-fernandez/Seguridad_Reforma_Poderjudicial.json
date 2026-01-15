@@ -1,0 +1,20 @@
+[
+  {
+    "propuesta": "Transformación de la Estructura y Gobernanza Judicial",
+    "problema": "Falta de límites claros en los mandatos, dependencia jerárquica que puede afectar la independencia, y ausencia de un régimen de rendición de cuentas para funcionarios judiciales.",
+    "solucion": "Reformar la organización y gobernanza del Poder Judicial para combatir la impunidad mediante mayor independencia y transparencia.",
+    "ejecucion": "Establecer un plazo máximo de 10 años para el cargo de magistrados, dotar de autonomía a la Sala Constitucional (Sala IV) para que no dependa de la Corte Plena, e implementar un sistema obligatorio de rendición de cuentas con un nuevo régimen de sanciones."
+  },
+  {
+    "propuesta": "Eficiencia Procesal y Lucha contra la Impunidad",
+    "problema": "Lentitud y cuellos de botella en los procesos judiciales, selectividad en la atención de casos que favorece la impunidad, y percepción ciudadana de que el sistema judicial protege a los criminales.",
+    "solucion": "Acelerar y hacer más efectivos los procesos judiciales, priorizando a las víctimas y eliminando la impunidad.",
+    "ejecucion": "Reformar las normativas procesales para garantizar celeridad, eliminar la selectividad de casos y reorientar el sistema para que sea una herramienta de protección real para la ciudadanía."
+  },
+  {
+    "propuesta": "Integridad y Combate a la Corrupción Interna",
+    "problema": "Riesgo de penetración del crimen organizado y actos de corrupción dentro del propio sistema de justicia.",
+    "solucion": "Blindar la integridad institucional del Poder Judicial y el Ministerio Público.",
+    "ejecucion": "Implementar pruebas de confianza (patrimoniales, digitales y de entorno social) para jueces, fiscales y personal judicial, y crear un Equipo Nacional Anticorrupción independiente que investigue actos de corrupción vinculados al crimen organizado, involucrando a la sociedad civil."
+  }
+]
