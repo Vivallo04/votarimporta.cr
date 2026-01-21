@@ -53,10 +53,10 @@ export default function HomePage() {
             <p className="mb-6 max-w-lg text-base md:text-lg text-muted-foreground text-pretty mx-auto">
               Informate en minutos. Compará candidatos. Votá consciente.
             </p>
-            <div className="flex flex-wrap items-center justify-center gap-3">
+            <div className="flex flex-col sm:flex-row items-center justify-center gap-3 w-full">
               <Button
                 size="lg"
-                className="min-w-[180px] text-sm md:text-base rounded-full px-6 py-5 shadow-lg shadow-primary/10 hover:scale-105 transition-transform"
+                className="w-full sm:w-auto text-sm md:text-base rounded-full px-6 py-5 shadow-lg shadow-primary/10 hover:scale-105 transition-transform"
                 onClick={scrollToCandidatos}
               >
                 <Users className="mr-2 h-4 w-4 md:h-5 md:w-5" />
@@ -66,7 +66,7 @@ export default function HomePage() {
               <Button
                 variant="outline"
                 size="lg"
-                className="text-sm md:text-base rounded-full px-5 py-5 bg-white border border-slate-200 hover:border-slate-300 text-slate-700 hover:bg-slate-50 shadow-sm"
+                className="w-full sm:w-auto text-sm md:text-base rounded-full px-5 py-5 bg-white border border-slate-200 hover:border-slate-300 text-slate-700 hover:bg-slate-50 shadow-sm"
                 asChild
               >
                 <Link href="/quiz">
