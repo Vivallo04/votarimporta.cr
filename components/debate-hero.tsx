@@ -138,7 +138,7 @@ export function DebateHero({ debate }: DebateHeroProps) {
                 </button>
 
                 {showCalendarOptions && (
-                  <div className="absolute right-0 top-full z-10 mt-2 min-w-[200px] rounded-lg border-2 border-slate-200 bg-white p-2 shadow-xl">
+                  <div className="absolute bottom-full right-0 z-10 mb-2 min-w-[200px] rounded-lg border-2 border-slate-200 bg-white p-2 shadow-xl">
                     <button
                       onClick={handleGoogleCalendar}
                       className="w-full rounded px-3 py-2 text-left text-sm font-medium text-slate-700 transition-colors hover:bg-slate-100"
