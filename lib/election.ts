@@ -28,5 +28,5 @@ export function formatDaysRemaining(days: number): string {
   if (days === 0) return "HOY"
   if (days === 1) return "MANANA"
   if (days < 0) return "PASADO"
-  return `${days} dias`
+  return `En ${days} dias`
 }
